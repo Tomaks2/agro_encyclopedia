@@ -1,0 +1,127 @@
+{
+  "slug": "persyk",
+  "emoji": "🍑",
+  "image": "/images/cultures/persyk.jpg",
+  "color": "#f97316",
+  "colorLight": "#fff7ed",
+  "uk": {
+    "name": "Персик",
+    "latinName": "Prunus persica",
+    "tagline": "Сонячний характер — вирощування найтеплолюбнішої кісточкової культури України",
+    "description": "Повний практичний довідник по вирощуванню персика. Біологія, підщепи, сорти, посадка, обрізка, щеплення, хвороби (курчавість, моніліоз), шкідники, захист і збір врожаю."
+  },
+  "en": {
+    "name": "Peach Tree",
+    "latinName": "Prunus persica",
+    "tagline": "Sun-loving character — growing Ukraine's most heat-demanding stone fruit",
+    "description": "Complete practical guide to growing peach trees. Biology, rootstocks, varieties, planting, pruning, grafting, diseases (leaf curl, moniliosis), pests, protection and harvest."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya",
+      "filename": "01-biolohiya.md",
+      "uk": { "title": "Біологія та вимоги до умов", "description": "Чому персик — найвимогливіша культура саду. Коренева система, цикл цвітіння, морозостійкість, «правило 100 годин холоду» та вимоги до ґрунту." },
+      "en": { "title": "Biology and Requirements", "description": "Why peach is demanding. Root system, flowering, frost resistance, soil requirements." }
+    },
+    {
+      "slug": "pidshchepy",
+      "filename": "02-pidshchepy.md",
+      "uk": { "title": "Підщепи для персика", "description": "Мигдаль, алича, маньчжурський персик, пуміселект. Як підщепа впливає на довговічність, стійкість до хлорозу та розмір дерева." },
+      "en": { "title": "Rootstocks for Peach", "description": "Almond, cherry plum, pumiselect. How rootstocks affect longevity, chlorosis resistance, and size." }
+    },
+    {
+      "slug": "sorty",
+      "filename": "03-sorty.md",
+      "uk": { "title": "Класифікація та сорти", "description": "Ранні, середні, пізні, інжирні та нектарини. Перевірені сорти для різних регіонів України." },
+      "en": { "title": "Classification and Varieties", "description": "Early, mid, late, flat peaches, nectarines. Proven varieties for Ukraine." }
+    },
+    {
+      "slug": "posadka",
+      "filename": "04-posadka.md",
+      "uk": { "title": "Посадка та вибір місця", "description": "Мікроклімат, захист від вітру, підготовка ями. Чому персик не можна садити після кісточкових (втома ґрунту)." },
+      "en": { "title": "Planting and Site Selection", "description": "Microclimate, wind protection, pit preparation. Why avoid planting after stone fruits." }
+    },
+    {
+      "slug": "formuvannia",
+      "filename": "05-formuvannia.md",
+      "uk": { "title": "Формування крони", "description": "Чашоподібна крона (класика) та веретено. Покрокове формування з першого по четвертий рік." },
+      "en": { "title": "Crown Formation", "description": "Cup-shaped and spindle. Step-by-step formation from year 1 to 4." }
+    },
+    {
+      "slug": "obrizka",
+      "filename": "06-obrizka.md",
+      "uk": { "title": "Регулярна та омолоджувальна обрізка", "description": "Принцип «заміщення» (на сучок заміщення та плодоношення). Як не допустити оголення гілок та омолодити старе дерево." },
+      "en": { "title": "Regular and Rejuvenating Pruning", "description": "Replacement pruning. How to prevent branch bareness and rejuvenate old trees." }
+    },
+    {
+      "slug": "zeleni-operatsii",
+      "filename": "07-zeleni-operatsii.md",
+      "uk": { "title": "Зелені операції та нормування", "description": "Найважливіша процедура! Літня прищіпка (пінцировка), виламування вовчків та жорстке нормування зав'язі (проріджування плодів)." },
+      "en": { "title": "Green Operations and Thinning", "description": "Summer pinching, water sprout removal, and strict fruit thinning." }
+    },
+    {
+      "slug": "zhyvlennia",
+      "filename": "08-zhyvlennia.md",
+      "uk": { "title": "Живлення та удобрення", "description": "Сезонні потреби в макро- та мікроелементах. Коли давати азот, а коли калій. Роль кальцію та бору для якості плодів." },
+      "en": { "title": "Nutrition and Fertilization", "description": "Seasonal macro and microelement needs. The role of calcium and boron." }
+    },
+    {
+      "slug": "polyv",
+      "filename": "09-polyv.md",
+      "uk": { "title": "Полив та утримання ґрунту", "description": "Критичні фази вологи (цвітіння, ріст кісточки, налив плодів). Чому не можна перезволожувати перед збором. Мульчування." },
+      "en": { "title": "Watering and Soil Care", "description": "Critical moisture phases. Why overwatering before harvest is bad." }
+    },
+    {
+      "slug": "khvoroby",
+      "filename": "10-khvoroby.md",
+      "uk": { "title": "Інфекційні хвороби", "description": "Курчавість листя (головний ворог), моніліоз (гнилизна), клястероспоріоз, борошниста роса. Симптоми та лікування." },
+      "en": { "title": "Infectious Diseases", "description": "Leaf curl, moniliosis, shothole disease, powdery mildew. Symptoms and treatment." }
+    },
+    {
+      "slug": "fiziolohichni-problemy",
+      "filename": "11-fiziolohichni-problemy.md",
+      "uk": { "title": "Фізіологічні проблеми", "description": "Гомоз (камедетеча) — причини та лікування. Залізний хлороз на карбонатних ґрунтах. Зимові та весняні морозобоїни." },
+      "en": { "title": "Physiological Problems", "description": "Gum disease (gummosis), iron chlorosis on alkaline soils, winter sunscald." }
+    },
+    {
+      "slug": "shkidnyky",
+      "filename": "12-shkidnyky.md",
+      "uk": { "title": "Шкідники персика", "description": "Східна плодожерка, персикова попелиця, щитівки, павутинний кліщ. Ефективні методи контролю." },
+      "en": { "title": "Peach Pests", "description": "Oriental fruit moth, peach aphid, scale insects, spider mites." }
+    },
+    {
+      "slug": "kalendar-zakhystu",
+      "filename": "13-kalendar-zakhystu.md",
+      "uk": { "title": "Календар захисту", "description": "Річна схема обробок по фенофазах. Осіннє та весняне «голубе» обприскування міддю. Чергування препаратів." },
+      "en": { "title": "Protection Calendar", "description": "Annual treatment scheme by phenophases. Copper sprays, alternating chemicals." }
+    },
+    {
+      "slug": "scheplennia",
+      "filename": "14-scheplennia.md",
+      "uk": { "title": "Щеплення та розмноження", "description": "Окулірування щитком у приклад — найкращий метод. Терміни (літо vs весна), заготівля живців, причини невдач." },
+      "en": { "title": "Grafting and Propagation", "description": "Shield budding as the best method. Timing, scion preparation, reasons for failure." }
+    },
+    {
+      "slug": "zbir",
+      "filename": "15-zbir.md",
+      "uk": { "title": "Збір та зберігання", "description": "Ознаки технічної та споживчої стиглості. Як збирати, щоб не пошкодити. Умови зберігання (температура, вологість)." },
+      "en": { "title": "Harvest and Storage", "description": "Technical vs consumer ripeness. Harvesting techniques, storage conditions." }
+    },
+    {
+      "slug": "pomylky",
+      "filename": "16-pomylky.md",
+      "uk": { "title": "Типові помилки садівників", "description": "Жалість при обрізці, ігнорування нормування, неправильні підщепи, пропуск обробки від курчавості." },
+      "en": { "title": "Common Mistakes", "description": "Pity during pruning, ignoring thinning, wrong rootstocks, missing leaf curl treatment." }
+    },
+    {
+      "slug": "rehiony",
+      "filename": "17-rehiony.md",
+      "uk": { "title": "Особливості по регіонах", "description": "Південь та Закарпаття (ідеально), Центр (ризиковано), Полісся (екстремально). Поради для північних зон (вирощування кущем)." },
+      "en": { "title": "Regional Specifics", "description": "South (ideal), Center (risky), North (extreme). Growing in bush form for cold zones." }
+    }
+  ],
+  "stats": {
+    "sections": 17,
+    "readTimeMinutes": 320
+  }
+}

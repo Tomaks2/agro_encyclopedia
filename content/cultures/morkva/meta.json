@@ -1,0 +1,67 @@
+{
+  "slug": "morkva",
+  "emoji": "🥕",
+  "image": "/images/cultures/morkva.jpg",
+  "color": "#ea580c",
+  "colorLight": "#ffedd5",
+  "uk": {
+    "name": "Морква столова",
+    "latinName": "Daucus carota subsp. sativus",
+    "tagline": "Від сортотипів Нантська і Шантане до посіву на гребенях та бета-каротину",
+    "description": "Повний енциклопедичний довідник з вирощування моркви. Дворічна біологія, сортотипи (Нантська, Шантане, Берлікум, Флаке), гібриди (Абако F1, Канада F1, Нарбонне F1, Самсон), висів на високих гребенях, проріджування, біохімія бета-каротину ($C_{40}H_{56}$), захист від морквяної мухи та альтернаріозу, зберігання."
+  },
+  "en": {
+    "name": "Carrot",
+    "latinName": "Daucus carota subsp. sativus",
+    "tagline": "Nantes and Chantenay varietal types, ridge sowing and beta-carotene synthesis",
+    "description": "Complete guide to carrot production. Biennial biology, varietal groups (Nantes, Chantenay, Flakkee, Berlicum), hybrids (Abaco F1, Canada F1, Narbonne F1), raised bed/ridge sowing, beta-carotene synthesis, carrot rust fly (*Psila rosae*) and Alternaria control, long storage."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-karotyn",
+      "filename": "01-biolohiya-ta-karotyn.md",
+      "uk": { "title": "Дворічна біологія та біохімія Бета-каротину", "description": "Диплоїдна геномна структура (2n=18), дворічний цикл розвитку, накопичення бета-каротину (12-25 мг/100г), цукри, фенофази BBCH." },
+      "en": { "title": "Biennial Biology and Beta-Carotene", "description": "Diploid genome (2n=18), biennial cycle, beta-carotene synthesis (12-25 mg/100g), sugars, BBCH phenology." }
+    },
+    {
+      "slug": "sortotypy-nantska-shantane",
+      "filename": "02-sortotypy-nantska-shantane.md",
+      "uk": { "title": "Сортотипи: Нантська, Шантане, Берлікум, Флаке", "description": "Циліндричні Нантська (Абако F1, Нарбонне F1, Самсон), конусоподібні Шантане (Канада F1, Курода), великоплідні Флаке (Флакке)." },
+      "en": { "title": "Cultivar Types: Nantes, Chantenay, Flakkee", "description": "Cylindrical Nantes types (Abaco, Narbonne, Samson), conical Chantenay (Canada F1), Flakkee processing types." }
+    },
+    {
+      "slug": "visiv-na-hrebeniakh-ta-proridzhuvannia",
+      "filename": "03-visiv-na-hrebeniakh-ta-proridzhuvannia.md",
+      "uk": { "title": "Висів на гребенях, дражоване насіння та норми", "description": "Посів на гребенях та грядах (висота 18-22 см), точний висів дражованим насінням (1,0-1,5 млн насінин/га), проріджування." },
+      "en": { "title": "Ridge Sowing and Seed Precision", "description": "Sowing on raised ridges (18-22cm height), pelleted seed precision (1.0-1.5 million seeds/ha), thinning." }
+    },
+    {
+      "slug": "zhyvlennia-kalii-ta-poliv",
+      "filename": "04-zhyvlennia-kalii-ta-poliv.md",
+      "uk": { "title": "Живлення та профілактика розтріскування плодів", "description": "Винос N-P-K-Ca-Mg, роль Калію (K₂O) для наливу, усунення стрибків вологості проти розтріскування коренеплодів." },
+      "en": { "title": "Nutrition and Splitting Prevention", "description": "Nutrient requirements, Potassium role in root filling, moisture control to prevent root splitting." }
+    },
+    {
+      "slug": "khvoroby-morkvy",
+      "filename": "05-khvoroby-morkvy.md",
+      "uk": { "title": "Хвороби: Альтернаріоз, Ризоктоніоз та Біла гниль", "description": "Альтернаріозний опік бадилля (*Alternaria dauci*), склеротиніоз (біла гниль *Sclerotinia*), борошниста роса, фунгіциди (*Сігнум*, *Квадріс*)." },
+      "en": { "title": "Carrot Diseases and Foliar Protection", "description": "Alternaria leaf blight (*Alternaria dauci*), Sclerotinia white rot, Powdery Mildew, fungicide programs." }
+    },
+    {
+      "slug": "shkidnyky-morkviana-mukha",
+      "filename": "06-shkidnyky-morkviana-mukha.md",
+      "uk": { "title": "Шкідники: Морквяна муха, Попелиця, Дротяник", "description": "Морквяна муха (*Psila rosae* — хробакуваті ходи у коренеплоді), листоблішка, інсектицидні схеми захисту (*Ексірель*, *Актара*)." },
+      "en": { "title": "Carrot Rust Fly and Pests", "description": "Carrot rust fly (*Psila rosae* larvae tunnels), aphids, wireworms, chemical protocols." }
+    },
+    {
+      "slug": "zbir-topped-storage",
+      "filename": "07-zbir-topped-storage.md",
+      "uk": { "title": "Збір, обрізання бадилля (Topped) та зберігання", "description": "Механізований збір теребильними комбайнами, повне видалення точки росту, зберігання у холодильниках (+0...+1°C, вологість 95-98%)." },
+      "en": { "title": "Harvesting, Topping and Cold Storage (+0...+1°C)", "description": "Top-lifting harvester harvesting, crown topping, cold storage (+0-1°C, 95-98% humidity)." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

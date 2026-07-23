@@ -1,0 +1,61 @@
+{
+  "slug": "redys",
+  "emoji": "🔴",
+  "image": "/images/cultures/redys.jpg",
+  "color": "#dc2626",
+  "colorLight": "#fee2e2",
+  "uk": {
+    "name": "Редис",
+    "latinName": "Raphanus sativus var. radicula",
+    "tagline": "Від ультраранніх 18-денних гібридів до захисту від цвітушності та хрестоцвітої блішки",
+    "description": "Повний енциклопедичний довідник з вирощування редису у теплицях та відкритому ґрунті. Однорічна біологія, сортотипи (Селеста F1, Сора, Жара, Французький сніданок), захист від квітушності (стрілкування), регулювання світлового дня, профілактика дуплистості, боротьба з хрестоцвітою блішкою та збір."
+  },
+  "en": {
+    "name": "Radish",
+    "latinName": "Raphanus sativus var. radicula",
+    "tagline": "18-day fast hybrids, bolting prevention and Flea beetle control",
+    "description": "Complete guide to radish cultivation. Single-season biology, cultivars (Celeste F1, Sora, French Breakfast), bolting (premature flowering) prevention via day-length control, hollow-heart prevention, Flea beetle protection and harvesting."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-tsvitushnist",
+      "filename": "01-biolohiya-ta-tsvitushnist.md",
+      "uk": { "title": "Ботанічна біологія та Явище Квітушності (Стрілкування)", "description": "Диплоїдна геномна структура (2n=18), ультракороткий вегетаційний період (18-25 днів), реакція на довгий день (квітушність при > 14 год), фенофази BBCH." },
+      "en": { "title": "Biology and Bolting Resistance", "description": "Diploid genome (2n=18), ultra-short vegetation (18-25 days), bolting trigger under long days (> 14h), BBCH phenology." }
+    },
+    {
+      "slug": "hibrydy-f1-celeste-sora",
+      "filename": "02-hibrydy-f1-celeste-sora.md",
+      "uk": { "title": "Класифікація сортів: Всесезонні F1 vs Класичні", "description": "Провідні всесезонні гібриди (Селеста F1, Сора, Рондар F1, Черріет F1), сортотип Французький сніданок (видовжений білий кінчик)." },
+      "en": { "title": "All-Season Hybrids: Celeste F1, Sora, Cherriette", "description": "All-season F1 hybrids (Celeste F1, Sora, Cherriette F1), French Breakfast cylindrical types." }
+    },
+    {
+      "slug": "visiv-kasetnyi-ta-tochnyi",
+      "filename": "03-visiv-kasetnyi-ta-tochnyi.md",
+      "uk": { "title": "Точний висів, схема касет та температура", "description": "Посів у касети та ґрунт, оптимальна температура проростання (+15...+18°C), схема густоти (200–300 рос/м² у теплицях, 2,0-2,5 млн/га)." },
+      "en": { "title": "Precision Sowing and Temperature Management", "description": "Cassette and soil sowing, optimal germination temp (+15-18°C), density (200-300 plants/m² in greenhouses)." }
+    },
+    {
+      "slug": "zhyvlennia-ta-duplystist",
+      "filename": "04-zhyvlennia-ta-duplystist.md",
+      "uk": { "title": "Живлення та профілактика порожнистості (Дуплистості)", "description": "Винос N-P-K-Ca, усунення дефіциту Бору та Кальцію проти утворення дупел всередині коренеплоду, контроль вологості." },
+      "en": { "title": "Nutrition and Hollow-Heart Prevention", "description": "N-P-K-Ca uptake, Boron and Calcium roles in preventing hollow roots, water uniformity." }
+    },
+    {
+      "slug": "shkidnyky-khrestotsvita-blishka",
+      "filename": "05-shkidnyky-khrestotsvita-blishka.md",
+      "uk": { "title": "Шкідники: Хрестоцвіта блішка та Капустяна муха", "description": "Хрестоцвіті блішки (*Phyllotreta* — виїдання дірок на сім'ядолях), укриття спанбондом (агроволокно 17 г/м²), інсектициди з коротким PHI." },
+      "en": { "title": "Flea Beetles and Pest Protection", "description": "Crucifer Flea Beetles (*Phyllotreta* leaf pitting), protective non-woven fleece covers, short-PHI insecticides." }
+    },
+    {
+      "slug": "zbir-puchkovyi-storage",
+      "filename": "06-zbir-puchkovyi-storage.md",
+      "uk": { "title": "Пучковий збір, мийка та зберігання", "description": "Збір при діаметрі 2,5–3,5 см, пучкова продукція vs збір на вал (обрізане бадилля), мийка у гідроохолоджувачах (+2°C), зберігання." },
+      "en": { "title": "Bunching Harvest, Washing and Cold Storage", "description": "Harvesting 2.5-3.5cm roots, bunched vs topped packaging, hydrocooling (+2°C), cold storage." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "baklazhan",
+  "emoji": "🍆",
+  "image": "/images/cultures/baklazhan.jpg",
+  "color": "#581c87",
+  "colorLight": "#f3e8ff",
+  "uk": {
+    "name": "Баклажан",
+    "latinName": "Solanum melongena L.",
+    "tagline": "Від теплолюбної розсади до боротьби з Вертицильозом та Колорадським жуком",
+    "description": "Повний довідник з вирощування баклажана. Анатомія, висока вимога до тепла (> +25°C), сорти та гібриди (Класик F1, Епік F1, Бібо F1, Геліос), крапельна фертигація, захист від вертицильозного в'янення, Колорадського жука №1 та павутинного кліща."
+  },
+  "en": {
+    "name": "Eggplant (Aubergine)",
+    "latinName": "Solanum melongena L.",
+    "tagline": "Heat requirements, Verticillium resistance and Colorado beetle protection",
+    "description": "Complete guide to eggplant cultivation. Morphology, heat demands (> +25°C), F1 hybrids (Epic, Classic, Bibo), fertigation, Verticillium wilt control and Colorado potato beetle management."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-teplo",
+      "filename": "01-biolohiya-ta-teplo.md",
+      "uk": { "title": "Ботанічна біологія та вимога до тепла", "description": "Диплоїдна структура (2n=24), найвища теплолюбність серед пасльонових (t > +25...+28°C), опадання зав'язі при t < +15°C, фенофази BBCH." },
+      "en": { "title": "Biology and Heat Requirements", "description": "Diploid genome (2n=24), extreme heat demand (> +25-28°C), flower drop at < +15°C, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-та-hibrydy-f1",
+      "filename": "02-sorty-та-hibrydy-f1.md",
+      "uk": { "title": "Класифікація сортів та гібридів F1", "description": "Темно-фіолетові циліндричні (Епік F1, Класик F1, Алмаз), округлі (Геліос), білі (Бібо F1) — відсутність соланінової гіркоти." },
+      "en": { "title": "Cultivars and F1 Hybrids", "description": "Dark-purple cylindrical (Epic, Classic), round (Helios) and white (Bibo F1) cultivars." }
+    },
+    {
+      "slug": "rozsada-ta-formuvannia",
+      "filename": "03-rozsada-ta-formuvannia.md",
+      "uk": { "title": "Розсадна технологія та формування куща", "description": "Касетне вирощування (t ґрунту +26...28°C), формування в 2–3 стебла, видалення коронної квітки, нормування зав'язі." },
+      "en": { "title": "Seedlings and Pruning", "description": "Plug tray production, 2-3 stem training, crown flower removal, fruit load management." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia",
+      "filename": "04-zhyvlennia-fertyhatsiia.md",
+      "uk": { "title": "Живлення та вимоги до вологи", "description": "Винос N-P-K-Ca-Mg, чутливість до пересушування ґрунту, крапельна фертигація (EC 1,8–2,4 mS/cm), магнієві підживлення." },
+      "en": { "title": "Nutrition and Irrigation", "description": "N-P-K-Ca-Mg requirements, water stress sensitivity, fertigation targets." }
+    },
+    {
+      "slug": "khvoroby-baklazhana",
+      "filename": "05-khvoroby-baklazhana.md",
+      "uk": { "title": "Хвороби: Вертицильоз та Суха гниль", "description": "Вертицильозне в'янення (*Verticillium dahliae*), суха гниль плодів (фомопсис), сіра гниль, фунгіциди та PHI." },
+      "en": { "title": "Diseases and Protection", "description": "Verticillium wilt, Phomopsis fruit rot, Grey mold, fungicide programs." }
+    },
+    {
+      "slug": "shkidnyky-koloradskyi-zhuk",
+      "filename": "06-shkidnyky-koloradskyi-zhuk.md",
+      "uk": { "title": "Шкідники №1: Колорадський жук та Павутинний кліщ", "description": "Чому Колорадський жук віддає перевагу баклажану перед картоплею? Інсектицидний захист (Кораген, Актара) та акарициди від кліща." },
+      "en": { "title": "Colorado Beetle and Mite Control", "description": "Why Colorado beetle prefers eggplant over potato, Coragen/Aktara protocols, spider mite control." }
+    },
+    {
+      "slug": "zbir-glyanets-storage",
+      "filename": "07-zbir-glyanets-storage.md",
+      "uk": { "title": "Збір у фазу дзеркального глянцю та зберігання", "description": "Ознака стиглості (інтенсивний дзеркальний глянець), небезпека перезрівання (утворення твердих насінин), зберігання при +8...+10°C." },
+      "en": { "title": "Harvesting Glossy Stage and Storage", "description": "Glossy skin maturity indicator, seed hardening prevention, cold storage (+8-10°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

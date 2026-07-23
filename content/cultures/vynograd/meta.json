@@ -1,0 +1,194 @@
+{
+  "slug": "vynograd",
+  "emoji": "🍇",
+  "image": "/images/cultures/vynograd/hero.jpg",
+  "color": "#6b21a8",
+  "colorLight": "#f3e8ff",
+  "category": "special",
+  "uk": {
+    "name": "Виноград",
+    "latinName": "Vitis vinifera L.",
+    "tagline": "Ампелографія, підщепи проти філоксери, 4 регіони України, форми крони та мистецтво виноробства",
+    "description": "Повний довідник з виноградарства та виноробства в Україні. Сортименти, захист від мілдью та оїдіуму, формування лози, зрошення та технології виготовлення вин."
+  },
+  "en": {
+    "name": "Grape",
+    "latinName": "Vitis vinifera L.",
+    "tagline": "Ampelography, phylloxera rootstocks, 4 regions of Ukraine, training systems, and winemaking",
+    "description": "Comprehensive guide to viticulture and winemaking in Ukraine. Cultivars, mildew & powdery mildew protection, vine training, irrigation, and winemaking techniques."
+  },
+  "sections": [
+    {
+      "slug": "ampelohrafiya-systematyka",
+      "filename": "01-ampelohrafiya-systematyka.md",
+      "uk": {
+        "title": "Ампелографія та систематика",
+        "description": "Біологія Vitis vinifera, фази BBCH, моторика лози та накопичення температур"
+      },
+      "en": {
+        "title": "Ampelography & Systematics",
+        "description": "Vitis vinifera biology, BBCH stages, vine motorics, and thermal accumulation"
+      }
+    },
+    {
+      "slug": "pidshchepy-ta-shcheplennia",
+      "filename": "02-pidshchepy-ta-shcheplennia.md",
+      "uk": {
+        "title": "Підщепи проти філоксери та щеплення",
+        "description": "Філоксера (Daktulosphaira vitifoliae), SO4, 5BB, 101-14 та технології щеплення"
+      },
+      "en": {
+        "title": "Rootstocks & Grafting",
+        "description": "Phylloxera management, SO4, 5BB, 101-14 rootstocks, and grafting methods"
+      }
+    },
+    {
+      "slug": "sorty-rehiony-ukrainy",
+      "filename": "03-sorty-rehiony-ukrainy.md",
+      "uk": {
+        "title": "Сортимент по 4 кліматичних зонах України",
+        "description": "Столові та технічні сорти для Півдня, Центру, Полісся та Закарпаття"
+      },
+      "en": {
+        "title": "Cultivars across 4 Climate Zones",
+        "description": "Table and wine grape varieties for South, Center, Polissya, and Transcarpathia"
+      }
+    },
+    {
+      "slug": "systemy-formuvannia",
+      "filename": "04-systemy-formuvannia.md",
+      "uk": {
+        "title": "5 систем формування крони лози",
+        "description": "VSP, Гюйо, Кордон Руайя, Гоблет та Бельгійська арка"
+      },
+      "en": {
+        "title": "5 Vine Training Systems",
+        "description": "VSP, Guyot, Cordon Royale, Gobelet, and Verandah"
+      }
+    },
+    {
+      "slug": "obrizka-ta-navantazhennia",
+      "filename": "05-obrizka-ta-navantazhennia.md",
+      "uk": {
+        "title": "Техніка обрізки та зелені операції",
+        "description": "Сучок заміщення, пасинкування, чеканка та нормування грон"
+      },
+      "en": {
+        "title": "Pruning & Canopy Management",
+        "description": "Renewal spurs, deshooting, topping, and cluster thinning"
+      }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiya",
+      "filename": "06-zhyvlennia-fertyhatsiya.md",
+      "uk": {
+        "title": "Живлення, фертигація та хлороз",
+        "description": "Залізо-хлороз, магній, борне живлення та рецептура фертигації"
+      },
+      "en": {
+        "title": "Nutrition, Fertigation & Chlorosis",
+        "description": "Iron chlorosis, magnesium, boron foliar feeds, and fertigation"
+      }
+    },
+    {
+      "slug": "khvoroby-zakhyst",
+      "filename": "07-khvoroby-zakhyst.md",
+      "uk": {
+        "title": "Хвороби: Мілдью, Оїдіум, Ботритис",
+        "description": "7 головних патогенів, правило 3x10 та фунгіцидна програма"
+      },
+      "en": {
+        "title": "Diseases: Mildew, Powdery Mildew, Botrytis",
+        "description": "7 major pathogens, 3x10 rule, and fungicide spray schedule"
+      }
+    },
+    {
+      "slug": "shkidnyky",
+      "filename": "08-shkidnyky.md",
+      "uk": {
+        "title": "Шкідники лози та захист грон",
+        "description": "Гронова листокрутка, повстяний кліщ, цикадки та сітки від ос"
+      },
+      "en": {
+        "title": "Pests & Cluster Protection",
+        "description": "European grapevine moth, blister mite, leafhoppers, and wasp netting"
+      }
+    },
+    {
+      "slug": "zymostiykist-ukryttia",
+      "filename": "09-zymostiykist-ukryttia.md",
+      "uk": {
+        "title": "Зимостійкість та технології укриття",
+        "description": "Підготовка до -25°C, траншеї, агроволокно та комбіновані методи"
+      },
+      "en": {
+        "title": "Winter Hardiness & Protection",
+        "description": "Cold acclimation to -25°C, soil hilling, fleece, and combined covers"
+      }
+    },
+    {
+      "slug": "zroshennia-mikroklim",
+      "filename": "10-zroshennia-mikroklim.md",
+      "uk": {
+        "title": "Зрошення та терасовий мікроклімат",
+        "description": "Норми краплинного зрошення по фенофазах та терасування"
+      },
+      "en": {
+        "title": "Irrigation & Terraced Microclimate",
+        "description": "Drip irrigation rates by BBCH stage and terrace microclimates"
+      }
+    },
+    {
+      "slug": "zbir-styhlist",
+      "filename": "11-zbir-styhlist.md",
+      "uk": {
+        "title": "Визначення стиглості та збір врожаю",
+        "description": "Brix, кислотність TA, pH, індекс Ravaz та селективний збір"
+      },
+      "en": {
+        "title": "Maturity Parameters & Harvesting",
+        "description": "Brix, titratable acidity, pH, Ravaz index, and selective harvest"
+      }
+    },
+    {
+      "slug": "vynorobstvo-bazovyi",
+      "filename": "12-vynorobstvo-bazovyi.md",
+      "uk": {
+        "title": "Виноробство: Базовий рівень",
+        "description": "Мезга, сусло, первинне бродіння, мацерація та сульфітація SO2"
+      },
+      "en": {
+        "title": "Winemaking: Fundamentals",
+        "description": "Must preparation, primary fermentation, maceration, and SO2 use"
+      }
+    },
+    {
+      "slug": "vynorobstvo-glybynnyi",
+      "filename": "13-vynorobstvo-glybynnyi.md",
+      "uk": {
+        "title": "Виноробство: Поглиблена технологія",
+        "description": "Яблучно-молочне бродіння (MLF), дубові бочки, фінінг та стабілізація"
+      },
+      "en": {
+        "title": "Advanced Winemaking & Aging",
+        "description": "Malolactic fermentation (MLF), oak aging, fining, and stabilization"
+      }
+    },
+    {
+      "slug": "rozmnozhennia-rozsadnyk",
+      "filename": "14-rozmnozhennia-rozsadnyk.md",
+      "uk": {
+        "title": "Розмноження лози та шкілка",
+        "description": "Кільчикування живців, зелене живцювання та садивний стандарт"
+      },
+      "en": {
+        "title": "Vine Propagation & Nursery",
+        "description": "Callusing, green cuttings, and nursery grading standards"
+      }
+    }
+  ],
+  "stats": {
+    "sections": 14,
+    "readTimeMinutes": 210
+  }
+}

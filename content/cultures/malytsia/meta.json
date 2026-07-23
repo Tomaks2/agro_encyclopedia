@@ -1,0 +1,67 @@
+{
+  "slug": "malytsia",
+  "emoji": "🍇",
+  "image": "/images/cultures/malytsia.jpg",
+  "color": "#e11d48",
+  "colorLight": "#ffe4e6",
+  "uk": {
+    "name": "Малина садова",
+    "latinName": "Rubus idaeus L.",
+    "tagline": "Від літніх сортів на шпалері до ремонтантної малини однорічного циклу",
+    "description": "Енциклопедичний довідник з комерційного та аматорського вирощування малини. Анатомія двохрічного стебла, фізіологія ремонтантністі, формоутворення на T/V-шпалерах, крапельна фертигація, захист від дідімели, антракнозу, галиць та малинового жука."
+  },
+  "en": {
+    "name": "Raspberry",
+    "latinName": "Rubus idaeus L.",
+    "tagline": "From Floricane trellised to Primocane annual cycle varieties",
+    "description": "Complete guide to raspberry growing. Biennial cane anatomy, primocane physiology, T/V trellis systems, fertigation, protection against Didymella, anthracnose, midge gall and raspberry beetle."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-та-morfolohiya",
+      "filename": "01-biolohiya-та-morfolohiya.md",
+      "uk": { "title": "Ботанічна біологія та анатомія пагона", "description": "Двохрічний цикл стебла (Primocane / Floricane), кореневище з боковими паростками, типи бруньок, фенофази BBCH." },
+      "en": { "title": "Biology and Cane Anatomy", "description": "Biennial cane cycle (Primocane/Floricane), root system, bud types, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-floricane-primocane",
+      "filename": "02-sorty-floricane-primocane.md",
+      "uk": { "title": "Класифікація сортів: Літні (Floricane) vs Ремонтантні (Primocane)", "description": "Літні сорти (Глен Ампл, Лячка, Октавія, Радзєва) vs Ремонтантні (Полка, Полана, Джоан Джи, Мараstyle, Енросадіра)." },
+      "en": { "title": "Varieties: Floricane vs Primocane", "description": "Summer-fruiting cultivars vs Autumn Primocane cultivars." }
+    },
+    {
+      "slug": "shpalery-та-obrizka",
+      "filename": "03-shpalery-та-obrizka.md",
+      "uk": { "title": "Шпалерні системи та агротехніка обрізки", "description": "Т-подібна та V-подібна шпалери, поворотна шпалера. Специфіка обрізки літньої малини (вирізка відплодоносивших) vs повне скашування ремонтантної." },
+      "en": { "title": "Trellising Systems and Pruning", "description": "T-bar, V-trellis, rotating trellises. Floricane pruning vs Primocane total mow-down." }
+    },
+    {
+      "slug": "zhyvlennia-фертигація",
+      "filename": "04-zhyvlennia-фертигація.md",
+      "uk": { "title": "Живлення та норми фертигації малини", "description": "Потреба у N-P-K по фазах росту пагонів та наливу ягоди. Висока чутливість до хлору (Cl), баланс калію та кальцію." },
+      "en": { "title": "Nutrition and Fertigation", "description": "Stage-specific N-P-K requirements, chloride sensitivity, K:Ca balance." }
+    },
+    {
+      "slug": "khvoroby-малини",
+      "filename": "05-khvoroby-малини.md",
+      "uk": { "title": "Хвороби малини та фунгіцидний захист", "description": "Пурпурова плямистість / Дідімела (Didymella applanata), антракноз, сіра гниль плодів, іржа малини, кореневий рак." },
+      "en": { "title": "Diseases and Protection", "description": "Didymella cane blight, anthracnose, Botrytis fruit rot, raspberry rust, crown gall." }
+    },
+    {
+      "slug": "shkidnyky-малини",
+      "filename": "06-shkidnyky-малини.md",
+      "uk": { "title": "Шкідники малини та боротьба з ними", "description": "Малинова стеблова галиця (Resseliella theobaldi), малиновий жук (Byturus tomentosus), стеблова муха, павутинний кліщ." },
+      "en": { "title": "Pests and Control", "description": "Raspberry cane midge, raspberry beetle, cane maggot, spider mite." }
+    },
+    {
+      "slug": "zbir-охлодження-зберігання",
+      "filename": "07-zbir-охлодження-зберігання.md",
+      "uk": { "title": "Збір, охолодження та постзбиральна логістика", "description": "Знімальна стиглість (без стрижня), швидке охолодження (+2°C), пакування у пинетки 125-250г, MAP-пакети." },
+      "en": { "title": "Harvest, Cooling and Storage", "description": "Harvest standards (receptacle removal), rapid cooling (+2°C), clamshell packaging, MAP." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

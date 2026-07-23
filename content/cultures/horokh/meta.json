@@ -1,0 +1,67 @@
+{
+  "slug": "horokh",
+  "emoji": "🫛",
+  "image": "/images/cultures/horokh.jpg",
+  "color": "#16a34a",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Горох овочевий",
+    "latinName": "Pisum sativum L.",
+    "tagline": "Від симбіотичної азотфіксації до мозкових сортів та швидкого заморожування IQF",
+    "description": "Повний енциклопедичний довідник з вирощування овочевого гороху. Біологія симбіозу з бульбочковими бактеріями (*Rhizobium leguminosarum*), класифікація сортів (мозкові цукрові та лущильні — Скінадо, Амбасадор, Сомервуд), висів, крапельне зрошення, захист від аскохітозу, горохової зернівки (брухуса) та занурення у шокову заморозку IQF."
+  },
+  "en": {
+    "name": "Garden Pea",
+    "latinName": "Pisum sativum L.",
+    "tagline": "Rhizobium nitrogen fixation, wrinkled marrowfat peas and IQF freezing",
+    "description": "Complete guide to garden pea production. Symbiotic nitrogen fixation (*Rhizobium leguminosarum*), cultivar types (wrinkled marrowfat vs shelling - Skinado, Ambassador, Somervood), early sowing, Ascochyta blight, pea weevil (*Bruchus pisorum*) control and IQF freezing."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-azotfiksattsiya",
+      "filename": "01-biolohiya-ta-azotfiksattsiya.md",
+      "uk": { "title": "Ботанічна біологія та Симбіотична азотфіксація", "description": "Диплоїдна геномна структура (2n=14), симбіоз із бульбочковими бактеріями (*Rhizobium leguminosarum*), самозапилення, фенофази BBCH." },
+      "en": { "title": "Biology and Rhizobium Nitrogen Fixation", "description": "Diploid genome (2n=14), symbiosis with root nodule bacteria (*Rhizobium*), self-pollination, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-mozkovi-ta-lushchylni",
+      "filename": "02-sorty-mozkovi-ta-lushchylni.md",
+      "uk": { "title": "Класифікація сортів: Мозкові цукрові vs Лущильні", "description": "Мозкові сорти з зморшкуватим насінням (Скінадо, Амбасадор, Сомервуд — високий вміст цукрів), цукрові лопаткові сорти (Світі)." },
+      "en": { "title": "Wrinkled Marrowfat vs Shelling Cultivars", "description": "Wrinkled marrowfat peas (Skinado, Ambassador, Somervood - high sugar content), sugar snap pea types." }
+    },
+    {
+      "slug": "visiv-ranney-ta-ynokuliatsiya",
+      "filename": "03-visiv-ranney-ta-ynokuliatsiya.md",
+      "uk": { "title": "Ультраранній висів, інокуляція та густота", "description": "Висів у найранніші терміни (t ґрунту +3...+5°C), інокуляція насіння ризоторфіном, густота висіву (1,1-1,3 млн насінин/га)." },
+      "en": { "title": "Early Sowing, Inoculation and Seeding Density", "description": "Ultra-early sowing at soil t +3-5°C, Rhizobium seed inoculation, seeding density (1.1-1.3 million seeds/ha)." }
+    },
+    {
+      "slug": "zhyvlennia-ta-zroshennia",
+      "filename": "04-zhyvlennia-ta-zroshennia.md",
+      "uk": { "title": "Живлення та режим зволоження під час цвітіння", "description": "Винос Фосфору та Калію, мінімальна потреба у мінеральному Азоті, критична потреба у воді під час бутонізації та цвітіння." },
+      "en": { "title": "Nutrition and Water Stress Management", "description": "Phosphorus and Potassium demands, minimal mineral Nitrogen needs, critical water window during flowering." }
+    },
+    {
+      "slug": "khvoroby-askokhitoz-ta-irzha",
+      "filename": "05-khvoroby-askokhitoz-ta-irzha.md",
+      "uk": { "title": "Хвороби: Аскохітоз, Борошниста роса та Іржа", "description": "Аскохітоз (*Ascochyta pisi*), пероноспороз, борошниста роса (*Erysiphe pisi*), фунгіцидний захист (*Сігнум*, *Квадріс*)." },
+      "en": { "title": "Ascochyta Blight and Diseases", "description": "Ascochyta blight (*Ascochyta pisi*), Downy Mildew, Powdery Mildew (*Erysiphe*), fungicide protection." }
+    },
+    {
+      "slug": "shkidnyky-horokhova-zernivka-brukhus",
+      "filename": "06-shkidnyky-horokhova-zernivka-brukhus.md",
+      "uk": { "title": "Шкідники: Горохова зернівка (Брухус) та Попелиця", "description": "Горохова зернівка (*Bruchus pisorum* — прогризання отворів у зерні), горохова попелиця, інсектицидні обробки під час цвітіння." },
+      "en": { "title": "Pea Weevil Bruchus and Pest Control", "description": "Pea weevil (*Bruchus pisorum* grain damage), pea aphid, insecticide spraying during bloom." }
+    },
+    {
+      "slug": "zbir-tenderometr-iqf-freezing",
+      "filename": "07-zbir-tenderometr-iqf-freezing.md",
+      "uk": { "title": "Збір за Тендерометром та Заморожування IQF", "description": "Визначення стиглості приладом Тендерометром (TR 100-120), комбайновий збір (Ploeger), шокова заморозка IQF протягом 2 годин від збору." },
+      "en": { "title": "Tenderometer Harvesting and IQF Freezing", "description": "Maturity determination via Tenderometer (TR 100-120), combine harvesting, IQF flash freezing within 2 hours of harvest." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

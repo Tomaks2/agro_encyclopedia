@@ -1,0 +1,61 @@
+{
+  "slug": "asparahus",
+  "emoji": "🎋",
+  "image": "/images/cultures/asparahus.jpg",
+  "color": "#15803d",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Спаржа (Аспарагус)",
+    "latinName": "Asparagus officinalis L.",
+    "tagline": "Від закладання підземних кореневищ (B12) до збору білої та зеленої спаржі шилом",
+    "description": "Повний енциклопедичний довідник з вирощування делікатесної спаржі (аспарагуса). Багаторічна дводомна біологія (20 років на одному місці), чоловічі гібриди F1 (Cumulus F1, Gijnlim F1, Bacchus F1 — червоно-фіолетовий), агротехніка білої спаржі на піднятих підгортальних гребенях під чорно-білою плівкою vs зелена спаржа, збір спеціальним шилом, Hydrocooling та зберігання (+1...+2°C)."
+  },
+  "en": {
+    "name": "Asparagus",
+    "latinName": "Asparagus officinalis L.",
+    "tagline": "Perennial crown establishment, white vs green asparagus production and knife harvesting",
+    "description": "Complete guide to asparagus cultivation. Perennial dioecious biology (20-year plantation lifespan), all-male F1 hybrids (Cumulus F1, Gijnlim F1, Bacchus F1), white blanched asparagus in high hilled ridges under black/white film vs green asparagus, special knife harvesting, hydrocooling (+1-2°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-dvodomnist",
+      "filename": "01-biolohiya-ta-dvodomnist.md",
+      "uk": { "title": "Багаторічна біологія та Чоловіча Дводомність", "description": "Диплоїдна геномна структура (2n=20), багаторічне підземне кореневище (корона), чоловічі рослини (XY — на 30-40% вища врожайність ніж у жіночих), фенофази BBCH." },
+      "en": { "title": "Perennial Biology and All-Male Dioecy", "description": "Diploid genome (2n=20), underground perennial crown, male plants (XY genetics giving 30-40% higher yields than female), BBCH phenology." }
+    },
+    {
+      "slug": "hibrydy-f1-cumulus-gijnlim",
+      "filename": "02-hibrydy-f1-cumulus-gijnlim.md",
+      "uk": { "title": "Класифікація сортів: Біла, Зелена та Фіолетова спаржа", "description": "Провідні чоловічі гібриди F1 для білої спаржі (Cumulus F1, Gijnlim F1), для зеленої (Erasmus F1, Sunlim F1) та фіолетової (Bacchus F1)." },
+      "en": { "title": "All-Male F1 Hybrids: White, Green and Purple", "description": "All-male F1 hybrids for white blanched (Cumulus F1, Gijnlim F1), green spears (Erasmus F1) and purple types (Bacchus F1)." }
+    },
+    {
+      "slug": "zakladannya-plantatsii-ta-grebeni",
+      "filename": "03-zakladannya-plantatsii-ta-grebeni.md",
+      "uk": { "title": "Закладання плантації B12 та Підгортальні гребені", "description": "Висаджування річних кореневищ (B12 crown), траншеї глибиною 25 см, підгортальні гребені висотою 30-40 см під чорно-білою двосторонньою плівкою." },
+      "en": { "title": "Plantation Establishment and Hilled Ridges", "description": "Year 1 B12 crowns planting in 25cm trenches, high hilled ridges (30-40cm height) with black/white plastic mulch." }
+    },
+    {
+      "slug": "zhyvlennia-ta-vidnovlennya-korony",
+      "filename": "04-zhyvlennia-ta-vidnovlennya-korony.md",
+      "uk": { "title": "Живлення та Літньо-осіннє відновлення кореневища", "description": "Винос N-P-K-Ca-Mg, роль відновлювального періоду після збору (червень-жовтень) для накопичення вуглеводів у кореневищі." },
+      "en": { "title": "Nutrition and Post-Harvest Crown Regeneration", "description": "Nutrient uptake, critical summer fern growth phase (June-October) for carbohydrate storage in underground crowns." }
+    },
+    {
+      "slug": "khvoroby-ta-shkidnyky-asparahusa",
+      "filename": "05-khvoroby-ta-shkidnyky-asparahusa.md",
+      "uk": { "title": "Хвороби та шкідники: Іржа, Іржавець та Спаржевий жук", "description": "Іржа спаржі (*Puccinia asparagi*), фузаріозне в'янення кореневища, спаржева муха, спаржевий тріщало-жук (*Crioceris asparagi*)." },
+      "en": { "title": "Asparagus Diseases and Beetle Protection", "description": "Asparagus rust (*Puccinia asparagi*), Fusarium crown rot, asparagus beetle (*Crioceris asparagi*), chemical protection." }
+    },
+    {
+      "slug": "zbir-shyrom-hydrocooling-storage",
+      "filename": "06-zbir-shyrom-hydrocooling-storage.md",
+      "uk": { "title": "Збір спеціальним ножем-шилом та Hydrocooling", "description": "Період збору (квітень-червень, 60 днів), техніка зрізання шилом біля основи, сортування діаметрів (12-16-22 мм), крижаний Hydrocooling (+1°C)." },
+      "en": { "title": "Knife Harvesting, Hydrocooling and Cold Storage", "description": "60-day harvest window (April-June), special asparagus knife under-ridge cutting, spear grading (12-16-22mm), Hydrocooling (+1°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "ohirok",
+  "emoji": "🥒",
+  "image": "/images/cultures/ohirok.jpg",
+  "color": "#16a34a",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Огірок садовий",
+    "latinName": "Cucumis sativus L.",
+    "tagline": "Від партенокарпічних F1 гібридів до шпалерного вирощування та захисту від пероноспорозу",
+    "description": "Повний енциклопедичний довідник з вирощування огірка у відкритому та захищеному ґрунті. Партенокарпія, бджолозапильні сорти, розсадна агротехніка, шпалерне формування (парасолька), точна крапельна фертигація (EC 1,6–2,2 mS/cm), захист від пероноспорозу (несправжньої борошнистої роси), борошнистої роси, кліщів та трипсів."
+  },
+  "en": {
+    "name": "Cucumber",
+    "latinName": "Cucumis sativus L.",
+    "tagline": "Parthenocarpic F1 hybrids, trellis umbrella training and downy mildew control",
+    "description": "Complete guide to cucumber production. Parthenocarpy vs bee-pollinated types, seedling methods, umbrella trellis training, precision fertigation, protection against Downy Mildew (*Pseudoperonospora*), Powdery Mildew, thrips and spider mites."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-partenokarpia",
+      "filename": "01-biolohiya-ta-partenokarpia.md",
+      "uk": { "title": "Ботанічна біологія та явище Партенокарпії", "description": "Диплоїдна геномна структура (2n=14), лианоподібне стебло з вусиками, партенокарпія (зав'язування плодів без запилення), жіночий тип цвітіння, фенофази BBCH." },
+      "en": { "title": "Biology and Parthenocarpy", "description": "Diploid genome (2n=14), vine stem anatomy, parthenocarpy (fruit set without pollination), female flowering habit, BBCH phenology." }
+    },
+    {
+      "slug": "hibrydy-f1-amur-artist",
+      "filename": "02-hibrydy-f1-amur-artist.md",
+      "uk": { "title": "Класифікація гібридів F1: Дрібношипні vs Крупношипні", "description": "Партенокарпічні корнішони (Амур F1, Артист F1, Бйорн F1, Кібрія F1, Лютояр F1), салатні довгоплідні гібриди, бджолозапильні класичні (Роднічок F1)." },
+      "en": { "title": "F1 Hybrids Classification", "description": "Parthenocarpic gherkins (Amour, Artist, Bjorn, Kybria), salad long cucumbers, bee-pollinated open-field types." }
+    },
+    {
+      "slug": "rozsada-ta-temperatura",
+      "filename": "03-rozsada-ta-temperatura.md",
+      "uk": { "title": "Розсадна технологія та вимога до тепла", "description": "Ультракороткий вік розсади (20–25 днів), чутливість коріння, проростання при t ґрунту +24...+26°C, висаджування у ґрунт." },
+      "en": { "title": "Seedling Production", "description": "Ultra-short seedling age (20-25 days), root fragility, germination at +24-26°C, transplanting." }
+    },
+    {
+      "slug": "shpalerne-formuvannia-parasolka",
+      "filename": "04-shpalerne-formuvannia-parasolka.md",
+      "uk": { "title": "Шпалерне формування куща: Метод «Парасолька»", "description": "Формування огірка у теплицях та тунелях: осліплення нижніх 4–5 вузлів (0-50 см), прищипування бічних пагонів, переміщення через верхній дріт (парасолька)." },
+      "en": { "title": "Trellis Umbrella Training System", "description": "Greenhouse umbrella training: blinding lower 4-5 nodes (0-50 cm), lateral tipping, over-the-wire draping." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia",
+      "filename": "05-zhyvlennia-fertyhatsiia.md",
+      "uk": { "title": "Живлення та щоденна крапельна фертигація", "description": "Винос N-P-K-Ca-Mg, рецептура розчину по фенофазах, EC розчину (1,6–2,2 mS/cm), висока чутливість до засолення, роль Калію для наливу корнішонів." },
+      "en": { "title": "Nutrition and Daily Fertigation", "description": "Nutrient uptake, fertigation formulas, EC targets (1.6-2.2 mS/cm), salt sensitivity, Potassium role in gherkin growth." }
+    },
+    {
+      "slug": "khvoroby-peronosporoz",
+      "filename": "06-khvoroby-peronosporoz.md",
+      "uk": { "title": "Хвороби: Пероноспороз (Несправжня борошниста роса)", "description": "Пероноспороз (*Pseudoperonospora cubensis* — кутасті жовті плями), борошниста роса, оливкова плямистість (кладоспоріоз), фунгіциди та PHI." },
+      "en": { "title": "Downy Mildew and Diseases", "description": "Downy Mildew (*Pseudoperonospora cubensis*), Powdery Mildew, Cladosporium scab, fungicide programs." }
+    },
+    {
+      "slug": "shkidnyky-ohirka",
+      "filename": "07-shkidnyky-ohirka.md",
+      "uk": { "title": "Шкідники: Баштанна попелиця, Павутинний кліщ, Трипси", "description": "Баштанна попелиця (Aphis gossypii), звичайний павутинний кліщ, тютюновий трипс, паросткова муха. Хімічний захист та ентомофаги (Phytoseiulus)." },
+      "en": { "title": "Pests and Biocontrol", "description": "Melon aphid, spider mites, tobacco thrips, seedcorn maggot. Chemical protocols and Phytoseiulus biocontrol." }
+    },
+    {
+      "slug": "zbir-pickling-cooling",
+      "filename": "08-zbir-pickling-cooling.md",
+      "uk": { "title": "Щоденний збір, сортування та Hydrocooling", "description": "Калібрування плодів (пикулі 3–5 см, корнішони 6–9 см, зеленці 10–12 см), щоденний збір, занурення у крижану воду (+4°C), зберігання." },
+      "en": { "title": "Daily Harvest, Grading and Cooling", "description": "Size grading (pickles 3-5cm, gherkins 6-9cm), daily harvesting, Hydrocooling (+4°C), storage conditions." }
+    }
+  ],
+  "stats": {
+    "sections": 8,
+    "readTimeMinutes": 240
+  }
+}

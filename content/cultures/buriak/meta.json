@@ -1,0 +1,61 @@
+{
+  "slug": "buriak",
+  "emoji": "🍠",
+  "image": "/images/cultures/buriak.jpg",
+  "color": "#9f1239",
+  "colorLight": "#ffe4e6",
+  "uk": {
+    "name": "Буряк столовий",
+    "latinName": "Beta vulgaris L. subsp. vulgaris",
+    "tagline": "Від пігменту Бетанін та однонасінних F1 гібридів до профілактики Борного дупла",
+    "description": "Повний енциклопедичний довідник з вирощування столового буряка. Дворічна біологія, сортотипи (Бордо, Цилиндра, Детройт), однонасінні гібриди F1 (Пабло F1, Пастіла F1, Бона), пігмент бетанін, крапельне зрошення, профілактика Церкоспорозу та дуплистості коренеплоду (Бор), зберігання (+1...+3°C)."
+  },
+  "en": {
+    "name": "Beetroot",
+    "latinName": "Beta vulgaris L. subsp. vulgaris",
+    "tagline": "Betanin pigment synthesis, monogerm F1 hybrids and Boron heart-rot prevention",
+    "description": "Complete guide to beetroot production. Biennial biology, varietal groups (Bordo, Cylindra, Detroit), monogerm F1 hybrids (Pablo F1), betanin biochemistry, Cercospora control, Boron deficiency prevention (heart rot), cold storage (+1-3°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-betanin",
+      "filename": "01-biolohiya-ta-betanin.md",
+      "uk": { "title": "Дворічна біологія та хімія пігменту Бетанін", "description": "Диплоїдна геномна структура (2n=18), біохімія червоного пігменту Бетаніну, відсутність білих радіальних кілець, фенофази BBCH." },
+      "en": { "title": "Biology and Betanin Chemistry", "description": "Diploid genome (2n=18), red betanin pigment synthesis, absence of white radial rings, BBCH phenology." }
+    },
+    {
+      "slug": "sortotypy-bordo-tsylindra-pablo",
+      "filename": "02-sortotypy-bordo-tsylindra-pablo.md",
+      "uk": { "title": "Сортотипи: Бордо, Детройт, Циліндра, Пабло F1", "description": "Округлі (Пабло F1, Бордо 237, Детройт), циліндричні (Циліндра, Опольський), однонасінні гібриди F1." },
+      "en": { "title": "Varietal Types: Bordo, Detroit, Cylindra", "description": "Round cultivars (Pablo F1, Bordo, Detroit), cylindrical types (Cylindra), monogerm F1 hybrids." }
+    },
+    {
+      "slug": "visiv-ta-odnonasinni-hibrydy",
+      "filename": "03-visiv-ta-odnonasinni-hibrydy.md",
+      "uk": { "title": "Перевага однонасінних (Monogerm) гібридів та висів", "description": "Багатонасінні клубочки vs однонасінні гібриди (Monogerm F1 — посів без проріджування!), глибина посадки, густота (450 000–550 000 рос/га)." },
+      "en": { "title": "Monogerm Hybrids and Precision Sowing", "description": "Multigerm glomerules vs Monogerm F1 hybrids (no thinning needed!), sowing depth and density." }
+    },
+    {
+      "slug": "zhyvlennia-ta-borne-duplo",
+      "filename": "04-zhyvlennia-ta-borne-duplo.md",
+      "uk": { "title": "Живлення: Борне дупло та Гниль сердечка", "description": "Винос N-P-K-Na-B, критична роль Бору (B) — профілактика «гнилі сердечка» та чорного порожнистого дупла у м'якоті, натрій." },
+      "en": { "title": "Nutrition: Boron Deficiency and Heart Rot", "description": "N-P-K-Na-B uptake, Boron role in preventing heart rot and hollow heart, Sodium response." }
+    },
+    {
+      "slug": "khvoroby-tserkosporoz",
+      "filename": "05-khvoroby-tserkosporoz.md",
+      "uk": { "title": "Хвороби: Церкоспороз, Фомоз, Пероноспороз", "description": "Церкоспороз (*Cercospora beticola* — плями з червоною облямівкою), фомоз (гниль сердечка), пероноспороз, фунгіциди (*Скор*, *Амістар*)." },
+      "en": { "title": "Cercospora Leaf Spot and Diseases", "description": "Cercospora leaf spot (*Cercospora beticola*), Phoma heart rot, Downy Mildew, protection." }
+    },
+    {
+      "slug": "zbir-topped-storage",
+      "filename": "06-zbir-topped-storage.md",
+      "uk": { "title": "Збір, видалення розетки та Зберігання (+1...+3°C)", "description": "Збір коренеплодів діаметром 6–10 см, обрізання розетки листків, зберігання у буртах та холодильниках (+1...+3°C, вологість 90–95%)." },
+      "en": { "title": "Harvesting, Topping and Cold Storage (+1...+3°C)", "description": "Harvesting 6-10cm roots, leaf rosette topping, pile and cold storage (+1-3°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

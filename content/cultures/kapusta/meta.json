@@ -1,0 +1,68 @@
+{
+  "slug": "kapusta",
+  "emoji": "🥬",
+  "image": "/images/cultures/kapusta.jpg",
+  "color": "#16a34a",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Капуста білокачанна",
+    "latinName": "Brassica oleracea var. capitata L.",
+    "tagline": "Від розсадної агротехніки до захисту від Кіли капусти (pH > 7,2) та тривалого зберігання",
+    "description": "Повний енциклопедичний довідник з вирощування білокачанної капусти. Морфологія качана та воскового нальоту, класифікація сортів за термінами (рання Дитмарська / Парель F1, середня, піжня засолювальна Агресор F1), розсадна технологія у касетах, крапельна фертигація, захист від Кіли капусти (*Plasmodiophora brassicae*), капустяної совки, білана та попелиці, зберігання (+0...+1°C)."
+  },
+  "en": {
+    "name": "Cabbage (White)",
+    "latinName": "Brassica oleracea var. capitata L.",
+    "tagline": "Seedling production, Clubroot control (pH > 7.2), caterpillar management and storage",
+    "description": "Complete guide to white cabbage production. Morphology, maturity groups (early Parel F1, mid-season, late storage/sauerkraut Agressor F1), plug seedlings, fertigation, Clubroot immunity (*Plasmodiophora brassicae* via liming pH > 7.2), cabbage moth, butterfly and aphid control, cold storage (+0-1°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-kachan",
+      "filename": "01-biolohiya-ta-kachan.md",
+      "uk": { "title": "Дворічна біологія та утворення Качана", "description": "Диплоїдна геномна структура (2n=18), розетка листя, захисний восковий наліт, утворення гіпертрофованої бруньки (качана), фенофази BBCH." },
+      "en": { "title": "Biennial Biology and Head Formation", "description": "Diploid genome (2n=18), leaf rosette, protective epicuticular wax, hypertrophied bud (head) formation, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-parel-ahressor",
+      "filename": "02-sorty-parel-ahressor.md",
+      "uk": { "title": "Класифікація за термінами: Рання, Засолювальна, Зимова", "description": "Суперранні (Парель F1, Дитмарська — 45-50 днів), засолювальні (Агресор F1, Глоб F1), пізні зимові для зберігання (Блоктор F1, Леннокс F1)." },
+      "en": { "title": "Maturity Groups: Early, Kraut and Storage", "description": "Super-early (Parel F1 - 45-50 days), sauerkraut types (Agressor F1), late winter storage (Bloktor F1, Lennox F1)." }
+    },
+    {
+      "slug": "rozsada-ta-kasetnyu-vysiv",
+      "filename": "03-rozsada-ta-kasetnyu-vysiv.md",
+      "uk": { "title": "Касетна розсадна технологія та Загартування", "description": "Вирощування розсади у касетах на 96 або 144 комірки, температурний режим (+15...18°C), загартування, висадка (35 000–55 000 рос/га)." },
+      "en": { "title": "Plug Seedling Technology and Hardening", "description": "Tray production (96-144 cells), temperature management (+15-18°C), hardening, field planting (35000-55000 plants/ha)." }
+    },
+    {
+      "slug": "zhyvlennia-kalii-ta-poliv",
+      "filename": "04-zhyvlennia-kalii-ta-poliv.md",
+      "uk": { "title": "Живлення та профілактика растрескування качанів", "description": "Винос N-P-K-Ca-Mg, роль Калію (K₂O) та Кальцію для щільності качана, реголювання зрошення проти розтріскування." },
+      "en": { "title": "Nutrition and Head Splitting Prevention", "description": "Nutrient uptake, Potassium and Calcium roles in head density, water regulation to prevent head bursting." }
+    },
+    {
+      "slug": "khvoroby-kila-kapusty",
+      "filename": "05-khvoroby-kila-kapusty.md",
+      "uk": { "title": "Хвороби: Кіла капусти, Судинний бактеріоз, Суха гниль", "description": "Кіла капусти (*Plasmodiophora brassicae* — пухлини на корінні, вапнування ґрунту до pH > 7,2!), судинний бактеріоз (*Xanthomonas*), фунгіциди." },
+      "en": { "title": "Clubroot and Bacteriosis", "description": "Clubroot (*Plasmodiophora brassicae* root galls, soil liming to pH > 7.2!), Xanthomonas black rot, protection." }
+    },
+    {
+      "slug": "shkidnyky-sovka-bilan-popelytsia",
+      "filename": "06-shkidnyky-sovka-bilan-popelytsia",
+      "filename": "06-shkidnyky-sovka-bilan-popelytsia.md",
+      "uk": { "title": "Шкідники: Капустяна совка, Білан, Попелиця, Трипси", "description": "Гусениці Капустяної совки та Капустяного білана (Кораген, Проклейм), капустяна попелиця (*Brevicoryne brassicae*), тютюновий трипс." },
+      "en": { "title": "Pests: Caterpillars, Aphids and Thrips", "description": "Cabbage moth and butterfly caterpillars (Coragen, Proclaim), cabbage aphid (*Brevicoryne*), thrips." }
+    },
+    {
+      "slug": "zbir-zasoliuvannia-storage",
+      "filename": "07-zbir-zasoliuvannia-storage.md",
+      "uk": { "title": "Збір, Засолювання та Постзбиральне зберігання (+0...+1°C)", "description": "Зрізання качанів із 2-3 покривними листками, біохімія квашення (молочнокисле бродіння), зберігання зимових сортів (+0...+1°C, 95%)." },
+      "en": { "title": "Harvesting, Sauerkraut Fermentation and Storage", "description": "Head harvesting with 2-3 wrapper leaves, lactic acid sauerkraut fermentation, cold storage (+0-1°C, 95% humidity)." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

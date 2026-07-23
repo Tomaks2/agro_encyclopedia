@@ -1,0 +1,67 @@
+{
+  "slug": "kukurudza-tsukrova",
+  "emoji": "🌽",
+  "image": "/images/cultures/kukurudza-tsukrova.jpg",
+  "color": "#eab308",
+  "colorLight": "#fef9c3",
+  "uk": {
+    "name": "Кукурудза цукрова",
+    "latinName": "Zea mays var. saccharata Sturt.",
+    "tagline": "Від надсолодких гібридів SH2 до ізоляції пилку та збору в молочній стиглості",
+    "description": "Енциклопедичний довідник з вирощування цукрової кукурудзи для свіжого споживання. Генетичні мутації цукристості (su1, se1, sh2), сувора просторова ізоляція від кормової кукурудзи, температурний висів, крапельний полив, фертигація, захист от стеблового метелика, качанової совки, пухирчастої сажки та технологія охолодження Hydrocooling."
+  },
+  "en": {
+    "name": "Sweet Corn",
+    "latinName": "Zea mays var. saccharata Sturt.",
+    "tagline": "Super-sweet SH2 hybrids, spatial isolation, fertigation and milk-stage harvest",
+    "description": "Complete guide to sweet corn growing. Genetics of sweetness (su1, se1, sh2), spatial pollen isolation, temperature thresholds, fertigation, European corn borer control, corn smut and Hydrocooling."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-sh2-ta-genetyka",
+      "filename": "01-biolohiya-sh2-ta-genetyka.md",
+      "uk": { "title": "Ботанічна біологія та генетика солодощі", "description": "Однодомна двостатева рослина, волоть (чоловіча) та качан (жіноча), генетичні мутації: Нормальні (SU), Поліпшені (SE) та Надсолодкі (SH2 — 25-40% цукру), фенофази BBCH." },
+      "en": { "title": "Biology and Sweetness Genetics", "description": "Monecious biology, tassel and ear anatomy, genetics (SU, SE, SH2 super-sweet mutation), BBCH phenology." }
+    },
+    {
+      "slug": "izoliatsiia-ksenijnytstvi",
+      "filename": "02-izoliatsiia-ksenijnytstvi.md",
+      "uk": { "title": "Явище Ксенійності та сувора ізоляція", "description": "Чому пилок зернової кормової кукурудзи перетворює цукрове зерно на твердий крохмаль? Просторова ізоляція (понад 200 м) та часова ізоляція (різниця цвітіння 14 днів)." },
+      "en": { "title": "Xenia Effect and Spatial Isolation", "description": "Xenia phenomenon (pollen contamination by dent/flint corn), spatial (200m) and temporal isolation." }
+    },
+    {
+      "slug": "hibrydy-sh2-se",
+      "filename": "03-hibrydy-sh2-se.md",
+      "uk": { "title": "Провідні надсолодкі гібриди SH2 та SE", "description": "Ультраранні та середні гібриди: Добриня F1, Турбін F1, Мегатон F1, Рання Насолода F1, Леженд F1, Ракель F1 (двоколірна Bicolor)." },
+      "en": { "title": "SH2 and SE Hybrid Classification", "description": "Super-sweet SH2 and Bicolor hybrids: Dobrynya, Turbin, Megaton, Raquel." }
+    },
+    {
+      "slug": "visiv-temperatura-tekhnolohiia",
+      "filename": "04-visiv-temperatura-tekhnolohiia.md",
+      "uk": { "title": "Температурний поріг висіву та агротехніка", "description": "Поріг проростання насіння SH2 (t ґрунту > +12...+14°C!), глибина заробки (3-4 см), конвеєрний посів, крапельне зрошення." },
+      "en": { "title": "Sowing, Temperature and Irrigation", "description": "Soil temperature threshold for SH2 (+12-14°C), planting depth, staggered sowing, drip irrigation." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia",
+      "filename": "05-zhyvlennia-fertyhatsiia.md",
+      "uk": { "title": "Живлення та критична роль Цинкy (Zn)", "description": "Потреба у N-P-K по фенофазах, винос азоту у фазу швидкого росту, позакореневе підживлення Цинком (Zn) для закладання великого качана." },
+      "en": { "title": "Nutrition and Zinc (Zn) Role", "description": "Stage-specific N-P-K rates, critical role of Zinc (Zn) in ear length and kernel rows." }
+    },
+    {
+      "slug": "khvoroby-ta-shkidnyky",
+      "filename": "06-khvoroby-ta-shkidnyky.md",
+      "uk": { "title": "Хвороби та шкідники цукрової кукурудзи", "description": "Пухирчаста сажка (*Ustilago maydis*), стебловий кукурудзяний метелик (*Ostrinia nubilalis*), качанова совка, шведська муха. Схеми захисту." },
+      "en": { "title": "Diseases and Pests", "description": "Corn smut (*Ustilago maydis*), European corn borer (*Ostrinia nubilalis*), corn earworm, frit fly." }
+    },
+    {
+      "slug": "zbir-molochna-стиглість-cooling",
+      "filename": "07-zbir-molochna-стиглість-cooling.md",
+      "uk": { "title": "Збір у молочній стиглості та Hydrocooling", "description": "Ознаки молочної стиглості (вологість 70-72%, ниті маточки побратніли), швидке крижане гідроохолодження (Hydrocooling +1°C) для зупинки конверсії цукру в крохмаль." },
+      "en": { "title": "Milk Stage Harvest and Hydrocooling", "description": "Milk stage criteria (70-72% moisture), rapid Hydrocooling (+1°C) to stop sugar-to-starch conversion." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

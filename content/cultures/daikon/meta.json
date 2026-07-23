@@ -1,0 +1,61 @@
+{
+  "slug": "daikon",
+  "emoji": "🤍",
+  "image": "/images/cultures/daikon.jpg",
+  "color": "#475569",
+  "colorLight": "#f1f5f9",
+  "uk": {
+    "name": "Редька та Дайкон",
+    "latinName": "Raphanus sativus var. longipinnatus",
+    "tagline": "Від японського білого дайкона до озимої чорної редьки та тривалого зберігання",
+    "description": "Повний енциклопедичний довідник з вирощування редьки та дайкона. Дворічна біологія, сортотипи (Японський соковитий Дайкон — Мінавасе, Міно Вейсе, Дубінушка; Чорна озима редька; Маргеланська зелена), літньо-осінній термін висіву (липень-серпень проти стрілкування), крапельний полив, захист від слимаків, збір та зберігання (+1...+2°C)."
+  },
+  "en": {
+    "name": "Daikon and Winter Radish",
+    "latinName": "Raphanus sativus var. longipinnatus",
+    "tagline": "Japanese white daikon, Black winter radish, summer sowing for non-bolting storage",
+    "description": "Complete guide to Daikon and Winter Radish production. Biennial biology, cultivars (Minowase Daikon, Black Spanish winter, Margelan green), mid-summer sowing window (July-August to avoid bolting), drip irrigation, slug protection and winter storage (+1-2°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-sortotypy-daikona",
+      "filename": "01-biolohiya-ta-sortotypy-daikona.md",
+      "uk": { "title": "Ботаніка та Сортотипи: Дайкон, Чорна редька, Зелена", "description": "Диплоїдна геномна структура (2n=18), японський соковитий Дайкон (довжина 30-50 см, відсутність гірчичної гостроти), Чорна озима редька, Маргеланська зелена." },
+      "en": { "title": "Biology and Types: Daikon, Black Radish, Margelan", "description": "Diploid genome (2n=18), Japanese sweet Daikon (30-50cm root, mild non-pungent flavor), Black winter, Margelan green." }
+    },
+    {
+      "slug": "litno-osinnii-visiv-проти-стрілкування",
+      "filename": "02-litno-osinnii-visiv-проти-стрілкування.md",
+      "uk": { "title": "Літньо-осінній висів проти Стрілкування", "description": "Чому дайкон та чорну редьку сіють строго в другій половині літа (друга половина липня — початок серпня)? Скорочення дня проти вигонки квітконоса." },
+      "en": { "title": "Mid-Summer Sowing Window against Bolting", "description": "Why Daikon and Winter Radish are sown in mid-summer (July-August)? Shortening daylight hours to prevent bolting." }
+    },
+    {
+      "slug": "posadka-на-гребенях-та-грунт",
+      "filename": "03-posadka-на-гребенях-та-грунт.md",
+      "uk": { "title": "Гребенева агротехніка для довгого дайкона", "description": "Вимоги до глибини розпушування ґрунту (до 40-50 см), висів на високих гребенях, густота висіву (150 000–200 000 рос/га)." },
+      "en": { "title": "Raised Ridge Production for Long Roots", "description": "Deep soil loosening requirement (40-50cm depth), raised ridge cultivation, plant density (150000-200000 plants/ha)." }
+    },
+    {
+      "slug": "zhyvlennia-ta-vodyanyi-balans",
+      "filename": "04-zhyvlennia-ta-vodyanyi-balans.md",
+      "uk": { "title": "Живлення та Водний баланс соковитості", "description": "Винос N-P-K-Ca-Mg, роль Калію (K₂O) та стабільного поливу для досягнення крихкої соковитості м'якоті без гіркоти." },
+      "en": { "title": "Nutrition and Water Balance for Crispy Roots", "description": "Nutrient uptake, Potassium role, uniform irrigation management for non-pungent crisp texture." }
+    },
+    {
+      "slug": "khvoroby-ta-shkidnyky-slymaky",
+      "filename": "05-khvoroby-ta-shkidnyky-slymaky.md",
+      "uk": { "title": "Хвороби та шкідники: Блішки, Слимаки, Кила", "description": "Хрестоцвіті блішки, захист від слимаків (*Deroceras reticulatum* — гранули Метальдегіду), бактеріоз, біла гниль." },
+      "en": { "title": "Pests: Flea Beetles, Slugs and Diseases", "description": "Crucifer Flea beetles, Field Slug protection (*Deroceras* Metaldehyde baits), bacteriosis, Sclerotinia." }
+    },
+    {
+      "slug": "zbir-akuratnist-storage",
+      "filename": "06-zbir-akuratnist-storage.md",
+      "uk": { "title": "Збір ламкого дайкона та Зберігання взимку (+1...+2°C)", "description": "Акуратне копання крихкого дайкона без виламування кінчиків, обрізання розетки листків, зимове зберігання в піску (+1...+2°C)." },
+      "en": { "title": "Harvesting Fragile Roots and Winter Storage", "description": "Careful undercut harvesting of fragile Daikon roots, leaf rosette topping, winter sand storage (+1-2°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

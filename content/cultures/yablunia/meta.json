@@ -1,0 +1,91 @@
+{
+  "slug": "yablunia",
+  "emoji": "🍎",
+  "image": "/images/cultures/yablunia.jpg",
+  "color": "#e63946",
+  "colorLight": "#ffe3e3",
+  "uk": {
+    "name": "Яблуня",
+    "latinName": "Malus domestica",
+    "tagline": "Від посадки до врожаю — все що потрібно знати садівнику",
+    "description": "Повний практичний довідник по вирощуванню яблуні. Ботаніка, сорти, посадка, обрізка, щеплення, хвороби, шкідники, збір та зберігання врожаю."
+  },
+  "en": {
+    "name": "Apple Tree",
+    "latinName": "Malus domestica",
+    "tagline": "From planting to harvest — everything a gardener needs to know",
+    "description": "Complete practical guide to growing apple trees. Botany, varieties, planting, pruning, grafting, diseases, pests, harvest and storage."
+  },
+  "sections": [
+    {
+      "slug": "botanika",
+      "filename": "01-botanika.md",
+      "uk": { "title": "Яблуня як рослина", "description": "Ботанічний опис, будова, сорти для України, підщепи та річний цикл" },
+      "en": { "title": "Apple Tree as a Plant", "description": "Botanical description, structure, varieties for Ukraine, rootstocks and annual cycle" }
+    },
+    {
+      "slug": "posadka",
+      "filename": "02-posadka.md",
+      "uk": { "title": "Посадка", "description": "Вибір місця та ґрунту, строки, техніка посадки, схеми" },
+      "en": { "title": "Planting", "description": "Site and soil selection, timing, planting technique, layouts" }
+    },
+    {
+      "slug": "obrizka",
+      "filename": "03-obrizka.md",
+      "uk": { "title": "Обрізка — повний курс", "description": "Формуюча, плодова, омолоджуюча обрізка. Весна, літо, осінь" },
+      "en": { "title": "Pruning — Complete Course", "description": "Formative, productive, rejuvenating pruning. Spring, summer, autumn" }
+    },
+    {
+      "slug": "scheplennia",
+      "filename": "04-scheplennia.md",
+      "uk": { "title": "Щеплення та розмноження", "description": "Окулірування, копулірування, в розщіп, за кору, місток, зберігання живців" },
+      "en": { "title": "Grafting and Propagation", "description": "Budding, splice grafting, cleft, bark grafting, bridging, scion storage" }
+    },
+    {
+      "slug": "dohliad",
+      "filename": "05-dohliad.md",
+      "uk": { "title": "Догляд протягом сезону", "description": "Весна, літо, осінь, зима — що робити кожного місяця" },
+      "en": { "title": "Seasonal Care", "description": "Spring, summer, autumn, winter — what to do each month" }
+    },
+    {
+      "slug": "udobrennia",
+      "filename": "06-udobrennia.md",
+      "uk": { "title": "Удобрення", "description": "Органічні та мінеральні добрива, позакоренева підгодівля, календар" },
+      "en": { "title": "Fertilizing", "description": "Organic and mineral fertilizers, foliar feeding, calendar" }
+    },
+    {
+      "slug": "khvoroby",
+      "filename": "07-khvoroby.md",
+      "uk": { "title": "Хвороби яблуні", "description": "Парша, борошниста роса, моніліоз, бактеріальний опік — симптоми та лікування" },
+      "en": { "title": "Apple Tree Diseases", "description": "Scab, powdery mildew, moniliosis, fire blight — symptoms and treatment" }
+    },
+    {
+      "slug": "shkidnyky",
+      "filename": "08-shkidnyky.md",
+      "uk": { "title": "Шкідники яблуні", "description": "Плодожерка, попелиця, кліщі, квіткоїдка, листовійки, гризуни" },
+      "en": { "title": "Apple Tree Pests", "description": "Codling moth, aphids, mites, weevil, leaf rollers, rodents" }
+    },
+    {
+      "slug": "zakhyst",
+      "filename": "09-zakhyst.md",
+      "uk": { "title": "Захист — методи і препарати", "description": "Біологічний, агротехнічний, хімічний захист. Календар обробок" },
+      "en": { "title": "Protection — Methods and Products", "description": "Biological, agrotechnical, chemical protection. Treatment calendar" }
+    },
+    {
+      "slug": "zbir",
+      "filename": "10-zbir.md",
+      "uk": { "title": "Збір та зберігання врожаю", "description": "Ознаки стиглості, техніка збору, умови зберігання, переробка" },
+      "en": { "title": "Harvest and Storage", "description": "Ripeness signs, harvesting technique, storage conditions, processing" }
+    },
+    {
+      "slug": "rehiony",
+      "filename": "11-rehiony.md",
+      "uk": { "title": "Особливості для регіонів України", "description": "Полісся, Лісостеп, Степ, Карпати — регіональні поради" },
+      "en": { "title": "Regional Specifics for Ukraine", "description": "Polissia, Forest-Steppe, Steppe, Carpathians — regional advice" }
+    }
+  ],
+  "stats": {
+    "sections": 11,
+    "readTimeMinutes": 240
+  }
+}

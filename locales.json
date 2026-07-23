@@ -1,0 +1,12 @@
+{
+  "uk": {
+    "name": "uk",
+    "label": "Українська",
+    "flag": "🇺🇦"
+  },
+  "en": {
+    "name": "en",
+    "label": "English",
+    "flag": "🇬🇧"
+  }
+}

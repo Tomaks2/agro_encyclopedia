@@ -1,0 +1,61 @@
+{
+  "slug": "selera",
+  "emoji": "🌿",
+  "image": "/images/cultures/selera.jpg",
+  "color": "#16a34a",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Селера (Коренева, Черешкова, Листова)",
+    "latinName": "Apium graveolens L.",
+    "tagline": "Від вирощування 70-денної розсади до білосніжних коренеплодів та відбілювання черешків",
+    "description": "Повний енциклопедичний довідник з вирощування трьох різновидів селери. Дворічна біологія родини Зонтичні (Apiaceae), дрібне пилоподібне насіння, тривалий розсадний період (70-80 днів), провідні сорти (Коренева: Президент RZ, Діамант; Черешкова: Паскаль, Танго), агротехніка зрізання бічних коренів, відбілювання черешків (Blanching), захист від септоріозу та зберігання (+0...+1°C)."
+  },
+  "en": {
+    "name": "Celery (Celeriac, Stalk, Leaf)",
+    "latinName": "Apium graveolens L.",
+    "tagline": "70-day plug seedling production, smooth celeriac roots and stalk blanching",
+    "description": "Complete guide to celery (celeriac, stalk, leaf) production. Biennial Apiaceae biology, dust-like seeds, long seedling stage (70-80 days), cultivars (Celeriac: President RZ, Diamant; Stalk: Pascal, Tango), side root trimming, stalk blanching techniques, Septoria leaf spot protection and cold storage (+0-1°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-riznovydy-selery",
+      "filename": "01-biolohiya-ta-riznovydy-selery.md",
+      "uk": { "title": "Ботанічна біологія та Три класичні різновиди", "description": "Диплоїдна геномна структура (2n=22), біологія Зонтичних (Apiaceae), три різновиди (var. rapaceum — коренева, var. dulce — черешкова, var. secalinum — листова), фенофази BBCH." },
+      "en": { "title": "Biology and Three Morphological Varieties", "description": "Diploid genome (2n=22), Apiaceae biology, three varieties (Celeriac, Stalk celery, Leaf celery), BBCH phenology." }
+    },
+    {
+      "slug": "sorty-president-rz-diamant",
+      "filename": "02-sorty-president-rz-diamant.md",
+      "uk": { "title": "Класифікація сортів: Коренева, Черешкова, Листова", "description": "Кореневі сорт-еталони (Президент RZ, Діамант, Алабастер — округлі коренеплоди без внутрішніх порожнеч), черешкові (Танго, Паскаль), листова (Ніжна)." },
+      "en": { "title": "Cultivar Types: Celeriac, Stalk and Leaf", "description": "Celeriac cultivars (President RZ, Diamant - smooth white roots), stalk celery (Tango, Pascal), leaf types." }
+    },
+    {
+      "slug": "rozsada-70-dniv-ta-vysadka",
+      "filename": "03-rozsada-70-dniv-ta-vysadka.md",
+      "uk": { "title": "70-денна касетна розсадна агротехніка", "description": "Дрібне насіння (1 грам = 2500-3000 насінин), тривалий розсадний період (70-80 днів), висадка травневої розсади у стадії 4-5 листків без заглиблення точки росту." },
+      "en": { "title": "70-day Plug Seedling Production and Planting", "description": "Dust-like seeds, long 70-80 day tray seedling phase, field planting without burying the growing point (heart)." }
+    },
+    {
+      "slug": "zhyvlennia-bor-ta-zrimannya-korenya",
+      "filename": "04-zhyvlennia-bor-ta-zrimannya-korenya.md",
+      "uk": { "title": "Живлення, Бор та Зачистка бічних коренів", "description": "Винос N-P-K-Ca-Mg, роль Бору ($B$) та Кальцію проти чорної серцевини, прийом відгрібання землі та зрізання верхніх бокових коренів для гладкості." },
+      "en": { "title": "Nutrition, Boron and Side Root Trimming", "description": "N-P-K-Ca rates, Boron and Calcium role against blackheart, soil unearthing and side root trimming for smooth celeriac." }
+    },
+    {
+      "slug": "khvoroby-septorioz-ta-popelytsia",
+      "filename": "05-khvoroby-septorioz-ta-popelytsia.md",
+      "uk": { "title": "Хвороби та шкідники: Септоріоз (Плямистість)", "description": "Септоріоз каптовий (*Septoria apiicola* — дрібні чорні цятки пикнид на листі), морквяна муха, попелиця, фунгіциди." },
+      "en": { "title": "Septoria Leaf Blight and Pest Control", "description": "Septoria leaf spot (*Septoria apiicola*), carrot rust fly, aphid protection." }
+    },
+    {
+      "slug": "zbir-vidbiliuvannia-storage",
+      "filename": "06-zbir-vidbiliuvannia-storage.md",
+      "uk": { "title": "Відбілювання черешків (Blanching), Збір та Зберігання", "description": "Прийом відбілювання черешків (обгортання папером/плівкою за 2-3 тижні до збору), зрізання кореневої селери, зберігання у вологому піску (+0...+1°C, 95%)." },
+      "en": { "title": "Stalk Blanching, Harvest and Cold Storage (+0-1°C)", "description": "Stalk blanching technique (wrapping in paper/mulch 2-3 weeks before harvest), celeriac digging, sand storage (+0-1°C, 95% RH)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

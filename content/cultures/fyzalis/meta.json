@@ -1,0 +1,61 @@
+{
+  "slug": "fyzalis",
+  "emoji": "🥭",
+  "image": "/images/cultures/fyzalis.jpg",
+  "color": "#ea580c",
+  "colorLight": "#ffedd5",
+  "uk": {
+    "name": "Фізаліс (Овочевий та Ягідний десертний)",
+    "latinName": "Physalis philadelphica / Physalis peruviana",
+    "tagline": "Від мексиканського томатільйо до солодкого перуанського пектиновмісного ягідника",
+    "description": "Повний енциклопедичний довідник з вирощування фізалісу. Біологія родини Пасльонові (Solanaceae), захисний ліхтарик-чохлик (калікс / Calyx), дві основні групи (Мексиканський овочевий Томатільйо vs Перуанський / Суничний ягідний десертний фізаліс), розсадна агротехніка, формування без пасинкування, багатий вміст желюючого Пектину, захист від фітофторозу та зберігання у ліхтариках до 5 місяців."
+  },
+  "en": {
+    "name": "Physalis (Tomatillo and Golden Berry)",
+    "latinName": "Physalis philadelphica / Physalis peruviana",
+    "tagline": "Mexican Tomatillo, sweet Golden Berry production and Calyx-encased storage",
+    "description": "Complete guide to Physalis production. Solanaceae biology, protective papery husk (Calyx), two main types (Mexican vegetable Tomatillo vs sweet Peruvian Golden Berry / Strawberry physalis), tray seedlings, self-branching habit without pruning, high Pectin content, Phytophthora protection, long storage inside husks (up to 5 months)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-struktura-kaliksa",
+      "filename": "01-biolohiya-ta-struktura-kaliksa.md",
+      "uk": { "title": "Ботанічна біологія та Захисний Чохлик (Калікс)", "description": "Диплоїдна геномна структура (2n=24), родина Пасльонові, розростання чашечки у паперовий «ліхтарик» (Calyx), який повністю ізолює ягоду від шкідників, фенофази BBCH." },
+      "en": { "title": "Biology and Papery Husk (Calyx) Anatomy", "description": "Diploid genome (2n=24), Solanaceae family, calyx enlargement into a protective papery lantern isolating the berry from pests, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-tomatillo-ta-peruanskyi",
+      "filename": "02-sorty-tomatillo-ta-peruanskyi.md",
+      "uk": { "title": "Класифікація сортів: Мексиканський Овочевий vs Ягідний", "description": "Овочевий мексиканський Томатільйо (Кондитер, Корольок, Пурпуровий — маса 30-80 г, високий пектин), Ягідний десертний перуанський та суничний (Колумб, Ананасний — солодкий Brix 14-16°)." },
+      "en": { "title": "Cultivar Types: Mexican Tomatillo vs Sweet Golden Berry", "description": "Mexican vegetable Tomatillo (30-80g berries, high pectin), sweet Golden Berry / Strawberry Physalis (Columb, Pineapple - Brix 14-16°)." }
+    },
+    {
+      "slug": "rozsada-ta-formuvannya-kushcha",
+      "filename": "03-rozsada-ta-formuvannya-kushcha.md",
+      "uk": { "title": "Касетна розсада та Розгалужений кущ без пасинкування", "description": "Вирощування розсади (40-50 днів), висадка у травні, біологічна риса — утворення плодів у кожній розвилці стебла (пасинкування ЗАБОРОНЕНЕ!)." },
+      "en": { "title": "Plug Seedlings and Branching Habit without Pruning", "description": "40-50 day tray seedlings, May field planting, branching habit (fruit sets in every stem fork - sucker pruning PROHIBITED!)." }
+    },
+    {
+      "slug": "zhyvlennia-pektyn-ta-poliv",
+      "filename": "04-zhyvlennia-pektyn-ta-poliv.md",
+      "uk": { "title": "Живлення, біохімія Пектину та Полив", "description": "Винос N-P-K-Ca-Mg, роль Калію ($K_2O$) для накопичення желюючого Пектину та цукрів, крапельне зрошення." },
+      "en": { "title": "Nutrition, Pectin Biochemistry and Irrigation", "description": "N-P-K-Ca rates, Potassium role in gelling Pectin and sugar accumulation, drip irrigation." }
+    },
+    {
+      "slug": "khvoroby-fitoftora-ta-blishky",
+      "filename": "05-khvoroby-fitoftora-ta-blishky.md",
+      "uk": { "title": "Хвороби та шкідники: Фітофтороз та Блішки", "description": "Висока природна стійкість завдяки каліксам, захист від фітофторозу (*Phytophthora infestans*), колорадського жука та білокрилки." },
+      "en": { "title": "Phytophthora Resistance and Pest Control", "description": "High natural resistance via husks, Phytophthora protection, Colorado beetle and Whitefly management." }
+    },
+    {
+      "slug": "zbir-dzhem-pektyn-storage",
+      "filename": "06-zbir-dzhem-pektyn-storage.md",
+      "uk": { "title": "Збір у ліхтариках, Джеми & Тривале зберігання", "description": "Сигнал стиглості (підсихання та розрив чохлика), збір у сухому стані, природне желювання джемів без желатину, зберігання у чохликах до 4-5 місяців (+2...+4°C)." },
+      "en": { "title": "Husk Harvesting, Pectin Jams and Storage", "description": "Maturity indicator (husk drying and splitting), dry harvesting, natural jam gelling via high pectin, cold storage inside husks for 4-5 months (+2-4°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "hrusha",
+  "emoji": "🍐",
+  "image": "/images/cultures/hrusha.jpg",
+  "color": "#84cc16",
+  "colorLight": "#ecfccb",
+  "uk": {
+    "name": "Груша",
+    "latinName": "Pyrus communis",
+    "tagline": "Від правильної посадки до мистецтва дозрівання плодів",
+    "description": "Повний довідник садівника по вирощуванню груші. Фізіологія, підщепи, сорти, посадка, полив, живлення, обрізка, щеплення, хвороби, шкідники, збір та зберігання."
+  },
+  "en": {
+    "name": "Pear Tree",
+    "latinName": "Pyrus communis",
+    "tagline": "From proper planting to the art of ripening fruits",
+    "description": "Complete gardener's guide to growing pear trees. Physiology, rootstocks, varieties, planting, watering, nutrition, pruning, grafting, diseases, pests, harvest and storage."
+  },
+  "sections": [
+    {
+      "slug": "fiziolohiya",
+      "filename": "01-fiziolohiya.md",
+      "uk": {
+        "title": "Фізіологія груші",
+        "description": "Чому це не яблуня — коренева система, верхівкове домінування, плодові утворення, запилення"
+      },
+      "en": {
+        "title": "Pear Physiology",
+        "description": "Why it's not an apple tree — root system, apical dominance, fruit formations, pollination"
+      }
+    },
+    {
+      "slug": "pidshchepy",
+      "filename": "02-pidshchepy.md",
+      "uk": {
+        "title": "Підщепи — фундамент саду",
+        "description": "Дичка vs айва, сумісність сортів, регіональні рекомендації"
+      },
+      "en": {
+        "title": "Rootstocks — The Garden's Foundation",
+        "description": "Seedling vs quince, variety compatibility, regional recommendations"
+      }
+    },
+    {
+      "slug": "sorty",
+      "filename": "03-sorty.md",
+      "uk": {
+        "title": "Сорти для України",
+        "description": "Тільки перевірені практикою. Літні, осінні, зимові, таблиця запилювачів"
+      },
+      "en": {
+        "title": "Varieties for Ukraine",
+        "description": "Proven by practice only. Summer, autumn, winter, pollinator table"
+      }
+    },
+    {
+      "slug": "posadka",
+      "filename": "04-posadka.md",
+      "uk": {
+        "title": "Посадка та ґрунти",
+        "description": "Вибір місця, вимоги до ґрунту, терміни, схеми, перший рік"
+      },
+      "en": {
+        "title": "Planting and Soils",
+        "description": "Site selection, soil requirements, timing, layouts, first year"
+      }
+    },
+    {
+      "slug": "poliv-zhyvlennia",
+      "filename": "05-poliv-zhyvlennia.md",
+      "uk": {
+        "title": "Полив та живлення",
+        "description": "Норми поливу, весняне/літнє/осіннє живлення, нормування плодів"
+      },
+      "en": {
+        "title": "Watering and Nutrition",
+        "description": "Watering norms, spring/summer/autumn nutrition, fruit thinning"
+      }
+    },
+    {
+      "slug": "obrizka",
+      "filename": "06-obrizka.md",
+      "uk": {
+        "title": "Обрізка та формування крони",
+        "description": "Золоте правило відгинання, формування по роках, веретено, весняна та літня обрізка"
+      },
+      "en": {
+        "title": "Pruning and Crown Formation",
+        "description": "Golden rule of bending, formation by years, spindle, spring and summer pruning"
+      }
+    },
+    {
+      "slug": "scheplennia",
+      "filename": "07-scheplennia.md",
+      "uk": {
+        "title": "Щеплення — усі методи",
+        "description": "Копуліровка, окуліровка, в розщіп, за кору. Типові помилки"
+      },
+      "en": {
+        "title": "Grafting — All Methods",
+        "description": "Splice, budding, cleft, bark. Common mistakes"
+      }
+    },
+    {
+      "slug": "rozmnozhennia",
+      "filename": "08-rozmnozhennia.md",
+      "uk": {
+        "title": "Розмноження груші",
+        "description": "Насіннєве, живцювання, відводки, коренева поросль"
+      },
+      "en": {
+        "title": "Pear Propagation",
+        "description": "Seed, cuttings, layering, root suckers"
+      }
+    },
+    {
+      "slug": "khvoroby",
+      "filename": "09-khvoroby.md",
+      "uk": {
+        "title": "Хвороби груші",
+        "description": "Іржа, бактеріальний опік, парша, цитоспороз, борошниста роса. Таблиця симптом→дія"
+      },
+      "en": {
+        "title": "Pear Diseases",
+        "description": "Rust, fire blight, scab, cytosporosis, powdery mildew. Symptom→action table"
+      }
+    },
+    {
+      "slug": "shkidnyky",
+      "filename": "10-shkidnyky.md",
+      "uk": {
+        "title": "Шкідники груші",
+        "description": "Медяниця, галовий кліщ, плодожерка, листовійка. Таблиця швидкої діагностики"
+      },
+      "en": {
+        "title": "Pear Pests",
+        "description": "Psyllid, gall mite, codling moth, leaf roller. Quick diagnostic table"
+      }
+    },
+    {
+      "slug": "zakhyst-kalendar",
+      "filename": "11-zakhyst-kalendar.md",
+      "uk": {
+        "title": "Інтегрована система захисту",
+        "description": "Річний календар обробок по фенофазах. Біологічний та хімічний захист"
+      },
+      "en": {
+        "title": "Integrated Protection System",
+        "description": "Annual treatment calendar by phenophases. Biological and chemical protection"
+      }
+    },
+    {
+      "slug": "zyma",
+      "filename": "12-zyma.md",
+      "uk": {
+        "title": "Підготовка до зими",
+        "description": "Побілка, захист від морозобоїн, гризунів, мульчування, осіння обробка"
+      },
+      "en": {
+        "title": "Winter Preparation",
+        "description": "Whitewashing, protection from frost cracks, rodents, mulching, autumn treatment"
+      }
+    },
+    {
+      "slug": "zbir-zberihannia",
+      "filename": "13-zbir-zberihannia.md",
+      "uk": {
+        "title": "Збір та зберігання",
+        "description": "Мистецтво дозрівання. Знімальна стиглість, техніка збору, технологія зберігання"
+      },
+      "en": {
+        "title": "Harvest and Storage",
+        "description": "The art of ripening. Harvest maturity, picking technique, storage technology"
+      }
+    }
+  ],
+  "stats": {
+    "sections": 13,
+    "readTimeMinutes": 280
+  }
+}

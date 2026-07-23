@@ -1,0 +1,61 @@
+{
+  "slug": "dynia",
+  "emoji": "🍈",
+  "image": "/images/cultures/dynia.jpg",
+  "color": "#d97706",
+  "colorLight": "#fef3c7",
+  "uk": {
+    "name": "Диня",
+    "latinName": "Cucumis melo L.",
+    "tagline": "Від форми Ананас до формування бічних пагонів 2-3 порядку та Brix 14°",
+    "description": "Енциклопедичний довідник з вирощування дині. Агротехніка прищипування головного стебла над 4-5 листком (плодоношення на бокових гілках 2-3 порядку), класифікація сортів (Амала F1, Колхозниця, Берегиня), крапельна фертигація, захист від борошнистої роси та фузаріозу."
+  },
+  "en": {
+    "name": "Melon (Cantaloupe / Ananas)",
+    "latinName": "Cucumis melo L.",
+    "tagline": "Ananas type melons, main stem tipping, 2nd-3rd order branching for High Brix",
+    "description": "Complete guide to melon growing. Pruning main stem above 4-5th leaf for 2nd-3rd order fruiting branches, cultivars (Amala F1, Ananas), fertigation for 14° Brix, Powdery Mildew and Fusarium control."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-formuvannia",
+      "filename": "01-biolohiya-ta-formuvannia.md",
+      "uk": { "title": "Ботанічна біологія та Формування стебла", "description": "Диплоїдна геномна структура (2n=24), розташування жіночих квіток на пагонах 2-3 порядку, прищипування головного стебла над 4-5 листком." },
+      "en": { "title": "Biology and Stem Pruning", "description": "Diploid genome (2n=24), female flowers on 2nd-3rd order branches, main stem tipping above 4-5th leaf." }
+    },
+    {
+      "slug": "sorty-ananas-kantalupa",
+      "filename": "02-sorty-ananas-kantalupa.md",
+      "uk": { "title": "Класифікація сортів: Ананас, Канталупа, Галлія", "description": "Сітчасті сорти типу Ананас (Амала F1, Радмила F1, Берегиня), Канталупа, Галлія, Медова. Товщина сітки та аромат." },
+      "en": { "title": "Melon Varieties: Ananas, Galia, Cantaloupe", "description": "Netted Ananas type (Amala F1, Radmila F1), Galia, Cantaloupe, Honey Dew types." }
+    },
+    {
+      "slug": "visiv-krapelne-zroshennia",
+      "filename": "03-visiv-krapelne-zroshennia.md",
+      "uk": { "title": "Розсада, терміни висіву та полив", "description": "Вирощування розсади у касетах, висаджування при t ґрунту > +15...+18°C, крапельне зрошення, схема густоти (7 000–10 000 рос/га)." },
+      "en": { "title": "Seedlings, Planting and Irrigation", "description": "Cassette seedlings, planting at soil t > +15-18°C, drip irrigation, plant density." }
+    },
+    {
+      "slug": "zhyvlennia-brix-цукор",
+      "filename": "04-zhyvlennia-brix-цукор.md",
+      "uk": { "title": "Живлення та налив для Brix 13–15°", "description": "Винос елементів живлення, Калій (K₂O) та Бор для цукровості та аромату, припинення поливу за 10 днів до збору." },
+      "en": { "title": "Nutrition for High Brix (13-15°)", "description": "Nutrient uptake, Potassium and Boron roles in aroma and Brix, water cut-off." }
+    },
+    {
+      "slug": "khvoroby-boroshnysta-rosa",
+      "filename": "05-khvoroby-boroshnysta-rosa.md",
+      "uk": { "title": "Хвороби: Борошниста роса та Фузаріоз", "description": "Справжня борошниста роса (*Podosphaera xanthii*), фузаріозне в'янення, пероноспороз, фунгіцидний захист (*Топаз*, *Квадріс*)." },
+      "en": { "title": "Powdery Mildew and Fusarium", "description": "Powdery Mildew (*Podosphaera xanthii*), Fusarium wilt, Downy Mildew, fungicide programs." }
+    },
+    {
+      "slug": "zbir-aromat-storage",
+      "filename": "06-zbir-aromat-storage.md",
+      "uk": { "title": "Збір за ароматом та сіткою, зберігання", "description": "Ознаки стиглості: поява густої сітки, утворення «кільця» біля плодоніжки, виражений медово-ананасний аромат, параметри зберігання." },
+      "en": { "title": "Harvesting by Aroma and Storage", "description": "Harvest indicators: full netting, stem slip ring, honey-ananas aroma, storage parameters." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

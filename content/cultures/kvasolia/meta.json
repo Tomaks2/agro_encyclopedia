@@ -1,0 +1,61 @@
+{
+  "slug": "kvasolia",
+  "emoji": "🫘",
+  "image": "/images/cultures/kvasolia.jpg",
+  "color": "#15803d",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Квасоля спаржева",
+    "latinName": "Phaseolus vulgaris L.",
+    "tagline": "Від кущових безволокнистих гібридів до конвеєрного збору та заморожування",
+    "description": "Повний енциклопедичний довідник з вирощування спаржевої (стручкової) квасолі. Морфологія кущових та в'юнких форм, відсутність пергаментного шару у лопатках, кращі сорти та гібриди (Пауліста, Серенгеті, Кроппер, Лаура), теплолюбність (t > +15°C), захист від антракнозу, бактеріозу та квасолевої зернівки, зберігання."
+  },
+  "en": {
+    "name": "French Bean / Snap Bean",
+    "latinName": "Phaseolus vulgaris L.",
+    "tagline": "Stringless bush snap beans, heat requirements, anthracnose immunity and harvesting",
+    "description": "Complete guide to snap bean (French green bean) production. Bush vs pole types, stringless pod morphology, cultivars (Paulista, Serengeti, Laura), heat demands (> +15°C), Anthracnose (*Colletotrichum*) and Bean Weevil control, cold processing."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-struchky",
+      "filename": "01-biolohiya-ta-struchky.md",
+      "uk": { "title": "Ботанічна біологія та Анатомія безволокнистих лопаток", "description": "Диплоїдна геномна структура (2n=22), кущові та в'юнкі форми, генетична відсутність пергаментного шару у спаржевих сортів, фенофази BBCH." },
+      "en": { "title": "Biology and Stringless Pod Morphology", "description": "Diploid genome (2n=22), bush vs pole habit, stringless pod anatomy (absence of parchment layer), BBCH phenology." }
+    },
+    {
+      "slug": "sorty-paulista-serenheti",
+      "filename": "02-sorty-paulista-serenheti.md",
+      "uk": { "title": "Класифікація сортів: Зелена, Жовта (Воскова), Фіолетова", "description": "Зеленоплідні спаржеві (Пауліста, Серенгеті, Кроппер), жовтоплідні воскові (Лаура, Сонце), кущові сухі зернові сорти." },
+      "en": { "title": "Cultivar Types: Green Pod, Yellow Wax and Purple", "description": "Green-pod snap beans (Paulista, Serengeti), yellow wax types (Laura), dry bean cultivars." }
+    },
+    {
+      "slug": "visiv-ta-teplo",
+      "filename": "03-visiv-ta-teplo.md",
+      "uk": { "title": "Посів, теплолюбність та схема густоти", "description": "Висока теплолюбність (висів при t ґрунту > +12...+15°C, загроза заморозків), схема густоти кущових сортів (300 000–350 000 рос/га)." },
+      "en": { "title": "Sowing, Heat Demands and Planting Density", "description": "High thermal demands (sowing at soil t > +12-15°C), frost sensitivity, bush seeding density (300000-350000 plants/ha)." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia",
+      "filename": "04-zhyvlennia-fertyhatsiia.md",
+      "uk": { "title": "Живлення та вимоги до вологи під час цвітіння", "description": "Винос N-P-K-Ca-Mg, азотфіксація, крапельне зрошення під час цвітіння та масового зав'язування лопаток." },
+      "en": { "title": "Nutrition and Irrigation Management", "description": "Nutrient uptake, nitrogen fixation, drip irrigation during flowering and pod setting." }
+    },
+    {
+      "slug": "khvoroby-antraknoz-ta-bakterioz",
+      "filename": "05-khvoroby-antraknoz-ta-bakterioz.md",
+      "uk": { "title": "Хвороби: Антракноз, Бактеріоз, Іржа", "description": "Антракноз (*Colletotrichum lindemuthianum* — вдавлені плями на лопатках), кутовий бактеріоз (*Xanthomonas*), іржа (*Uromyces*), фунгіциди." },
+      "en": { "title": "Anthracnose and Bacterial Blight", "description": "Bean anthracnose (*Colletotrichum*), Xanthomonas bacterial blight, rust (*Uromyces*), protection." }
+    },
+    {
+      "slug": "zbir-kvasolna-zernivka-freezing",
+      "filename": "06-zbir-kvasolna-zernivka-freezing.md",
+      "uk": { "title": "Збір соковитих лопаток, захист від Зернівки та Заморозка", "description": "Збір лопаток у фазу цукрової стиглості (діаметр 8-10 мм, насіння розміром з пшеничне зерно), захист від квасолевої зернівки (*Acanthoscelides obtectus*), IQF." },
+      "en": { "title": "Harvesting Snap Pods, Bean Weevil and Freezing", "description": "Harvesting tender snap pods (8-10mm diameter), bean weevil (*Acanthoscelides obtectus*) control, IQF processing." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

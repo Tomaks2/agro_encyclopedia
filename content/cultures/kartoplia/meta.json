@@ -1,0 +1,67 @@
+{
+  "slug": "kartoplia",
+  "emoji": "🥔",
+  "image": "/images/cultures/kartoplia.jpg",
+  "color": "#854d0e",
+  "colorLight": "#fef9c3",
+  "uk": {
+    "name": "Картопля",
+    "latinName": "Solanum tuberosum L.",
+    "tagline": "Від яровизації бульб та столоноутворення до захисту від Фітофторозу і Колорадського жука",
+    "description": "Повний енциклопедичний довідник з вирощування картоплі. Морфологія підземних столонів, репродукції насіннєвого матеріалу (Супереліта, Еліта, 1 репродукція), класифікація сортів (Рів'єра, Беллароза, Гала, Гранада, Пікассо), яровизація та зеленіння, фертигація, захист від фітофторозу, ризоктоніозу та Колорадського жука, збір та зберігання (+2...+4°C)."
+  },
+  "en": {
+    "name": "Potato",
+    "latinName": "Solanum tuberosum L.",
+    "tagline": "Tuberization, seed potato generations, Late Blight and Colorado Beetle control",
+    "description": "Complete guide to potato production. Stolon morphology, seed potato categories (Super Elite, Elite), cultivars (Riviera, Bellarosa, Gala, Granada), chitting/vernalization, ridges, Late Blight (*Phytophthora*), Rhizoctonia and Colorado beetle control, storage (+2-4°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-stolony-stolytsi",
+      "filename": "01-biolohiya-stolony-stolytsi.md",
+      "uk": { "title": "Ботанічна біологія та анатомія столоноутворення", "description": "Тетраплоїдна геномна структура (2n=48), утворення підземних пагонів (столонів), накопичення крохмалю (12-22%), фенофази BBCH." },
+      "en": { "title": "Biology and Stolon Tuberization", "description": "Tetraploid genome (2n=48), underground stolons, starch accumulation (12-22%), BBCH phenology." }
+    },
+    {
+      "slug": "reproduktsii-ta-sorty",
+      "filename": "02-reproduktsii-ta-sorty.md",
+      "uk": { "title": "Категорії насіння та Сорти картоплі", "description": "Репродукції насіннєвої картоплі (Супереліта, Еліта, Р1), надранні сорти (Рів'єра), ранні (Беллароза), середньоранні (Гала, Гранада, Пікассо)." },
+      "en": { "title": "Seed Potato Generations and Cultivars", "description": "Seed potato classes (Super Elite, Elite, R1), ultra-early (Riviera), early (Bellarosa), mid-early (Gala, Granada)." }
+    },
+    {
+      "slug": "iarovizatsiya-ta-posadka",
+      "filename": "03-iarovizatsiya-ta-posadka.md",
+      "uk": { "title": "Яровизація, зеленіння та гребенева посадка", "description": "Пророщування на світлі (яровизація 20-30 днів), зеленіння (накопичення соланіну), посадка у гребені висотою 20-25 см, густота (45 000-50 000 бульб/га)." },
+      "en": { "title": "Chitting, Greening and Ridge Planting", "description": "Sprouting on light (chitting), solanine greening, ridge planting (20-25cm height), planting density." }
+    },
+    {
+      "slug": "zhyvlennia-kalii-ta-pidhortannia",
+      "filename": "04-zhyvlennia-kalii-ta-pidhortannia.md",
+      "uk": { "title": "Живлення: Роль Калію (безхлорного) та Підгортання", "description": "Винос N-P-K-Mg, чутливість до Хлору (використання тільки K₂SO₄!), гребеневе підгортання (підгортання 2-3 рази), зрошення." },
+      "en": { "title": "Nutrition: Sulphate of Potash and Hilling", "description": "N-P-K-Mg demands, Chloride sensitivity (Sulphate of Potash), ridge hilling, irrigation management." }
+    },
+    {
+      "slug": "khvoroby-fitoftoroz-ryzoktonioz",
+      "filename": "05-khvoroby-fitoftoroz-ryzoktonioz.md",
+      "uk": { "title": "Хвороби: Фітофтороз, Ризоктоніоз, Парша", "description": "Фітофтороз (*Phytophthora infestans*), ризоктоніоз (чорна парша *Rhizoctonia solani*), звичайна парша (*Streptomyces*), протруєння бульб." },
+      "en": { "title": "Late Blight, Rhizoctonia and Scab", "description": "Late Blight (*Phytophthora*), Rhizoctonia black scab, Common Scab, seed tuber treatment." }
+    },
+    {
+      "slug": "shkidnyky-koloradskyi-zhuk-drotianyk",
+      "filename": "06-shkidnyky-koloradskyi-zhuk-drotianyk.md",
+      "uk": { "title": "Шкідники: Колорадський жук, Дротяник, Капустянка", "description": "Колорадський жук (схеми протруєння Селест Топ, Престиж, системні обробки Кораген), дротяник (личинки коваликів), стеблова нематода." },
+      "en": { "title": "Colorado Beetle and Wireworm Control", "description": "Colorado potato beetle (Celest Top seed dressing, Coragen), wireworms (*Click beetles*), nematodes." }
+    },
+    {
+      "slug": "zbir-desikatsiya-storage",
+      "filename": "07-zbir-desikatsiya-storage.md",
+      "uk": { "title": "Десикація бадилля, збір та Зберігання (+2...+4°C)", "description": "Хімічна десикація бадилля (*Реглон Super* / *Дикват*), скашування за 14 днів до збору для огрубіння шкірки, фаза лікування та зберігання (+2...+4°C)." },
+      "en": { "title": "Desiccation, Harvest and Cold Storage (+2-4°C)", "description": "Haulm desiccation (Diquat), skin set period (14 days), curing phase, winter storage (+2-4°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

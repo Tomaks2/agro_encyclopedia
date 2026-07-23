@@ -1,0 +1,73 @@
+{
+  "slug": "tomat",
+  "emoji": "🍅",
+  "image": "/images/cultures/tomat.jpg",
+  "color": "#dc2626",
+  "colorLight": "#fee2e2",
+  "uk": {
+    "name": "Томат (Помідор)",
+    "latinName": "Solanum lycopersicum L.",
+    "tagline": "Від детермінантних сортів відкритого ґрунту до високорослих індетермінантних гібридів",
+    "description": "Повний енциклопедичний довідник з вирощування томата. Біохімія лікопіну, каріологія, індетермінантні vs детермінантні типи, розсадна агротехніка, підв'язка, пасинкування, формування в 1-2 стебла, крапельна фертигація, захист від фітофторозу, кладоспоріозу, вершинної гнилі (Ca) та совки."
+  },
+  "en": {
+    "name": "Tomato",
+    "latinName": "Solanum lycopersicum L.",
+    "tagline": "From open-field determinate to greenhouse indeterminate hybrids",
+    "description": "Complete guide to tomato growing. Lycopene biochemistry, indeterminate vs determinate types, seedling technology, pruning/pruning, fertigation, protection against Late Blight, Cladosporium, blossom-end rot (Ca) and bollworm."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-likopin",
+      "filename": "01-biolohiya-ta-likopin.md",
+      "uk": { "title": "Біологія, анатомія та біохімія лікопіну", "description": "Диплоїдна геномна структура (2n=24), морфологія стебла, тип суцвіття (китиця), біохімія лікопіну та каротиноїдів, фенофази BBCH." },
+      "en": { "title": "Biology and Lycopene Biochemistry", "description": "Diploid genome (2n=24), stem morphology, truss types, lycopene synthesis, BBCH phenology." }
+    },
+    {
+      "slug": "khasyfikatsiia-indet-det",
+      "filename": "02-khasyfikatsiia-indet-det.md",
+      "uk": { "title": "Типи росту: Індетермінантні, Детермінантні та Штамбові", "description": "Індетермінантні (необмежений ріст) vs Детермінантні (вершкування) vs Напівдетермінантні. Сорти та гібриди F1 (Толстой, Сливка, Брісколі, Черрі)." },
+      "en": { "title": "Growth Habits: Indeterminate vs Determinate", "description": "Indeterminate vs Determinate vs Semi-determinate hybrids F1." }
+    },
+    {
+      "slug": "rozsada-ta-visiv",
+      "filename": "03-rozsada-ta-visiv.md",
+      "uk": { "title": "Розсадна технологія та температура", "description": "Касетне вирощування (касети 54-160 осередків), температурний режим (+22...25°C день / +16°C ніч), досвічування (DLI), гартування розсади." },
+      "en": { "title": "Seedling Production", "description": "Plug tray production, temperature control, supplemental lighting (DLI), hardening off." }
+    },
+    {
+      "slug": "formuvannia-pasynkuvannia",
+      "filename": "04-formuvannia-pasynkuvannia.md",
+      "uk": { "title": "Пасинкування та формування куща", "description": "Видалення бічних пагонів (пасинків), формування індетермінантів в 1 стебло, детермінантів у 2–3 стебла, нормування китиць, вершкування." },
+      "en": { "title": "Pruning and Trellising", "description": "Sucker removal (side shoots), single/double stem training, truss thinning, topping." }
+    },
+    {
+      "slug": "zhyvlennia-vershynna-hnyts",
+      "filename": "05-zhyvlennia-vershynna-hnyts.md",
+      "uk": { "title": "Живлення та профілактика Вершинної гнилі (Ca)", "description": "Потреба у N-P-K-Ca-Mg по фенофазах, розрахунок EC (1,8–2,8 mS/cm), розгалужена причина Вершинної гнилі плодів (Blossom-End Rot) та брак Кальцію." },
+      "en": { "title": "Nutrition and Blossom-End Rot Control", "description": "Stage-specific N-P-K-Ca-Mg requirements, EC targets, Calcium role in Blossom-End Rot prevention." }
+    },
+    {
+      "slug": "khvoroby-tomata",
+      "filename": "06-khvoroby-tomata.md",
+      "uk": { "title": "Хвороби томата: Фітофтороз, Кладоспоріоз, Альтернаріоз", "description": "Фітофтороз (*Phytophthora infestans*), бура плямистість / кладоспоріоз, суха плямистість / альтернаріоз, сіра гниль, вірус мозаїки томата." },
+      "en": { "title": "Diseases and Fungicides", "description": "Late blight (*Phytophthora infestans*), Leaf mold (Cladosporium), Alternaria, Grey mold, ToMV virus." }
+    },
+    {
+      "slug": "shkidnyky-tomata",
+      "filename": "07-shkidnyky-tomata.md",
+      "uk": { "title": "Шкідники: Бавовняна совка, Білокрилка, ТUTA Absoluta", "description": "Бавовняна совка (червивість плодів), томатна мінуюча міль (*Tuta absoluta*), теплична білокрилка, павутинний кліщ. Інсектициди та біометод." },
+      "en": { "title": "Pests and Control", "description": "Tomato fruitworm/bollworm, *Tuta absoluta*, greenhouse whitefly, spider mites." }
+    },
+    {
+      "slug": "zbir-dozryvannya-storage",
+      "filename": "08-zbir-dozryvannya-storage.md",
+      "uk": { "title": "Збір врожаю, дозарювання та зберігання", "description": "Стадії стиглості (зелена, бланжева, рожева, червона), газ Етилен для дозарювання, небезпека низьких температур (< +10°C — втрата аромату)." },
+      "en": { "title": "Harvest, Ripening and Storage", "description": "Maturity stages (Green, Breaker, Pink, Red), Ethylene degassing, chilling injury prevention." }
+    }
+  ],
+  "stats": {
+    "sections": 8,
+    "readTimeMinutes": 240
+  }
+}

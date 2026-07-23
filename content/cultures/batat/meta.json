@@ -1,0 +1,61 @@
+{
+  "slug": "batat",
+  "emoji": "🍠",
+  "image": "/images/cultures/batat.jpg",
+  "color": "#ea580c",
+  "colorLight": "#ffedd5",
+  "uk": {
+    "name": "Батат (Солодка картопля)",
+    "latinName": "Ipomoea batatas L.",
+    "tagline": "Від розмноження живцями (спроутами) до солодкого Brix 14° та прогріву Curing",
+    "description": "Повний енциклопедичний довідник з вирощування батата (солодкої картоплі). Тропічна біологія родини В'юнкові (Convolvulaceae), гіпертрофовані бічні корені, розмноження пророщеними живцями (спроутами), сортотипи (Ковард, Борегард, Вінницький рожевий, Бельву), тропічна теплолюбність (t > +20°C), крапельний полив, прогрів Curing (+30°C) для синтезу сахарози та зберігання."
+  },
+  "en": {
+    "name": "Sweet Potato (Batata)",
+    "latinName": "Ipomoea batatas L.",
+    "tagline": "Sprout cutting propagation, Beauregard varieties, Curing treatment for High Brix",
+    "description": "Complete guide to sweet potato (batata) production. Convolvulaceae tropical biology, tuberous root development, vegetative propagation via vine sprouts (slips), cultivars (Beauregard, Covington, Bellevue), heat requirements (> +20°C), drip fertigation, curing phase (+30°C for sucrose synthesis) and storage (+13-15°C)."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-sprouty",
+      "filename": "01-biolohiya-ta-sprouty.md",
+      "uk": { "title": "Ботанічна біологія та Накопичення вуглеводів", "description": "Гексаплоїдна геномна структура (2n=6x=90), лианоподібні стебла, утворення м'ясистих бульбоподібних коренів, відсутність вічок (розмноження спроутами), фенофази BBCH." },
+      "en": { "title": "Biology and Carbohydrate Accumulation", "description": "Hexaploid genome (2n=6x=90), vine habit, tuberous root development, absence of eyes (propagation via sprouts), BBCH phenology." }
+    },
+    {
+      "slug": "sorty-beauregard-covard",
+      "filename": "02-sorty-beauregard-covard.md",
+      "uk": { "title": "Класифікація сортів: Помаранчеві, Білі, Фіолетові", "description": "Провідні помаранчеві солодкі сорти (Борегард / Beauregard, Ковінгтон, Бельву), білі крохмалисті (О'Генрі), фіолетові (Пурпуровий)." },
+      "en": { "title": "Cultivar Types: Orange, White and Purple", "description": "Orange sweet cultivars (Beauregard, Covington, Bellevue), white starchy (O'Henry), purple-fleshed types." }
+    },
+    {
+      "slug": "vyroshchuvannya-sprouts-ta-visiv",
+      "filename": "03-vyroshchuvannya-sprouts-ta-visiv.md",
+      "uk": { "title": "Технологія вирощування Живців (Спроутів) та висадка", "description": "Пророщування маточних бульб у теплицях, нарізання зелених живців (спроутів 15-20 см), висаджування під чорну плівку у травні (t ґрунту > +18°C)." },
+      "en": { "title": "Sprout (Slip) Production and Planting", "description": "Mother root sprouting, green slip cutting (15-20cm length), field planting under black mulch film in May (soil t > +18°C)." }
+    },
+    {
+      "slug": "zhyvlennia-kalii-ta-poliv",
+      "filename": "04-zhyvlennia-kalii-ta-poliv.md",
+      "uk": { "title": "Живлення та регулювання форми коренеплодів", "description": "Винос N-P-K-Ca-Mg, обмеження Азоту (запобігання «жируванню» гички), високі дози Калію (K₂O) для потовщення бульб." },
+      "en": { "title": "Nutrition and Tuberous Root Shaping", "description": "N-P-K-Ca-Mg rates, Nitrogen limitation to avoid excess vine growth, high Potassium (Sulphate of Potash) for root filling." }
+    },
+    {
+      "slug": "khvoroby-ta-shkidnyky-batata",
+      "filename": "05-khvoroby-ta-shkidnyky-batata.md",
+      "uk": { "title": "Хвороби та шкідники батата", "description": "Чорна гниль (*Ceratocystis fimbriata*), фузаріозне в'янення, захист від дротяника, личинок хруща та павутинного кліща." },
+      "en": { "title": "Sweet Potato Diseases and Protection", "description": "Black rot (*Ceratocystis fimbriata*), Fusarium wilt, wireworm and May beetle grubs control." }
+    },
+    {
+      "slug": "zbir-curing-storage",
+      "filename": "06-zbir-curing-storage.md",
+      "uk": { "title": "Збір, лікувальний Curing (+30°C) та Зберігання", "description": "Збір до заморозків, критична технологія **Curing (+30°C при вологості 90% протягом 5-7 днів)** для перетворення крохмалю на цукор та заживлення шкірки, зберігання (+13...+15°C — заборона холодильників!)." },
+      "en": { "title": "Harvesting, Curing (+30°C) and Storage (+13-15°C)", "description": "Pre-frost harvesting, critical **Curing protocol (+30°C, 90% RH for 5-7 days)** for beta-amylase starch conversion to sucrose, storage (+13-15°C - cold storage prohibited!)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

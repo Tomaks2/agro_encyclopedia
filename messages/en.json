@@ -1,0 +1,66 @@
+{
+  "site": {
+    "name": "AgroEncyclopedia",
+    "tagline": "The Complete Ukrainian Gardener's Guide",
+    "description": "Practical knowledge on growing fruit trees, berries, and vegetables. From planting to harvest — everything a gardener needs to know."
+  },
+  "nav": {
+    "catalog": "Catalog",
+    "diagnostics": "Diagnostics",
+    "calendar": "Garden Calendar",
+    "search": "Search",
+    "home": "Home"
+  },
+  "home": {
+    "hero_title": "Agricultural Encyclopedia for Gardeners",
+    "hero_subtitle": "In-depth practical knowledge on fruit trees, berries, and vegetable gardens. Written for Ukrainian conditions.",
+    "search_placeholder": "Search: pruning, scab, grafting...",
+    "catalog_title": "Crops",
+    "catalog_subtitle": "Detailed guides from planting to harvest",
+    "coming_soon": "Coming soon",
+    "seasonal_title": "What to do now",
+    "seasonal_subtitle": "Current month"
+  },
+  "culture": {
+    "sections": "sections",
+    "read_time": "min read",
+    "read_offline": "Read offline",
+    "contents": "Contents",
+    "next_section": "Next section",
+    "prev_section": "Previous section",
+    "back_to_culture": "Back to guide"
+  },
+  "diagnostics": {
+    "title": "Problem Diagnostics",
+    "subtitle": "Identify a disease or pest step by step",
+    "start": "Start diagnostics",
+    "step_culture": "Which crop are we examining?",
+    "step_symptom": "Where is the problem observed?",
+    "step_details": "Specify symptoms",
+    "result_title": "Likely diagnosis",
+    "result_action": "Go to treatment section",
+    "restart": "Start over"
+  },
+  "calendar": {
+    "title": "Garden Calendar",
+    "subtitle": "What to do in the garden each month",
+    "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "filter_all": "All crops"
+  },
+  "search": {
+    "title": "Search",
+    "no_results": "Nothing found for query",
+    "results_count": "results",
+    "in_section": "in section"
+  },
+  "pwa": {
+    "install_title": "Install App",
+    "install_desc": "Add to home screen for quick access and offline use",
+    "install_btn": "Install",
+    "dismiss": "Later"
+  },
+  "footer": {
+    "about": "Practical guide for Ukrainian gardeners",
+    "copyright": "AgroEncyclopedia"
+  }
+}

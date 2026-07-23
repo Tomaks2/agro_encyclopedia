@@ -1,0 +1,61 @@
+{
+  "slug": "ahrus",
+  "emoji": "🍒",
+  "image": "/images/cultures/ahrus.jpg",
+  "color": "#166534",
+  "colorLight": "#f0fdf4",
+  "uk": {
+    "name": "Агрус",
+    "latinName": "Ribes uva-crispa L.",
+    "tagline": "Від великоплідних великошипних до безшипних сортів і штамбової культури",
+    "description": "Повний енциклопедичний довідник з вирощування агрусу. Ботанічна морфологія, класифікація за шипуватістю та кольором, сорти (Роднік, Неслухівський, Ксенія, Фінік), формування кущове та на штамбі, боротьба зі сферотекою (американською борошнистою росою) та вогневкою."
+  },
+  "en": {
+    "name": "Gooseberry",
+    "latinName": "Ribes uva-crispa L.",
+    "tagline": "Large-fruited spiny and thornless cultivars, bush and standard cultivation",
+    "description": "Complete guide to gooseberry growing. Botanical morphology, spineless vs spiny cultivars (Xenia, Neslukhivsky), bush and standard tree training, control of American gooseberry mildew (Sphaerotheca) and sawfly."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-shypy",
+      "filename": "01-biolohiya-ta-shypy.md",
+      "uk": { "title": "Ботанічна біологія та морфологія шипів", "description": "Будова куща, походження шипів (одинарні, 2-3-роздільні листові колючки), типи плодових утворень (букетні гілочки та кільчатки), фенофази BBCH." },
+      "en": { "title": "Biology and Spine Morphology", "description": "Bush structure, spine origin (single, double, triple nodal spines), fruiting wood types, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-ahrusu",
+      "filename": "02-sorty-ahrusu.md",
+      "uk": { "title": "Помологічні сорти та класифікація", "description": "Класифікація за забарвленням (червоні, зелені, жовті) та шипуватістю. Сорти: Ксенія (Xenia), Неслухівський, Роднік, Фінік, Малахіт, Уральський безшипний." },
+      "en": { "title": "Gooseberry Cultivars", "description": "Color and spine classification. Cultivars: Xenia, Neslukhivsky, Rodnik, Finik, Malachite." }
+    },
+    {
+      "slug": "obrizka-ta-shtamb",
+      "filename": "03-obrizka-ta-shtamb.md",
+      "uk": { "title": "Формування куща та Штамбова культура", "description": "Обрізка кущової форми (вирізка гілок старше 5–6 років), формування високодекоративного штамба на смородині золотистій (Ribes aureum)." },
+      "en": { "title": "Pruning Systems and Standards", "description": "Bush pruning (removal of 5-6yo canes), standard tree training on Ribes aureum rootstock." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia",
+      "filename": "04-zhyvlennia-fertyhatsiia.md",
+      "uk": { "title": "Живлення та удобрення агрусу", "description": "Винос елементів живлення, чутливість до хлору, азотно-калійний баланс для накопичення цукрів, позакореневі обробки." },
+      "en": { "title": "Nutrition and Fertilization", "description": "Nutrient requirements, chloride sensitivity, nitrogen-potassium balance for Brix." }
+    },
+    {
+      "slug": "khvoroba-sferoteka",
+      "filename": "05-khvoroba-sferoteka.md",
+      "uk": { "title": "Головна хвороба: Сферотека (Американська борошниста роса)", "description": "Сферотека (Podosphaera mors-uvae) — головний фактор лімітування агрусу. Симптоми («коричневий войлок» на ягодах), стійкі сорти, фунгіциди." },
+      "en": { "title": "American Gooseberry Mildew", "description": "Sphaerotheca (Podosphaera mors-uvae) mildew control, felt symptoms on berries, resistant cultivars, fungicides." }
+    },
+    {
+      "slug": "shkidnyky-ta-zbir",
+      "filename": "06-shkidnyky-ta-zbir.md",
+      "uk": { "title": "Шкідники, збір врожаю та використання", "description": "Агрусова вогневка (Zophodia grossulariella), агрусовий пильщик, технічна vs споживча стиглість, використання для переробки (царське варення)." },
+      "en": { "title": "Pests, Harvest and Uses", "description": "Gooseberry fruit worm, sawfly, technical vs ripe harvest standards, uses for processing." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

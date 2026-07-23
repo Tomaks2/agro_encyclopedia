@@ -1,0 +1,73 @@
+{
+  "slug": "perets",
+  "emoji": "🫑",
+  "image": "/images/cultures/perets.jpg",
+  "color": "#e11d48",
+  "colorLight": "#ffe4e6",
+  "uk": {
+    "name": "Перець солодкий та гіркий",
+    "latinName": "Capsicum annuum L.",
+    "tagline": "Від розсадної технології до видалення коронної квітки та формування у 2-3 стебла",
+    "description": "Повний енциклопедичний довідник з вирощування солодкого (болгарського) та гіркого перцю. Анатомія, класифікація плодів (кубоподібні, конусоподібні, гогошари, капі), чутливість кореневої системи до пікірування, формула фертигації N-P-K-Ca, вершинна гниль, захист від вірусу бронзовості (TSWV), трипсів та попелиці."
+  },
+  "en": {
+    "name": "Pepper (Sweet & Hot)",
+    "latinName": "Capsicum annuum L.",
+    "tagline": "From seedling sensitivity to crown flower removal and 2-3 stem training",
+    "description": "Complete guide to sweet and hot pepper cultivation. Morphology, blocky/conical/kapia fruit classification, root sensitivity, N-P-K-Ca fertigation, Blossom-End Rot, protection against TSWV virus, thrips and aphids."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-kapsaitsyn",
+      "filename": "01-biolohiya-ta-kapsaitsyn.md",
+      "uk": { "title": "Ботанічна біологія та хімія капсаїцину", "description": "Диплоїдна геномна структура (2n=24), анатомія стебла, біохімія капсаїцину (гострота по шкалі Сковілла), фенофази BBCH." },
+      "en": { "title": "Biology and Capsaicin Chemistry", "description": "Diploid genome (2n=24), stem anatomy, capsaicin biochemistry (Scoville scale), BBCH phenology." }
+    },
+    {
+      "slug": "klasifikatsiia-typy-plodiv",
+      "filename": "02-klasifikatsiia-typy-plodiv.md",
+      "uk": { "title": "Класифікація плодів: Кубоподібні, Конусоподібні, Капі, Гогошари", "description": "Помологічні типи плодів, товщина стінки (6-10 мм), сорти та гібриди F1 (Клаудіо, Геркулес, Мазурка, Портокало, Гостроносик)." },
+      "en": { "title": "Fruit Types and Cultivars", "description": "Blocky, Conical, Kapia, Ratund fruit types, wall thickness, F1 hybrids." }
+    },
+    {
+      "slug": "rozsada-chutlyvist-korenia",
+      "filename": "03-rozsada-chutlyvist-korenia.md",
+      "uk": { "title": "Розсадна технологія та чутливість коріння", "description": "Вимоги до t ґрунту (+24...28°C!), чутливість коріння до пікірування (посів прямо в касети 54-77), гартування та вік розсади." },
+      "en": { "title": "Seedling Technology and Root Sensitivity", "description": "High temperature requirements (+24-28°C), transplant shock prevention, direct cassette sowing." }
+    },
+    {
+      "slug": "formuvannia-koronna-kvitka",
+      "filename": "04-formuvannia-koronna-kvitka.md",
+      "uk": { "title": "Видалення коронної квітки та формування у 2-3 стебла", "description": "Видалення першої (коронної) квітки у першому розгалуженні (V-форк), формування куща в 2-3 скелетні стебла, нормування зав'язі." },
+      "en": { "title": "Crown Flower Removal and Pruning", "description": "First (crown) flower removal in V-fork, 2-3 stem trellis training, load management." }
+    },
+    {
+      "slug": "zhyvlennia-vershynna-hnyts",
+      "filename": "05-zhyvlennia-vershynna-hnyts.md",
+      "uk": { "title": "Живлення та вершинна гниль плодів (Ca)", "description": "Винос N-P-K-Ca-Mg по фенофазах, EC розчину (1,8-2,5 mS/cm), профілактика Вершинної гнилі (Blossom-End Rot), магнієвий хлороз." },
+      "en": { "title": "Nutrition and Blossom-End Rot", "description": "Stage N-P-K-Ca-Mg rates, EC targets, Calcium role in Blossom-End Rot, Magnesium chlorosis." }
+    },
+    {
+      "slug": "khvoroby-pertsiu",
+      "filename": "06-khvoroby-pertsiu.md",
+      "uk": { "title": "Хвороби: Вертицильоз, Альтернаріоз, Вірус бронзовості (TSWV)", "description": "Вертицильозне в'янення, альтернаріозчна гниль плодів, сіра гниль, вірус плямистого в'янення / бронзовості (TSWV — переноситься трипсами)." },
+      "en": { "title": "Diseases and TSWV Virus", "description": "Verticillium wilt, Alternaria fruit rot, Tomato Spotted Wilt Virus (TSWV)." }
+    },
+    {
+      "slug": "shkidnyky-pertsiu",
+      "filename": "07-shkidnyky-pertsiu.md",
+      "uk": { "title": "Шкідники: Трипси, Попелиця, Павутинний кліщ", "description": "Західний квітковий трипс (вектор TSWV), персикова та бавовняна попелиці, павутинний кліщ. Схеми захисту та біометод." },
+      "en": { "title": "Pests and Biocontrol", "description": "Western flower thrips, peach aphid, spider mites. Chemical schemes and biocontrol." }
+    },
+    {
+      "slug": "zbir-dozryvannya-storage",
+      "filename": "08-zbir-dozryvannya-storage.md",
+      "uk": { "title": "Збір у технічній та біологічній стиглості", "description": "Технічна (зелена/жовта) vs Біологічна (червона/помаранчева) стиглість, параметри зберігання (+8...+10°C) та MAP-пакети." },
+      "en": { "title": "Harvest, Technical vs Botanical Ripeness", "description": "Green (Technical) vs Red (Botanical) ripeness, storage parameters (+8-10°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 8,
+    "readTimeMinutes": 240
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "tsybulia",
+  "emoji": "🧅",
+  "image": "/images/cultures/tsybulia.jpg",
+  "color": "#d97706",
+  "colorLight": "#fef3c7",
+  "uk": {
+    "name": "Цибуля ріпчаста",
+    "latinName": "Allium cepa L.",
+    "tagline": "Від прямого висіву насіння та фотоперіодизму до просушування шийки та тривалого зберігання",
+    "description": "Повний енциклопедичний довідник з вирощування ріпчастої цибулі. Морфологія денця та соковитих лусок, фотоперіодична реакція на довжину дня (15-16 годин), технологія прямого висіву чорнушкою vs сіянка (севок), класифікація сортів та гібридів (Манас F1, Доркас F1, Ексібішен, Ред Барон), фертигація, захист від пероноспорозу та тютюнового трипса, дозрівання та просушування шийки."
+  },
+  "en": {
+    "name": "Onion",
+    "latinName": "Allium cepa L.",
+    "tagline": "Photoperiodism, direct black-seed sowing, Downy Mildew and Thrips protection",
+    "description": "Complete guide to onion production. Morphology, photoperiodic reaction (long-day 15-16h), direct seed sowing vs sets, cultivars (Manas F1, Exhibition, Red Baron), fertigation, protection against Downy Mildew (*Peronospora*) and Tobacco Thrips, neck curing and long storage."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-fotoperiodyzm",
+      "filename": "01-biolohiya-ta-fotoperiodyzm.md",
+      "uk": { "title": "Ботанічна біологія та Фотоперіодизм", "description": "Диплоїдна геномна структура (2n=16), будова денця та лусок, критична роль тривалості світлового дня (15-16 годин для форми цибулини), фенофази BBCH." },
+      "en": { "title": "Biology and Photoperiodism", "description": "Diploid genome (2n=16), basal plate anatomy, long-day photoperiodic response (15-16h daylight), BBCH phenology." }
+    },
+    {
+      "slug": "sortotypy-manas-exhibition-red-baron",
+      "filename": "02-sortotypy-manas-exhibition-red-baron.md",
+      "uk": { "title": "Сортотипи: Жовта гостра, Солодка іспанська, Червона", "description": "Довгоденні гібриди для зберігання (Манас F1, Доркас F1), салатна гігантська Ексібішен (до 1 кг!), червоні солодкі (Ред Барон, Ампфора F1)." },
+      "en": { "title": "Varietal Types: Storage, Spanish Sweet and Red", "description": "Long-day storage hybrids (Manas F1, Dorkas F1), giant sweet Exhibition (up to 1kg), red sweet types (Red Baron)." }
+    },
+    {
+      "slug": "visiv-chornushka-vs-siyanka",
+      "filename": "03-visiv-chornushka-vs-siyanka.md",
+      "uk": { "title": "Прямий висів чорнушкою vs Посадка сіянкою", "description": "Промисловий висів насіння (чорнушки) сівалками точного висіву (1,0-1,2 млн насінин/га) vs посадка сіянкою (севок), глибина та норми." },
+      "en": { "title": "Direct Seed Sowing vs Onion Sets", "description": "Commercial black-seed precision drilling (1.0-1.2 million seeds/ha) vs planting onion sets, depth and seeding rates." }
+    },
+    {
+      "slug": "zhyvlennia-sirka-ta-poliv",
+      "filename": "04-zhyvlennia-sirka-ta-poliv.md",
+      "uk": { "title": "Живлення: Роль Сірки (S) та режим зрошення", "description": "Винос N-P-K-S, роль Сірки (S) у формуванні гостроти та ароматичних олій, припинення поливу за 20 днів до збору для визрівання лусок." },
+      "en": { "title": "Nutrition: Sulphur Role and Irrigation", "description": "N-P-K-S requirements, Sulphur role in pungency and essential oils, irrigation cut-off 20 days before harvest." }
+    },
+    {
+      "slug": "khvoroby-peronosporoz-shyykova-hnyts",
+      "filename": "05-khvoroby-peronosporoz-shyykova-hnyts.md",
+      "uk": { "title": "Хвороби: Пероноспороз та Шийкова гниль", "description": "Несправжня борошниста роса (*Peronospora destructor*), шийкова гниль (*Botrytis allii*), фузаріозне в'янення донця, фунгіциди (*Рідоміл Ґолд*, *Сігнум*)." },
+      "en": { "title": "Downy Mildew and Neck Rot", "description": "Downy Mildew (*Peronospora destructor*), Botrytis neck rot (*Botrytis allii*), Fusarium basal rot, fungicide programs." }
+    },
+    {
+      "slug": "shkidnyky-tiutiunovyi-tryps-mukha",
+      "filename": "06-shkidnyky-tiutiunovyi-tryps-mukha.md",
+      "uk": { "title": "Шкідники: Тютюновий трипс та Цибулева муха", "description": "Тютюновий трипс (*Thrips tabaci* — сріблясті смуги на пері), цибулева муха (*Delia antiqua*), інсектицидні схеми захисту (*Ексірель*, *Енвідор*)." },
+      "en": { "title": "Tobacco Thrips and Onion Fly", "description": "Tobacco thrips (*Thrips tabaci* silver streaks), onion fly (*Delia antiqua*), chemical control protocols." }
+    },
+    {
+      "slug": "zbyr-polihannya-ta-prosyushuvannya",
+      "filename": "07-zbyr-polihannya-ta-prosyushuvannya.md",
+      "uk": { "title": "Вилягання пера, підрізання та Просушування шийки", "description": "Сигнал збору (вилягання 70-80% пера), механізоване підрізання донця, дозрівання у валках, тонке закриття шийки, зберігання (+0...+1°C)." },
+      "en": { "title": "Foliage Top-Down and Neck Curing", "description": "Harvest trigger (70-80% top fall-over), undercut harvesting, windrow curing, thin neck sealing, cold storage (+0-1°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}

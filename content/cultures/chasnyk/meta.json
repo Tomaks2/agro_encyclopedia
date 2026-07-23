@@ -1,0 +1,61 @@
+{
+  "slug": "chasnyk",
+  "emoji": "🧄",
+  "image": "/images/cultures/chasnyk.jpg",
+  "color": "#78350f",
+  "colorLight": "#fef3c7",
+  "uk": {
+    "name": "Часник",
+    "latinName": "Allium sativum L.",
+    "tagline": "Від озимого стрілкуючого сорту Любаша до виламки стрілок та повітряних бульбочок",
+    "description": "Повний енциклопедичний довідник з вирощування часнику. Біологія озимого (стрілкуючого) та ярого (нестрілкуючого) часнику, кращі сорти (Любаша, Софіївський, Дюшес, Ірен), розмноження зубками, однозубками та повітряними бульбочками (воздушка), видалення стрілок у фазі кільця, захист від фузаріозу донця, нематоди та зберігання."
+  },
+  "en": {
+    "name": "Garlic",
+    "latinName": "Allium sativum L.",
+    "tagline": "Hardneck vs Softneck types, scape removal, bulbils propagation and Fusarium control",
+    "description": "Complete guide to garlic production. Hardneck (bolting) vs Softneck (non-bolting) garlic biology, cultivars (Lyubasha, Sofiyivsky), propagation via cloves, round single-cloves and bulbils (scapes), scape snapping at ring stage, Fusarium basal rot and stem nematode control, long storage."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ozymyi-vs-yaryi",
+      "filename": "01-biolohiya-ozymyi-vs-yaryi.md",
+      "uk": { "title": "Ботанічна біологія: Озимий vs Ярий часник", "description": "Диплоїдна геномна структура (2n=16), озимий стрілкуючий (Hardneck) vs ярий нестрілкуючий (Softneck), анатомія зубка, фенофази BBCH." },
+      "en": { "title": "Biology: Hardneck vs Softneck Garlic", "description": "Diploid genome (2n=16), Hardneck (bolting) vs Softneck (non-bolting) morphology, clove anatomy, BBCH phenology." }
+    },
+    {
+      "slug": "sorty-liubasha-sofiivskyi",
+      "filename": "02-sorty-liubasha-sofiivskyi.md",
+      "uk": { "title": "Провідні сорти: Любаша, Софіївський, Дюшес", "description": "Легендарні озимі сорти української селекції (Любаша, Софіївський — маса головки до 100-120 г, 4-7 великих зубків), ярі сорти (Харківський)." },
+      "en": { "title": "Garlic Cultivars: Lyubasha, Sofiyivsky", "description": "Famous Ukrainian hardneck cultivars (Lyubasha, Sofiyivsky - 100-120g bulb weight, 4-7 large cloves), softneck spring types." }
+    },
+    {
+      "slug": "rozmnozhennia-zubky-odnozubky-bulbochky",
+      "filename": "03-rozmnozhennia-zubky-odnozubky-bulbochky.md",
+      "uk": { "title": "Розмноження: Зубки, Однозубки та Бульбочки (Воздушка)", "description": "Трирічна схема відновлення посадкового матеріалу: Повітряна бульбочка ──► Однозубка (Однозубка) ──► Товарна багатозубкова головка." },
+      "en": { "title": "Propagation: Cloves, Single-Cloves and Bulbils", "description": "3-year propagation clean-up cycle: Aerial bulbil ──► Round single-clove (Solo garlic) ──► Multi-clove market bulb." }
+    },
+    {
+      "slug": "vylamka-strilok-ta-posadka",
+      "filename": "04-vylamka-strilok-ta-posadka.md",
+      "uk": { "title": "Озима посадка та Критична Виламка стрілок", "description": "Озима посадка (жовтень-листопад, глибина 6-8 см), густота (250 000–300 000 зубків/га), виламка квітконосних стрілок у фазі кільця (+30% до врожаю!)." },
+      "en": { "title": "Autumn Planting and Scape Snapping", "description": "Autumn planting (Oct-Nov, 6-8cm depth), density, floral scape snapping at ring stage (+30% yield boost!)." }
+    },
+    {
+      "slug": "khvoroby-fuzarioz-ta-nematoda",
+      "filename": "05-khvoroby-fuzarioz-ta-nematoda.md",
+      "uk": { "title": "Хвороби та шкідники: Фузаріоз, Нематода, Пеніцильоз", "description": "Фузаріозна гниль донця (*Fusarium oxysporum*), стеблова нематода (*Ditylenchus dipsaci*), блакитна цвіль (*Penicillium*), протруєння зубків." },
+      "en": { "title": "Fusarium Rot, Stem Nematode and Penicillium", "description": "Fusarium basal rot (*Fusarium oxysporum*), stem nematode (*Ditylenchus dipsaci*), blue mold (*Penicillium*), clove seed treatment." }
+    },
+    {
+      "slug": "zbir-prosyushuvannya-storage",
+      "filename": "06-zbir-prosyushuvannya-storage.md",
+      "uk": { "title": "Збір, підрізання коренів та Зберігання", "description": "Сигнал збору (пожовтіння нижніх 3-4 листків, розтріскування обгортки суцвіття), польове просушування, обрізання стебла та коріння, зберігання (-2...+1°C)." },
+      "en": { "title": "Harvesting, Trimming and Cold Storage (-2...+1°C)", "description": "Harvest trigger (lower 3-4 leaves browning), windrow drying, stem/root trimming, cold storage (-2...+1°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

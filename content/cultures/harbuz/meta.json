@@ -1,0 +1,61 @@
+{
+  "slug": "harbuz",
+  "emoji": "🎃",
+  "image": "/images/cultures/harbuz.jpg",
+  "color": "#ea580c",
+  "colorLight": "#ffedd5",
+  "uk": {
+    "name": "Гарбуз",
+    "latinName": "Cucurbita maxima / Cucurbita moschata",
+    "tagline": "Від великоплідних до мускатних сортів із високим вмістом каротину та довготривалим зберіганням",
+    "description": "Повний енциклопедичний довідник з вирощування гарбуза. Морфологія, геномна класифікація (Великоплідний, Мускатний, Твердокорий), провідні сорти (Гілея, Баттернат / Матильда F1, Жовтий велетень, Волоський), крапельний полив, накопичення крохмалю та цукрів, лежкість взимку."
+  },
+  "en": {
+    "name": "Pumpkin and Butternut Squash",
+    "latinName": "Cucurbita maxima / Cucurbita moschata",
+    "tagline": "Giant and Butternut squash varieties, carotene synthesis and winter storage",
+    "description": "Complete guide to pumpkin and squash cultivation. Morphology, species (C. maxima, C. moschata, C. pepo), cultivars (Butternut Matilda F1, Gilea), fertigation, starch-to-sugar conversion, winter storage."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-vydy",
+      "filename": "01-biolohiya-ta-vydy.md",
+      "uk": { "title": "Ботанічна біологія та класифікація видів", "description": "Диплоїдна геномна структура (2n=40), три види гарбуза: Великоплідний (*C. maxima*), Мускатний (*C. moschata*) та Твердокорий (*C. pepo*), фенофази BBCH." },
+      "en": { "title": "Biology and Species Classification", "description": "Diploid genome (2n=40), three main species (C. maxima, C. moschata, C. pepo), BBCH phenology." }
+    },
+    {
+      "slug": "sorty-muskatni-ta-velykoplidni",
+      "filename": "02-sorty-muskatni-ta-velykoplidni.md",
+      "uk": { "title": "Класифікація сортів: Мускатні, Баттернат, Великоплідні", "description": "Мускатні грушоподібні (Баттернат, Матильда F1, Гілея), Великоплідні (Жовтий велетень, Стофунтовий), Голонасінні для олії." },
+      "en": { "title": "Squash and Pumpkin Cultivars", "description": "Butternut cultivars (Matilda F1, Gilea), Giant Pumpkins, Naked-seeded oil varieties." }
+    },
+    {
+      "slug": "visiv-ta-shema-posadky",
+      "filename": "03-visiv-ta-shema-posadky.md",
+      "uk": { "title": "Висів, густота та формування батогов", "description": "Прямий висів у ґрунт при t > +12...+14°C, площа живлення (3,0-4,0 м² на рослину), прищипування батогов над 2-м плодом." },
+      "en": { "title": "Sowing, Density and Vine Pruning", "description": "Direct sowing at soil t > +12-14°C, large spacing (3-4 m²/plant), vine tipping above 2nd fruit." }
+    },
+    {
+      "slug": "zhyvlennia-ta-karotyn",
+      "filename": "04-zhyvlennia-ta-karotyn.md",
+      "uk": { "title": "Живлення та біохімія синтезу Каротину", "description": "Винос N-P-K-Mg, роль Фосфору та Калію для визрівання кори, синтез бета-каротину у мускатних сортів." },
+      "en": { "title": "Nutrition and Carotene Synthesis", "description": "Nutrient requirements, Phosphorus and Potassium for rind hardening, beta-carotene synthesis." }
+    },
+    {
+      "slug": "khvoroby-ta-shkidnyky",
+      "filename": "05-khvoroby-ta-shkidnyky.md",
+      "uk": { "title": "Хвороби та шкідники гарбуза", "description": "Борошниста роса (*Podosphaera*), бактериоз плодів, антракноз, біла гниль (склеротиніоз), захист від попелиці та дротяника." },
+      "en": { "title": "Diseases and Protection", "description": "Powdery Mildew, fruit bacteriosis, anthracnose, Sclerotinia white rot, protection." }
+    },
+    {
+      "slug": "zbir-dostihannya-storage",
+      "filename": "06-zbir-dostihannya-storage.md",
+      "uk": { "title": "Ознаки визрівання кори та зимове зберігання", "description": "Ознаки стиглості (одерев'яніння плодоніжки, твердість кори, сортовий візерунок), лікування ран (Curing), довготривале зберігання при +10...+12°C взимку." },
+      "en": { "title": "Curing and Long-term Winter Storage", "description": "Maturity indicators (woody peduncle, hard rind), curing process, winter storage (+10-12°C)." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

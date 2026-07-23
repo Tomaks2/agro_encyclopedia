@@ -1,0 +1,61 @@
+{
+  "slug": "ozhyna",
+  "emoji": "🖤",
+  "image": "/images/cultures/ozhyna.jpg",
+  "color": "#111827",
+  "colorLight": "#f3f4f6",
+  "uk": {
+    "name": "Ожина садова",
+    "latinName": "Rubus fruticosus L.",
+    "tagline": "Від безколючкових пряморослих сортів до поворотної шпалери RCA",
+    "description": "Повний довідник з комерційного вирощування ожини садової. Анатомія пагона, класифікація сортів (Торнфрі, Блек Сатін, Честер, Натчез, Карака Блек, Гай, Рубен), поворотна шпалера RCA, живлення, боротьба з білоклітинністю (ожиновий кліщ) та пурпуровою плямистістю."
+  },
+  "en": {
+    "name": "Blackberry",
+    "latinName": "Rubus fruticosus L.",
+    "tagline": "Thornless cultivars and Rotating Cross-Arm (RCA) trellis management",
+    "description": "Complete guide to commercial blackberry growing. Shoot anatomy, cultivars (Thornfree, Chester, Natchez, Karaka Black, Reuben), RCA rotating trellis, nutrition, red berry mite control and storage."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-та-hrupy-sortiv",
+      "filename": "01-biolohiya-та-hrupy-sortiv.md",
+      "uk": { "title": "Біологія та групи сортів: Куманіка, Росиника, Напівсланкі", "description": "Анатомія двохрічного стебла, класифікація за типом росту (Пряморослі / Сланкі / Напівсланкі) та відсутністю колючок." },
+      "en": { "title": "Biology and Growth Habits", "description": "Erect (Erect-caned), Semi-erect and Trailing types, thornless anatomy." }
+    },
+    {
+      "slug": "sorty-ozhyny-ta-hibrydy",
+      "filename": "02-sorty-ozhyny-ta-hibrydy.md",
+      "uk": { "title": "Помологічні сорти ожини та міжвидові гібриди", "description": "Безколючкові класичні (Честер, Торнфрі, Лох Тей), великоплідні ранні (Натчез, Карака Блек) та ремонтантні (Рубен, Прайм-Арк)." },
+      "en": { "title": "Cultivars and Hybrids", "description": "Thornless varieties (Chester, Loch Tay), early large-fruited (Natchez, Karaka Black) and primocane types." }
+    },
+    {
+      "slug": "povorotna-shpalera-rca-obrizka",
+      "filename": "03-povorotna-shpalera-rca-obrizka.md",
+      "uk": { "title": "Поворотна шпалера RCA та обрізка", "description": "Технологія поворотної шпалери Rotating Cross-Arm (RCA) для захисту від зимового вимерзання, прищипування бічних пагонів (чеканка)." },
+      "en": { "title": "RCA Rotating Trellis and Pruning", "description": "Rotating Cross-Arm (RCA) trellis system for winter protection, lateral tipping." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia-ozhyny",
+      "filename": "04-zhyvlennia-fertyhatsiia-ozhyny.md",
+      "uk": { "title": "Живлення та фертигація ожини", "description": "Формула N-P-K по фенофазах, роль Кальцію для запобігання розм'якшення та «протікання соку», баланс EC/pH." },
+      "en": { "title": "Nutrition and Fertigation", "description": "N-P-K formulas by stage, Calcium role in fruit firmness, EC/pH targets." }
+    },
+    {
+      "slug": "khvoroby-ta-shkidnyky-ozhyny",
+      "filename": "05-khvoroby-ta-shkidnyky-ozhyny.md",
+      "uk": { "title": "Хвороби та шкідники: Ожиновий кліщ (Redberry Mite)", "description": "Причина «білоклітинності» плодів (Acalitus essigi), пурпурова плямистість стебел, антракноз, антракноз ягоди." },
+      "en": { "title": "Diseases and Redberry Mite", "description": "Redberry mite (Acalitus essigi) causing uneven ripening, Didymella, anthracnose." }
+    },
+    {
+      "slug": "zbir-охлодження-зберігання",
+      "filename": "06-zbir-охлодження-зберігання.md",
+      "uk": { "title": "Збір, охолодження та постзбиральна логістика", "description": "Стадії стиглості (Chiny-black vs Dull-black), Forced-Air Cooling (+1°C), пакування та зберігання в MAP." },
+      "en": { "title": "Harvest, Cooling and Storage", "description": "Ripening stages (Shiny-black vs Dull-black), Forced-Air Cooling (+1°C), MAP packaging." }
+    }
+  ],
+  "stats": {
+    "sections": 6,
+    "readTimeMinutes": 180
+  }
+}

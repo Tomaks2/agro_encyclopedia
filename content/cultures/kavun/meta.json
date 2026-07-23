@@ -1,0 +1,67 @@
+{
+  "slug": "kavun",
+  "emoji": "🍉",
+  "image": "/images/cultures/kavun.jpg",
+  "color": "#15803d",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Кавун",
+    "latinName": "Citrullus lanatus Thunb.",
+    "tagline": "Від щеплення на Лагенарію до цукристості 13° Brix та захисту від фузаріозу",
+    "description": "Повний енциклопедичний довідник з вирощування кавуна. Анатомія, теплолюбність, технологія щеплення на підщепи (Лагенарія / Міжвидовий гарбуз F1), класифікація сортів та гібридів (Продюсер, Топ Ґан F1, Прімголд F1 - жовтом'який), зрошення, крапельна фертигація, захист від фузаріозного в'янення та антракнозу."
+  },
+  "en": {
+    "name": "Watermelon",
+    "latinName": "Citrullus lanatus Thunb.",
+    "tagline": "From Lagenaria grafting to 13° Brix sweetness and Fusarium wilt control",
+    "description": "Complete guide to watermelon production. Morphology, heat demands, grafting on Lagenaria/interspecific pumpkin rootstocks, cultivars (Top Gun, Producer, Yellow-fleshed Prim-gold F1), fertigation, protection against Fusarium wilt and anthracnose."
+  },
+  "sections": [
+    {
+      "slug": "biolohiya-ta-tsukry",
+      "filename": "01-biolohiya-ta-tsukry.md",
+      "uk": { "title": "Ботанічна біологія та накопичення цукрів", "description": "Диплоїдна геномна структура (2n=22), лианоподібне стебло, глибока коренева система, біохімія накопичення сахарози та лікопіну, фенофази BBCH." },
+      "en": { "title": "Biology and Sugar Accumulation", "description": "Diploid genome (2n=22), vine anatomy, deep taproot, sucrose and lycopene synthesis, BBCH phenology." }
+    },
+    {
+      "slug": "shcheplennia-na-pidshchepy",
+      "filename": "01-shcheplennia-na-pidshchepy.md",
+      "uk": { "title": "Технологія щеплення кавуна (Grafting)", "description": "Чому кавун щеплюють на Лагенарію (*Lagenaria siceraria*) або міжвидовий гарбуз (*Cucurbita maxima × C. moschata*)? 100% захист від фузаріозу та холодостійкість коріння." },
+      "en": { "title": "Watermelon Grafting Technology", "description": "Grafting on Lagenaria or interspecific pumpkin rootstocks for 100% Fusarium immunity and cold tolerance." }
+    },
+    {
+      "slug": "sorty-chervoni-ta-zhovti",
+      "filename": "02-sorty-chervoni-ta-zhovti.md",
+      "uk": { "title": "Класифікація сортів: Червоні, Жовті, Безнасінні", "description": "Класичні смугасті (Продюсер, Топ Ґан F1, Паксон F1), темно-зелені (Ортана F1), безрозсадні та жовтом'які гібриди (Прімголд F1, Янусик)." },
+      "en": { "title": "Cultivars: Red, Yellow and Seedless", "description": "Striped (Top Gun F1), dark green (Ortana F1), seedless triploids and yellow-fleshed hybrids." }
+    },
+    {
+      "slug": "visiv-ta-krapelne-zroshennia",
+      "filename": "03-visiv-ta-krapelne-zroshennia.md",
+      "uk": { "title": "Розсада, висів у термоплівку та полив", "description": "Висаджування під термоплівку «Мульча» та укривний матеріал «Термо-дуги», схема густоти (6 000–8 000 рос/га), крапельний полив." },
+      "en": { "title": "Sowing, Mulching and Drip Irrigation", "description": "Raised beds with plastic mulch, low tunnels, plant density (6000-8000/ha), drip irrigation." }
+    },
+    {
+      "slug": "zhyvlennia-fertyhatsiia",
+      "filename": "04-zhyvlennia-fertyhatsiia.md",
+      "uk": { "title": "Живлення та фертигація для Brix > 12°", "description": "Винос N-P-K-Mg, роль Калію (K₂O) та Бору для цукристості плоду, припинення поливу за 10–12 днів до збору для накопичення цукру." },
+      "en": { "title": "Nutrition for High Brix (> 12°)", "description": "N-P-K-Mg requirements, Potassium and Boron roles in sweetness, irrigation cut-off 10-12 days before harvest." }
+    },
+    {
+      "slug": "khvoroby-fuzarioz-antraknoz",
+      "filename": "05-khvoroby-fuzarioz-antraknoz.md",
+      "uk": { "title": "Хвороби: Фузаріозне в'янення та Антракноз", "description": "Фузаріоз (*Fusarium oxysporum f. sp. niveum*), антракноз (*Colletotrichum orbiculare* — мідянка), борошниста роса, фунгіцидні схеми." },
+      "en": { "title": "Fusarium Wilt and Anthracnose", "description": "Fusarium wilt (*Fusarium oxysporum*), anthracnose (*Colletotrichum*), powdery mildew, protection." }
+    },
+    {
+      "slug": "zbir-oznaky-styglocti-storage",
+      "filename": "06-zbir-oznaky-styglocti-storage.md",
+      "uk": { "title": "Ознаки стиглості плоду та зберігання", "description": "Точні ознаки стиглості: глухий звук при постукуванні, засихання вусика та прилистка у пазусі, жовта «пляма лежні», зберігання." },
+      "en": { "title": "Ripeness Indicators and Storage", "description": "Harvest indicators: dull sound, dried tendril/stipule, yellow ground spot, cold storage." }
+    }
+  ],
+  "stats": {
+    "sections": 7,
+    "readTimeMinutes": 210
+  }
+}
