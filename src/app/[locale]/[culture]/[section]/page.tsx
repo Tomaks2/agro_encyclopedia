@@ -36,8 +36,7 @@ import LightboxImage from "@/components/mdx/LightboxImage";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import type { Metadata } from "next";
 
-export const dynamic = "force-static";
-export const dynamicParams = false;
+
 
 interface Props {
   params: Promise<{ locale: string; culture: string; section: string }>;

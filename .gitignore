@@ -30,8 +30,10 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# env files
 .env*
+.env.local
+.env.*.local
 
 # vercel
 .vercel
@@ -40,4 +42,33 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.vercel
+# temporary scripts (utility scripts at project root, not needed in git)
+build_11.js
+format_11.js
+check_hrusha.js
+clean_all_curly_braces.js
+clean_mdx_braces.js
+clean_vynograd_backslashes.js
+convert_schemes_in_chereshnia.js
+converter.js
+copy_guide.js
+copy_script.js
+css_append.js
+debug_slyva_page.js
+fix-hrusha.js
+fix-markdown.js
+fix-process.js
+fix_header.js
+fix_obrizka.js
+fix_page.js
+fix_search.js
+fix_vynograd_math.js
+missing_checker.js
+proofread.js
+remove_duplicate_hero_covers.js
+test_slyva_01.js
+append_rules.js
+images_list.txt
+список_фотографій_персик.md
+фото/
+locales.json

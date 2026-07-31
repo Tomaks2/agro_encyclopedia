@@ -14,7 +14,6 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/[locale]/[culture]/[section]": ["./content/cultures/**/*"],
     "/[locale]/[culture]": ["./content/cultures/**/*"],
-    "/api/search-index": ["./content/cultures/**/*"],
   },
   pageExtensions: ["js", "jsx", "md", "mdx", "ts", "tsx"],
   images: {

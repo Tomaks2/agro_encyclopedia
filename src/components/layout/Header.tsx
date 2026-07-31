@@ -168,7 +168,7 @@ function SearchModal({ onClose }: { onClose: () => void }) {
 
   // Load search index on open
   useEffect(() => {
-    fetch("/api/search-index")
+    fetch("/search-index.json")
       .then((res) => res.json())
       .then((data) => {
         fuseRef.current = new Fuse(data, {
