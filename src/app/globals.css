@@ -2147,22 +2147,10 @@ pre code {
    PHASE 2 COMPONENTS (VANILLA CSS)
 ═══════════════════════════════════════════════ */
 
-/* Table of Contents */
+/* Table of Contents (MDX inline component) */
+/* NOTE: fixed-right panel removed — navigation is already in the left sidebar (ActiveTOC) */
 .toc-container {
-  display: none;
-}
-@media (min-width: 1280px) {
-  .toc-container {
-    display: block;
-    position: fixed;
-    right: 2rem;
-    top: 8rem;
-    width: 16rem;
-    padding: 1rem;
-    border-left: 1px solid var(--color-border);
-    max-height: 70vh;
-    overflow-y: auto;
-  }
+  display: none; /* Hidden — TOC is shown in the left sidebar via ActiveTOC */
 }
 .toc-title {
   font-family: var(--font-serif);
