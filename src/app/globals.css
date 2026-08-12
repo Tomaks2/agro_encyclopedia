@@ -1094,6 +1094,16 @@ pre code {
   margin: 0 auto;
   padding: 2.5rem 1.5rem;
   align-items: start;
+  /* Prevent sidebar from overflowing into main content */
+  overflow: hidden;
+}
+
+.reading-layout > main {
+  min-width: 0;
+  overflow: hidden;
+  /* Ensure main content is always on top of sidebar */
+  position: relative;
+  z-index: 1;
 }
 
 .reading-sidebar {
@@ -1101,7 +1111,12 @@ pre code {
   top: calc(var(--header-height) + 2rem);
   max-height: calc(100vh - var(--header-height) - 4rem);
   overflow-y: auto;
+  overflow-x: hidden;
   padding-right: 1rem;
+  min-width: 0;
+  /* Ensure sidebar never overflows its grid column */
+  width: 100%;
+  z-index: 0;
 }
 
 .reading-content, .reading-layout > main { min-width: 0; }
