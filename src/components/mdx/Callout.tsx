@@ -1,4 +1,5 @@
 import React from 'react';
+import RevealOnScroll from '@/components/ui/RevealOnScroll';
 
 type CalloutType = 'tip' | 'warning' | 'info' | 'success' | 'danger' | 'note';
 
@@ -70,8 +71,9 @@ export const Callout = ({ type = 'tip', title, children }: CalloutProps) => {
   const cfg = CALLOUT_CONFIG[type as string] || CALLOUT_CONFIG['info'];
 
   return (
-    <div style={{
-      margin: '2.5rem 0',
+    <RevealOnScroll>
+      <div style={{
+        margin: '2.5rem 0',
       position: 'relative',
       borderRadius: '16px',
       overflow: 'visible',
@@ -122,7 +124,7 @@ export const Callout = ({ type = 'tip', title, children }: CalloutProps) => {
           {children}
         </div>
       </div>
-    </div>
+    </RevealOnScroll>
   );
 };
 
@@ -145,8 +147,9 @@ const INFO_COLORS = {
 export const InfoBlock = ({ icon = '📌', title, type = 'gold', children }: InfoBlockProps) => {
   const c = INFO_COLORS[type as keyof typeof INFO_COLORS] || INFO_COLORS.gold;
   return (
-    <div style={{
-      margin: '2rem 0',
+    <RevealOnScroll>
+      <div style={{
+        margin: '2rem 0',
       background: c.bg,
       border: `1px solid ${c.border}33`,
       borderLeft: `4px solid ${c.border}`,
@@ -184,5 +187,6 @@ export const InfoBlock = ({ icon = '📌', title, type = 'gold', children }: Inf
         {children}
       </div>
     </div>
+    </RevealOnScroll>
   );
 };

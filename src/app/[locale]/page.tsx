@@ -85,6 +85,7 @@ export default async function HomePage({
         {/* PREMIUM WOW HERO */}
         <section 
           aria-labelledby="hero-title"
+          className="hero-section"
           style={{
             position: "relative",
             minHeight: "min(85vh, 700px)",
@@ -93,29 +94,42 @@ export default async function HomePage({
             justifyContent: "center",
             overflow: "hidden",
             padding: "5rem 0 4rem",
-            background: "linear-gradient(135deg, var(--color-primary-dark) 0%, #0a140f 100%)"
           }}
         >
-          {/* Animated Mesh Gradient Background for WOW effect */}
-          <div style={{
-            position: "absolute",
-            top: "-50%", left: "-50%", width: "200%", height: "200%",
-            background: "radial-gradient(circle at 50% 50%, rgba(45, 92, 71, 0.4) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(184, 147, 62, 0.15) 0%, transparent 40%)",
-            animation: "spin 60s linear infinite",
-            zIndex: 0
-          }} />
+          {/* Parallax Image Background */}
+          <div 
+            className="hero-bg-image"
+            style={{
+              position: "absolute",
+              top: 0, left: 0, right: 0, bottom: 0,
+              backgroundImage: "url('/images/hero_bg.png')",
+              backgroundSize: "cover",
+              backgroundPosition: "center",
+              backgroundAttachment: "fixed", /* Parallax effect */
+              zIndex: 0,
+            }} 
+          />
+          {/* Deep dark gradient overlay for text readability */}
+          <div 
+            style={{
+              position: "absolute",
+              inset: 0,
+              background: "linear-gradient(to bottom, rgba(10, 20, 15, 0.6) 0%, rgba(10, 20, 15, 0.9) 100%)",
+              zIndex: 1,
+            }}
+          />
           <style dangerouslySetInnerHTML={{__html: `
-            @keyframes spin { 100% { transform: rotate(360deg); } }
             @media (max-width: 768px) {
               .hero-section-inner { padding: 2.5rem 1rem 2rem !important; }
               .hero-badge-wrap { margin-bottom: 1.25rem !important; }
               .hero-badge-text { font-size: 0.75rem !important; }
               .hero-main-title { font-size: clamp(2rem, 8vw, 3.5rem) !important; margin-bottom: 1rem !important; }
               .hero-main-sub { font-size: 1rem !important; margin-bottom: 2rem !important; }
+              .hero-bg-image { background-attachment: scroll !important; } /* Fix for mobile fixed background issues */
             }
           `}} />
 
-          <div className="container hero-section-inner" style={{ position: "relative", zIndex: 1, textAlign: "center", maxWidth: "900px", padding: "0" }}>
+          <div className="container hero-section-inner" style={{ position: "relative", zIndex: 2, textAlign: "center", maxWidth: "900px", padding: "0" }}>
             <div className="hero-badge animate-fade-in-up glass-panel hero-badge-wrap" style={{ display: "inline-flex", padding: "0.4rem 1rem", borderRadius: "99px", color: "var(--color-accent-light)", marginBottom: "2rem", backdropFilter: "blur(10px)" }}>
               <span style={{ marginRight: "0.5rem" }}>🌱</span>
               <span className="hero-badge-text" style={{ fontSize: "0.85rem", fontWeight: "600", textTransform: "uppercase", letterSpacing: "1px" }}>Аграрна Енциклопедія Садівника</span>
