@@ -49,6 +49,7 @@ const CATEGORIES = [
     color: "#b91c1c",
     gradient: "linear-gradient(135deg, #b91c1c, #7f1d1d)",
     description: "Яблуня, Груша, Персик, Черешня, Слива, Абрикос, Хурма",
+    imageSrc: "/images/categories/fruit.png"
   },
   {
     id: "grape",
@@ -57,6 +58,7 @@ const CATEGORIES = [
     color: "#6b21a8",
     gradient: "linear-gradient(135deg, #6b21a8, #3b0764)",
     description: "Столові та технічні сорти, виноробство",
+    imageSrc: "/images/categories/grape.png"
   },
   {
     id: "berry",
@@ -65,6 +67,7 @@ const CATEGORIES = [
     color: "#be185d",
     gradient: "linear-gradient(135deg, #be185d, #831843)",
     description: "Полуниця, Малина, Лохина, Ожина, Смородина, Аґрус",
+    imageSrc: "/images/categories/berry.png"
   },
   {
     id: "vegetable",
@@ -73,6 +76,7 @@ const CATEGORIES = [
     color: "#c2410c",
     gradient: "linear-gradient(135deg, #c2410c, #7c2d12)",
     description: "Томат, Перець, Огірок, Кавун, Картопля та ін.",
+    imageSrc: "/images/categories/vegetable.png"
   },
   {
     id: "root",
@@ -81,6 +85,7 @@ const CATEGORIES = [
     color: "#b45309",
     gradient: "linear-gradient(135deg, #b45309, #78350f)",
     description: "Морква, Буряк, Редис, Дайкон, Цибуля, Часник",
+    imageSrc: "/images/categories/root.png"
   },
   {
     id: "brassica",
@@ -89,6 +94,7 @@ const CATEGORIES = [
     color: "#15803d",
     gradient: "linear-gradient(135deg, #15803d, #14532d)",
     description: "Капуста білокачанна, Селера",
+    imageSrc: "/images/categories/brassica.png"
   },
   {
     id: "legume",
@@ -97,6 +103,7 @@ const CATEGORIES = [
     color: "#0f766e",
     gradient: "linear-gradient(135deg, #0f766e, #134e4a)",
     description: "Горох, Квасоля, Спаржа",
+    imageSrc: "/images/categories/legume.png"
   },
   {
     id: "apiary",
@@ -105,6 +112,7 @@ const CATEGORIES = [
     color: "#b45309",
     gradient: "linear-gradient(135deg, #d97706, #92400e)",
     description: "Пасіка, Апітерапія, Продукти бджільництва",
+    imageSrc: "/images/categories/apiary.png"
   },
 ];
 
@@ -152,66 +160,116 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
           margin: 0;
         }
 
-        /* ── Таби ── */
-        .cat-tabs-scroll {
-          overflow-x: auto;
-          scrollbar-width: none;
-          padding-bottom: 2px;
-          margin-bottom: 2.5rem;
+        /* ── Таби (New Grid) ── */
+        .cat-tabs-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+          gap: 1.25rem;
+          margin-bottom: 3rem;
         }
-        .cat-tabs-scroll::-webkit-scrollbar { display: none; }
-        .cat-tabs {
-          display: flex;
-          gap: 0.5rem;
-          min-width: max-content;
-        }
-        .cat-tab {
-          display: inline-flex;
-          align-items: center;
-          gap: 0.45rem;
-          padding: 0.55rem 1.1rem;
-          border-radius: 99px;
-          border: 1.5px solid var(--color-border, #ddd);
-          background: transparent;
-          color: var(--color-text-secondary);
-          font-size: 0.875rem;
-          font-weight: 500;
+        .cat-tab-card {
+          position: relative;
+          border-radius: 16px;
+          overflow: hidden;
+          background: #000;
           cursor: pointer;
-          transition: all 0.2s ease;
-          white-space: nowrap;
-          font-family: inherit;
-          line-height: 1;
+          border: 2px solid transparent;
+          transition: all 0.3s ease;
+          aspect-ratio: 4 / 3;
         }
-        .cat-tab:hover:not(.cat-tab--active) {
+        .cat-tab-card:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 15px 30px rgba(0,0,0,0.2);
           border-color: var(--color-primary);
-          color: var(--color-primary-dark);
-          transform: translateY(-1px);
-          box-shadow: 0 3px 10px rgba(0,0,0,0.08);
         }
-        .cat-tab--active {
-          color: white !important;
-          border-color: transparent !important;
-          box-shadow: 0 4px 16px rgba(0,0,0,0.22);
-          transform: translateY(-1px);
+        .cat-tab-card--active {
+          border-color: var(--color-primary);
+          box-shadow: 0 0 20px var(--color-primary);
+          transform: translateY(-5px);
+        }
+        .cat-tab-bg {
+          position: absolute;
+          inset: 0;
+          background-size: cover;
+          background-position: center;
+          transition: transform 0.5s ease, filter 0.3s ease;
+          filter: brightness(0.7) contrast(1.1);
+        }
+        .cat-tab-card:hover .cat-tab-bg, .cat-tab-card--active .cat-tab-bg {
+          transform: scale(1.05);
+          filter: brightness(0.9);
+        }
+        .cat-tab-overlay {
+          position: absolute;
+          inset: 0;
+          background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.3) 50%, transparent 100%);
+          display: flex;
+          flex-direction: column;
+          justify-content: flex-end;
+          padding: 1.25rem;
+          z-index: 1;
+        }
+        .cat-tab-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: flex-end;
+          margin-bottom: 0.25rem;
+        }
+        .cat-tab-label {
+          color: white;
+          font-family: var(--font-serif);
+          font-size: 1.25rem;
+          font-weight: 700;
+          text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+          margin: 0;
         }
         .cat-tab-badge {
-          display: inline-flex;
+          background: rgba(255,255,255,0.2);
+          backdrop-filter: blur(4px);
+          color: white;
+          font-size: 0.75rem;
+          font-weight: 700;
+          padding: 0.2rem 0.6rem;
+          border-radius: 99px;
+        }
+        .cat-tab-desc {
+          color: rgba(255,255,255,0.85);
+          font-size: 0.85rem;
+          line-height: 1.3;
+          margin: 0;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        /* All cultures button styling */
+        .cat-tab-all {
+          display: flex;
+          flex-direction: column;
           align-items: center;
           justify-content: center;
-          min-width: 20px;
-          height: 20px;
-          padding: 0 4px;
-          border-radius: 99px;
-          font-size: 0.7rem;
+          background: var(--color-bg-secondary);
+          border: 2px dashed var(--color-border);
+          aspect-ratio: 4 / 3;
+          border-radius: 16px;
+          cursor: pointer;
+          transition: all 0.3s ease;
+          color: var(--color-text);
+        }
+        .cat-tab-all:hover, .cat-tab-all--active {
+          border-color: var(--color-primary);
+          color: var(--color-primary-dark);
+          transform: translateY(-5px);
+          box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+        }
+        .cat-tab-all-icon {
+          font-size: 2.5rem;
+          margin-bottom: 0.5rem;
+        }
+        .cat-tab-all-label {
+          font-family: var(--font-serif);
           font-weight: 700;
-          line-height: 1;
-        }
-        .cat-tab:not(.cat-tab--active) .cat-tab-badge {
-          background: rgba(0,0,0,0.07);
-          color: var(--color-muted);
-        }
-        .cat-tab--active .cat-tab-badge {
-          background: rgba(255,255,255,0.25);
+          font-size: 1.15rem;
         }
 
         /* ── Category Banner ── */
@@ -391,29 +449,53 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
             </p>
           </div>
 
-          {/* ── Таби ── */}
-          <div className="cat-tabs-scroll">
-            <div className="cat-tabs" role="tablist" aria-label="Категорії культур">
-              {CATEGORIES.map((cat) => {
-                const count = countFor(cat.id);
-                if (count === 0 && cat.id !== "all") return null;
-                const isActive = active === cat.id;
+          {/* ── Таби (Картки) ── */}
+          <div className="cat-tabs-grid" role="tablist" aria-label="Категорії культур">
+            {CATEGORIES.map((cat) => {
+              const count = countFor(cat.id);
+              if (count === 0 && cat.id !== "all") return null;
+              const isActive = active === cat.id;
+              
+              if (cat.id === "all") {
                 return (
                   <button
                     key={cat.id}
                     role="tab"
                     aria-selected={isActive}
-                    className={`cat-tab${isActive ? " cat-tab--active" : ""}`}
-                    style={isActive ? { background: cat.gradient } : undefined}
+                    className={`cat-tab-all ${isActive ? "cat-tab-all--active" : ""}`}
                     onClick={() => setActive(cat.id)}
                   >
-                    <span aria-hidden="true">{cat.emoji}</span>
-                    <span>{cat.label}</span>
-                    <span className="cat-tab-badge">{count}</span>
+                    <span className="cat-tab-all-icon">{cat.emoji}</span>
+                    <span className="cat-tab-all-label">{cat.label}</span>
+                    <span style={{ fontSize: "0.85rem", opacity: 0.7, marginTop: "0.25rem" }}>
+                      Всі {cultures.length} культур
+                    </span>
                   </button>
                 );
-              })}
-            </div>
+              }
+
+              return (
+                <div
+                  key={cat.id}
+                  role="tab"
+                  aria-selected={isActive}
+                  className={`cat-tab-card ${isActive ? "cat-tab-card--active" : ""}`}
+                  onClick={() => setActive(cat.id)}
+                >
+                  <div 
+                    className="cat-tab-bg" 
+                    style={{ backgroundImage: `url(${cat.imageSrc})` }} 
+                  />
+                  <div className="cat-tab-overlay">
+                    <div className="cat-tab-header">
+                      <h3 className="cat-tab-label">{cat.label}</h3>
+                      <span className="cat-tab-badge">{count}</span>
+                    </div>
+                    <p className="cat-tab-desc">{cat.description}</p>
+                  </div>
+                </div>
+              );
+            })}
           </div>
 
           {/* ── Банер категорії ── */}
