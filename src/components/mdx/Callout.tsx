@@ -72,63 +72,21 @@ export const Callout = ({ type = 'tip', title, children }: CalloutProps) => {
 
   return (
     <RevealOnScroll>
-      <div style={{
-        margin: '2.5rem 0',
-      position: 'relative',
-      borderRadius: '16px',
-      overflow: 'visible',
-    }}>
-      {/* Icon badge */}
-      <div style={{
-        position: 'absolute',
-        top: '-14px',
-        left: '24px',
-        zIndex: 2,
-        background: 'white',
-        borderRadius: '50px',
-        padding: '4px 14px',
-        fontSize: '0.8rem',
-        fontWeight: 700,
-        letterSpacing: '0.06em',
-        color: cfg.accentColor,
-        border: `2px solid ${cfg.accentColor}`,
-        boxShadow: '0 2px 10px rgba(0,0,0,0.08)',
-        display: 'flex',
-        alignItems: 'center',
-        gap: '6px',
-        whiteSpace: 'nowrap',
-        textTransform: 'uppercase',
-        fontFamily: 'var(--font-sans)',
-      }}>
-        <span>{cfg.icon}</span>
-        <span>{title || cfg.defaultTitle}</span>
-      </div>
-
-      {/* Card body */}
-      <div style={{
-        background: cfg.gradient,
-        borderRadius: '16px',
-        border: `1px solid ${cfg.accentColor}22`,
-        borderLeft: `4px solid ${cfg.accentColor}`,
-        padding: '2rem 2rem 1.5rem',
-        paddingTop: '2.5rem',
-        boxShadow: `0 4px 24px ${cfg.accentColor}12`,
-      }}>
-        <div className="callout-content" style={{
-          fontFamily: 'var(--font-sans)',
-          color: cfg.textColor,
-          lineHeight: 1.8,
-          fontSize: '1rem',
-          fontStyle: 'italic',
-        }}>
-          {children}
+      <div style={{ margin: '2.5rem 0', position: 'relative', borderRadius: '16px', overflow: 'visible' }}>
+        <div style={{ position: 'absolute', top: '-14px', left: '24px', zIndex: 2, background: 'white', borderRadius: '50px', padding: '4px 14px', fontSize: '0.8rem', fontWeight: 700, letterSpacing: '0.06em', color: cfg.accentColor, border: `2px solid ${cfg.accentColor}`, boxShadow: '0 2px 10px rgba(0,0,0,0.08)', display: 'flex', alignItems: 'center', gap: '6px', whiteSpace: 'nowrap', textTransform: 'uppercase', fontFamily: 'var(--font-sans)' }}>
+          <span>{cfg.icon}</span>
+          <span>{title || cfg.defaultTitle}</span>
+        </div>
+        <div style={{ background: cfg.gradient, borderRadius: '16px', border: `1px solid ${cfg.accentColor}22`, borderLeft: `4px solid ${cfg.accentColor}`, padding: '2rem 2rem 1.5rem', paddingTop: '2.5rem', boxShadow: `0 4px 24px ${cfg.accentColor}12` }}>
+          <div className="callout-content" style={{ fontFamily: 'var(--font-sans)', color: cfg.textColor, lineHeight: 1.8, fontSize: '1rem', fontStyle: 'italic' }}>
+            {children}
+          </div>
         </div>
       </div>
     </RevealOnScroll>
   );
 };
 
-// InfoBlock — for standalone highlighted tips/rules
 interface InfoBlockProps {
   icon?: string;
   title?: string;
@@ -148,45 +106,22 @@ export const InfoBlock = ({ icon = '📌', title, type = 'gold', children }: Inf
   const c = INFO_COLORS[type as keyof typeof INFO_COLORS] || INFO_COLORS.gold;
   return (
     <RevealOnScroll>
-      <div style={{
-        margin: '2rem 0',
-      background: c.bg,
-      border: `1px solid ${c.border}33`,
-      borderLeft: `4px solid ${c.border}`,
-      borderRadius: '12px',
-      padding: '1.25rem 1.5rem',
-      boxShadow: `0 2px 16px ${c.border}10`,
-    }}>
-      {title && (
-        <div style={{
-          fontFamily: 'var(--font-serif)',
-          fontWeight: 700,
-          fontSize: '1rem',
-          color: c.border,
-          marginBottom: '0.6rem',
-          display: 'flex',
-          alignItems: 'center',
-          gap: '8px',
-        }}>
-          <span>{icon}</span>
-          <span>{title}</span>
+      <div style={{ margin: '2rem 0', background: c.bg, border: `1px solid ${c.border}33`, borderLeft: `4px solid ${c.border}`, borderRadius: '12px', padding: '1.25rem 1.5rem', boxShadow: `0 2px 16px ${c.border}10` }}>
+        {title && (
+          <div style={{ fontFamily: 'var(--font-serif)', fontWeight: 700, fontSize: '1rem', color: c.border, marginBottom: '0.6rem', display: 'flex', alignItems: 'center', gap: '8px' }}>
+            <span>{icon}</span>
+            <span>{title}</span>
+          </div>
+        )}
+        <style dangerouslySetInnerHTML={{__html: `
+          .info-content p, .callout-content p {
+            font-style: italic !important;
+          }
+        `}} />
+        <div className="info-content" style={{ fontFamily: 'var(--font-sans)', color: c.text, lineHeight: 1.75, fontSize: '0.95rem', fontStyle: 'italic' }}>
+          {children}
         </div>
-      )}
-      <style dangerouslySetInnerHTML={{__html: `
-        .info-content p, .callout-content p {
-          font-style: italic !important;
-        }
-      `}} />
-      <div className="info-content" style={{
-        fontFamily: 'var(--font-sans)',
-        color: c.text,
-        lineHeight: 1.75,
-        fontSize: '0.95rem',
-        fontStyle: 'italic',
-      }}>
-        {children}
       </div>
-    </div>
     </RevealOnScroll>
   );
 };

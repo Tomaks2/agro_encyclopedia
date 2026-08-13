@@ -238,26 +238,7 @@ export default async function HomePage({
         {/* CATEGORIZED CATALOG */}
         <CulturesCatalog cultures={cultures} locale={locale} />
 
-        {/* COMING SOON - TICKER MARQUEE (Space saving) */}
-        <div className="ticker-wrap">
-          <div className="ticker-content">
-            {COMING_SOON.map((c) => (
-              <div key={c.uk} className="ticker-item">
-                <span>{c.emoji}</span>
-                <span style={{ fontWeight: 600 }}>{locale === "en" ? c.en : c.uk}</span>
-                <span style={{ fontSize: "0.85rem", color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "1px" }}>Незабаром</span>
-              </div>
-            ))}
-            {/* Duplicate for infinite scroll loop */}
-            {COMING_SOON.map((c) => (
-              <div key={c.uk + "-dup"} className="ticker-item">
-                <span>{c.emoji}</span>
-                <span style={{ fontWeight: 600 }}>{locale === "en" ? c.en : c.uk}</span>
-                <span style={{ fontSize: "0.85rem", color: "var(--color-muted)", textTransform: "uppercase", letterSpacing: "1px" }}>Незабаром</span>
-              </div>
-            ))}
-          </div>
-        </div>
+
 
         {/* FEATURES - GLOW CARDS */}
         <section className="section" style={{ background: "var(--color-primary-dark)", padding: "clamp(3rem, 7vw, 6rem) 0", position: "relative", overflow: "hidden" }}>
