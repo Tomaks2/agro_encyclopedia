@@ -243,4 +243,4 @@
 - **Догляд**: Регулярний полив весь перший рік є критично важливим для виживання.
 </Callout>
 
-<NextChapter href="/uk/yablunia/03-obrizka" title="ОБРІЗКА ЯБЛУНІ" chapterNum="Розділ 3" />
+<NextChapter href="/uk/yablunia/obrizka" title="ОБРІЗКА ЯБЛУНІ" chapterNum="Розділ 3" />
