@@ -34,14 +34,7 @@ const SLUG_TO_CATEGORY: Record<string, string> = {
 // ─── Категорії ────────────────────────────────────────────────────────────────
 
 const CATEGORIES = [
-  {
-    id: "all",
-    label: "Всі культури",
-    emoji: "🌿",
-    color: "#2d5c47",
-    gradient: "linear-gradient(135deg, #2d5c47, #1a3a2b)",
-    description: "Повний каталог",
-  },
+
   {
     id: "fruit",
     label: "Плодові дерева",
@@ -114,6 +107,14 @@ const CATEGORIES = [
     description: "Пасіка, Апітерапія, Продукти бджільництва",
     imageSrc: "/images/categories/apiary.png"
   },
+  {
+    id: "all",
+    label: "Всі культури",
+    emoji: "🌿",
+    color: "#2d5c47",
+    gradient: "linear-gradient(135deg, #2d5c47, #1a3a2b)",
+    description: "Повний каталог",
+  },
 ];
 
 // ─── Компонент ────────────────────────────────────────────────────────────────
@@ -124,12 +125,13 @@ interface Props {
 }
 
 export default function CulturesCatalog({ cultures, locale }: Props) {
-  const [active, setActive] = useState("all");
+  const [active, setActive] = useState<string | null>(null);
 
   const getCategory = (slug: string) => SLUG_TO_CATEGORY[slug] ?? "vegetable";
 
-  const filtered =
-    active === "all"
+  const filtered = active === null
+    ? []
+    : active === "all"
       ? cultures
       : cultures.filter((c) => getCategory(c.slug) === active);
 
@@ -138,7 +140,7 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
       ? cultures.length
       : cultures.filter((c) => getCategory(c.slug) === id).length;
 
-  const activeCategory = CATEGORIES.find((c) => c.id === active)!;
+  const activeCategory = active ? CATEGORIES.find((c) => c.id === active)! : null;
 
   return (
     <>
@@ -499,7 +501,7 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
           </div>
 
           {/* ── Банер категорії ── */}
-          {active !== "all" && (
+          {active !== "all" && active !== null && activeCategory && (
             <div
               className="cat-banner"
               style={{ background: `${activeCategory.color}0d` }}
@@ -523,68 +525,70 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
           )}
 
           {/* ── Сітка ── */}
-          <div id="cultures-grid" role="tabpanel" className="cultures-grid">
-            {filtered.length === 0 ? (
-              <div className="cg-empty">
-                <div className="cg-empty-icon">🌱</div>
-                <p>Культури цієї категорії скоро з&apos;являться</p>
-              </div>
-            ) : (
-              filtered.map((culture, idx) => {
-                const data = locale === "en" ? culture.en : culture.uk;
-                return (
-                  <Link
-                    key={culture.slug}
-                    href={`/${locale}/${culture.slug}`}
-                    className="cg-card"
-                    style={{ animationDelay: `${Math.min(idx % 12, 11) * 35}ms` }}
-                    aria-label={`Довідник: ${data.name}`}
-                  >
-                    {culture.image ? (
-                      <div
-                        className="cg-img"
-                        style={{ backgroundImage: `url(${culture.image})` }}
-                        role="img"
-                        aria-label={data.name}
-                      >
-                        <div className="cg-img-emoji" aria-hidden="true">
-                          {culture.emoji}
+          {active !== null && (
+            <div id="cultures-grid" role="tabpanel" className="cultures-grid">
+              {filtered.length === 0 ? (
+                <div className="cg-empty">
+                  <div className="cg-empty-icon">🌱</div>
+                  <p>Культури цієї категорії скоро з&apos;являться</p>
+                </div>
+              ) : (
+                filtered.map((culture, idx) => {
+                  const data = locale === "en" ? culture.en : culture.uk;
+                  return (
+                    <Link
+                      key={culture.slug}
+                      href={`/${locale}/${culture.slug}`}
+                      className="cg-card"
+                      style={{ animationDelay: `${Math.min(idx % 12, 11) * 35}ms` }}
+                      aria-label={`Довідник: ${data.name}`}
+                    >
+                      {culture.image ? (
+                        <div
+                          className="cg-img"
+                          style={{ backgroundImage: `url(${culture.image})` }}
+                          role="img"
+                          aria-label={data.name}
+                        >
+                          <div className="cg-img-emoji" aria-hidden="true">
+                            {culture.emoji}
+                          </div>
+                          <div className="cg-img-name">{data.name}</div>
                         </div>
-                        <div className="cg-img-name">{data.name}</div>
-                      </div>
-                    ) : (
-                      <div
-                        className="cg-noimg"
-                        style={{ background: `linear-gradient(135deg, ${culture.colorLight}, white)` }}
-                      >
-                        <div className="cg-noimg-bg-emoji" aria-hidden="true">
-                          {culture.emoji}
+                      ) : (
+                        <div
+                          className="cg-noimg"
+                          style={{ background: `linear-gradient(135deg, ${culture.colorLight}, white)` }}
+                        >
+                          <div className="cg-noimg-bg-emoji" aria-hidden="true">
+                            {culture.emoji}
+                          </div>
+                          <div className="cg-noimg-name">{data.name}</div>
                         </div>
-                        <div className="cg-noimg-name">{data.name}</div>
-                      </div>
-                    )}
+                      )}
 
-                    <div className="cg-body">
-                      <div className="cg-latin">{data.latinName}</div>
-                      <div className="cg-tagline">{data.tagline}</div>
-                      <div className="cg-meta">
-                        <span className="cg-badge">📚 {culture.stats.sections} розд.</span>
-                        <span className="cg-badge">
-                          ⏱ ~{Math.round(culture.stats.readTimeMinutes / 60)}год
-                        </span>
+                      <div className="cg-body">
+                        <div className="cg-latin">{data.latinName}</div>
+                        <div className="cg-tagline">{data.tagline}</div>
+                        <div className="cg-meta">
+                          <span className="cg-badge">📚 {culture.stats.sections} розд.</span>
+                          <span className="cg-badge">
+                            ⏱ ~{Math.round(culture.stats.readTimeMinutes / 60)}год
+                          </span>
+                        </div>
                       </div>
-                    </div>
 
-                    <div
-                      className="cg-bar"
-                      style={{ background: culture.color }}
-                      aria-hidden="true"
-                    />
-                  </Link>
-                );
-              })
-            )}
-          </div>
+                      <div
+                        className="cg-bar"
+                        style={{ background: culture.color }}
+                        aria-hidden="true"
+                      />
+                    </Link>
+                  );
+                })
+              )}
+            </div>
+          )}
 
         </div>
       </section>
