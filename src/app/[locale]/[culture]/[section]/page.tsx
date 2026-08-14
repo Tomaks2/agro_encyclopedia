@@ -33,6 +33,8 @@ import TableOfContents from "@/components/mdx/TableOfContents";
 import NextChapter from "@/components/mdx/NextChapter";
 import DiagnosticTool from "@/components/mdx/DiagnosticTool";
 import LightboxImage from "@/components/mdx/LightboxImage";
+import PrintButton from "@/components/mdx/PrintButton";
+import SectionProgress from "@/components/culture/SectionProgress";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import type { Metadata } from "next";
 
@@ -67,6 +69,7 @@ const getMdxComponents = (cultureSlug: string) => ({
   NextChapter,
   DiagnosticTool,
   LightboxImage,
+  PrintButton,
   legacyH2: (props: any) => {
     const id = props.children?.toString().toLowerCase().replace(/[^a-z0-9а-яієґї]+/g, '-').replace(/(^-|-$)/g, '');
     return <h2 id={id} {...props} />;
@@ -433,6 +436,15 @@ export default async function SectionPage({ params }: Props) {
               </Link>
             ) : <div />}
           </nav>
+
+          {/* Прогрес-стрічка по культурі */}
+          <SectionProgress
+            sections={culture.sections}
+            currentSlug={sectionSlug}
+            locale={locale}
+            cultureSlug={cultureSlug}
+            accentColor={culture.color}
+          />
         </main>
       </div>
 

@@ -127,6 +127,19 @@ interface Props {
 export default function CulturesCatalog({ cultures, locale }: Props) {
   const [active, setActive] = useState<string | null>(null);
 
+  const handleSelect = (id: string) => {
+    if (active === id) {
+      setActive(null);
+      return;
+    }
+    setActive(id);
+    // Scroll до результатів після короткої затримки (render)
+    setTimeout(() => {
+      const el = document.getElementById("catalog-results");
+      if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 120);
+  };
+
   const getCategory = (slug: string) => SLUG_TO_CATEGORY[slug] ?? "vegetable";
 
   const filtered = active === null
@@ -186,7 +199,7 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
         }
         .cat-tab-card--active {
           border-color: var(--color-primary);
-          box-shadow: 0 0 20px var(--color-primary);
+          box-shadow: 0 0 0 3px var(--color-primary), 0 8px 24px rgba(0,0,0,0.25);
           transform: translateY(-5px);
         }
         .cat-tab-bg {
@@ -465,7 +478,7 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
                     role="tab"
                     aria-selected={isActive}
                     className={`cat-tab-all ${isActive ? "cat-tab-all--active" : ""}`}
-                    onClick={() => setActive(cat.id)}
+                    onClick={() => handleSelect(cat.id)}
                   >
                     <span className="cat-tab-all-icon">{cat.emoji}</span>
                     <span className="cat-tab-all-label">{cat.label}</span>
@@ -482,7 +495,7 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
                   role="tab"
                   aria-selected={isActive}
                   className={`cat-tab-card ${isActive ? "cat-tab-card--active" : ""}`}
-                  onClick={() => setActive(cat.id)}
+                  onClick={() => handleSelect(cat.id)}
                 >
                   <div 
                     className="cat-tab-bg" 
@@ -499,6 +512,9 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
               );
             })}
           </div>
+
+          {/* Анкер для скролу */}
+          {active !== null && <div id="catalog-results" style={{ scrollMarginTop: "80px" }} />}
 
           {/* ── Банер категорії ── */}
           {active !== "all" && active !== null && activeCategory && (

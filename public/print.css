@@ -1,0 +1,126 @@
+/*
+ * print.css — друк-версія календарів і розділів (агросайт)
+ *
+ * Підключення: у globals.css додати
+ *   @import "./print.css" print;
+ * або в layout.tsx:  <link rel="stylesheet" href="/print.css" media="print" />
+ *
+ * Кнопку «Друк» у календарях можна зробити через window.print().
+ */
+
+@media print {
+  /* Прибираємо все, що не є контентом */
+  header,
+  footer,
+  nav.breadcrumbs,
+  .reading-sidebar,
+  .breadcrumbs,
+  .next-chapter-container,
+  .scroll-to-top,
+  button,
+  [data-no-print="true"] {
+    display: none !important;
+  }
+
+  body {
+    background: #fff !important;
+    color: #000 !important;
+    font-family: Georgia, "Times New Roman", serif;
+  }
+
+  /* Формат А4 портрет, поля під підшивку */
+  @page {
+    size: A4 portrait;
+    margin: 14mm 12mm 16mm 12mm;
+  }
+
+  /* Кожну СХЕМУ і таблицю тримати цілою — не розривати між сторінками */
+  table,
+  .ascii-scheme,
+  figure,
+  .callout {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  h1, h2, h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  /* Календарі: друкувати кожен місяць з нової сторінки */
+  .calendar-month,
+  [data-calendar-month="true"] {
+    break-before: page;
+    page-break-before: always;
+  }
+
+  /* Кольори → чорно-біла логіка: рамки замість заливок */
+  .callout {
+    border: 1.5px solid #000 !important;
+    background: #fff !important;
+  }
+
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+  }
+
+  .prose-th, th {
+    border: 1px solid #000 !important;
+    background: #eee !important;
+    color: #000 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .prose-td, td {
+    border: 1px solid #999 !important;
+    color: #000 !important;
+  }
+
+  /* Посилання: показуємо URL у дужках, щоб з паперу можна було перейти */
+  a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 0.75em;
+    font-weight: normal;
+    color: #333 !important;
+    word-break: break-all;
+  }
+
+  a {
+    text-decoration: none !important;
+    color: #000 !important;
+  }
+
+  /* Зображення: обмеження ширини під поле сторінки */
+  img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  figure {
+    margin: 0 0 8mm 0 !important;
+  }
+
+  figcaption {
+    font-size: 9pt;
+    color: #333 !important;
+  }
+
+  /* Заголовок документа з назвою культури і розділу */
+  main::before {
+    content: "Агро-енциклопедія • Яблуня — друк-версія";
+    display: block;
+    font-size: 9pt;
+    color: #555 !important;
+    border-bottom: 1px solid #000;
+    padding-bottom: 2mm;
+    margin-bottom: 6mm;
+  }
+
+  .reading-layout {
+    display: block !important;
+    max-width: 100% !important;
+  }
+}

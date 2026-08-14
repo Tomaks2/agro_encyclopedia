@@ -8,13 +8,13 @@
     "name": "Яблуня",
     "latinName": "Malus domestica",
     "tagline": "Від посадки до врожаю — все що потрібно знати садівнику",
-    "description": "Повний практичний довідник по вирощуванню яблуні. Ботаніка, сорти, посадка, обрізка, щеплення, хвороби, шкідники, збір та зберігання врожаю."
+    "description": "Повний практичний довідник по вирощуванню яблуні. Ботаніка, сорти, посадка, обрізка, щеплення, хвороби, шкідники, збір та зберігання врожаю, календарі захисту та догляду."
   },
   "en": {
     "name": "Apple Tree",
     "latinName": "Malus domestica",
     "tagline": "From planting to harvest — everything a gardener needs to know",
-    "description": "Complete practical guide to growing apple trees. Botany, varieties, planting, pruning, grafting, diseases, pests, harvest and storage."
+    "description": "Complete practical guide to growing apple trees. Botany, varieties, planting, pruning, grafting, diseases, pests, harvest and storage, protection and care calendars."
   },
   "sections": [
     {
@@ -62,8 +62,8 @@
     {
       "slug": "shkidnyky",
       "filename": "08-shkidnyky.md",
-      "uk": { "title": "Шкідники яблуні", "description": "Плодожерка, попелиця, кліщі, квіткоїдка, листовійки, гризуни" },
-      "en": { "title": "Apple Tree Pests", "description": "Codling moth, aphids, mites, weevil, leaf rollers, rodents" }
+      "uk": { "title": "Шкідники яблуні", "description": "Плодожерка, попелиця, кліщі, квіткоїдка, листовійки, гризуни, ґрунтові шкідники" },
+      "en": { "title": "Apple Tree Pests", "description": "Codling moth, aphids, mites, weevil, leaf rollers, rodents, soil pests" }
     },
     {
       "slug": "zakhyst",
@@ -73,7 +73,7 @@
     },
     {
       "slug": "zbir",
-      "filename": "10-zbir.md",
+      "filename": "10-zbir_indeks.md",
       "uk": { "title": "Збір та зберігання врожаю", "description": "Ознаки стиглості, техніка збору, умови зберігання, переробка" },
       "en": { "title": "Harvest and Storage", "description": "Ripeness signs, harvesting technique, storage conditions, processing" }
     },
@@ -82,10 +82,46 @@
       "filename": "11-rehiony.md",
       "uk": { "title": "Особливості для регіонів України", "description": "Полісся, Лісостеп, Степ, Карпати — регіональні поради" },
       "en": { "title": "Regional Specifics for Ukraine", "description": "Polissia, Forest-Steppe, Steppe, Carpathians — regional advice" }
+    },
+    {
+      "slug": "zamorozky",
+      "filename": "12-zamorozky.md",
+      "uk": { "title": "Весняні заморозки", "description": "Критичні температури по фенофазах, методи захисту, дощування, кліматичний тренд" },
+      "en": { "title": "Spring Frosts", "description": "Critical temperatures by phenophase, protection methods, sprinkling, climate trend" }
+    },
+    {
+      "slug": "periodichnist",
+      "filename": "13-periodichnist.md",
+      "uk": { "title": "Періодичність плодоношення", "description": "Механізм, нормування, хімічне нормування (NAA, BA, карбаріл, ABA)" },
+      "en": { "title": "Biennial Bearing", "description": "Mechanism, fruit thinning, chemical thinning (NAA, BA, carbaryl, ABA)" }
+    },
+    {
+      "slug": "pidschepy",
+      "filename": "14-pidschepy.md",
+      "uk": { "title": "Підщепи яблуні: повний гід", "description": "16 підщеп, алгоритм вибору, сумісність сортів, міжвидові щеплення" },
+      "en": { "title": "Apple Rootstocks: Complete Guide", "description": "16 rootstocks, selection algorithm, cultivar compatibility, interspecific grafting" }
+    },
+    {
+      "slug": "zakhyst_kalendar",
+      "filename": "15-zakhyst_kalendar.md",
+      "uk": { "title": "Календар захисту по фенофазах", "description": "Обробки по фенофазах, препарати, строки очікування, біозахист" },
+      "en": { "title": "Protection Calendar by Phenophases", "description": "Phenophase treatments, products, pre-harvest intervals, biocontrol" }
+    },
+    {
+      "slug": "kalendar",
+      "filename": "16-kalendar.md",
+      "uk": { "title": "Сезонний агрономічний календар", "description": "Місяць за місяцем: що робити, дедлайни, ТОП-10 помилок таймінгу" },
+      "en": { "title": "Seasonal Agronomic Calendar", "description": "Month by month: what to do, deadlines, top-10 timing mistakes" }
+    },
+    {
+      "slug": "mify",
+      "filename": "17-mify.md",
+      "uk": { "title": "Розбір міфів про яблуню", "description": "15 поширених переконань, які заважають саду, — і що насправді кажуть наука та практика" },
+      "en": { "title": "Apple Growing Myths Debunked", "description": "15 common beliefs that hurt the orchard — and what science and practice actually say" }
     }
   ],
   "stats": {
-    "sections": 11,
+    "sections": 17,
     "readTimeMinutes": 240
   }
 }
