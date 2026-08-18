@@ -39,3 +39,14 @@
 У сучасних комерційних садах черешні єдиним 100% гарантованим захистом є встановлення плівкових укриттів (Protective Plastic Film Covers):
 - **Конструкція:** Плівкові навіси із поліетилену високої щільності (HDPE) з UV-стабілізатором, що натягуються над рядами саду за 3 тижні до збору врожаю.
 - **Переваги:** Захист від дощу на 100%, зменшення розтріскування до < 2%, захист від градів та птахів.
+
+> 📌 **Головний підсумок розділу:** Розтріскування — це не «погода», а фізіологія осмотичного тиску клітин шкірки: стійкі сорти (Sylvia, Benton), кальцієва програма та протидощові тунелі знижують втрати з 40–60% до 5–15% навіть у дощове літо.
+
+
+## Джерела
+
+- [1] UC Davis ANR — Fruit Cracking in Cherries — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
+- [2] Washington State University — Rain Cracking and Canopy Covers — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
+- [3] Oregon State University — Calcium and Cracking — [https://extension.oregonstate.edu/catalog](https://extension.oregonstate.edu/catalog)
+
+<NextChapter href="/uk/chereshnia/12-shkidnyky" title="ШКІДНИКИ ЧЕРЕШНІ" chapterNum="12" />

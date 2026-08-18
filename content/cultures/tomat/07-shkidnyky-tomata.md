@@ -28,3 +28,38 @@
 ## 7.3. Теплична білокрилка (Trialeurodes vaporariorum)
 
 - **Захист:** **Флонікамід** (*Теппекі* 1,5 г/10 л), **Спіротетрамат** (*Мовенто* 10 мл/10 л) або виселення паразитичної наїзники **Encarsia formosa**.
+
+### 📌 СХЕМА 242: КАРТИНА ПОШКОДЖЕНЬ: СОВКА / TUTA / БІЛОКРИЛКА
+
+| Шкідник | Пошкодження | Фаза моніторингу |
+| :--- | :--- | :--- |
+| **Бавовняна совка** (*H. armigera*) | Круглі отвори **3–6 мм** у плодах, гусениця 30–40 мм всередині → повна втрата товарності | Феромонні пастки: поріг **3–5 метеликів/добу** |
+| **Мінуюча міль** (*Tuta absoluta*) | Прозорі **П-подібні «міни»** на листі з чорними екскрементами + ходи біля плодоніжки | Липкі жовті пастки |
+| **Теплична білокрилка** (*T. vaporariorum*) | Знебарвлення листя, сажкова роса, переносник вірусів | Липкі пастки + огляд нижнього боку листа |
+
+### 📌 СХЕМА 243: ПРОТОКОЛ ЗАХИСТУ: ХІМІЯ + БІОЛОГІЧНИЙ ВАРІАНТ
+
+| Шкідник | Препарат (хімічний) | Норма /10 л | Біозахист |
+| :--- | :--- | :--- | :--- |
+| **Совка (L1–L2, яйцекладка)** | Хлорантраніліпрол (**Кораген 20 SC**) | **2,5 мл** (зупинка живлення за 2–4 год) | *Trichogramma* яйцевий паразит |
+| **Совка (молоді гусениці)** | Емамектин бензоат (**Проклейм 05 SG**) | **4–5 г** (PHI **5 днів**) | *Bt* (Bacillus thuringiensis) |
+| **Tuta absoluta** | Спіноторам (**Радіант 120 SC**) | **6 мл** | Феромонна дезорієнтація (Disruption) |
+| **Білокрилка** | Флонікамід (**Теппекі**) / Спіротетрамат (**Мовенто**) | 1,5 г / 10 мл | **Encarsia formosa** (наїзник) |
+
+<LightboxImage src="/photos/zachyst/bilokrylka.jpg" alt="bilokrylka" />
+
+
+> 📌 **Головний підсумок розділу:** Два шкідники вирішують товарність: бавовняна совка вгризається в плоди (отвори 3–6 мм, гусениця 30–40 мм), а Tuta absoluta мінує листя П-подібними прозорими «мінами» з чорними екскрементами та свердлить ходи біля плодоніжки. Захист ефективний лише при ранньому вікні: совок обробляють по яйцекладці та гусеницях L1–L2 (Кораген 2,5 мл/10 л — живлення зупиняється за 2–4 год; Проклейм 4–5 г, PHI 5 днів), Tuta — Спіноторамом і феромонною дезорієнтацією, білокрилку — Теппекі/Мовенто або виселенням паразитичної наїзниці Encarsia formosa.
+
+## Джерела
+
+1. [University of Georgia Extension — Tomato Insect Pests](https://extension.uga.edu/publications/)
+2. [Penn State Extension — Tomato Fruitworm](https://extension.psu.edu/tomato-fruitworm)
+3. [FAO — Tuta absoluta Management Guide](https://www.fao.org/3/i3395e/i3395e.pdf)
+4. [Cornell University Vegetable Program — Insect Pests of Tomatoes](https://vegetables.cornell.edu/)
+5. [North Carolina State Extension — Tomato Insects](https://extension.ncsu.edu/gardening/edibles/vegetables/tomato/)
+6. [Koppert Biological Systems — Encarsia formosa](https://www.koppert.com/)
+
+<LightboxImage src="/images/cultures/tomat/shkidnyky-tomativ-ta-poshkodzhennia-iaki-vony-sprychyniaiut.jpg" alt="Шкідники томатів та пошкодження" />
+
+<NextChapter href="/uk/tomat/zbir-dozryvannya-storage" title="ЗБІР ТА ЗБЕРІГАННЯ: СТАДІЇ СТИГЛОСТІ" chapterNum="8" />

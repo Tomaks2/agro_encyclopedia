@@ -172,10 +172,58 @@
         "title": "Harvest and Storage",
         "description": "The art of ripening. Harvest maturity, picking technique, storage technology"
       }
+    },
+    {
+      "slug": "zamorozky",
+      "filename": "14-zamorozky.md",
+      "uk": {
+        "title": "Захист від весняних заморозків",
+        "description": "Критичні температури по фенофазах, методи захисту, дії після заморозку"
+      },
+      "en": {
+        "title": "Spring Frost Protection",
+        "description": "Critical temperatures by phenophase, protection methods, post-frost actions"
+      }
+    },
+    {
+      "slug": "periodichnist",
+      "filename": "15-periodichnist.md",
+      "uk": {
+        "title": "Періодичність плодоношення",
+        "description": "Механізм, сорти-схильники, нормування зав'язі"
+      },
+      "en": {
+        "title": "Alternate Bearing",
+        "description": "The mechanism, prone cultivars, fruit thinning"
+      }
+    },
+    {
+      "slug": "kalendar",
+      "filename": "16-kalendar.md",
+      "uk": {
+        "title": "Сезонний календар садівника",
+        "description": "План дій по місяцях: від пробудження до осінніх робіт"
+      },
+      "en": {
+        "title": "Seasonal Gardener's Calendar",
+        "description": "Month-by-month action plan: from dormancy break to autumn tasks"
+      }
+    },
+    {
+      "slug": "mify",
+      "filename": "17-mify.md",
+      "uk": {
+        "title": "15 міфів про грушу",
+        "description": "Міф → правда: обрізка, полив, підщепи, збір, хвороби"
+      },
+      "en": {
+        "title": "15 Pear Myths Debunked",
+        "description": "Myth vs truth: pruning, watering, rootstocks, harvest, diseases"
+      }
     }
   ],
   "stats": {
-    "sections": 13,
-    "readTimeMinutes": 280
+    "sections": 17,
+    "readTimeMinutes": 409
   }
 }

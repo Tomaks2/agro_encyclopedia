@@ -31,3 +31,36 @@
 ### Бор (B) — Зав'язування плодів
 - **Термін обробки:** Перед цвітінням (BBCH 55–60) та у фазу масового цвітіння.
 - **Норма:** Бороплюс або органічний Бор 15–20 мл/10 л.
+
+### 📌 СХЕМА 139: РІЧНА ПРОГРАМА ЖИВЛЕННЯ ХУРМИ
+
+| Період | Елемент | Доза | Мета |
+| :--- | :--- | :--- | :--- |
+| Березень | N | 60–80 кг/га N | Весняний ріст |
+| Квітень–травень | N + B | 30 кг/га N + бор | Цвітіння та зав'язь |
+| Червень–липень | Ca | 3–4 обприскування CaCl₂ 0,3% | Міцність шкірки |
+| Вересень | K | 80–100 кг/га K₂O | Забарвлення та Brix |
+| Жовтень | P + органіка | 100 кг/га P₂O₅ | Зима та коренебудування |
+Хурма чутливіша до хлору, ніж яблуня: на хлористий калій реагує некрозами — тільки сульфат калію.
+
+### 📌 СХЕМА 140: МІКРОЕЛЕМЕНТИ ХУРМИ: ДЕФІЦИТИ ТА ПРОЯВИ
+
+| Елемент | Симптом дефіциту | Корекція |
+| :--- | :--- | :--- |
+| Fe | Міжжилковий хлороз молодих листків | Хелат Fe 0,1% листово, pH-корекція |
+| Zn | Розетка дрібних листків на верхівці | Zn-хелат до цвітіння |
+| Mn | Світло-зелені плями між жилками | Mn-сульфат 0,2% |
+| Mg | Жовті межі старих листків | MgSO₄ (епсом) 0,5% |
+Мікроелементи входять у склад танін-синтетичних ферментів: дефіцит Zn/Mn уповільнює розклад таніну → плід залишається в'яжучим.
+
+> 📌 **Головний підсумок розділу:** живлення хурми — низькі дози, висока регулярність: N до 15 липня, K+P серпень–вересень, мікроелементи (Fe, Mn, Zn) — головний резерв проти хлорозу.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+
+<NextChapter href="/uk/khurma/polyv" title="ПОЛИВ ХУРМИ" chapterNum="08" />

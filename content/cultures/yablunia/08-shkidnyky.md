@@ -49,7 +49,7 @@
 
 </Callout>
 
-<LightboxImage src="/photos/yablunia/pests/pheromone_trap.webp" alt="Феромонна пастка для яблуневої плодожерки" />
+<LightboxImage src="/photos/yablunia/pests/codling_moth.jpg" alt="Феромонна пастка для яблуневої плодожерки" />
 
 <Callout type="tip">
 
@@ -57,7 +57,7 @@
 
 </Callout>
 
-### Методи боротьби
+### Методи боротьби з плодожеркою
 
 <Callout type="success" title="Біологічні методи">
 
@@ -121,7 +121,7 @@
 
 <LightboxImage src="/photos/yablunia/pests/aphid_predators.jpg" alt="Комахи, що знищують попелицю" />
 
-### Методи боротьби
+### Методи боротьби з попелицею
 
 <Callout type="success" title="Заходи контролю">
 
@@ -139,7 +139,7 @@
 
 </Callout>
 
-<LightboxImage src="/photos/yablunia/pests/sticky_band.webp" alt="Клейовий пояс на штамбі яблуні" />
+<LightboxImage src="/photos/yablunia/pests/damaged_flower.jpg" alt="Клейовий пояс на штамбі яблуні" />
 
 
 ## 🕷️ 8.3. Павутинний і бурий кліщ — невидима загроза
@@ -156,7 +156,7 @@
 
 <LightboxImage src="/photos/yablunia/pests/mites.jpg" alt="Кліщі (павутинний та бурий)" />
 
-### Методи боротьби
+### Методи боротьби з кліщами
 
 <Callout type="info" title="Важливо">
 
@@ -194,9 +194,9 @@
 </Callout>
 
 <LightboxImage src="/photos/yablunia/pests/weevil.jpg" alt="Дорослий жук-довгоносик" />
-<LightboxImage src="/photos/yablunia/pests/damaged_flower.jpg" alt="Пошкоджена квітка" />
+{/*  duplicate lightbox removed: /photos/yablunia/pests/damaged_flower.jpg  */}
 
-### Методи боротьби
+### Методи боротьби з листовійками
 
 <Callout type="success" title="Заходи контролю">
 
@@ -317,7 +317,7 @@
 
 </Callout>
 
-## 📊 СХЕМА 102: СИМПТОМ → ШКІДНИК → ДІЯ (швидка орієнтація)
+### 📌 СХЕМА 102: СИМПТОМ → ШКІДНИК → ДІЯ (швидка орієнтація)
 
 | Симптом | Хто це зробив | Дія |
 | :--- | :--- | :--- |
@@ -340,4 +340,6 @@
 
 </Callout>
 
-<NextChapter href="/uk/yablunia/zakhyst" title="Календар захисту яблуні" />
+<LightboxImage src="/photos/zachyst/FB_IMG_1784061603090.jpg" alt="Пошкодження стовбура дерева свердлувальними шкідниками" />
+
+<NextChapter href="/uk/yablunia/zakhyst" title="Календар захисту яблуні" chapterNum="9" />

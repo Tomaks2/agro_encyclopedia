@@ -20,44 +20,86 @@
     {
       "slug": "biolohiya-chornoi-ta-chervonoi",
       "filename": "01-biolohiya-chornoi-ta-chervonoi.md",
-      "uk": { "title": "Біологія та відмінності Чорної смородини та Порічок", "description": "Морфологія куща, різниця у закладанні плодових утворень (чорна — одно-дворічна деревина; порічки — кільчатки та букетні гілочки 2-4 років), фенофази BBCH." },
-      "en": { "title": "Biology of Blackcurrant and Redcurrant", "description": "Bush morphology, fruiting wood differences (blackcurrant on 1-2yo wood; redcurrant on spurs 2-4yo), BBCH phenology." }
+      "uk": {
+        "title": "Біологія та відмінності Чорної смородини та Порічок",
+        "description": "Морфологія куща, різниця у закладанні плодових утворень (чорна — одно-дворічна деревина; порічки — кільчатки та букетні гілочки 2-4 років), фенофази BBCH."
+      },
+      "en": {
+        "title": "Biology of Blackcurrant and Redcurrant",
+        "description": "Bush morphology, fruiting wood differences (blackcurrant on 1-2yo wood; redcurrant on spurs 2-4yo), BBCH phenology."
+      }
     },
     {
       "slug": "sorty-smorodyny-ta-porichok",
       "filename": "02-sorty-smorodyny-ta-porichok.md",
-      "uk": { "title": "Класифікація сортів смородини та порічок", "description": "Чорна смородина (Ювілейна копаня, Краса Львова, Софіївська, Бен Олдер) vs Червона/Біла порічка (Ровада, Йонкер ван Тетс, Біла Потапенко)." },
-      "en": { "title": "Blackcurrant and Redcurrant Cultivars", "description": "Blackcurrant varieties vs Red/White currant cultivars (Rovada, Ben Alder)." }
+      "uk": {
+        "title": "Класифікація сортів смородини та порічок",
+        "description": "Чорна смородина (Ювілейна копаня, Краса Львова, Софіївська, Бен Олдер) vs Червона/Біла порічка (Ровада, Йонкер ван Тетс, Біла Потапенко)."
+      },
+      "en": {
+        "title": "Blackcurrant and Redcurrant Cultivars",
+        "description": "Blackcurrant varieties vs Red/White currant cultivars (Rovada, Ben Alder)."
+      }
     },
     {
-      "slug": "obrizka-kushchova-та-shtambova",
-      "filename": "03-obrizka-kushchova-та-shtambova.md",
-      "uk": { "title": "Агротехніка обрізки: Кущ vs Штамбова культура", "description": "Формування класичного куща (12-15 гілок різного віку), вирізка 4-річних гілок у чорної смородини та 6-річних у порічок, штамбова культура на золотистій смородині." },
-      "en": { "title": "Pruning Systems: Bush vs Standard", "description": "Bush formation (12-15 multi-age canes), cane removal, standard tree formation on Ribes aureum." }
+      "slug": "obrizka-kushchova-ta-shtambova",
+      "filename": "03-obrizka-kushchova-ta-shtambova.md",
+      "uk": {
+        "title": "Агротехніка обрізки: Кущ vs Штамбова культура",
+        "description": "Формування класичного куща (12-15 гілок різного віку), вирізка 4-річних гілок у чорної смородини та 6-річних у порічок, штамбова культура на золотистій смородині."
+      },
+      "en": {
+        "title": "Pruning Systems: Bush vs Standard",
+        "description": "Bush formation (12-15 multi-age canes), cane removal, standard tree formation on Ribes aureum."
+      }
     },
     {
       "slug": "zhyvlennia-fertyhatsiia",
       "filename": "04-zhyvlennia-fertyhatsiia.md",
-      "uk": { "title": "Живлення та удобрення смородини", "description": "Потреба у N-P-K-Mg по фенофазах, високий винос калію та фосфору, позакореневі обробки бором у цвітіння." },
-      "en": { "title": "Nutrition and Fertilization", "description": "Stage-specific N-P-K-Mg requirements, high potassium/phosphorus uptake, foliar boron." }
+      "uk": {
+        "title": "Живлення та удобрення смородини",
+        "description": "Потреба у N-P-K-Mg по фенофазах, високий винос калію та фосфору, позакореневі обробки бором у цвітіння."
+      },
+      "en": {
+        "title": "Nutrition and Fertilization",
+        "description": "Stage-specific N-P-K-Mg requirements, high potassium/phosphorus uptake, foliar boron."
+      }
     },
     {
       "slug": "khvoroby-smorodyny",
       "filename": "05-khvoroby-smorodyny.md",
-      "uk": { "title": "Хвороби: Антракноз, Септоріоз, Реверсія (Махровість)", "description": "Антракноз, септоріоз (біла плямистість), американська борошниста роса, вірус реверсії (махровість — невиліковне захворювання)." },
-      "en": { "title": "Diseases and Reversion Virus", "description": "Anthracnose, Septoria leaf spot, powdery mildew, Reversion virus (currant reversion disease)." }
+      "uk": {
+        "title": "Хвороби: Антракноз, Септоріоз, Реверсія (Махровість)",
+        "description": "Антракноз, септоріоз (біла плямистість), американська борошниста роса, вірус реверсії (махровість — невиліковне захворювання)."
+      },
+      "en": {
+        "title": "Diseases and Reversion Virus",
+        "description": "Anthracnose, Septoria leaf spot, powdery mildew, Reversion virus (currant reversion disease)."
+      }
     },
     {
       "slug": "shkidnyky-sklivka-ta-klishch",
       "filename": "06-shkidnyky-sklivka-ta-klishch.md",
-      "uk": { "title": "Шкідники: Смородинна склівка та Бруньковий кліщ", "description": "Смородинна склівка (Synanthedon tipuliformis — всихання гілок з чорною серцевиною), смородинний бруньковий кліщ (вектор реверсії), попелиці." },
-      "en": { "title": "Pests: Clearwing Moth and Bud Mite", "description": "Currant clearwing moth (Synanthedon tipuliformis), bud gall mite (Cecidophyopsis ribis), aphids." }
+      "uk": {
+        "title": "Шкідники: Смородинна склівка та Бруньковий кліщ",
+        "description": "Смородинна склівка (Synanthedon tipuliformis — всихання гілок з чорною серцевиною), смородинний бруньковий кліщ (вектор реверсії), попелиці."
+      },
+      "en": {
+        "title": "Pests: Clearwing Moth and Bud Mite",
+        "description": "Currant clearwing moth (Synanthedon tipuliformis), bud gall mite (Cecidophyopsis ribis), aphids."
+      }
     },
     {
       "slug": "zbir-mehano-cooling",
       "filename": "07-zbir-mehano-cooling.md",
-      "uk": { "title": "Збір врожаю, механізація та зберігання", "description": "Ручний збір китицями vs механізований збір комбайнами (для заморозки IQF), Forced-Air Cooling (+1°C), параметр заморозки." },
-      "en": { "title": "Harvesting, Mechanization and Cold Storage", "description": "Hand harvesting vs harvester mechanization (IQF freezing), Forced-Air Cooling (+1°C)." }
+      "uk": {
+        "title": "Збір врожаю, механізація та зберігання",
+        "description": "Ручний збір китицями vs механізований збір комбайнами (для заморозки IQF), Forced-Air Cooling (+1°C), параметр заморозки."
+      },
+      "en": {
+        "title": "Harvesting, Mechanization and Cold Storage",
+        "description": "Hand harvesting vs harvester mechanization (IQF freezing), Forced-Air Cooling (+1°C)."
+      }
     }
   ],
   "stats": {

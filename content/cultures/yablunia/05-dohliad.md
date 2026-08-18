@@ -163,6 +163,9 @@
 - **Захист від заморозків**: якщо прогнозують нічні заморозки до -2°C — квітки пошкодяться. Методи захисту: задимлення (купи вологої соломи чи тирси по периметру саду, підпалити перед світанком), дощування (вода виділяє тепло при замерзанні, захищає квіти), накривання агроволокном молодих дерев.
 - **Полив**: якщо суха весна і ґрунт пересох — помірний полив під час цвітіння збільшує зав'язування.
 
+
+<LightboxImage src="/photos/yablunia/systema-krapelnoho-polyvu-v-iablunevomu-sadu.jpg" alt="Система крапельного поливу в яблуневому саду" />
+
 </Callout>
 
 <Callout type="warning">
@@ -452,6 +455,9 @@
 - **Санітарна обробка**: залізний купорос 3–5% або мідний купорос 1% — по оголеному дереву після листопаду. Знищує зимуючих збудників хвороб на корі.
 - **Перевірка зберігання**: через 2–3 тижні після закладки — перебрати яблука. Видалити ті, що починають псуватися.
 
+
+<LightboxImage src="/photos/yablunia/mulchuvannia-prystvolnoho-kola-iabluni-perehnoiem.jpg" alt="Мульчування приствольного кола яблуні перегноєм" />
+
 </Callout>
 
 <Callout type="tip" title="Садовий щоденник">
@@ -503,4 +509,6 @@
 
 </Callout>
 
-<NextChapter href="/uk/yablunia/udobrennia" title="УДОБРЕННЯ ЯБЛУНІ" chapterNum="Розділ 6" />
+<LightboxImage src="/photos/yablunia/osinnii-sad-pislia-zboru-vrozhaiu-prybyrannia-lystia-i-pidhotovka-do-zymy.jpg" alt="Осінній сад після збору врожаю" />
+
+<NextChapter href="/uk/yablunia/udobrennia" title="УДОБРЕННЯ ЯБЛУНІ" chapterNum="6" />

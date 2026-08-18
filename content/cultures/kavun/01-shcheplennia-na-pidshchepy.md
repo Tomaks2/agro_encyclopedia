@@ -6,6 +6,9 @@
 
 ## 2.1. Методи щеплення кавуна
 
+<LightboxImage src="/photos/kavun/charts/61_scheplennya_podviinyi_efekt.png" alt="Щеплення кавуна: подвійний ефект" />
+
+
 1. **Метод «в один сім'ядольний листок» (One-cotyledon splice graft):** Найбільш популярний комерційний метод у розсадних комплексах.
 2. **Метод язичка (Approach grafting):** Сідлоподібний розріз стебла кавуна та підщепи із з'єднанням «язичок в язичок».
 
@@ -23,3 +26,32 @@
                    [ Накладання кліпси для щеплення ]
                    (Зрощування в камері туману 100% вологості)
 ```
+
+### 📌 СХЕМА 264: ЧОМУ ЩЕПЛЕННЯ — РЕВОЛЮЦІЯ БАШТАНІВНИЦТВА
+
+| Параметр | Власний корінь кавуна | Щеплений на Лагенарію / Гарбуз |
+| :--- | :--- | :--- |
+| **Фузаріозне в'янення** (*F. oxysporum*) | **100% загибель** при накопиченні спор у ґрунті | **100% імунітет** |
+| **Робоча t ґрунту кореня** | Зупиняється при **+15 °C** | Поглинає воду при **+10...+12 °C** |
+| **Врожайність** | Базова | **+100%** (у 2 рази) |
+
+### 📌 СХЕМА 265: ДВА КОМЕРЦІЙНІ МЕТОДИ ЩЕПЛЕННЯ
+
+| Метод | Техніка | Застосування |
+| :--- | :--- | :--- |
+| **«В один сім'ядольний листок»** (One-cotyledon splice) | Видалення 1 сім'ядолі прищепи + зріз точки росту підщепи під 45° → кліпса | Найпопулярніший у розсадних комплексах |
+| **Язичок** (Approach grafting) | Сідлоподібні розрізи обох стебел → «язичок в язичок» | Висока приживлюваність, ручне виконання |
+| **Дорощування** | Камера туману, **100% вологість** | 7–10 днів до повного зрощування судин |
+
+> 📌 **Головний підсумок розділу:** Щеплення кавуна на підщепу Лагенарії (*Lagenaria siceraria*) або міжвидовий гарбуз (*Cucurbita maxima × C. moschata*) — головна революція баштанівництва: повний імунітет до фузаріозного в'янення, що знищує 100% коренів власного кавуна, подвоєння врожайності та здатність кореня живити при +10...+12 °C (власний корінь зупиняється при +15 °C). Два комерційні методи: splice «в один сім'ядольний листок» (стандарт розсадних комплексів) і approach-язичок, з дорощуванням у камері туману при 100% вологості.
+
+## Джерела
+
+1. [University of Georgia Extension — Grafting Watermelons](https://extension.uga.edu/publications/)
+2. [Cornell University Vegetable Program — Watermelon Grafting](https://vegetables.cornell.edu/)
+3. [North Carolina State Extension — Grafted Vegetables](https://plants.ces.ncsu.edu/plants/all/citrullus-lanus/)
+4. [Texas A&M AgriLife Extension — Grafting Cucurbits](https://agrilife.org/vegetable/)
+5. [USDA Agricultural Research Service — Grafting Watermelon for Disease Resistance](https://www.ars.usda.gov/)
+6. [Agricultural Science Research Institutes Network — Grafting Methods for Cucurbits](https://www.agris.in.gov.gr/)
+
+<NextChapter href="/uk/kavun/sorty-chervoni-ta-zhovti" title="СОРТИ ТА ГІБРИДИ: ЧЕРВОНІ, ЖОВТІ, БЕЗКІСТКОВІ" chapterNum="3" />

@@ -46,3 +46,34 @@
 ### Перша обрізка після посадки:
 - Однорічний саджанець зрізають на висоті **60–80 см** для закладки низького штамба.
 - Двохрічний — обрізають провідник на 25 см вище верхньої бічної гілки.
+
+### 📌 СХЕМА 134: СХЕМА ПОСАДКИ ХУРМИ ПІД ТИП САДУ
+
+| Тип саду | Схема | Щільність | Формування |
+| :--- | :--- | :--- | :--- |
+| Аматорський | 5×6 м | 330 дер/га | Ярусна розріджена |
+| Комерційний інтенсив | 4×5 м | 500 дер/га | Веретено / кулеподібне |
+| Суперінтенсив (D. lotus) | 3×5 м | 660 дер/га | Веретено + шпалера молодих |
+Хурма не терпить затінення всередині крони — відстань між рядами ≥5 м обов'язкова навіть в інтенсиві.
+
+### 📌 СХЕМА 135: ПОСАДКОВА ЯМА ХУРМИ: ШАРИ ТА ДРЕНАЖ
+
+| Шар | Глибина | Склад |
+| :--- | :--- | :--- |
+| 1. Дренаж | 10–15 см | Щебінь, керамзит — хурма гине від застою |
+| 2. Верхній ґрунт + компост | 20–25 см | 2:1, без свіжого гною |
+| 3. Фосфорно-калійна суміш | 300 г | Закопана нижче коренів |
+| 4. Коренева шийка | На рівні ґрунту | Заглублення = загибель |
+Коренева система хурми стрижнева і чутлива до кисню: важкий ґрунт без дренажу — причина №1 загибелі саджанців у перші 2 роки.
+
+> 📌 **Головний підсумок розділу:** успіх посадки хурми на 70% визначається ґрунтом: pH 6,0–7,2, дренаж, яма з шарами, посадка навесні — три умови, які не компенсуються жодним доглядом.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+
+<NextChapter href="/uk/khurma/formuvannia" title="ФОРМУВАННЯ КРОНИ ХУРМИ" chapterNum="05" />

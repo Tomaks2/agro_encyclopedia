@@ -6,6 +6,9 @@
 
 ## 15.1. Критерії знімальної стиглості
 
+<LightboxImage src="/photos/chereshnia/charts/harvest_cold_chain_chereshnia.png" alt="Охолодження врожаю" />
+
+
 1. **Колір шкірки:** Згідно з колористичною шкалою (CTIFL scale 1–6): для збору відбирають плоди стадії 4–5 (сортовий колір повністю сформований).
 2. **Рефрактометрія (°Brix):**
    - Мінімальний поріг для свіжого ринку: **14–16° Brix**.
@@ -38,3 +41,14 @@
 ### Атмосфера MAP-пакетів для черешні:
 - **O₂:** 3–5%.
 - **CO₂:** 10–12% (Висока концентрація CO₂ пригнічує розвиток *Botrytis cinerea* та *Monilinia fructicola* без псування смаку плодів).
+
+> 📌 **Головний підсумок розділу:** Черешня — чемпіон серед кісточкових за швидкістю післязбиральних втрат: гідроохолодження протягом 1–2 годин після збору подвоює термін зберігання, а MAP-пакування (10–15% O₂, 10–15% CO₂) при 0…+1°C дає 4–6 тижнів для експорту.
+
+
+## Джерела
+
+- [1] UC Davis ANR — Harvest and Postharvest of Cherries — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
+- [2] Washington State University — Hydrocooling and Storage — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
+- [3] USDA Agricultural Handbook 66 — Storage of Cherries — [https://www.ars.usda.gov/](https://www.ars.usda.gov/)
+
+<NextChapter href="/uk/chereshnia/16-mify" title="15 МІФІВ ПРО ЧЕРЕШНЮ" chapterNum="16" />

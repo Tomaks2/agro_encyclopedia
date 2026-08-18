@@ -34,7 +34,7 @@ import NextChapter from "@/components/mdx/NextChapter";
 import DiagnosticTool from "@/components/mdx/DiagnosticTool";
 import LightboxImage from "@/components/mdx/LightboxImage";
 import PrintButton from "@/components/mdx/PrintButton";
-import SectionProgress from "@/components/culture/SectionProgress";
+import WatermelonGraftingDiagram from "@/components/culture/WatermelonGraftingDiagram";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import type { Metadata } from "next";
 
@@ -70,6 +70,7 @@ const getMdxComponents = (cultureSlug: string) => ({
   DiagnosticTool,
   LightboxImage,
   PrintButton,
+  WatermelonGraftingDiagram,
   legacyH2: (props: any) => {
     const id = props.children?.toString().toLowerCase().replace(/[^a-z0-9а-яієґї]+/g, '-').replace(/(^-|-$)/g, '');
     return <h2 id={id} {...props} />;
@@ -177,8 +178,8 @@ const getMdxComponents = (cultureSlug: string) => ({
 
   // Premium table with proper classes
   table: ({ children }: { children: React.ReactNode }) => (
-    <div className="prose-table-wrap">
-      <table className="prose-table">{children}</table>
+    <div className="comparison-table-wrapper">
+      <table className="comparison-table" style={{ minWidth: "700px" }}>{children}</table>
     </div>
   ),
   thead: ({ children }: { children: React.ReactNode }) => (
@@ -436,15 +437,6 @@ export default async function SectionPage({ params }: Props) {
               </Link>
             ) : <div />}
           </nav>
-
-          {/* Прогрес-стрічка по культурі */}
-          <SectionProgress
-            sections={culture.sections}
-            currentSlug={sectionSlug}
-            locale={locale}
-            cultureSlug={cultureSlug}
-            accentColor={culture.color}
-          />
         </main>
       </div>
 
@@ -453,3 +445,5 @@ export default async function SectionPage({ params }: Props) {
     </>
   );
 }
+
+

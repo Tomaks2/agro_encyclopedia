@@ -274,7 +274,7 @@
 
 </Callout>
 
-<LightboxImage src="/photos/yablunia/apple_spraying.png" alt="Позакоренева підгодівля яблуні — обприскування листя розчином добрив" />
+<LightboxImage src="/photos/yablunia/harvest_manual.jpg" alt="Механізований збір яблук у промислових садах" />
 
 ### Основні розчини для позакореневої підгодівлі
 
@@ -382,4 +382,6 @@
 
 </Callout>
 
-<NextChapter href="/uk/yablunia/khvoroby" title="ХВОРОБИ ЯБЛУНІ — від парші до бактеріального опіку" />
+<LightboxImage src="/photos/zhyvlennia/FB_IMG_1782360810259.jpg" alt="Дефіцити живлення за станом листя" />
+
+<NextChapter href="/uk/yablunia/khvoroby" title="ХВОРОБИ ЯБЛУНІ — від парші до бактеріального опіку" chapterNum="7" />

@@ -34,3 +34,25 @@
 Проводять у листопаді:
 - **Норма:** 60–80 м3/га.
 - **Мета:** Насичення ґрунту на глибину 80–100 см. Захист коренів від промерзання.
+
+### 📌 СХЕМА 141: КРИТИЧНІ ПОЛИВИ ХУРМИ
+
+| Фаза | Термін | Норма | Наслідок дефіциту |
+| :--- | :--- | :--- | :--- |
+| Перед цвітінням | Травень | 40–50 л/дерево | Опадання зав'язі |
+| Налив плодів | Червень–липень | 50–70 л, щотижня | Дрібний плід, зморшкування |
+| Перед збором | За 3 тижні | СТОП | Розтріскування плоду |
+| Підзимовий | Жовтень–листопад | 80–100 л | Зимове висушування |
+Різкий полив після посухи під час наливу — головна причина крекінгу плодів хурми; рівномірність важливіша за об'єм.
+
+> 📌 **Головний підсумок розділу:** критичні фази поливу хурми: зав'язування, налив у серпні, вологозарядковий восени; рівномірність важливіша за об'єм — перепади дають розтріскані плоди.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+
+<NextChapter href="/uk/khurma/taniny-viazuchist" title="ТАНІНИ ТА В'ЯЗКІСТЬ" chapterNum="09" />

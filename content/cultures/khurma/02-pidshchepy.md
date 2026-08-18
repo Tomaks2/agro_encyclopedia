@@ -50,3 +50,36 @@
 | **D. virginiana** | -25...-28 °C (Відмінна) | 5,5–7,0 | Висока | Задовільна (тест!) |
 | **D. lotus** | -20...-22 °C (Висока) | 6,0–7,5 | Дуже висока | Добра |
 | **D. kaki насіннєва** | -12...-15 °C (Помірна) | 6,5–7,5 | Помірна | Відмінна |
+
+### 📌 СХЕМА 131: ПІДЩЕПИ ХУРМИ: ПОРІВНЯЛЬНА МАТРИЦЯ
+
+| Підщепа | Сила росту | Стійкість до хлорозу (вапняк) | Морозостійкість | Сумісність |
+| :--- | :--- | :--- | :--- | :--- |
+| **D. lotus** (дерен їстівний) | 80–90% | Висока (pH до 8,2) | До -25°C | Широка, але можлива несумісність з PCA-сортами після 10 років |
+| **D. virginiana** (американська) | 70–80% | Низька (хлороз на pH >7,5) | До -30°C | Універсальна, без несумісності |
+| **D. kaki** насіннєва | 100% | Середня | До -18°C | Ідеальна, але рідкісна |
+| **D. oleifera** (Китай) | 60–70% | Висока | До -22°C | Тільки для субтропіків |
+Для Центральної України D. lotus — основний вибір, але на схилах із вапняком D. virginiana надійніша за анкерування.
+
+### 📌 СХЕМА 132: ХЛОРОЗ НА ВАПНЯКУ: ЧОМУ ХУРМА ЖОВКНЕ
+
+| pH ґрунту | D. lotus | D. virginiana | D. kaki насіннєва |
+| :--- | :--- | :--- | :--- |
+| 6,0–6,8 | Оптимально | Оптимально | Оптимально |
+| 7,0–7,5 | Добре | Жовкнення молодих листків | Задовільно |
+| 7,6–8,0 | Задовільно | Критичний хлороз, загибель | Деградація |
+| 8,1+ | Стрес | Загибель за 1–2 роки | Загибель |
+Механізм: на лужному ґрунті залізо переходить у недоступну Fe³⁺ форму; інтервенційний хлороз починається з міжжилкових прояснень.
+
+> 📌 **Головний підсумок розділу:** вибір підщепи — це вибір зони: D. kaki для півдня і Криму, D. lotus для Центральної України з нейтральним pH, D. virginiana для експериментів у Лісостепі.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+- [6] UC ANR, Persimmon Rootstocks and Grafting — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+
+<NextChapter href="/uk/khurma/sorty" title="СОРТИ ТА ЇХ КЛАСИФІКАЦІЯ" chapterNum="03" />

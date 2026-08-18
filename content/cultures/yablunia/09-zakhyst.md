@@ -58,6 +58,9 @@
 
 **Біологічні препарати**
 
+<LightboxImage src="/photos/biozahyst/komakhy-shcho-zakhyshchaiut-sad.jpg" alt="Корисні комахи, які захищають сад" />
+
+
 <Callout type="info" title="ПОПУЛЯРНІ БІОПРЕПАРАТИ">
 
 - **Лепідоцид**: Від гусені листовійок, плодожерки. СО 5 днів. Безпечний для бджіл.
@@ -210,6 +213,9 @@
 | Жовтень–листопад | Залізний купорос 3–5% | Отруєні принади | Прибирання листя |
 
 
+<LightboxImage src="/photos/yablunia/pobilka-shtamba-iabluni.png" alt="Побілка штамба яблуні вапняним розчином на зиму" />
+
+
 <Callout type="warning" title="Пам'ятайте">
 Цей календар — орієнтир, а не жорсткий розклад. Реальні строки обробок залежать від фенофази дерева, погоди і результатів моніторингу.
 </Callout>
@@ -226,4 +232,6 @@
 
 </Callout>
 
-<NextChapter href="/uk/yablunia/zbir" title="Збір та зберігання врожаю" />
+<LightboxImage src="/photos/biozahyst/sadovi-pomichnyky-iaki-varto-berehty.jpg" alt="Садові помічники" />
+
+<NextChapter href="/uk/yablunia/zbir" title="Збір та зберігання врожаю" chapterNum="10" />

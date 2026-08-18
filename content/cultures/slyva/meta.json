@@ -20,108 +20,236 @@
     {
       "slug": "biolohiya",
       "filename": "01-biolohiya.md",
-      "uk": { "title": "Біологія та ботанічні особливості", "description": "Походження, генотипи Prunus domestica (гексаплоїд 2n=48) та Prunus cerasifera, судинна анатомія, типи плодових утворень." },
-      "en": { "title": "Biology and Botanical Features", "description": "Origins, Prunus domestica (hexaploid 2n=48) and Prunus cerasifera genotypes, vascular anatomy, fruiting wood types." }
+      "uk": {
+        "title": "Біологія та ботанічні особливості",
+        "description": "Походження, генотипи Prunus domestica (гексаплоїд 2n=48) та Prunus cerasifera, судинна анатомія, типи плодових утворень."
+      },
+      "en": {
+        "title": "Biology and Botanical Features",
+        "description": "Origins, Prunus domestica (hexaploid 2n=48) and Prunus cerasifera genotypes, vascular anatomy, fruiting wood types."
+      }
     },
     {
       "slug": "pidshchepy",
       "filename": "02-pidshchepy.md",
-      "uk": { "title": "Підщепи для сливи та аличі", "description": "Алича насіннєва, ВВА-1, Уген-1, Євразія-43, St. Julien A, Pumiselect — сила росту, стійкість до асфіксії коріння та хлорозу." },
-      "en": { "title": "Rootstocks for Plum", "description": "Cherry plum seedling, VVA-1, Ugen-1, Eurasia-43, St. Julien A, Pumiselect — vigor, root asphyxia and chlorosis resistance." }
+      "uk": {
+        "title": "Підщепи для сливи та аличі",
+        "description": "Алича насіннєва, ВВА-1, Уген-1, Євразія-43, St. Julien A, Pumiselect — сила росту, стійкість до асфіксії коріння та хлорозу."
+      },
+      "en": {
+        "title": "Rootstocks for Plum",
+        "description": "Cherry plum seedling, VVA-1, Ugen-1, Eurasia-43, St. Julien A, Pumiselect — vigor, root asphyxia and chlorosis resistance."
+      }
     },
     {
       "slug": "sorty",
       "filename": "03-sorty.md",
-      "uk": { "title": "Класифікація та сорти", "description": "Угорки (Стенлей, Президент, Волошка), Ренклоди (Альтана), Мирабелі, Диплоїдні сливи (Анжеліно, Глобус, Комета) — Brix, маса, запилення." },
-      "en": { "title": "Varieties and Classification", "description": "Prunes (Stanley, President), Greengages (Altana), Mirabelles, Diploid plums (Angeleno, Globus, Kometa)." }
+      "uk": {
+        "title": "Класифікація та сорти",
+        "description": "Угорки (Стенлей, Президент, Волошка), Ренклоди (Альтана), Мирабелі, Диплоїдні сливи (Анжеліно, Глобус, Комета) — Brix, маса, запилення."
+      },
+      "en": {
+        "title": "Varieties and Classification",
+        "description": "Prunes (Stanley, President), Greengages (Altana), Mirabelles, Diploid plums (Angeleno, Globus, Kometa)."
+      }
     },
     {
       "slug": "posadka",
       "filename": "04-posadka.md",
-      "uk": { "title": "Посадка та вибір місця", "description": "Вимоги до ґрунтів, мікроклімат, схеми садіння для інтенсивних садовищ, заправка посадкових ям, перша обрізка." },
-      "en": { "title": "Planting and Site Selection", "description": "Soil requirements, microclimate, intensive planting schemes, pit preparation, initial pruning." }
+      "uk": {
+        "title": "Посадка та вибір місця",
+        "description": "Вимоги до ґрунтів, мікроклімат, схеми садіння для інтенсивних садовищ, заправка посадкових ям, перша обрізка."
+      },
+      "en": {
+        "title": "Planting and Site Selection",
+        "description": "Soil requirements, microclimate, intensive planting schemes, pit preparation, initial pruning."
+      }
     },
     {
       "slug": "formuvannia",
       "filename": "05-formuvannia.md",
-      "uk": { "title": "Формування крони сливи", "description": "Веретеноподібна крона (Spindle), поліпшена чаша (Kiva), веретено для диплоїдних сортів. Покроковий алгоритм по роках." },
-      "en": { "title": "Crown Formation", "description": "Spindle shape, improved open center, spindle for diploid varieties. Step-by-step formation by years." }
+      "uk": {
+        "title": "Формування крони сливи",
+        "description": "Веретеноподібна крона (Spindle), поліпшена чаша (Kiva), веретено для диплоїдних сортів. Покроковий алгоритм по роках."
+      },
+      "en": {
+        "title": "Crown Formation",
+        "description": "Spindle shape, improved open center, spindle for diploid varieties. Step-by-step formation by years."
+      }
     },
     {
       "slug": "obrizka",
       "filename": "06-obrizka.md",
-      "uk": { "title": "Техніка обрізки та омолодження", "description": "Обрізка за типами сортів (Угорки vs Диплоїди), скорочення шпорців, приборкання вовчків, захист від чорного раку та цитоспорозу." },
-      "en": { "title": "Pruning and Rejuvenation", "description": "Pruning by variety types (Prunes vs Diploids), spur renewal, water sprout management, black knot protection." }
+      "uk": {
+        "title": "Техніка обрізки та омолодження",
+        "description": "Обрізка за типами сортів (Угорки vs Диплоїди), скорочення шпорців, приборкання вовчків, захист від чорного раку та цитоспорозу."
+      },
+      "en": {
+        "title": "Pruning and Rejuvenation",
+        "description": "Pruning by variety types (Prunes vs Diploids), spur renewal, water sprout management, black knot protection."
+      }
     },
     {
       "slug": "zeleni-operatsii",
       "filename": "07-zeleni-operatsii.md",
-      "uk": { "title": "Зелені операції та нормування", "description": "Пінцировка літніх пагонів, нормування зав'язі (проріджування плодів для запобігання зламу гілок), літня омолоджувальна обрізка." },
-      "en": { "title": "Green Operations and Thinning", "description": "Summer pinching, fruit thinning to prevent branch breakage, summer renewal pruning." }
+      "uk": {
+        "title": "Зелені операції та нормування",
+        "description": "Пінцировка літніх пагонів, нормування зав'язі (проріджування плодів для запобігання зламу гілок), літня омолоджувальна обрізка."
+      },
+      "en": {
+        "title": "Green Operations and Thinning",
+        "description": "Summer pinching, fruit thinning to prevent branch breakage, summer renewal pruning."
+      }
     },
     {
       "slug": "zhyvlennia",
       "filename": "08-zhyvlennia.md",
-      "uk": { "title": "Живлення та удобрення сливи", "description": "Річна програма N-P-K, роль кальцію для щільності плоду, борні обробки у цвітіння, лікування карбонатного хлорозу." },
-      "en": { "title": "Nutrition and Fertilization", "description": "Annual N-P-K program, role of calcium for fruit firmness, boron sprays during flowering, chlorosis control." }
+      "uk": {
+        "title": "Живлення та удобрення сливи",
+        "description": "Річна програма N-P-K, роль кальцію для щільності плоду, борні обробки у цвітіння, лікування карбонатного хлорозу."
+      },
+      "en": {
+        "title": "Nutrition and Fertilization",
+        "description": "Annual N-P-K program, role of calcium for fruit firmness, boron sprays during flowering, chlorosis control."
+      }
     },
     {
       "slug": "polyv",
       "filename": "09-polyv.md",
-      "uk": { "title": "Водний режим та полив", "description": "Критичні періоди водоспоживання (затвердіння кісточки, налив), розрахунок норм поливу, тензіометрія, підзимовий полив." },
-      "en": { "title": "Water Management and Irrigation", "description": "Critical water consumption periods (pit hardening, fruit filling), irrigation rates, tensiometry, pre-winter watering." }
+      "uk": {
+        "title": "Водний режим та полив",
+        "description": "Критичні періоди водоспоживання (затвердіння кісточки, налив), розрахунок норм поливу, тензіометрія, підзимовий полив."
+      },
+      "en": {
+        "title": "Water Management and Irrigation",
+        "description": "Critical water consumption periods (pit hardening, fruit filling), irrigation rates, tensiometry, pre-winter watering."
+      }
     },
     {
       "slug": "khvoroby",
       "filename": "10-khvoroby.md",
-      "uk": { "title": "Хвороби сливи та аличі", "description": "Вірус Шарка (PPV), моніліоз, полістигмоз (червона плямистість), кишеньки слив (Taphrina pruni), клястероспоріоз, цитоспороз." },
-      "en": { "title": "Plum Diseases", "description": "Sharka virus (PPV), moniliosis, Polystigma leaf spot, plum pockets (Taphrina pruni), shot hole, cytosporosis." }
+      "uk": {
+        "title": "Хвороби сливи та аличі",
+        "description": "Вірус Шарка (PPV), моніліоз, полістигмоз (червона плямистість), кишеньки слив (Taphrina pruni), клястероспоріоз, цитоспороз."
+      },
+      "en": {
+        "title": "Plum Diseases",
+        "description": "Sharka virus (PPV), moniliosis, Polystigma leaf spot, plum pockets (Taphrina pruni), shot hole, cytosporosis."
+      }
     },
     {
       "slug": "fiziolohichni-problemy",
       "filename": "11-fiziolohichni-problemy.md",
-      "uk": { "title": "Фізіологічні проблеми та розлади", "description": "Гумоз (камедетеча), підмерзання квіткових бруньок диплоїдних слив, розтріскування плодів при дощах, апоплексія сливи." },
-      "en": { "title": "Physiological Problems", "description": "Gummosis, frost damage to diploid plum buds, fruit cracking during rains, plum apoplexy." }
+      "uk": {
+        "title": "Фізіологічні проблеми та розлади",
+        "description": "Гумоз (камедетеча), підмерзання квіткових бруньок диплоїдних слив, розтріскування плодів при дощах, апоплексія сливи."
+      },
+      "en": {
+        "title": "Physiological Problems",
+        "description": "Gummosis, frost damage to diploid plum buds, fruit cracking during rains, plum apoplexy."
+      }
     },
     {
       "slug": "shkidnyky",
       "filename": "12-shkidnyky.md",
-      "uk": { "title": "Шкідники сливи та аличі", "description": "Сливова плодожерка (Grapholita funebrana), сливовий пильщик (Hoplocampa), попелиці, акацієва щитівка, кліщі. Схеми захисту." },
-      "en": { "title": "Plum Pests", "description": "Plum moth (Grapholita funebrana), plum sawfly (Hoplocampa), aphids, scale insects, mites. Protection protocols." }
+      "uk": {
+        "title": "Шкідники сливи та аличі",
+        "description": "Сливова плодожерка (Grapholita funebrana), сливовий пильщик (Hoplocampa), попелиці, акацієва щитівка, кліщі. Схеми захисту."
+      },
+      "en": {
+        "title": "Plum Pests",
+        "description": "Plum moth (Grapholita funebrana), plum sawfly (Hoplocampa), aphids, scale insects, mites. Protection protocols."
+      }
     },
     {
       "slug": "kalendar-zakhystu",
       "filename": "13-kalendar-zakhystu.md",
-      "uk": { "title": "Календарний план захисту", "description": "Повна інтегрована система обробок по фенофазах BBCH. Бакові суміші, норми, терміни очікування (PHI), бджолозахист." },
-      "en": { "title": "Integrated Protection Calendar", "description": "Full treatment table by BBCH phenophases. Tank mixes, rates, PHI, bee protection rules." }
+      "uk": {
+        "title": "Календарний план захисту",
+        "description": "Повна інтегрована система обробок по фенофазах BBCH. Бакові суміші, норми, терміни очікування (PHI), бджолозахист."
+      },
+      "en": {
+        "title": "Integrated Protection Calendar",
+        "description": "Full treatment table by BBCH phenophases. Tank mixes, rates, PHI, bee protection rules."
+      }
     },
     {
       "slug": "scheplennia",
       "filename": "14-scheplennia.md",
-      "uk": { "title": "Щеплення та розмноження", "description": "Окуліровка в приклад (Chip Budding), весняне щеплення за кору, розмноження аличі зеренним методом та здерев'янілими живцями." },
-      "en": { "title": "Grafting and Propagation", "description": "Chip budding, spring bark grafting, cherry plum propagation by seed and hardwood cuttings." }
+      "uk": {
+        "title": "Щеплення та розмноження",
+        "description": "Окуліровка в приклад (Chip Budding), весняне щеплення за кору, розмноження аличі зеренним методом та здерев'янілими живцями."
+      },
+      "en": {
+        "title": "Grafting and Propagation",
+        "description": "Chip budding, spring bark grafting, cherry plum propagation by seed and hardwood cuttings."
+      }
     },
     {
       "slug": "zbir-zberihannia",
       "filename": "15-zbir-zberihannia.md",
-      "uk": { "title": "Збір та зберігання плодів", "description": "Ознаки стиглості (Brix, твердість), ручний та механізований збір, параметри зберігання в холодильниках та MAP-пакетах." },
-      "en": { "title": "Harvest and Storage", "description": "Maturity indicators (Brix, firmness), manual and mechanical harvesting, cold storage and MAP parameters." }
+      "uk": {
+        "title": "Збір та зберігання плодів",
+        "description": "Ознаки стиглості (Brix, твердість), ручний та механізований збір, параметри зберігання в холодильниках та MAP-пакетах."
+      },
+      "en": {
+        "title": "Harvest and Storage",
+        "description": "Maturity indicators (Brix, firmness), manual and mechanical harvesting, cold storage and MAP parameters."
+      }
     },
     {
       "slug": "rehiony",
       "filename": "16-rehiony.md",
-      "uk": { "title": "Регіональна адаптація в Україні", "description": "Степ, Лісостеп, Полісся, Закарпаття. Особливості вирощування європейських угорок та термолюбних диплоїдних сортів по зонах." },
-      "en": { "title": "Regional Adaptation in Ukraine", "description": "Steppe, Forest-steppe, Polissia, Transcarpathia. European prunes vs diploid plums adaptation by zone." }
+      "uk": {
+        "title": "Регіональна адаптація в Україні",
+        "description": "Степ, Лісостеп, Полісся, Закарпаття. Особливості вирощування європейських угорок та термолюбних диплоїдних сортів по зонах."
+      },
+      "en": {
+        "title": "Regional Adaptation in Ukraine",
+        "description": "Steppe, Forest-steppe, Polissia, Transcarpathia. European prunes vs diploid plums adaptation by zone."
+      }
     },
     {
       "slug": "chornosliv",
       "filename": "17-chornosliv.md",
-      "uk": { "title": "Технологія виготовлення чорносливу", "description": "Відбір сортів (Стенлей, Угорка Ажанська), біохімія сушіння, підготовка (бланшування), температурний режим тунельних сушарень, стандарти якості." },
-      "en": { "title": "Prune Production Technology", "description": "Variety selection (Stanley, Agen), drying biochemistry, blanching, tunnel dryer temperature regimes, quality standards." }
+      "uk": {
+        "title": "Технологія виготовлення чорносливу",
+        "description": "Відбір сортів (Стенлей, Угорка Ажанська), біохімія сушіння, підготовка (бланшування), температурний режим тунельних сушарень, стандарти якості."
+      },
+      "en": {
+        "title": "Prune Production Technology",
+        "description": "Variety selection (Stanley, Agen), drying biochemistry, blanching, tunnel dryer temperature regimes, quality standards."
+      }
+    },
+    {
+      "slug": "mify",
+      "filename": "18-mify.md",
+      "uk": {
+        "title": "15 міфів про сливу",
+        "description": "Розвінчання найпоширеніших хибних уявлень: невибагливість, самоплідність, Шарка, моніліоз, чорнослив"
+      },
+      "en": {
+        "title": "15 Myths About Plums",
+        "description": "Debunking the most common misconceptions: low-maintenance, self-fertility, Sharka, brown rot, prunes"
+      },
+      "chapterNum": "18"
+    },
+    {
+      "slug": "zamorozky",
+      "filename": "19-zamorozky.md",
+      "uk": {
+        "title": "Весняні заморозки: критичні температури та захист сливи",
+        "description": "Температури погублення по фенофазах, моніторинг ночі, пасивний та активний захист, алгоритм у ніч заморозку"
+      },
+      "en": {
+        "title": "Spring Frosts: Critical Temperatures and Protection",
+        "description": "Lethal temperatures by phenological stage, night monitoring, passive and active protection, action algorithm"
+      },
+      "chapterNum": "19"
     }
   ],
   "stats": {
-    "sections": 17,
+    "sections": 19,
     "readTimeMinutes": 340
   }
 }

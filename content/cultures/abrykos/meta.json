@@ -20,108 +20,234 @@
     {
       "slug": "biolohiya",
       "filename": "01-biolohiya.md",
-      "uk": { "title": "Біологія та фізіологія абрикоса", "description": "Генетика самоплідності, «Правило 800 годин холоду», патологія квіткових бруньок при заморозках, BBCH-фенологія, анатомія деревини та плодових утворень." },
-      "en": { "title": "Apricot Biology and Physiology", "description": "Self-fertility genetics, '800 chilling hours rule', flower bud frost pathology, BBCH phenology, wood anatomy." }
+      "uk": {
+        "title": "Біологія та фізіологія абрикоса",
+        "description": "Генетика самоплідності, «Правило 800 годин холоду», патологія квіткових бруньок при заморозках, BBCH-фенологія, анатомія деревини та плодових утворень."
+      },
+      "en": {
+        "title": "Apricot Biology and Physiology",
+        "description": "Self-fertility genetics, '800 chilling hours rule', flower bud frost pathology, BBCH phenology, wood anatomy."
+      }
     },
     {
       "slug": "pidshchepy",
       "filename": "02-pidshchepy.md",
-      "uk": { "title": "Підщепи для абрикоса", "description": "Алича насіннєва, Мирабель, Жердель, ВПК-1, Pumiselect, Myrobalan 29C — сила росту, стійкість до хлорозу та асфіксії коріння, схеми посадки." },
-      "en": { "title": "Rootstocks for Apricot", "description": "Cherry plum seedling, Mirabelle, Zherdel, VPK-1, Pumiselect — vigor, chlorosis tolerance, planting schemes." }
+      "uk": {
+        "title": "Підщепи для абрикоса",
+        "description": "Алича насіннєва, Мирабель, Жердель, ВПК-1, Pumiselect, Myrobalan 29C — сила росту, стійкість до хлорозу та асфіксії коріння, схеми посадки."
+      },
+      "en": {
+        "title": "Rootstocks for Apricot",
+        "description": "Cherry plum seedling, Mirabelle, Zherdel, VPK-1, Pumiselect — vigor, chlorosis tolerance, planting schemes."
+      }
     },
     {
       "slug": "sorty",
       "filename": "03-sorty.md",
-      "uk": { "title": "Сорти та помологія абрикоса", "description": "Центральноазійська, Середземноморська та Молдавська групи. Монастирський, Полісся, Краснощокий, Голдрич, Харгейт, Лель, Шалах — Brix, маса, стійкість бруньок." },
-      "en": { "title": "Apricot Varieties and Pomology", "description": "Central Asian, Mediterranean, Moldavian groups. Commercial variety profiles with Brix, weight, bud hardiness." }
+      "uk": {
+        "title": "Сорти та помологія абрикоса",
+        "description": "Центральноазійська, Середземноморська та Молдавська групи. Монастирський, Полісся, Краснощокий, Голдрич, Харгейт, Лель, Шалах — Brix, маса, стійкість бруньок."
+      },
+      "en": {
+        "title": "Apricot Varieties and Pomology",
+        "description": "Central Asian, Mediterranean, Moldavian groups. Commercial variety profiles with Brix, weight, bud hardiness."
+      }
     },
     {
       "slug": "posadka",
       "filename": "04-posadka.md",
-      "uk": { "title": "Посадка та вибір місця", "description": "Мікроклімат (захист від холодних вітрів), схеми інтенсив/напівінтенсив, заправка посадкових ям, перша обрізка-кронування." },
-      "en": { "title": "Planting and Site Selection", "description": "Microclimate, intensive and semi-intensive schemes, pit preparation, first crown pruning." }
+      "uk": {
+        "title": "Посадка та вибір місця",
+        "description": "Мікроклімат (захист від холодних вітрів), схеми інтенсив/напівінтенсив, заправка посадкових ям, перша обрізка-кронування."
+      },
+      "en": {
+        "title": "Planting and Site Selection",
+        "description": "Microclimate, intensive and semi-intensive schemes, pit preparation, first crown pruning."
+      }
     },
     {
       "slug": "formuvannia",
       "filename": "05-formuvannia.md",
-      "uk": { "title": "Формування крони", "description": "Поліпшена чаша (Open Center / Kiva), напівплоска двоплоскова крона (Palmette), веретено для підщепи ВПК-1. Покроковий алгоритм по роках." },
-      "en": { "title": "Crown Formation", "description": "Improved cup (Open Center/Kiva), bi-flat palmette, spindle for VPK-1. Step-by-step formation guide." }
+      "uk": {
+        "title": "Формування крони",
+        "description": "Поліпшена чаша (Open Center / Kiva), напівплоска двоплоскова крона (Palmette), веретено для підщепи ВПК-1. Покроковий алгоритм по роках."
+      },
+      "en": {
+        "title": "Crown Formation",
+        "description": "Improved cup (Open Center/Kiva), bi-flat palmette, spindle for VPK-1. Step-by-step formation guide."
+      }
     },
     {
       "slug": "obrizka",
       "filename": "06-obrizka.md",
-      "uk": { "title": "Обрізка та регенерація дерев", "description": "Закони відновлення плодування на 1–2-річній деревині, боротьба з вовчками, терміни та принципи літньої омолоджувальної обрізки після збору врожаю." },
-      "en": { "title": "Pruning and Tree Regeneration", "description": "Renewal fruiting on 1-2 year wood, water sprout management, post-harvest summer rejuvenation pruning." }
+      "uk": {
+        "title": "Обрізка та регенерація дерев",
+        "description": "Закони відновлення плодування на 1–2-річній деревині, боротьба з вовчками, терміни та принципи літньої омолоджувальної обрізки після збору врожаю."
+      },
+      "en": {
+        "title": "Pruning and Tree Regeneration",
+        "description": "Renewal fruiting on 1-2 year wood, water sprout management, post-harvest summer rejuvenation pruning."
+      }
     },
     {
       "slug": "zeleni-operatsii",
       "filename": "07-zeleni-operatsii.md",
-      "uk": { "title": "Зелені операції та нормування врожаю", "description": "Пінцировка пагонів у червні, жорстке нормування зав'язі (1 плід кожні 5 см гілки), захист цвіту від суховіїв та пізніх заморозків." },
-      "en": { "title": "Green Operations and Fruit Thinning", "description": "June shoot pinching, strict thinning (1 fruit per 5cm), frost and sirocco protection." }
+      "uk": {
+        "title": "Зелені операції та нормування врожаю",
+        "description": "Пінцировка пагонів у червні, жорстке нормування зав'язі (1 плід кожні 5 см гілки), захист цвіту від суховіїв та пізніх заморозків."
+      },
+      "en": {
+        "title": "Green Operations and Fruit Thinning",
+        "description": "June shoot pinching, strict thinning (1 fruit per 5cm), frost and sirocco protection."
+      }
     },
     {
       "slug": "zhyvlennia",
       "filename": "08-zhyvlennia.md",
-      "uk": { "title": "Живлення та удобрення абрикоса", "description": "Калій-фосфорна програма для формування квіткових бруньок, передзимове живлення, листові борні обробки, мікроелементи для якості плодів." },
-      "en": { "title": "Nutrition and Fertilization", "description": "Potassium-phosphorus program for bud formation, pre-winter nutrition, boron foliar sprays." }
+      "uk": {
+        "title": "Живлення та удобрення абрикоса",
+        "description": "Калій-фосфорна програма для формування квіткових бруньок, передзимове живлення, листові борні обробки, мікроелементи для якості плодів."
+      },
+      "en": {
+        "title": "Nutrition and Fertilization",
+        "description": "Potassium-phosphorus program for bud formation, pre-winter nutrition, boron foliar sprays."
+      }
     },
     {
       "slug": "polyv",
       "filename": "09-polyv.md",
-      "uk": { "title": "Водний режим та полив", "description": "Критичні фази водоспоживання, небезпека осіннього перезволоження (підмерзання деревини), антифрост-зрошення в цвітіння, тензіометрія." },
-      "en": { "title": "Water Management and Irrigation", "description": "Critical water consumption phases, autumn overwatering danger, frost-protection irrigation, tensiometry." }
+      "uk": {
+        "title": "Водний режим та полив",
+        "description": "Критичні фази водоспоживання, небезпека осіннього перезволоження (підмерзання деревини), антифрост-зрошення в цвітіння, тензіометрія."
+      },
+      "en": {
+        "title": "Water Management and Irrigation",
+        "description": "Critical water consumption phases, autumn overwatering danger, frost-protection irrigation, tensiometry."
+      }
     },
     {
       "slug": "khvoroby",
       "filename": "10-khvoroby.md",
-      "uk": { "title": "Хвороби абрикоса", "description": "Клястероспоріоз, моніліальний опік та гниль плодів, вертицильоз (Verticillium), цитоспороз кори, вірус Шарка (PPV). Схеми захисту та діючі речовини." },
-      "en": { "title": "Apricot Diseases", "description": "Shot hole, moniliosis, verticillium wilt, cytosporosis, Sharka virus (PPV). Protection schemes." }
+      "uk": {
+        "title": "Хвороби абрикоса",
+        "description": "Клястероспоріоз, моніліальний опік та гниль плодів, вертицильоз (Verticillium), цитоспороз кори, вірус Шарка (PPV). Схеми захисту та діючі речовини."
+      },
+      "en": {
+        "title": "Apricot Diseases",
+        "description": "Shot hole, moniliosis, verticillium wilt, cytosporosis, Sharka virus (PPV). Protection schemes."
+      }
     },
     {
       "slug": "fiziolohichni-problemy",
       "filename": "11-fiziolohichni-problemy.md",
-      "uk": { "title": "Фізіологічні проблеми та розлади", "description": "Підмерзання квіткових бруньок (Головна проблема!), гумоз-камедетеча, залізний хлороз на карбонатних ґрунтах, «голий цвіт» без листя, морозобійні тріщини." },
-      "en": { "title": "Physiological Problems", "description": "Flower bud frost damage (Main problem!), gummosis, iron chlorosis, 'naked bloom', frost cracks." }
+      "uk": {
+        "title": "Фізіологічні проблеми та розлади",
+        "description": "Підмерзання квіткових бруньок (Головна проблема!), гумоз-камедетеча, залізний хлороз на карбонатних ґрунтах, «голий цвіт» без листя, морозобійні тріщини."
+      },
+      "en": {
+        "title": "Physiological Problems",
+        "description": "Flower bud frost damage (Main problem!), gummosis, iron chlorosis, 'naked bloom', frost cracks."
+      }
     },
     {
       "slug": "shkidnyky",
       "filename": "12-shkidnyky.md",
-      "uk": { "title": "Шкідники абрикоса", "description": "Абрикосова міль (Anarsia lineatella), сливова плодожерка, листовертки, клопи-слинявки (Spilostethus), щитівки та кліщі. Протоколи інсектицидного захисту." },
-      "en": { "title": "Apricot Pests", "description": "Apricot twig borer, plum moth, leafrollers, bugs, scale insects, mites. Insecticide protocols." }
+      "uk": {
+        "title": "Шкідники абрикоса",
+        "description": "Абрикосова міль (Anarsia lineatella), сливова плодожерка, листовертки, клопи-слинявки (Spilostethus), щитівки та кліщі. Протоколи інсектицидного захисту."
+      },
+      "en": {
+        "title": "Apricot Pests",
+        "description": "Apricot twig borer, plum moth, leafrollers, bugs, scale insects, mites. Insecticide protocols."
+      }
     },
     {
       "slug": "kalendar-zakhystu",
       "filename": "13-kalendar-zakhystu.md",
-      "uk": { "title": "Календар захисту абрикоса", "description": "Повна таблиця обробок по фенофазах BBCH. Бакові суміші, норми, терміни очікування (PHI). Чергування діючих речовин за кодами FRAC/IRAC." },
-      "en": { "title": "Apricot Protection Calendar", "description": "Full treatment table by BBCH phenophases. Tank mixes, rates, PHI. FRAC/IRAC rotation." }
+      "uk": {
+        "title": "Календар захисту абрикоса",
+        "description": "Повна таблиця обробок по фенофазах BBCH. Бакові суміші, норми, терміни очікування (PHI). Чергування діючих речовин за кодами FRAC/IRAC."
+      },
+      "en": {
+        "title": "Apricot Protection Calendar",
+        "description": "Full treatment table by BBCH phenophases. Tank mixes, rates, PHI. FRAC/IRAC rotation."
+      }
     },
     {
       "slug": "scheplennia",
       "filename": "14-scheplennia.md",
-      "uk": { "title": "Щеплення та розмноження", "description": "Серпнева окуліровка в приклад (Chip Budding), весняна копуліровка, «містковий» метод Інарх для лікування ракових кільцевих ран на стовбурі." },
-      "en": { "title": "Grafting and Propagation", "description": "August chip budding, spring splice grafting, inarch bridge grafting for canker wound healing." }
+      "uk": {
+        "title": "Щеплення та розмноження",
+        "description": "Серпнева окуліровка в приклад (Chip Budding), весняна копуліровка, «містковий» метод Інарх для лікування ракових кільцевих ран на стовбурі."
+      },
+      "en": {
+        "title": "Grafting and Propagation",
+        "description": "August chip budding, spring splice grafting, inarch bridge grafting for canker wound healing."
+      }
     },
     {
       "slug": "zbir-zberihannia",
       "filename": "15-zbir-zberihannia.md",
-      "uk": { "title": "Збір та зберігання плодів", "description": "Визначення знімальної стиглості (Brix, твердість), техніка ручного та механічного збору, параметри холодильного зберігання, MAP-технологія." },
-      "en": { "title": "Harvest and Storage", "description": "Determining harvest maturity (Brix, firmness), hand and mechanical harvest, cold storage parameters, MAP technology." }
+      "uk": {
+        "title": "Збір та зберігання плодів",
+        "description": "Визначення знімальної стиглості (Brix, твердість), техніка ручного та механічного збору, параметри холодильного зберігання, MAP-технологія."
+      },
+      "en": {
+        "title": "Harvest and Storage",
+        "description": "Determining harvest maturity (Brix, firmness), hand and mechanical harvest, cold storage parameters, MAP technology."
+      }
     },
     {
-      "slug": "sushynnia-kurahы",
+      "slug": "sushynnia-kurahy",
       "filename": "16-sushynnia-kurahy.md",
-      "uk": { "title": "Технологія виготовлення кураги та урюку", "description": "Відмінність кураги/урюку/кайси. Сірчана та натуральна (органічна) сушка. Метод Шифта, параметри сушарень, HACCP-контроль якості для експорту." },
-      "en": { "title": "Dried Apricot (Kuraha) Production Technology", "description": "Kuraha/Uruk/Kaisa differences. Sulfur and natural (organic) drying. Shift method, dryer parameters, HACCP quality control." }
+      "uk": {
+        "title": "Технологія виготовлення кураги та урюку",
+        "description": "Відмінність кураги/урюку/кайси. Сірчана та натуральна (органічна) сушка. Метод Шифта, параметри сушарень, HACCP-контроль якості для експорту."
+      },
+      "en": {
+        "title": "Dried Apricot (Kuraha) Production Technology",
+        "description": "Kuraha/Uruk/Kaisa differences. Sulfur and natural (organic) drying. Shift method, dryer parameters, HACCP quality control."
+      }
     },
     {
       "slug": "rehiony",
       "filename": "17-rehiony.md",
-      "uk": { "title": "Регіональна адаптація в Україні", "description": "Степ та Причорномор'я (ідеал), Лісостеп (можливо), Полісся (екстрем). Захист від пізніх заморозків у Закарпатті. Вирощування на Північ від 50-ї паралелі." },
-      "en": { "title": "Regional Adaptation in Ukraine", "description": "Steppe (ideal), Forest-steppe (possible), Polissia (extreme). Late frost protection in Transcarpathia." }
+      "uk": {
+        "title": "Регіональна адаптація в Україні",
+        "description": "Степ та Причорномор'я (ідеал), Лісостеп (можливо), Полісся (екстрем). Захист від пізніх заморозків у Закарпатті. Вирощування на Північ від 50-ї паралелі."
+      },
+      "en": {
+        "title": "Regional Adaptation in Ukraine",
+        "description": "Steppe (ideal), Forest-steppe (possible), Polissia (extreme). Late frost protection in Transcarpathia."
+      }
+    },
+    {
+      "slug": "mify",
+      "filename": "18-mify.md",
+      "uk": {
+        "title": "15 міфів про абрикос",
+        "description": "Розвінчання найпоширеніших заблуд: зимоствійкість, сортова політика, агротехніка, хвороби та курага — з посиланнями на розділи-розвінчувачі."
+      },
+      "en": {
+        "title": "15 Apricot Myths",
+        "description": "Debunking common misconceptions: hardiness, variety selection, agronomy, diseases and dried apricots — with pointers to the debunking chapters."
+      }
+    },
+    {
+      "slug": "zamorozky",
+      "filename": "19-zamorozky.md",
+      "uk": {
+        "title": "Весняні заморозки: система захисту",
+        "description": "Критичні температури по фенофазах (Penn State / WSU EBO419), моніторинг, пасивний і активний захист, покроковий алгоритм у ніч заморозку."
+      },
+      "en": {
+        "title": "Spring Frosts: Protection System",
+        "description": "Critical temperatures by phenological stage (Penn State / WSU EBO419), monitoring, passive and active protection, step-by-step frost-night protocol."
+      }
     }
   ],
   "stats": {
-    "sections": 17,
+    "sections": 19,
     "readTimeMinutes": 340
   }
 }

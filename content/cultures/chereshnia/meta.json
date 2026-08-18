@@ -1,115 +1,230 @@
 {
-  "slug": "chereshnia",
-  "emoji": "🍒",
-  "image": "/images/cultures/chereshnia_hero.png",
-  "color": "#dc2626",
-  "colorLight": "#fef2f2",
-  "uk": {
-    "name": "Черешня та Вишня",
-    "latinName": "Prunus avium & Prunus cerasus",
-    "tagline": "Королівська кісточкова культура — від високоефективних підщеп та сортів до сучасних крон KGB і захисту",
-    "description": "Повний практичний довідник по вирощуванню черешні та вишні з докторським рівнем деталізації. Підщепи (Гізела 5, ВСЛ-2, Антипка), еталонні сорти, посадка, кущові форми крон (KGB, UFO), літня обрізка, захист від моніліозу, коккомікозу та черешневої мухи."
-  },
-  "en": {
-    "name": "Sweet & Sour Cherry",
-    "latinName": "Prunus avium & Prunus cerasus",
-    "tagline": "Royal stone fruit culture — from high-efficiency rootstocks and varieties to modern KGB systems and protection",
-    "description": "Comprehensive practical guide to growing sweet and sour cherries. Rootstocks (Gisela 5, VSL-2), top cultivars, planting, bush training (KGB, UFO), summer pruning, pest and disease protection."
-  },
-  "sections": [
-    {
-      "slug": "01-biolohiya",
-      "filename": "01-biolohiya.md",
-      "uk": { "title": "1. Біологія та ботанічні особливості", "description": "Походження, структура плодової деревини (букетні гілочки), фенофази за шкалою BBCH та алелі самобезплідності S-генів." },
-      "en": { "title": "1. Biology & Botanical Features", "description": "Origin, fruiting wood anatomy, BBCH phenophases, and S-allele self-infertility genetics." }
-    },
-    {
-      "slug": "02-pidshchepy",
-      "filename": "02-pidshchepy.md",
-      "uk": { "title": "2. Підщепи для Черешні та Вишні", "description": "Антипка, Дика черешня, клонові карлики Гізела 5, Гізела 6, ВСЛ-2 та Кольт. Порівняння сил росту, вимог до вологи та опор." },
-      "en": { "title": "2. Rootstocks Comparison", "description": "Mahaleb, Wild Cherry, Gisela 5, VSL-2, Colt. Vigor reduction, moisture and trellis requirements." }
-    },
-    {
-      "slug": "03-sorty",
-      "filename": "03-sorty.md",
-      "uk": { "title": "3. Класифікація та еталонні сорти", "description": "Групи Гіні, Бігарро та Дюки. Сорти черешні (Чкалов, Крупноплідна, Кордія, Регіна, Світхарт) та вишні (Чудо-вишня)." },
-      "en": { "title": "3. Classification & Top Varieties", "description": "Guigne, Bigarreau and Dukes. Top sweet cherry cultivars (Kordia, Regina, Sweetheart) and sour cherries." }
-    },
-    {
-      "slug": "04-posadka",
-      "filename": "04-posadka.md",
-      "uk": { "title": "4. Посадка та вибір місця", "description": "Мікроклімат, освітлення, кислотність ґрунту (pH 6.2–7.2), підготовка ями 80x80 см, правила заправки та захист від занурення шийки." },
-      "en": { "title": "4. Planting & Soil Site", "description": "Microclimate, soil pH, pit preparation, root collar placement, and water table rules." }
-    },
-    {
-      "slug": "05-formuvannia",
-      "filename": "05-formuvannia.md",
-      "uk": { "title": "5. Сучасні форми крон (KGB, UFO, Spanish Bush)", "description": "Революційні системи формування кущем для збору 100% врожаю без драбин. Покроковий алгоритм розгалуження по роках." },
-      "en": { "title": "5. Modern Tree Systems (KGB, UFO)", "description": "Revolutionary bush training systems (KGB, UFO, Spanish Bush) for ladder-free ground harvesting." }
-    },
-    {
-      "slug": "06-obrizka",
-      "filename": "06-obrizka.md",
-      "uk": { "title": "6. Регулярна та післяурожайна обрізка", "description": "Чому черешню ріжуть влітку після збору врожаю. Правила омолодження, запобігання оголенню гілок та зріз на пеньок." },
-      "en": { "title": "6. Pruning & Summer Cutting", "description": "Why summer post-harvest pruning is vital. Branch renewal, gum prevention, and stubs." }
-    },
-    {
-      "slug": "07-zeleni-operatsii",
-      "filename": "07-zeleni-operatsii.md",
-      "uk": { "title": "7. Зелені операції та пінцирування", "description": "Літня прищіпка трав'янистих пагонів у червні для масового закладання букетних гілочок та зняття вертикальної домінації." },
-      "en": { "title": "7. Summer Shoots Pinching", "description": "Summer shoot pinching in June for bouquet branch stimulation and apical dominance control." }
-    },
-    {
-      "slug": "08-zhyvlennia",
-      "filename": "08-zhyvlennia.md",
-      "uk": { "title": "8. Живлення та добрива", "description": "Критична роль Кальцію (Са) та Бору (В) для щільності шкірки. Сезонні дози Азоту, Фосфору й Калію по фазах." },
-      "en": { "title": "8. Nutrition & Fertilizers", "description": "Critical role of Calcium and Boron. Seasonal NPK dosing across growth stages." }
-    },
-    {
-      "slug": "09-polyv",
-      "filename": "09-polyv.md",
-      "uk": { "title": "9. Полив та захист від розтріскування", "description": "Водний режим наливання плодів. Застосування Хлористого Кальцію (CaCl2) проти розриву шкірки від дощів." },
-      "en": { "title": "9. Watering & Fruit Cracking Protection", "description": "Water management during fruit growth. Calcium Chloride foliage sprays against rain cracking." }
-    },
-    {
-      "slug": "10-khvoroby",
-      "filename": "10-khvoroby.md",
-      "uk": { "title": "10. Інфекційні хвороби Черешні й Вишні", "description": "Моніліальний опік, коккомікоз, клястероспоріоз, бактеріальний рак. Симптоми, біологія патогенів та схеми лікування." },
-      "en": { "title": "10. Infectious Diseases", "description": "Monilinia blight, cherry leaf spot (blumeriella), shothole disease, bacterial canker." }
-    },
-    {
-      "slug": "11-fiziolohichni-problemy",
-      "filename": "11-fiziolohichni-problemy.md",
-      "uk": { "title": "11. Фізіологічні проблеми та камедетеча", "description": "Гомоз стовбура і гілок (причини та лікування), зимові морозобоїни, сонячно-термічні опіки, залізний хлороз." },
-      "en": { "title": "11. Physiological Problems & Gummosis", "description": "Gummosis cause and treatment, winter sunscald, frost cracks, iron chlorosis." }
-    },
-    {
-      "slug": "12-shkidnyky",
-      "filename": "12-shkidnyky.md",
-      "uk": { "title": "12. Головні шкідники Черешні й Вишні", "description": "Черешнева муха (причина червивих ягід), вишнева попелиця, слизистий пильщик, бруньковий довгоносик та захист від птахів." },
-      "en": { "title": "12. Main Pests & Control", "description": "Cherry fruit fly, black cherry aphid, cherry slug sawfly, bud weevil, bird nets." }
-    },
-    {
-      "slug": "13-kalendar-zakhystu",
-      "filename": "13-kalendar-zakhystu.md",
-      "uk": { "title": "13. Абсолютний календар обробок", "description": "5 фенофаз захисту із зазначенням конкретних препаратів (Хорус, Скор, Сигнум, Актара, Маврік) та норм витрати." },
-      "en": { "title": "13. Ultimate Treatment Calendar", "description": "5 protection phenophases with precise fungicide and insecticide dosages." }
-    },
-    {
-      "slug": "14-scheplennia",
-      "filename": "14-scheplennia.md",
-      "uk": { "title": "14. Щеплення та розмноження", "description": "Покращена копулювання навесні, літнє окулірування у приклад сплячим вічком, заготівля та зберігання живців." },
-      "en": { "title": "14. Grafting & Propagation", "description": "Spring whip-and-tongue grafting, summer T-budding, scion wood harvesting." }
-    },
-    {
-      "slug": "15-zbir-zberihannia",
-      "filename": "15-zbir-zberihannia.md",
-      "uk": { "title": "15. Збір, охолодження та зберігання", "description": "Збір із плодоніжкою, швидке гідро-охолодження (Hydro-cooling), параметри зберігання при 0°C, епілог культури." },
-      "en": { "title": "15. Harvesting & Cold Storage", "description": "Stemmed harvesting, hydro-cooling technology, 0°C cold storage parameters." }
-    }
-  ],
-  "stats": {
-    "sections": 15,
-    "readTimeMinutes": 280
-  }
+    "slug":  "chereshnia",
+    "emoji":  "🍒",
+    "image":  "/images/cultures/chereshnia_hero.png",
+    "color":  "#dc2626",
+    "colorLight":  "#fef2f2",
+    "uk":  {
+               "name":  "Черешня та Вишня",
+               "latinName":  "Prunus avium \u0026 Prunus cerasus",
+               "tagline":  "Королівська кісточкова культура — від високоефективних підщеп та сортів до сучасних крон KGB і захисту",
+               "description":  "Повний практичний довідник по вирощуванню черешні та вишні з докторським рівнем деталізації. Підщепи (Гізела 5, ВСЛ-2, Антипка), еталонні сорти, посадка, кущові форми крон (KGB, UFO), літня обрізка, захист від моніліозу, коккомікозу та черешневої мухи."
+           },
+    "en":  {
+               "name":  "Sweet \u0026 Sour Cherry",
+               "latinName":  "Prunus avium \u0026 Prunus cerasus",
+               "tagline":  "Royal stone fruit culture — from high-efficiency rootstocks and varieties to modern KGB systems and protection",
+               "description":  "Comprehensive practical guide to growing sweet and sour cherries. Rootstocks (Gisela 5, VSL-2), top cultivars, planting, bush training (KGB, UFO), summer pruning, pest and disease protection."
+           },
+    "sections":  [
+                     {
+                         "slug":  "biolohiya",
+                         "filename":  "01-biolohiya.md",
+                         "uk":  {
+                                    "title":  "1. Біологія та ботанічні особливості",
+                                    "description":  "Походження, структура плодової деревини (букетні гілочки), фенофази за шкалою BBCH та алелі самобезплідності S-генів."
+                                },
+                         "en":  {
+                                    "title":  "1. Biology \u0026 Botanical Features",
+                                    "description":  "Origin, fruiting wood anatomy, BBCH phenophases, and S-allele self-infertility genetics."
+                                }
+                     },
+                     {
+                         "slug":  "pidshchepy",
+                         "filename":  "02-pidshchepy.md",
+                         "uk":  {
+                                    "title":  "2. Підщепи для Черешні та Вишні",
+                                    "description":  "Антипка, Дика черешня, клонові карлики Гізела 5, Гізела 6, ВСЛ-2 та Кольт. Порівняння сил росту, вимог до вологи та опор."
+                                },
+                         "en":  {
+                                    "title":  "2. Rootstocks Comparison",
+                                    "description":  "Mahaleb, Wild Cherry, Gisela 5, VSL-2, Colt. Vigor reduction, moisture and trellis requirements."
+                                }
+                     },
+                     {
+                         "slug":  "sorty",
+                         "filename":  "03-sorty.md",
+                         "uk":  {
+                                    "title":  "3. Класифікація та еталонні сорти",
+                                    "description":  "Групи Гіні, Бігарро та Дюки. Сорти черешні (Чкалов, Крупноплідна, Кордія, Регіна, Світхарт) та вишні (Чудо-вишня)."
+                                },
+                         "en":  {
+                                    "title":  "3. Classification \u0026 Top Varieties",
+                                    "description":  "Guigne, Bigarreau and Dukes. Top sweet cherry cultivars (Kordia, Regina, Sweetheart) and sour cherries."
+                                }
+                     },
+                     {
+                         "slug":  "posadka",
+                         "filename":  "04-posadka.md",
+                         "uk":  {
+                                    "title":  "4. Посадка та вибір місця",
+                                    "description":  "Мікроклімат, освітлення, кислотність ґрунту (pH 6.2–7.2), підготовка ями 80x80 см, правила заправки та захист від занурення шийки."
+                                },
+                         "en":  {
+                                    "title":  "4. Planting \u0026 Soil Site",
+                                    "description":  "Microclimate, soil pH, pit preparation, root collar placement, and water table rules."
+                                }
+                     },
+                     {
+                         "slug":  "formuvannia",
+                         "filename":  "05-formuvannia.md",
+                         "uk":  {
+                                    "title":  "5. Сучасні форми крон (KGB, UFO, Spanish Bush)",
+                                    "description":  "Революційні системи формування кущем для збору 100% врожаю без драбин. Покроковий алгоритм розгалуження по роках."
+                                },
+                         "en":  {
+                                    "title":  "5. Modern Tree Systems (KGB, UFO)",
+                                    "description":  "Revolutionary bush training systems (KGB, UFO, Spanish Bush) for ladder-free ground harvesting."
+                                }
+                     },
+                     {
+                         "slug":  "obrizka",
+                         "filename":  "06-obrizka.md",
+                         "uk":  {
+                                    "title":  "6. Регулярна та післяурожайна обрізка",
+                                    "description":  "Чому черешню ріжуть влітку після збору врожаю. Правила омолодження, запобігання оголенню гілок та зріз на пеньок."
+                                },
+                         "en":  {
+                                    "title":  "6. Pruning \u0026 Summer Cutting",
+                                    "description":  "Why summer post-harvest pruning is vital. Branch renewal, gum prevention, and stubs."
+                                }
+                     },
+                     {
+                         "slug":  "zeleni-operatsii",
+                         "filename":  "07-zeleni-operatsii.md",
+                         "uk":  {
+                                    "title":  "7. Зелені операції та пінцирування",
+                                    "description":  "Літня прищіпка трав\u0027янистих пагонів у червні для масового закладання букетних гілочок та зняття вертикальної домінації."
+                                },
+                         "en":  {
+                                    "title":  "7. Summer Shoots Pinching",
+                                    "description":  "Summer shoot pinching in June for bouquet branch stimulation and apical dominance control."
+                                }
+                     },
+                     {
+                         "slug":  "zhyvlennia",
+                         "filename":  "08-zhyvlennia.md",
+                         "uk":  {
+                                    "title":  "8. Живлення та добрива",
+                                    "description":  "Критична роль Кальцію (Са) та Бору (В) для щільності шкірки. Сезонні дози Азоту, Фосфору й Калію по фазах."
+                                },
+                         "en":  {
+                                    "title":  "8. Nutrition \u0026 Fertilizers",
+                                    "description":  "Critical role of Calcium and Boron. Seasonal NPK dosing across growth stages."
+                                }
+                     },
+                     {
+                         "slug":  "polyv",
+                         "filename":  "09-polyv.md",
+                         "uk":  {
+                                    "title":  "9. Полив та захист від розтріскування",
+                                    "description":  "Водний режим наливання плодів. Застосування Хлористого Кальцію (CaCl2) проти розриву шкірки від дощів."
+                                },
+                         "en":  {
+                                    "title":  "9. Watering \u0026 Fruit Cracking Protection",
+                                    "description":  "Water management during fruit growth. Calcium Chloride foliage sprays against rain cracking."
+                                }
+                     },
+                     {
+                         "slug":  "khvoroby",
+                         "filename":  "10-khvoroby.md",
+                         "uk":  {
+                                    "title":  "10. Інфекційні хвороби Черешні й Вишні",
+                                    "description":  "Моніліальний опік, коккомікоз, клястероспоріоз, бактеріальний рак. Симптоми, біологія патогенів та схеми лікування."
+                                },
+                         "en":  {
+                                    "title":  "10. Infectious Diseases",
+                                    "description":  "Monilinia blight, cherry leaf spot (blumeriella), shothole disease, bacterial canker."
+                                }
+                     },
+                     {
+                         "slug":  "fiziolohichni-problemy",
+                         "filename":  "11-fiziolohichni-problemy.md",
+                         "uk":  {
+                                    "title":  "11. Фізіологічні проблеми та камедетеча",
+                                    "description":  "Гомоз стовбура і гілок (причини та лікування), зимові морозобоїни, сонячно-термічні опіки, залізний хлороз."
+                                },
+                         "en":  {
+                                    "title":  "11. Physiological Problems \u0026 Gummosis",
+                                    "description":  "Gummosis cause and treatment, winter sunscald, frost cracks, iron chlorosis."
+                                }
+                     },
+                     {
+                         "slug":  "shkidnyky",
+                         "filename":  "12-shkidnyky.md",
+                         "uk":  {
+                                    "title":  "12. Головні шкідники Черешні й Вишні",
+                                    "description":  "Черешнева муха (причина червивих ягід), вишнева попелиця, слизистий пильщик, бруньковий довгоносик та захист від птахів."
+                                },
+                         "en":  {
+                                    "title":  "12. Main Pests \u0026 Control",
+                                    "description":  "Cherry fruit fly, black cherry aphid, cherry slug sawfly, bud weevil, bird nets."
+                                }
+                     },
+                     {
+                         "slug":  "kalendar-zakhystu",
+                         "filename":  "13-kalendar-zakhystu.md",
+                         "uk":  {
+                                    "title":  "13. Абсолютний календар обробок",
+                                    "description":  "5 фенофаз захисту із зазначенням конкретних препаратів (Хорус, Скор, Сигнум, Актара, Маврік) та норм витрати."
+                                },
+                         "en":  {
+                                    "title":  "13. Ultimate Treatment Calendar",
+                                    "description":  "5 protection phenophases with precise fungicide and insecticide dosages."
+                                }
+                     },
+                     {
+                         "slug":  "scheplennia",
+                         "filename":  "14-scheplennia.md",
+                         "uk":  {
+                                    "title":  "14. Щеплення та розмноження",
+                                    "description":  "Покращена копулювання навесні, літнє окулірування у приклад сплячим вічком, заготівля та зберігання живців."
+                                },
+                         "en":  {
+                                    "title":  "14. Grafting \u0026 Propagation",
+                                    "description":  "Spring whip-and-tongue grafting, summer T-budding, scion wood harvesting."
+                                }
+                     },
+                     {
+                         "slug":  "zbir-zberihannia",
+                         "filename":  "15-zbir-zberihannia.md",
+                         "uk":  {
+                                    "title":  "15. Збір, охолодження та зберігання",
+                                    "description":  "Збір із плодоніжкою, швидке гідро-охолодження (Hydro-cooling), параметри зберігання при 0°C, епілог культури."
+                                },
+                         "en":  {
+                                    "title":  "15. Harvesting \u0026 Cold Storage",
+                                    "description":  "Stemmed harvesting, hydro-cooling technology, 0°C cold storage parameters."
+                                }
+                     },
+                     {
+                         "slug":  "mify",
+                         "filename":  "16-mify.md",
+                         "uk":  {
+                                    "title":  "16. 15 міфів про черешню",
+                                    "description":  "Розвінчання найпоширеніших хибних уявлень: вишня-запилювач, самоплідні сорти, черешня на Півдні, весняна обрізка, бактеріальний рак, вишнева муха."
+                                },
+                         "en":  {
+                                    "title":  "16. 15 Myths About Cherries",
+                                    "description":  "Debunking common misconceptions: cherry-pollinator myth, self-fertile varieties, cherries in the South, spring pruning, bacterial canker, cherry fruit fly."
+                                }
+                     },
+                     {
+                         "slug":  "zamorozky",
+                         "filename":  "17-zamorozky.md",
+                         "uk":  {
+                                    "title":  "17. Весняні заморозки черешні",
+                                    "description":  "Критичні температури по фенофазах BBCH, моніторинг квіток, пасивний захист (ділянка, ґрунт, живопліт) та активний (спринклери, фрости, дим) — головний ризик черешневого саду."
+                                },
+                         "en":  {
+                                    "title":  "17. Spring Frosts in Cherries",
+                                    "description":  "Critical temperatures by BBCH phenophases, bloom monitoring, passive protection (site, soil, windbreak) and active (sprinklers, fans, smoke) — the main risk of a cherry orchard."
+                                }
+                     }
+                 ],
+    "stats":  {
+                  "sections":  17,
+                  "readTimeMinutes":  280,
+                  "chapters":  17
+              }
 }

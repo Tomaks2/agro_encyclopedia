@@ -18,52 +18,100 @@
   },
   "sections": [
     {
-      "slug": "biolohiya-та-genetyka",
-      "filename": "01-biolohiya-та-genetyka.md",
-      "uk": { "title": "Біологія, анатомія та генетика", "description": "Октаплоїдна природа (2n=56), будова ріжка (crown), коренева система, типи квітконосів, фенофази BBCH." },
-      "en": { "title": "Biology and Genetics", "description": "Octoploid genome (2n=56), crown anatomy, root system, BBCH phenology." }
+      "slug": "biolohiya-ta-genetyka",
+      "filename": "01-biolohiya-ta-genetyka.md",
+      "uk": {
+        "title": "Біологія, анатомія та генетика",
+        "description": "Октаплоїдна природа (2n=56), будова ріжка (crown), коренева система, типи квітконосів, фенофази BBCH."
+      },
+      "en": {
+        "title": "Biology and Genetics",
+        "description": "Octoploid genome (2n=56), crown anatomy, root system, BBCH phenology."
+      }
     },
     {
       "slug": "tipy-sortiv-ksd-nsd",
       "filename": "02-tipy-sortiv-ksd-nsd.md",
-      "uk": { "title": "Типи сортів: КСД, НСД та ДСД (Ремонтантні)", "description": "Фізіологія фотоперіодизму. Сорти короткого дня (Клері, Альба, Азія) vs НСД (Альбіон, Сан Андреас, Мурано, Кабрільйо)." },
-      "en": { "title": "Variety Types: SD, DN and Everbearing", "description": "Photoperiodism physiology. Short-Day vs Day-Neutral cultivars." }
+      "uk": {
+        "title": "Типи сортів: КСД, НСД та ДСД (Ремонтантні)",
+        "description": "Фізіологія фотоперіодизму. Сорти короткого дня (Клері, Альба, Азія) vs НСД (Альбіон, Сан Андреас, Мурано, Кабрільйо)."
+      },
+      "en": {
+        "title": "Variety Types: SD, DN and Everbearing",
+        "description": "Photoperiodism physiology. Short-Day vs Day-Neutral cultivars."
+      }
     },
     {
       "slug": "rozsada-frigo-metody",
       "filename": "03-rozsada-frigo-metody.md",
-      "uk": { "title": "Типи розсади: Frigo, Cassette, Tray Plants", "description": "Класифікація розсади Frigo (A-, A, A+, WB), свіжа розсада (Fresh/Fresh Plug), Tray Plants. Правила виходу зі стану спокою та посадка." },
-      "en": { "title": "Plant Material: Frigo and Plugs", "description": "Frigo grading, Fresh plugs, Tray plants, dormancy release and planting." }
+      "uk": {
+        "title": "Типи розсади: Frigo, Cassette, Tray Plants",
+        "description": "Класифікація розсади Frigo (A-, A, A+, WB), свіжа розсада (Fresh/Fresh Plug), Tray Plants. Правила виходу зі стану спокою та посадка."
+      },
+      "en": {
+        "title": "Plant Material: Frigo and Plugs",
+        "description": "Frigo grading, Fresh plugs, Tray plants, dormancy release and planting."
+      }
     },
     {
       "slug": "tekhnolohii-vyroshchuvannia",
       "filename": "04-tekhnolohii-vyroshchuvannia.md",
-      "uk": { "title": "Технології вирощування: Від ґрунту до малооб'ємки", "description": "Вирощування на високих грядах під плівкою/мульчею, тунелі (High Tunnels), малооб'ємна гідропоніка у кокосовому субстраті." },
-      "en": { "title": "Growing Systems: Soil to Soilless", "description": "Raised beds, high tunnels, tabletop soilless substrate systems." }
+      "uk": {
+        "title": "Технології вирощування: Від ґрунту до малооб'ємки",
+        "description": "Вирощування на високих грядах під плівкою/мульчею, тунелі (High Tunnels), малооб'ємна гідропоніка у кокосовому субстраті."
+      },
+      "en": {
+        "title": "Growing Systems: Soil to Soilless",
+        "description": "Raised beds, high tunnels, tabletop soilless substrate systems."
+      }
     },
     {
       "slug": "zhyvlennia-fertyhatsiia",
       "filename": "05-zhyvlennia-fertyhatsiia.md",
-      "uk": { "title": "Живлення та малооб'ємна фертигація", "description": "Потреба в N-P-K-Ca-Mg по фазах, розрахунок EC (1.4-2.2 mS/cm) та pH (5.5-6.2), баланс K:Ca для щільності плодів, листові обробки бором та кальцієм." },
-      "en": { "title": "Nutrition and Fertigation", "description": "Stage-specific fertigation, EC/pH targets, K:Ca ratios, calcium and boron foliar nutrition." }
+      "uk": {
+        "title": "Живлення та малооб'ємна фертигація",
+        "description": "Потреба в N-P-K-Ca-Mg по фазах, розрахунок EC (1.4-2.2 mS/cm) та pH (5.5-6.2), баланс K:Ca для щільності плодів, листові обробки бором та кальцієм."
+      },
+      "en": {
+        "title": "Nutrition and Fertigation",
+        "description": "Stage-specific fertigation, EC/pH targets, K:Ca ratios, calcium and boron foliar nutrition."
+      }
     },
     {
       "slug": "khvoroby-ta-zahyst",
       "filename": "06-khvoroby-ta-zahyst.md",
-      "uk": { "title": "Хвороби суниці та хімічний захист", "description": "Сіра гниль (Botrytis), антракноз (Colletotrichum), борошниста роса, фітофторозна гниль коренів (Phytophthora cactorum), плямистості." },
-      "en": { "title": "Diseases and Plant Protection", "description": "Botrytis grey mould, anthracnose, powdery mildew, Phytophthora crown rot, leaf spots." }
+      "uk": {
+        "title": "Хвороби суниці та хімічний захист",
+        "description": "Сіра гниль (Botrytis), антракноз (Colletotrichum), борошниста роса, фітофторозна гниль коренів (Phytophthora cactorum), плямистості."
+      },
+      "en": {
+        "title": "Diseases and Plant Protection",
+        "description": "Botrytis grey mould, anthracnose, powdery mildew, Phytophthora crown rot, leaf spots."
+      }
     },
     {
       "slug": "shkidnyky-ta-biozahyst",
       "filename": "07-shkidnyky-ta-biozahyst.md",
-      "uk": { "title": "Шкідники та інтегрований біозахист", "description": "Суничний кліщ, павутинний кліщ, західний квітковий трипс, сунично-малиновий долгоносик, личинки хруща. Застосування хижих кліщів (Neoseiulus cucumeris, Phytoseiulus persimilis)." },
-      "en": { "title": "Pests and Biological Control", "description": "Tarsonemid mite, spider mite, western flower thrips, strawberry weevil, biocontrol with predatory mites." }
+      "uk": {
+        "title": "Шкідники та інтегрований біозахист",
+        "description": "Суничний кліщ, павутинний кліщ, західний квітковий трипс, сунично-малиновий долгоносик, личинки хруща. Застосування хижих кліщів (Neoseiulus cucumeris, Phytoseiulus persimilis)."
+      },
+      "en": {
+        "title": "Pests and Biological Control",
+        "description": "Tarsonemid mite, spider mite, western flower thrips, strawberry weevil, biocontrol with predatory mites."
+      }
     },
     {
       "slug": "zbir-zberihannia-cooling",
       "filename": "08-zbir-zberihannia-cooling.md",
-      "uk": { "title": "Збір, охолодження та постзбиральна логістика", "description": "Стандарти стиглості (Brix, забарвлення), швидке охолодження Forced-Air Cooling (+2°C за 2 години), зберігання в модифікованому середовищі (MAP)." },
-      "en": { "title": "Harvest, Cooling and Storage", "description": "Harvest standards, Forced-Air Cooling, modified atmosphere packaging." }
+      "uk": {
+        "title": "Збір, охолодження та постзбиральна логістика",
+        "description": "Стандарти стиглості (Brix, забарвлення), швидке охолодження Forced-Air Cooling (+2°C за 2 години), зберігання в модифікованому середовищі (MAP)."
+      },
+      "en": {
+        "title": "Harvest, Cooling and Storage",
+        "description": "Harvest standards, Forced-Air Cooling, modified atmosphere packaging."
+      }
     }
   ],
   "stats": {

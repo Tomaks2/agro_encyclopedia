@@ -34,3 +34,24 @@
 - **Не поспішати з обрізкою!** Хурма відновлює вегетацію пізніше за яблуню — часто до травня. Пагони, що виглядають «мертвими» у березні, можуть розпустити бруньки у травні.
 - **Діагностика:** Зробіть зріз ножем поперек пагона — зелений або жовтуватий камбій — живий, чорний — мертвий.
 - **Обрізка підмерзлих пагонів:** Лише після повного розпускання живих бруньок (травень). Зрізати до живої деревини з захопленням 2 см.
+
+### 📌 СХЕМА 138: ТИПИ ПЛОДОНОСНИХ ПАГОНІВ ХУРМИ
+
+| Пагін | Характеристика | Плодоношення |
+| :--- | :--- | :--- |
+| Короткий плодовий | 5–15 см, квіткова брунька на верхівці | Основний (80% урожаю) |
+| Середній | 15–30 см | Мішаний: квітка + 1–2 пагони |
+| Вовчок (жировий) | >50 см, вегетативний | Не плодоносить, вирізати влітку |
+Квіткова брунька хурми — змішана: з неї розвивається і квітка, і короткий приріст. Тому обрізка на «плодову деревину» не така критична, як у груші.
+
+> 📌 **Головний підсумок розділу:** річна підтримувальна обрізка хурми — легка: плоди на однорічному прирості, тому зберігають молоді пагони, видаляють вертикалі та загущення.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+
+<NextChapter href="/uk/khurma/zhyvlennia" title="ЖИВЛЕННЯ ХУРМИ" chapterNum="07" />

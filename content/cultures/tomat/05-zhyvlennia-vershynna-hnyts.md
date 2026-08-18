@@ -6,6 +6,9 @@
 
 ## 5.1. Покроковий механізм виникнення Вершинної гнилі (BER)
 
+<LightboxImage src="/photos/tomat/charts/44_mekhanizm_vershynnoi_hnyli_BER.png" alt="Механізм вершинної гнилі (BER)" />
+
+
 ```
                      Причинний ланцюг Вершинної гнилі (BER)
   
@@ -42,3 +45,45 @@
 | **Укорінення розсади** | 20 кг/га | 25 кг/га | 20 кг/га | 15 кг/га | 5 кг/га | **1,5 – 1,8** |
 | **Цвітіння 1–3 китиць** | 25 кг/га | 20 кг/га | 35 кг/га | **30 кг/га** | 10 кг/га | **2,0 – 2,2** |
 | **Масовий налив плодів**| 20 кг/га | 15 кг/га | **70 кг/га** | **35 кг/га** | 15 кг/га | **2,4 – 2,8** |
+
+### 📌 СХЕМА 238: МЕХАНІЗМ ВЕРШИННОЇ ГНИЛІ (BER): ЛАНЦЮГ 4 КРОКІВ
+
+| Крок | Ланка причинного ланцюга |
+| :--- | :--- |
+| **1. Тригери** | Високий EC розчину (**> 3,0**) / опік коріння / посуха / коливання зволоження |
+| **2.** | Блокування **транспіраційного току Ca²⁺** (плід транспірує дуже слабо) |
+| **3.** | Дефіцит Ca²⁺ у верхівкових клітинах плоду (**0,5–2 см**) |
+| **4.** | Розпад клітинних стінок → **чорний сухий некроз вершини** (НЕ гриб!) |
+
+**Антагоністи кальцію:** надлишок NH₄⁺, K⁺, Mg²⁺ блокують всмоктування Ca коренем; висока вологість теплиці зупиняє транспірацію.
+
+### 📌 СХЕМА 239: ФЕНОФАЗОВА ФЕРТИГАЦІЯ (КГ/ГА) + ПРОТОКОЛ ПРОФІЛАКТИКИ BER
+
+| Фаза | N | P₂O₅ | K₂O | CaO | MgO | EC мС/см |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Укорінення розсади | 20 | 25 | 20 | 15 | 5 | **1,5–1,8** |
+| Цвітіння 1–3 китиць | 25 | 20 | 35 | **30** | 10 | 2,0–2,2 |
+| Масовий налив | 20 | 15 | **70** | **35** | 15 | **2,4–2,8** |
+
+| Протокол BER | Норма | Графік |
+| :--- | :--- | :--- |
+| **Кореневе** | Кальцієва селітра (Nitrate Calcium) | Від цвітіння 2-ї китиці до кінця наливу |
+| **Листове** | CaCl₂ **30–40 г/10 л** або Ca-EDTA **20–25 г/10 л** | Кожні **7–10 днів** під час росту зав'язі |
+
+> 📌 **Головний підсумок розділу:** Вершинна гниль (BER) — не хвороба, а фізіологічний розлад: некроз 0,5–2 см на верхівці плоду виникає через дефіцит Ca²⁺ у клітинах вершини, коли транспіраційний потік кальцію блокується стрибками зволоження, високим EC (>3,0) чи антагоністами (NH₄⁺, K⁺, Mg²⁺) — плід практично не транспірує. Фертигація тримає калійну домінанту на наливі (70 кг/га K₂O) при одночасному максимумі кальцію (35 кг/га CaO) і EC 2,4–2,8 мС/см. Профілактика BER двоколейна: кальцієва селітра коренем від 2-ї китиці + листове CaCl₂ (30–40 г/10 л) або Ca-EDTA (20–25 г/10 л) кожні 7–10 днів на період росту зав'язі.
+
+## Джерела
+
+1. [University of Georgia Extension — Blossom-End Rot](https://extension.uga.edu/publications/)
+2. [University of California Agriculture and Natural Resources — Tomato Calcium Disorders](https://anrcatalog.ucanr.edu/Details.aspx?itemNumber=3394)
+3. [Cornell University Vegetable Program — Calcium and Tomatoes](https://vegetables.cornell.edu/)
+4. [University of Illinois Extension — Blossom-End Rot](https://extension.illinois.edu/vegetables/tomatoes)
+5. [Penn State Extension — Tomato Disorders: Blossom-End Rot](https://extension.psu.edu/plant-disease-fact-sheets/blossom-end-rot-of-tomato)
+6. [North Carolina State Extension — Tomato Nutrition](https://extension.ncsu.edu/gardening/edibles/vegetables/tomato/)
+
+<LightboxImage src="/photos/biozahyst/nastii-kropyvy-dlia-pidzhyvlennia-ovochiv.jpg" alt="Настій кропиви" />
+
+
+<LightboxImage src="/images/cultures/tomat/defitsyt-mikro-ta-makroelementiv-tomativ-.jpg" alt="Дефіцит макро- та мікроелементів" />
+
+<NextChapter href="/uk/tomat/khvoroby-tomata" title="ХВОРОБИ ТОМАТА" chapterNum="6" />

@@ -45,7 +45,7 @@ export const HeroCover = ({ imageSrc, chapter, title, subtitle }: HeroCoverProps
       <div style={{ 
         position: 'relative', zIndex: 10, display: 'flex', flexDirection: 'column', 
         alignItems: 'center', justifyContent: 'flex-end', textAlign: 'center',
-        width: '100%', height: '100%', padding: '2rem 3rem', paddingBottom: '2.5rem'
+        width: '100%', height: '100%', padding: '2rem 1rem', paddingBottom: '2.5rem', overflow: 'hidden'
       }}>
         <span style={{
           display: 'inline-block', fontSize: '0.75rem', textTransform: 'uppercase', letterSpacing: '0.3em',
@@ -57,7 +57,7 @@ export const HeroCover = ({ imageSrc, chapter, title, subtitle }: HeroCoverProps
         </span>
 
         <h1 style={{
-          fontSize: 'clamp(2rem, 5vw, 3.75rem)', fontFamily: 'var(--font-serif)', color: '#F6F4EE',
+          fontSize: 'clamp(1.5rem, 3.5vw, 2.75rem)', overflowWrap: 'break-word', wordBreak: 'break-word', fontFamily: 'var(--font-serif)', color: '#F6F4EE',
           marginBottom: '1rem', textShadow: '0 4px 12px rgba(0,0,0,0.5)', lineHeight: 1.1, fontWeight: 'normal'
         }}>
           {title || "TITLE MISSING"}

@@ -6,6 +6,9 @@
 
 ## 5.1. Фізіологічні цільові показники pH та EC поживного розчину
 
+<LightboxImage src="/photos/polunytsia/charts/160_fertygatsiia.png" alt="Фазовий план фертигації" />
+
+
 | Параметр | Відкритий ґрунт | Кокосовий субстрат | Дренажний розчин (Drain) |
 | :--- | :--- | :--- | :--- |
 | **pH (Кислотність)** | **5,8 – 6,5** | **5,5 – 6,0** | **5,8 – 6,3** |
@@ -64,3 +67,28 @@
 - Внесення препарату *Бороплюс* або *Borogreen* (15 мл/10 л води) у фази **виходу суцвіть (BBCH 55)** та **масового цвітіння (BBCH 65)**.
 - **Ефект:** Бор стимулює проростання пилкових трубок, запобігає масовому утворенню деформованих та дрібних плодів на 30–40%.
 </InfoBlock>
+
+### 📌 СХЕМА 160: ФАЗОВИЙ ПЛАН ФЕРТИГАЦІЇ СУНИЦІ (ВІД ПРИЖИВЛЮВАННЯ ДО ОСТАННЬОГО ЗБОРУ)
+
+| Фаза | Основний елемент | Корекція живлення | Ключовий ризик при порушенні |
+| :--- | :--- | :--- | :--- |
+| **Приживлювання (перші 2 тижні)** | N 110 ppm + P (стартовий) | Низький EC 1,2–1,4 | Високий EC → осмотичний шок молодих коренів |
+| **Вегетація листків (BBCH 30–50)** | N 120 ppm, Mg 45 ppm | Кальцій 140 ppm — для товщини листа | Дефіцит Ca → tip-burn («обпалені» краї листа) |
+| **Бутонізація + цвітіння (BBCH 55–69)** | **Бор 0,5 ppm**, Ca 160 ppm | Заборона високого N | Надлишок N → м'яка ягода, спалах Botrytis |
+| **Налив плодів (BBCH 71–89)** | **K до 240–260 ppm (N:K 1:2,2)** | CaCl₂ між поливами | Дефіцит K/Ca → дрібна, несолодка, «протікаюча» ягода |
+| **Після збору (підготовка зими)** | Monopotassium phosphate (P+K), N припинити | Зниження EC до 1,2 | Азот восени → незрілі ріжки, вимерзання |
+
+> 📌 **Головний підсумок розділу:** Фертигація суниці — це баланс трьох констант: EC (1,4–1,8 у ґрунті, 1,6–2,0 у кокосі з дренажем 1,8–2,2), pH (5,8–6,5) та фазового зсуву N:K від 1:1,0 при старті до 1:2,2 під налив плодів. Три найдорожчі помилки: EC > 2,5 (миттєва смерть білих корінців), дефіцит кальцію (tip-burn і м'який плід) та азот у квітіння/налив (Botrytis і несолодка ягода). Бор у BBCH 55 та 65 — найдешевший прийом з найбільшим ефектом на розмір та форму плоду.
+
+## Джерела
+
+1. [Penn State Extension — Strawberry Fertilization](https://extension.psu.edu/strawberry)
+2. [NCSU Small Fruits — Strawberry Nutrition and Fertilization](https://smallfruits.org/strawberry/)
+3. [Ohioline OSU — Fertilizing Strawberry Plants](https://ohioline.osu.edu/factsheet/hyg-5141)
+4. [Michigan State University Extension — Strawberry Nutrient Management](https://www.canr.msu.edu/fruit/)
+5. [University of California ANR — Strawberry Irrigation and Fertilization](https://anrcatalog.ucanr.edu/)
+6. [Cornell University — Strawberry Soil and Fertilizer Management](https://berry.cornell.edu/strawberries)
+
+<LightboxImage src="/images/cultures/polunytsia/pidzhyvlennia-polunytsi-navesni.jpg" alt="Підживлення полуниці навесні" />
+
+<NextChapter href="/uk/polunytsia/khvoroby-ta-zahyst" title="ХВОРОБИ ТА ЗАХИСТ: FRAC-РОТАЦІЯ" chapterNum="6" />

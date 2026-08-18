@@ -8,7 +8,7 @@ export default function LightboxImage({ src, alt, width, height, className }: an
         src={src} 
         alt={alt || "Зображення"} 
         className="max-w-full h-auto object-contain rounded-lg shadow-sm"
-        style={{ maxHeight: '80vh', margin: '0 auto', display: 'block' }}
+        style={{ maxHeight: 'none', margin: '0 auto', display: 'block' }}
       />
       {alt && (
         <figcaption 

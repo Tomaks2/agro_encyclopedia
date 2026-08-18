@@ -20,90 +20,198 @@
     {
       "slug": "biolohiya",
       "filename": "01-biolohiya.md",
-      "uk": { "title": "Біологія та будова хурми", "description": "Родина Ebenaceae, поліплоїдія (2n = 90), будова плоду, танінові клітини та механізм в'яжучості, кліматологія розповсюдження у Світі та Україні." },
-      "en": { "title": "Persimmon Biology", "description": "Family Ebenaceae, polyploidy (2n=90), fruit structure, tannin cells and astringency mechanism, global and Ukrainian climate distribution." }
+      "uk": {
+        "title": "Біологія та будова хурми",
+        "description": "Родина Ebenaceae, поліплоїдія (2n = 90), будова плоду, танінові клітини та механізм в'яжучості, кліматологія розповсюдження у Світі та Україні."
+      },
+      "en": {
+        "title": "Persimmon Biology",
+        "description": "Family Ebenaceae, polyploidy (2n=90), fruit structure, tannin cells and astringency mechanism, global and Ukrainian climate distribution."
+      }
     },
     {
       "slug": "pidshchepy",
       "filename": "02-pidshchepy.md",
-      "uk": { "title": "Підщепи для хурми", "description": "Diospyros virginiana (Єбенова американська), D. lotus (Дерен їстівний), D. kaki насіннєва підщепа — вплив на pH-стійкість, силу росту та анкерування." },
-      "en": { "title": "Persimmon Rootstocks", "description": "D. virginiana, D. lotus, D. kaki seedling — effects on pH tolerance, vigor, and anchorage." }
+      "uk": {
+        "title": "Підщепи для хурми",
+        "description": "Diospyros virginiana (Єбенова американська), D. lotus (Дерен їстівний), D. kaki насіннєва підщепа — вплив на pH-стійкість, силу росту та анкерування."
+      },
+      "en": {
+        "title": "Persimmon Rootstocks",
+        "description": "D. virginiana, D. lotus, D. kaki seedling — effects on pH tolerance, vigor, and anchorage."
+      }
     },
     {
       "slug": "sorty",
       "filename": "03-sorty.md",
-      "uk": { "title": "Сорти та їх класифікація", "description": "PCNA/PVNA/PCA/PVA-класифікація за в'язкістю таніну. Японські (Хіакуме, Дзіро, Гошо), Кавказькі (Хорьвалі), Нікітські гібридні сорти — характеристики, строки, вага, в'язкість." },
-      "en": { "title": "Varieties and Classification", "description": "PCNA/PVNA/PCA/PVA classification. Japanese, Caucasian, Nikita hybrid varieties." }
+      "uk": {
+        "title": "Сорти та їх класифікація",
+        "description": "PCNA/PVNA/PCA/PVA-класифікація за в'язкістю таніну. Японські (Хіакуме, Дзіро, Гошо), Кавказькі (Хорьвалі), Нікітські гібридні сорти — характеристики, строки, вага, в'язкість."
+      },
+      "en": {
+        "title": "Varieties and Classification",
+        "description": "PCNA/PVNA/PCA/PVA classification. Japanese, Caucasian, Nikita hybrid varieties."
+      }
     },
     {
       "slug": "posadka",
       "filename": "04-posadka.md",
-      "uk": { "title": "Посадка та вибір місця", "description": "Вимоги до ґрунту pH 6.0–7.5, захист від протягів, мікроклімат Півдня та Закарпаття, схеми посадки, перша обрізка." },
-      "en": { "title": "Planting and Site Selection", "description": "Soil pH 6.0–7.5, wind protection, South and Transcarpathia microclimates, planting schemes, first pruning." }
+      "uk": {
+        "title": "Посадка та вибір місця",
+        "description": "Вимоги до ґрунту pH 6.0–7.5, захист від протягів, мікроклімат Півдня та Закарпаття, схеми посадки, перша обрізка."
+      },
+      "en": {
+        "title": "Planting and Site Selection",
+        "description": "Soil pH 6.0–7.5, wind protection, South and Transcarpathia microclimates, planting schemes, first pruning."
+      }
     },
     {
       "slug": "formuvannia",
       "filename": "05-formuvannia.md",
-      "uk": { "title": "Формування крони хурми", "description": "Ярусна розріджена крона (Modified Central Leader), кулеподібне формування (Globose), плоска пальмета. Особливості зрізу хурми." },
-      "en": { "title": "Persimmon Crown Formation", "description": "Modified Central Leader, Globose formation, flat palmette. Specific persimmon pruning techniques." }
+      "uk": {
+        "title": "Формування крони хурми",
+        "description": "Ярусна розріджена крона (Modified Central Leader), кулеподібне формування (Globose), плоска пальмета. Особливості зрізу хурми."
+      },
+      "en": {
+        "title": "Persimmon Crown Formation",
+        "description": "Modified Central Leader, Globose formation, flat palmette. Specific persimmon pruning techniques."
+      }
     },
     {
       "slug": "obrizka",
       "filename": "06-obrizka.md",
-      "uk": { "title": "Обрізка та догляд за кроною", "description": "Мінімальна потреба у щорічній обрізці, типи плодових утворень, видалення засохлих та вертикальних пагонів, регенерація після підмерзання." },
-      "en": { "title": "Pruning and Crown Maintenance", "description": "Minimal annual pruning, fruit formation types, dead wood and water sprout removal, regeneration after frost." }
+      "uk": {
+        "title": "Обрізка та догляд за кроною",
+        "description": "Мінімальна потреба у щорічній обрізці, типи плодових утворень, видалення засохлих та вертикальних пагонів, регенерація після підмерзання."
+      },
+      "en": {
+        "title": "Pruning and Crown Maintenance",
+        "description": "Minimal annual pruning, fruit formation types, dead wood and water sprout removal, regeneration after frost."
+      }
     },
     {
       "slug": "zhyvlennia",
       "filename": "07-zhyvlennia.md",
-      "uk": { "title": "Живлення та удобрення", "description": "Помірний режим азоту (ризик перевантаження листя), калій та фосфор для якості плодів та зимостійкості, роль марганцю та цинку для синтезу каротиноїдів." },
-      "en": { "title": "Nutrition and Fertilization", "description": "Moderate nitrogen, potassium and phosphorus for fruit quality, manganese and zinc for carotenoid synthesis." }
+      "uk": {
+        "title": "Живлення та удобрення",
+        "description": "Помірний режим азоту (ризик перевантаження листя), калій та фосфор для якості плодів та зимостійкості, роль марганцю та цинку для синтезу каротиноїдів."
+      },
+      "en": {
+        "title": "Nutrition and Fertilization",
+        "description": "Moderate nitrogen, potassium and phosphorus for fruit quality, manganese and zinc for carotenoid synthesis."
+      }
     },
     {
       "slug": "polyv",
       "filename": "08-polyv.md",
-      "uk": { "title": "Водний режим", "description": "Висока природна посухостійкість (глибока коренева система), критична вологість при наливі плоду, ризик передчасного опадання при стресі сухості." },
-      "en": { "title": "Water Management", "description": "Natural drought tolerance, critical moisture during fruit fill, premature drop risk under drought stress." }
+      "uk": {
+        "title": "Водний режим",
+        "description": "Висока природна посухостійкість (глибока коренева система), критична вологість при наливі плоду, ризик передчасного опадання при стресі сухості."
+      },
+      "en": {
+        "title": "Water Management",
+        "description": "Natural drought tolerance, critical moisture during fruit fill, premature drop risk under drought stress."
+      }
     },
     {
       "slug": "taniny-viazuchist",
       "filename": "09-taniny-viazuchist.md",
-      "uk": { "title": "Таніни та механізм в'яжучості", "description": "Хімічна природа проантоціанідинів, PCNA vs PCA-типи, концентрація розчинних та нерозчинних таніну по фазах дозрівання. Природне та штучне дозрівання." },
-      "en": { "title": "Tannins and Astringency", "description": "Proanthocyanidin chemistry, PCNA vs PCA types, soluble vs insoluble tannin by ripening phase. Natural and artificial ripening." }
+      "uk": {
+        "title": "Таніни та механізм в'яжучості",
+        "description": "Хімічна природа проантоціанідинів, PCNA vs PCA-типи, концентрація розчинних та нерозчинних таніну по фазах дозрівання. Природне та штучне дозрівання."
+      },
+      "en": {
+        "title": "Tannins and Astringency",
+        "description": "Proanthocyanidin chemistry, PCNA vs PCA types, soluble vs insoluble tannin by ripening phase. Natural and artificial ripening."
+      }
     },
     {
-      "slug": "metodы-dozryvannia",
+      "slug": "metody-dozryvannia",
       "filename": "10-metody-dozryvannia.md",
-      "uk": { "title": "Методи усунення в'яжучості", "description": "Карбідна обробка (ацетилен), етиленовий метод (15 ppm / 24 год), CO2-метод, спиртово-інжирний метод, заморожування. Порівняльна ефективність для кожного типу." },
-      "en": { "title": "Astringency Removal Methods", "description": "Carbide treatment (acetylene), ethylene method (15ppm), CO2 method, alcohol method, freezing. Comparative effectiveness." }
+      "uk": {
+        "title": "Методи усунення в'яжучості",
+        "description": "Карбідна обробка (ацетилен), етиленовий метод (15 ppm / 24 год), CO2-метод, спиртово-інжирний метод, заморожування. Порівняльна ефективність для кожного типу."
+      },
+      "en": {
+        "title": "Astringency Removal Methods",
+        "description": "Carbide treatment (acetylene), ethylene method (15ppm), CO2 method, alcohol method, freezing. Comparative effectiveness."
+      }
     },
     {
       "slug": "khvoroby",
       "filename": "11-khvoroby.md",
-      "uk": { "title": "Хвороби хурми", "description": "Антракноз плодів (Colletotrichum gloeosporioides), кутаста бактеріальна плямистість (Pseudomonas syringae), Botrytis cinerea при зберіганні, коренева гниль." },
-      "en": { "title": "Persimmon Diseases", "description": "Anthracnose (Colletotrichum), angular leaf spot (Pseudomonas), Botrytis in storage, root rot." }
+      "uk": {
+        "title": "Хвороби хурми",
+        "description": "Антракноз плодів (Colletotrichum gloeosporioides), кутаста бактеріальна плямистість (Pseudomonas syringae), Botrytis cinerea при зберіганні, коренева гниль."
+      },
+      "en": {
+        "title": "Persimmon Diseases",
+        "description": "Anthracnose (Colletotrichum), angular leaf spot (Pseudomonas), Botrytis in storage, root rot."
+      }
     },
     {
       "slug": "shkidnyky",
       "filename": "12-shkidnyky.md",
-      "uk": { "title": "Шкідники хурми", "description": "Хурмовий кліщ (Panonychus citri), листоїди, хрущі, пошкодження плодів птахами та осами, Cuscuta (вовчок-паразит)." },
-      "en": { "title": "Persimmon Pests", "description": "Citrus red mite, beetles, grubs, bird and wasp fruit damage, dodder parasite." }
+      "uk": {
+        "title": "Шкідники хурми",
+        "description": "Хурмовий кліщ (Panonychus citri), листоїди, хрущі, пошкодження плодів птахами та осами, Cuscuta (вовчок-паразит)."
+      },
+      "en": {
+        "title": "Persimmon Pests",
+        "description": "Citrus red mite, beetles, grubs, bird and wasp fruit damage, dodder parasite."
+      }
     },
     {
       "slug": "zbyrannia-zberihannia",
       "filename": "13-zbyrannia-zberihannia.md",
-      "uk": { "title": "Збір та зберігання хурми", "description": "Техніка збору без пошкодження чашечки-тюрбана, знімальна стиглість vs споживча, холодильне зберігання при 0 °C та CO2, MAP-зберігання." },
-      "en": { "title": "Harvest and Storage", "description": "Harvesting without damaging the calyx crown, harvest vs consumer ripeness, cold storage at 0°C with CO2, MAP storage." }
+      "uk": {
+        "title": "Збір та зберігання хурми",
+        "description": "Техніка збору без пошкодження чашечки-тюрбана, знімальна стиглість vs споживча, холодильне зберігання при 0 °C та CO2, MAP-зберігання."
+      },
+      "en": {
+        "title": "Harvest and Storage",
+        "description": "Harvesting without damaging the calyx crown, harvest vs consumer ripeness, cold storage at 0°C with CO2, MAP storage."
+      }
     },
     {
       "slug": "rehiony",
       "filename": "14-rehiony.md",
-      "uk": { "title": "Регіональна адаптація в Україні", "description": "Причорномор'я та Закарпаття (ідеал), Лісостеп (можливо при грамотному мікрокліматі), дерево на Північ від 49-ї паралелі." },
-      "en": { "title": "Regional Adaptation in Ukraine", "description": "Black Sea coast and Transcarpathia (ideal), Forest-steppe (microclimate dependent), trees north of 49th parallel." }
+      "uk": {
+        "title": "Регіональна адаптація в Україні",
+        "description": "Причорномор'я та Закарпаття (ідеал), Лісостеп (можливо при грамотному мікрокліматі), дерево на Північ від 49-ї паралелі."
+      },
+      "en": {
+        "title": "Regional Adaptation in Ukraine",
+        "description": "Black Sea coast and Transcarpathia (ideal), Forest-steppe (microclimate dependent), trees north of 49th parallel."
+      }
+    },
+    {
+      "filename": "15-mify.md",
+      "slug": "mify",
+      "uk": {
+        "title": "15 міфів про хурму",
+        "description": "П'ятнадцять поширених міфів про в'язкість, токсичність і вирощування хурми в Україні — з розбором механізмів і фактів."
+      },
+      "en": {
+        "title": "15 Myths About Persimmon",
+        "description": "Fifteen common myths about astringency, toxicity and growing persimmon in Ukraine — with mechanism-based debunking."
+      }
+    },
+    {
+      "filename": "16-zamorozky.md",
+      "slug": "zamorozky",
+      "uk": {
+        "title": "Осінньо-зимові морози: критичні температури та захист хурми",
+        "description": "Критичні температури по видах (D. kaki, D. lotus, D. virginiana) і вікових групах; осінній ризик морозу при недозрілих плодах; план осінньо-зимового захисту."
+      },
+      "en": {
+        "title": "Autumn-Winter Frosts: Critical Temperatures and Protection",
+        "description": "Critical temperatures by species and age groups; autumn frost risk for unfinished fruit; seasonal protection plan."
+      }
     }
   ],
   "stats": {
-    "sections": 14,
+    "sections": 16,
     "readTimeMinutes": 280
   }
 }

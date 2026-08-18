@@ -84,3 +84,28 @@
 - **Особливість:** Характерний для Аджарії та Абхазії. Дуже поширена у Закарпатті.
 - **Аромат:** Виразний, медово-карамельний після дозрівання.
 </InfoBlock>
+
+### 📌 СХЕМА 133: СОРТИ ХУРМИ: МАТРИЦЯ ВАГИ, ТЕРМІНУ ТА В'ЯЗКОСТІ
+
+| Сорт | Тип | Вага плоду | Збір (Україна) | Brix |
+| :--- | :--- | :--- | :--- | :--- |
+| **Хіакуме** | PCNA | 250–400 г | Кінець жовтня | 16–18% |
+| **Дзіро** | PCNA | 200–300 г | Кінець жовтня | 16–17% |
+| **Фую** | PCNA | 200–350 г | Листопад | 17–19% |
+| **Росіянка** | PCA | 70–120 г | Початок жовтня | 14–16% |
+| **Зенджі-Мару** | PCA | 100–150 г | Кінець вересня | 15–17% |
+| **Гора Говерла** | PCNA (нікітська) | 150–250 г | Листопад | 16–18% |
+Сорти Nikita Botanical Gardens (ННЦ) — єдині PCNA, адаптовані до Лісостепу; японські потребують Причорномор'я.
+
+> 📌 **Головний підсумок розділу:** PCNA-сорти — інвестиція в якість без дозрівання камер, PCA — страховка в холодних зонах; нікітський каталог покриває обидва типи.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+- [6] Nikita Botanical Gardens, сортовий каталог — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+
+<NextChapter href="/uk/khurma/posadka" title="ПОСАДКА ХУРМИ" chapterNum="04" />

@@ -50,3 +50,36 @@
 - **Сума активних температур:** 2 800–3 500 °C-день (чим більше — тим повніше дозрівання таніну).
 - **Тривалість безморозного сезону:** Не менше 200 днів.
 - **Відношення до опадів:** Помірна посухостійкість (глибока коренева система D. virginiana).
+
+### 📌 СХЕМА 129: КЛАСИФІКАЦІЯ ХУРМИ ЗА ТИПОМ В'ЯЗКОСТІ (PCNA/PCA)
+
+| Тип | Танін при зборі | В'яже чи ні | Приклад |
+| :--- | :--- | :--- | :--- |
+| **PCNA** (Persimmon, Constant, Non-Astringent) | 0,1–0,3% | Ні, їстівна з дерева | Хіакуме, Дзіро, Фую |
+| **PCA** (Persimmon, Constant, Astringent) | 0,5–1,5% | Так, потребує дозрівання | Хорьвалі, Росіянка, Зенджі-Мару |
+| **PVNA** (Persimmon, Variable, Non-Astringent) | 0,2–0,5% | Ні при запиленні | Насу, О-Гошо |
+| **PVA** (Persimmon, Variable, Astringent) | 0,4–0,9% | Ні лише навколо насіння | Хіра-Таненаші |
+Система Yoshida (1981), прийнята JFTA; PCNA — єдиний тип для продажу «з гілки».
+
+### 📌 СХЕМА 130: КАРІОЛОГІЯ ХУРМИ: ЧОМУ ГЕНОМ НЕ ЯК У ЯБЛУНІ
+
+| Параметр | Хурма (D. kaki) | Яблуня (M. domestica) |
+| :--- | :--- | :--- |
+| Плоїдність | Десятиплоїд, 2n = 90 | Диплоїд, 2n = 34 |
+| Хромосом базового набору | x = 15 (6 набірів) | x = 17 |
+| Наслідок для селекції | Мутантні PCNA-сорта стабілізуються рідко, гібридизація складна | Класична селекція працює |
+| Наслідок для щеплення | Сумісність тільки в межах роду Diospyros | Ширший вибір підщеп |
+Поліплоїдія 2n=90 — причина повільного добору сортів: мутація одного гена таніну не скасовує в'язкість миттєво.
+
+> 📌 **Головний підсумок розділу:** хурма — єдина плодова культура з двома механізмами в'язкості (PCNA/PCA) і поліплоїдним геномом 6x=90; розуміння цих двох фактів визначає все: від вибору сорту до терміну збору.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+- [6] Yoshida T. (1981), PCNA/PCA classification, JFTA — [https://www.jstage.jst.go.jp/article/jjshs/50/4/50_4_481/_article](https://www.jstage.jst.go.jp/article/jjshs/50/4/50_4_481/_article)
+
+<NextChapter href="/uk/khurma/pidshchepy" title="ПІДЩЕПИ ДЛЯ ХУРМИ" chapterNum="02" />

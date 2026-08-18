@@ -74,3 +74,26 @@
 | **CO2 (60–80%)** | 12–36 год | 95–99% | Тверда (хрустка) | ТАК | Середня |
 | **Спирт / Інжир** | 5–7 діб | 70–85% | М'яка | ТАК | Дуже низька |
 | **Заморожування** | 24–48 год | 100% | Рідка | ТАК | Низька |
+
+### 📌 СХЕМА 144: МЕТОДИ УСУНЕННЯ В'ЯЗКОСТІ: ПОРІВНЯННЯ
+
+| Метод | Умови | Термін | Якість м'якоті |
+| :--- | :--- | :--- | :--- |
+| Яблука/етанол у пакеті | 20°C, закритий пакет | 3–7 днів | М'яка, традиційна |
+| CO₂-камера (анаеробна) | 2000 ppm CO₂, 20°C | 24–48 год | Тверда, як PCNA — комерційний стандарт |
+| Спиртовий (саке/горілка крапля) | 1 мл етанолу в чашечку | 2–3 дні | М'яка, традиційна Корея/Японія |
+| Заморожування -20°C → відтавання | 24 год мороз + 24 год відтавання | 2 дні | Дуже м'яка, десертна |
+| Карбід (ацетилен) | 1–2 г CaC₂ на ящик | 2–3 дні | М'яка, застарілий |
+CO₂-метод — єдиний, що дає твердий «PCNA-подібний» плід: танін полімеризується без розм'якшення м'якоті.
+
+> 📌 **Головний підсумок розділу:** CO₂-метод — єдиний, що дає твердий плід без розм'якшення; етанол і яблука — м'який; вибір методу визначає товарний формат.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+
+<NextChapter href="/uk/khurma/khvoroby" title="ХВОРОБИ ХУРМИ" chapterNum="11" />

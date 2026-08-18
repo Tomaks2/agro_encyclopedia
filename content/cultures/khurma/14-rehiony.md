@@ -43,3 +43,25 @@
 - Сорти виключно: Нікітська Бордова (на підщепі D. virginiana).
 - Обов'язкове вкриття на зиму та захист від холодних вітрів.
 - Рекомендація: Вирощування хурми у форматі «великого куща» (штамб 20–30 см) — при такому підході коренева шийка та нижня частина стовбура зимують під снігом.
+
+### 📌 СХЕМА 150: ХУРМА ЗА ЗОНАМИ УКРАЇНИ: МАТРИЦЯ РИЗИКІВ
+
+| Зона | Морозо-ризик | Сорти | Підщепа | Коментар |
+| :--- | :--- | :--- | :--- | :--- |
+| Причорномор'я (Одеса, Херсон) | Низький | PCNA японські | D. lotus | Ідеально, комерційно |
+| Закарпаття | Низький, вологість висока | PCA кавказькі | D. lotus | Традиційна зона |
+| Лісостеп (Київ, Вінниця) | Середній | Нікітські PCNA | D. lotus/virginiana | Укриття молодих, вибір мікроклімату |
+| Полісся та Схід | Високий | Тільки D. virginiana декоративно | D. virginiana | Як фруктовий ризик — не рекомендовано |
+Доросле дерево D. kaki витримує короткочасно -15…-18°C; молодь до 3 років — лише -10°C, тому перші зими — критичні.
+
+> 📌 **Головний підсумок розділу:** зона визначає все: Південь і Крим — повний цикл без ризиків, Центральна Україна — PCA-сорти на D. lotus, Лісостеп — D. virginiana і нікітські сорти.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+
+<NextChapter href="/uk/khurma/biolohiya" title="БІОЛОГІЯ ТА БУДОВА ХУРМИ" chapterNum="01" />

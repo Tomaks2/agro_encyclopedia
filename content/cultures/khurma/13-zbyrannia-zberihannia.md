@@ -1,4 +1,4 @@
-<HeroCover imageSrc="/images/cultures/khurma/ch13_zbyrannia_zberihannia.jpg" chapter="РОЗДІЛ 13" title="ЗБІР ТА ЗБЕРІГАННЯ ХУРМИ" subtitle="Техніка збору без пошкодження чашечки-тюрбана, знімальна vs споживча стиглість, MAP-зберігання" />
+﻿<HeroCover imageSrc="/images/cultures/khurma/ch13_zbyrannia_zberihannia.jpg" chapter="РОЗДІЛ 13" title="ЗБІР ТА ЗБЕРІГАННЯ ХУРМИ" subtitle="Техніка збору без пошкодження чашечки-тюрбана, знімальна vs споживча стиглість, MAP-зберігання" />
 
 <Callout type="important" title="Чашечка — найважливіша деталь при збиранні хурми">
 Хурма є єдиною поширеною плодовою культурою, для якої збереженість чашечки (calyx) є критичним показником товарної якості. Плоди без чашечки або з пошкодженою чашечкою на холодильному ринку відносять до третього сорту або відбраковують. Вологи, що входить у м'якоть через відкриту без чашечки ранку, достатньо для розвитку Botrytis за 3–5 днів.
@@ -46,3 +46,36 @@
 - **Матеріал пакета:** Поліетиленові пакети XTEND® або мікроперфоровані.
 - **Склад атмосфери:** 2–4% O2 / 5–8% CO2.
 - **Ефект CO2:** Зупиняє активність ферменту фенілаланінаміаклійази (PAL), знижує синтез нових фенольних сполук. Це УПОВІЛЬНЮЄ процес природного дозрівання PCA-сортів і подовжує термін зберігання.
+
+### 📌 СХЕМА 148: ЗНІМАЛЬНА СТИГЛІСТЬ ХУРМИ: КРИТЕРІЇ
+
+| Критерій | PCA-сорт | PCNA-сорт |
+| :--- | :--- | :--- |
+| Колір шкірки | Помаранчевий, без зелені | Помаранчевий |
+| Brix | ≥14% (для дозрівання) | ≥16% (для їжі) |
+| Відокремлення | Від чашечки з зусиллям | Від чашечки легко |
+| Твердість | 8–12 кг/см² | 5–8 кг/см² |
+Збір PCA при Brix &lt;13% не дасть якісного дозрівання: цукру для полімеризації таніну замало.
+
+### 📌 СХЕМА 149: ХОЛОДОВИЙ ЛАНЦЮГ ХУРМИ
+
+| Етап | Температура | Термін |
+| :--- | :--- | :--- |
+| Охолодження після збору | ≤4°C протягом 6 год | Обов'язково |
+| Зберігання PCA (тверді) | 0…+1°C | До 4 тижнів |
+| Зберігання PCNA (тверді) | 0…+2°C | До 3 місяців |
+| М'які дозрілі плоди | +4…+6°C | 3–5 днів |
+Хурма не дозріває після збору так, як банан: PCA потребує етанол/CO₂-обробки для м'якості; PCNA їдять твердою.
+
+> 📌 **Головний підсумок розділу:** збір хурми — за критеріями (Brix, твердість, колір), а не за календарем; холодовий ланцюг 0°C + 85–90% RH подвоює термін зберігання.
+
+## Джерела
+
+- [1] UC ANR, Stone Fruit and Subtropical Fruit Manuals — [https://anrcatalog.ucanr.edu/](https://anrcatalog.ucanr.edu/)
+- [2] University of Georgia Extension, Persimmon Production — [https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit](https://extension.uga.edu/publications/detail.html?number=B983&title=growing-figs-other-subtropical-fruit)
+- [3] FAO, Persimmon (Diospyros kaki L.) — [https://www.fao.org/3/y4357e/y4357e06.htm](https://www.fao.org/3/y4357e/y4357e06.htm)
+- [4] Nikita Botanical Gardens, ННЦ «Нікітський ботанічний сад» НААН — [https://nbgarden.in.ua/](https://nbgarden.in.ua/)
+- [5] NC State Extension, Diospyros Species — [https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/](https://plants.ces.ncsu.edu/plants/all/diospyros-kaki/)
+- [6] UC Postharvest Technology Center, Persimmon — [https://postharvest.ucdavis.edu/produce-facts-sheets/persimmon](https://postharvest.ucdavis.edu/produce-facts-sheets/persimmon)
+
+<NextChapter href="/uk/khurma/rehiony" title="ХУРМА ЗА ЗОНАМИ УКРАЇНИ" chapterNum="14" />

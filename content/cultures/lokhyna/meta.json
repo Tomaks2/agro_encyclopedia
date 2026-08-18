@@ -18,46 +18,88 @@
   },
   "sections": [
     {
-      "slug": "biolohiya-та-atsydofiliia",
-      "filename": "01-biolohiya-та-atsydofiliia.md",
-      "uk": { "title": "Ботанічна біологія та феномен ацидофілії", "description": "Анатомія коренів без волосків, ерикоїдна мікориза, вимога pH 4,5-5,2, типи плодових гілочок, фенофази BBCH." },
-      "en": { "title": "Biology and Acidophilic Physiology", "description": "Hairless root anatomy, ericoid mycorrhiza, pH 4.5-5.2 requirement, BBCH phenology." }
+      "slug": "biolohiya-ta-atsydofiliia",
+      "filename": "01-biolohiya-ta-atsydofiliia.md",
+      "uk": {
+        "title": "Ботанічна біологія та феномен ацидофілії",
+        "description": "Анатомія коренів без волосків, ерикоїдна мікориза, вимога pH 4,5-5,2, типи плодових гілочок, фенофази BBCH."
+      },
+      "en": {
+        "title": "Biology and Acidophilic Physiology",
+        "description": "Hairless root anatomy, ericoid mycorrhiza, pH 4.5-5.2 requirement, BBCH phenology."
+      }
     },
     {
       "slug": "substraty-ta-zakyslennia",
       "filename": "02-substraty-ta-zakyslennia.md",
-      "uk": { "title": "Субстрати, ґрунти та закислення", "description": "Кислий верховий торф, хвойна тирса/кора, внесення елементарної сірки (S0), закислення поливальної води (ортофосфорна/лимонна кислота)." },
-      "en": { "title": "Substrates and Acidification", "description": "Acid peat, pine sawdust/bark, elemental sulphur (S0), water acidification." }
+      "uk": {
+        "title": "Субстрати, ґрунти та закислення",
+        "description": "Кислий верховий торф, хвойна тирса/кора, внесення елементарної сірки (S0), закислення поливальної води (ортофосфорна/лимонна кислота)."
+      },
+      "en": {
+        "title": "Substrates and Acidification",
+        "description": "Acid peat, pine sawdust/bark, elemental sulphur (S0), water acidification."
+      }
     },
     {
       "slug": "sorty-lokhyny",
       "filename": "03-sorty-lokhyny.md",
-      "uk": { "title": "Класифікація сортів: Північні (Northern) vs Південні (Southern)", "description": "Потреба у годинах холоду (Chilling Hours). Сорти: Дюк (Duke), Дрейпер, Блюкроп, Чандлер, Ліберті, Аврора, Легасі." },
-      "en": { "title": "Varieties: Northern vs Southern Highbush", "description": "Chilling hours requirement. Cultivars: Duke, Draper, Bluecrop, Chandler, Liberty, Aurora." }
+      "uk": {
+        "title": "Класифікація сортів: Північні (Northern) vs Південні (Southern)",
+        "description": "Потреба у годинах холоду (Chilling Hours). Сорти: Дюк (Duke), Дрейпер, Блюкроп, Чандлер, Ліберті, Аврора, Легасі."
+      },
+      "en": {
+        "title": "Varieties: Northern vs Southern Highbush",
+        "description": "Chilling hours requirement. Cultivars: Duke, Draper, Bluecrop, Chandler, Liberty, Aurora."
+      }
     },
     {
       "slug": "obrizka-ta-formuvannia",
       "filename": "04-obrizka-ta-formuvannia.md",
-      "uk": { "title": "Техніка обрізки та омолодження кущів", "description": "Формування куща (6-8 скелетних гілок різного віку), вирізка застарілих 6-річних гілок, нормування дрібного приросту біля основи." },
-      "en": { "title": "Pruning and Bush Renewal", "description": "Bush structure (6-8 multi-age canes), removal of 6-year-old wood, base thinning." }
+      "uk": {
+        "title": "Техніка обрізки та омолодження кущів",
+        "description": "Формування куща (6-8 скелетних гілок різного віку), вирізка застарілих 6-річних гілок, нормування дрібного приросту біля основи."
+      },
+      "en": {
+        "title": "Pruning and Bush Renewal",
+        "description": "Bush structure (6-8 multi-age canes), removal of 6-year-old wood, base thinning."
+      }
     },
     {
-      "slug": "zhyvlennia-nh4-фертигація",
-      "filename": "05-zhyvlennia-nh4-фертигація.md",
-      "uk": { "title": "Специфіка живлення: Амонійний азот (NH4+)", "description": "Чому нітрати (NO3-) токсичні для лохини? Використання Сульфату амонію, залізо Fe-EDDHA при хлорозі, EC та pH розчину." },
-      "en": { "title": "Ammonium (NH4+) Nutrition", "description": "Toxicity of nitrates (NO3-), Ammonium sulphate, Fe-EDDHA chelates, EC/pH targets." }
+      "slug": "zhyvlennia-nh4-fertyhatsiya",
+      "filename": "05-zhyvlennia-nh4-fertyhatsiya.md",
+      "uk": {
+        "title": "Специфіка живлення: Амонійний азот (NH4+)",
+        "description": "Чому нітрати (NO3-) токсичні для лохини? Використання Сульфату амонію, залізо Fe-EDDHA при хлорозі, EC та pH розчину."
+      },
+      "en": {
+        "title": "Ammonium (NH4+) Nutrition",
+        "description": "Toxicity of nitrates (NO3-), Ammonium sulphate, Fe-EDDHA chelates, EC/pH targets."
+      }
     },
     {
-      "slug": "khvoroby-та-shkidnyky",
-      "filename": "06-khvoroby-та-shkidnyky.md",
-      "uk": { "title": "Хвороби та шкідники лохини", "description": "Рак стебла (Godronia cassandrae), фомопсис, антракноз, сіра гниль, галовий кліщ, личинки хруща (травневого)." },
-      "en": { "title": "Diseases and Pests", "description": "Godronia stem canker, Phomopsis, anthracnose, Botrytis, gall mite, scarab beetle larvae." }
+      "slug": "khvoroby-ta-shkidnyky",
+      "filename": "06-khvoroby-ta-shkidnyky.md",
+      "uk": {
+        "title": "Хвороби та шкідники лохини",
+        "description": "Рак стебла (Godronia cassandrae), фомопсис, антракноз, сіра гниль, галовий кліщ, личинки хруща (травневого)."
+      },
+      "en": {
+        "title": "Diseases and Pests",
+        "description": "Godronia stem canker, Phomopsis, anthracnose, Botrytis, gall mite, scarab beetle larvae."
+      }
     },
     {
       "slug": "zbir-pruin-cooling",
       "filename": "07-zbir-pruin-cooling.md",
-      "uk": { "title": "Збір, восковий наліт (пруїн) та зберігання", "description": "Збереження воскового нальоту (пруїну), індекс пружності, Forced-Air Cooling (+1°C), тривале зберігання в CA/MAP до 6–8 тижнів." },
-      "en": { "title": "Harvest, Bloom and Cold Storage", "description": "Preserving bloom (waxy layer), firmness, Forced-Air Cooling (+1°C), CA/MAP storage up to 6-8 weeks." }
+      "uk": {
+        "title": "Збір, восковий наліт (пруїн) та зберігання",
+        "description": "Збереження воскового нальоту (пруїну), індекс пружності, Forced-Air Cooling (+1°C), тривале зберігання в CA/MAP до 6–8 тижнів."
+      },
+      "en": {
+        "title": "Harvest, Bloom and Cold Storage",
+        "description": "Preserving bloom (waxy layer), firmness, Forced-Air Cooling (+1°C), CA/MAP storage up to 6-8 weeks."
+      }
     }
   ],
   "stats": {
