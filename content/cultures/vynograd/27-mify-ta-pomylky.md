@@ -61,4 +61,4 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, LightboxImage, NextChap
 - [Copper accumulation in vineyard soils — Journal of Soils and Sediments](https://link.springer.com/)
 - [Labrusca hybrids in winemaking — OIV](https://www.oiv.int/)
 
-<NextChapter href="/uk/vynograd/generation-prompts" title="ПРОМПТИ ДЛЯ ІНФОГРАФІК" chapterNum="28" />
+
