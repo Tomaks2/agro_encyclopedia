@@ -1,0 +1,15 @@
+rozdel_19_ukryttia_methods.png
+rozdel_20_harvest_schedule.png
+rozdel_20_postharvest_decision.png
+rozdel_21_must_correction.png
+rozdel_21_wine_technologies.png
+rozdel_22_aging_map.png
+rozdel_22_wine_defects.png
+rozdel_23_distillate_fractions.png
+rozdel_23_processing_products.png
+rozdel_24_drying_methods.png
+rozdel_24_raisin_color.png
+rozdel_25_bioactive_compounds.png
+rozdel_25_consumption_guidance.png
+rozdel_26_climate_markers.png
+rozdel_26_monthly_plan.png
