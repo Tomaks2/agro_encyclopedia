@@ -15,6 +15,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 28.1. Осіння підготовка гнізда
 
+<LightboxImage src="/photos/bdzhilnytstvo/P054_skhema-54-osinnya-pidhotovka-do-zymivli.png" alt="осіння підготовка" />
+*осіння підготовка*
+
+
 1. **Скорочення рамок**: прибрати зайві (без бджіл, без меду, старі темні); залишити стільки, скільки щільно обсідають бджоли + 1-2 запасні.
 2. **Корми на рамці**: ≥2 кг меду на рамку.
 3. **Формування гнізда**: медові рамки з країв + розплідна частина в центрі.
@@ -30,6 +34,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 - **Споживання за зиму**: 8-25 кг (залежить від сили сім'ї, температури, породи); українська степова — економна.
 
 ## 28.3. Зимовий клуб
+
+<LightboxImage src="/photos/bdzhilnytstvo/P055_skhema-55-zymovyy-klub-ta-vesnyanyy-oblot.png" alt="зимовий клуб" />
+*зимовий клуб*
+
 
 1. **Температура**: ядро кулі 20-25°C, поверхня 8-12°C; температура всередині клубу не падає нижче 14°C.
 2. **Рух**: клуб кочує вгору по міжрамкових просторах, споживаючи корм.
@@ -61,10 +69,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 54: ОСІННЯ ПІДГОТОВКА ДО ЗИМІВЛІ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P054_skhema-54-osinnya-pidhotovka-do-zymivli.png" alt="Осіння підготовка до зимівлі" />
-*Осіння підготовка до зимівлі*
-
-
 | Крок | Дія | Деталі |
 |---|---|---|
 | **1** | Скорочення рамок | Прибрати зайві (без бджіл, без меду, старі темні) → залишити стільки, скільки щільно обсідають бджоли + 1-2 запасні |
@@ -76,10 +80,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | **7** | Зимовий корм | Мед 20-25 кг/сім'я (Полтавщина, 5-6 міс.) або канди/сироп 2:1 у вересні; паді заборонено (діарея, нозематоз) → замінити |
 
 ### 📊 СХЕМА 55: ЗИМОВИЙ КЛУБ ТА ВЕСНЯНИЙ ОБЛЬОТ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P055_skhema-55-zymovyy-klub-ta-vesnyanyy-oblot.png" alt="Зимовий клуб та весняний обліт" />
-*Зимовий клуб та весняний обліт*
-
 
 | Параметр | Значення |
 |---|---|

@@ -4,6 +4,15 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png"
   title="Підмор і віск: технологія, якість та безпека"
+<LightboxImage src="/photos/bdzhilnytstvo/P043_skhema-43-visk-vlastyvosti-ta-toplinnya.png" alt="віск" />
+*віск*
+
+
+<LightboxImage src="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png" alt="підмор" />
+*підмор*
+
+
+
   subtitle="Підмор як сировина пасіки"
   chapterNum="21"
   totalChapters="35"
@@ -11,12 +20,7 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-
 ## 21.1. Підмор як сировина, а не «ліки від усього»
-
-<LightboxImage src="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png" alt="Підмор — склад та настоянка" />
-*Підмор — склад та настоянка*
-
 
 Підмор — це загиблі бджоли, які можуть бути побічною сировиною пасіки. Його склад залежить від віку бджіл, сезону, причин загибелі, стану сім’ї, можливого контакту з ветеринарними засобами та способу зберігання. У науковій літературі вивчають хітин, хітозан та інші компоненти комах; однак властивості очищеного, стандартизованого матеріалу не можна автоматично переносити на домашній підмор або спиртову настоянку.
 
@@ -33,10 +37,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | Призначення | Ремісниче, освітнє, дослідницьке або утилізація мають бути чітко розділені |
 
 ## 21.3. Віск і вощина
-
-<LightboxImage src="/photos/bdzhilnytstvo/P043_skhema-43-visk-vlastyvosti-ta-toplinnya.png" alt="Віск — властивості та топління" />
-*Віск — властивості та топління*
-
 
 Віск — один із найважливіших технологічних продуктів пасіки. Його практична цінність пов’язана з будівництвом стільників, переробкою, свічками, косметичними та ремісничими продуктами. Головні питання якості — походження, чистота, залишки, домішки, температура плавлення, колір, запах і простежуваність партії.
 

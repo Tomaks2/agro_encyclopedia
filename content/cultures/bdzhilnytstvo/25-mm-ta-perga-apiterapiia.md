@@ -11,7 +11,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-
 > **Освітнє застереження.** Ці продукти не є зареєстрованою універсальною терапією. У розділі немає дозувань, «курсів», схем для дітей чи комбінацій для лікування. Людина з алергією, хронічним захворюванням, вагітністю або лікуванням ліками має обговорювати новий продукт із лікарем.
 
 ## 25.1. Чому ці продукти не можна описувати одним словом «лікує»
@@ -20,8 +19,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 25.2. Маточне молочко
 
-<LightboxImage src="/photos/bdzhilnytstvo/P049_skhema-49-pokazannya-matochne-molochko-perha-homohenat.png" alt="Показання — маточне молочко, перга, гомогенат" />
-*Показання — маточне молочко, перга, гомогенат*
+<LightboxImage src="/photos/bdzhilnytstvo/P049_skhema-49-pokazannya-matochne-molochko-perha-homohenat.png" alt="показання" />
+*показання*
 
 
 Маточне молочко — секрет залоз молодих робочих бджіл, який має особливе значення у вирощуванні маток. У його складі досліджують білки, ліпіди, вуглеводи та 10-HDA. Ці характеристики роблять продукт цікавим для харчових і біотехнологічних досліджень, але не дозволяють автоматично називати його гормональним препаратом, «імуностимулятором» або засобом від виснаження.
@@ -58,8 +57,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 25.7. Практика пасічника: отримання продуктів
 
-<LightboxImage src="/photos/bdzhilnytstvo/P048_skhema-48-dozy-ta-kursy-matochne-molochko-perha-homohenat.png" alt="Дози та курси (мм, перга, гомогенат)" />
-*Дози та курси (мм, перга, гомогенат)*
+<LightboxImage src="/photos/bdzhilnytstvo/P048_skhema-48-dozy-ta-kursy-matochne-molochko-perha-homohenat.png" alt="дози та курси" />
+*дози та курси*
 
 
 ### Маточне молочко — технологія отримання

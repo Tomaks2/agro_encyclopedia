@@ -26,6 +26,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 5.2. Вихляючий танець: що саме кодується
 
+<LightboxImage src="/photos/bdzhilnytstvo/P013_skhema-13-dekoduvannya-vykhlyayuchoho-tantsyu.png" alt="вихляючий танець" />
+*вихляючий танець*
+
+
 У фазі «прямого пробігу» танцівниця:
 
 1. **Напрямок**: кут прямого пробігу **відносно вертикалі стільника** = кут напрямку до корму **відносно Сонця** на горизонті. Пробіг вгору = «до Сонця»; вниз = «від Сонця»; вліво на 30° від вертикалі = «30° вліво від Сонця».
@@ -119,8 +123,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 12: МОВА БДЖІЛ — СУМАРНА КАРТА КОМУНІКАЦІЇ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P012_skhema-12-mova-bdzhil-sumarna-karta-komunikatsiyi.png" alt="Мова бджіл — сумарна карта комунікації" />
-*Мова бджіл — сумарна карта комунікації*
+<LightboxImage src="/photos/bdzhilnytstvo/P012_skhema-12-mova-bdzhil-sumarna-karta-komunikatsiyi.png" alt="мова бджіл" />
+*мова бджіл*
 
 
 | Канал | Що передає | Приклад використання |
@@ -135,10 +139,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | Вібросигнали | «Мені потрібні приймачки» | Збирачка шукає, кому передати нектар |
 
 ### 📊 СХЕМА 13: ДЕКОДУВАННЯ ВИХЛЯЮЧОГО ТАНЦЮ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P013_skhema-13-dekoduvannya-vykhlyayuchoho-tantsyu.png" alt="Декодування вихляючого танцю" />
-*Декодування вихляючого танцю*
-
 
 | Елемент танцю | Значення |
 |---|---|

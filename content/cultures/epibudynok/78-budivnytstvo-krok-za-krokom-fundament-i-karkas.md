@@ -3,13 +3,17 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png"
   title="Будівництво: фундамент і каркас"
+<LightboxImage src="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png" alt="каркас" />
+*каркас*
+
+
+
   subtitle="Покроковий посібник з будівництва"
   chapterNum="78"
   totalChapters="12"
   culture="epibudynok"
   cultureTitle="Епібудинок"
 />
-
 
 > **Проєктне застереження.** Це детальна технологічна інструкція з практик досвідчених будівників епібудинків, але вона не замінює перевірки ділянки, розрахунку навантажень, місцевих будівельних правил та дозволів. Перед початком робіт затвердьте план із фахівцем і отримайте необхідні дозволи. Всі навантаження на конструкцію (вулики, лежак, люди) мають бути перевірені інженером.
 
@@ -64,9 +68,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 > **Практична порада:** якщо рама «грає» по діагонаалі, забийте тимчасові укосини (дошка 25 × 100 мм) з кута в кут — каркас стане жорстким для подальших кроків.
 
 ## 78.5. Етап 4. Вертикальні стійки (1 день)
-
-<LightboxImage src="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png" alt="Каркас (покроково)" />
-*Каркас (покроково)*
 
 Стійки — вертикальні елементи каркаса. Крок — **600 мм** по всіх стінах. Висота — **2,5 м** (від верху нижньої обв'язки до низу верхньої).
 

@@ -11,7 +11,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-
 > **Освітнє застереження.** Мед є харчовим продуктом, а не універсальним лікарським засобом. Цей розділ не замінює діагностику, антибактеріальне лікування, лікування опіків або допомогу при тяжкому кашлі, кровотечі, задишці чи інфекції.
 
 ## 23.1. Важлива різниця: харчовий мед і медичний виріб
@@ -38,8 +37,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 23.5. Склад меду та його харчова цінність
 
-<LightboxImage src="/photos/bdzhilnytstvo/P046_skhema-46-med-u-likuvanni-retsepty-ta-dozy.png" alt="Мед у лікуванні — рецепти та дози" />
-*Мед у лікуванні — рецепти та дози*
+<LightboxImage src="/photos/bdzhilnytstvo/P046_skhema-46-med-u-likuvanni-retsepty-ta-dozy.png" alt="мед у лікуванні" />
+*мед у лікуванні*
 
 
 ### Макронутрієнти (на 100 г меду)

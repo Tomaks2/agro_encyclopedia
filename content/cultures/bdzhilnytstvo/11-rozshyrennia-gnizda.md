@@ -4,6 +4,11 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png"
   title="Весняне розширення гнізда"
+<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="весняне розширення" />
+*весняне розширення*
+
+
+
   subtitle="Огляд, підсилення, відбудова, вощина"
   chapterNum="11"
   totalChapters="35"
@@ -41,6 +46,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 > 📌 **Ціль до 1 травня (акація)**: 8–10 рамок бджіл. Якщо сім'я слабка — об'єднати або підсилити розплодом від сильної.
 
 ## 11.2. Підгодівля навесні
+
+<LightboxImage src="/photos/bdzhilnytstvo/P023_skhema-23-pidhodivlya-navesni-rezhym-i-dozuvannya.png" alt="підгодівля навесні" />
+*підгодівля навесні*
+
 
 ### Цукровий сироп 1:1 (весна)
 
@@ -160,10 +169,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 22: ВЕСНЯНЕ РОЗШИРЕННЯ ГНІЗДА — ПОКРОКОВИЙ АЛГОРИТМ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="Весняне розширення гнізда (покроковий алгоритм)" />
-*Весняне розширення гнізда (покроковий алгоритм)*
-
-
 | Крок | Дія | Термін (Полтавщина) | Умова |
 |---|---|---|---|
 | 1 | Перший огляд | 20 березня — 15 квітня | +10–12°C, безвітряно |
@@ -177,10 +182,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | 9 | Ціль до 1 травня | — | 8–10 рамок бджіл |
 
 ### 📊 СХЕМА 23: ПІДГОДІВЛЯ НАВЕСНІ — РЕЖИМ І ДОЗУВАННЯ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P023_skhema-23-pidhodivlya-navesni-rezhym-i-dozuvannya.png" alt="Підгодівля навесні — режим і дозування" />
-*Підгодівля навесні — режим і дозування*
-
 
 | Тип підгодівлі | Концентрація | Доза | Коли | Примітка |
 |---|---|---|---|---|

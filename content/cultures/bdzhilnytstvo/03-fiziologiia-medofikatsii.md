@@ -91,6 +91,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 3.8. Економіка 1 кг меду: ціна кожної краплі
 
+<LightboxImage src="/photos/bdzhilnytstvo/P009_skhema-9-ekonomika-1-kh-medu-u-tsyfrakh.png" alt="економіка 1 кг меду" />
+*економіка 1 кг меду*
+
+
 Цифри, що вражають навіть досвідчених бджолярів:
 
 - Для 1 кг меду потрібно зібрати й переробити **3–4 кг нектару** (інші 2/3 — випарувана вода).
@@ -104,8 +108,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 8: ПОВНИЙ ЦИКЛ «НЕКТАР → МЕД»
 
-<LightboxImage src="/photos/bdzhilnytstvo/P008_skhema-8-povnyy-tsykl-nektar-med.png" alt="Повний цикл «нектар → мед»" />
-*Повний цикл «нектар → мед»*
+<LightboxImage src="/photos/bdzhilnytstvo/P008_skhema-8-povnyy-tsykl-nektar-med.png" alt="нектар → мед" />
+*нектар → мед*
 
 
 | Етап | Де відбувається | Що відбувається | Тривалість |
@@ -119,10 +123,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | 7. Запечатання | Комірка | Воскова кришечка, мед зрілий (≤18–20% води) | Критерій відкачки |
 
 ### 📊 СХЕМА 9: ЕКОНОМІКА 1 КГ МЕДУ У ЦИФРАХ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P009_skhema-9-ekonomika-1-kh-medu-u-tsyfrakh.png" alt="Економіка 1 кг меду у цифрах" />
-*Економіка 1 кг меду у цифрах*
-
 
 | Показник | Значення |
 |---|---|

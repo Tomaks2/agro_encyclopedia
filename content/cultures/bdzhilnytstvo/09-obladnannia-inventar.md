@@ -14,6 +14,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <TableOfContents />
 
 ## 9.1. Захисне спорядження
+<LightboxImage src="/photos/bdzhilnytstvo/P019_skhema-19-obov-yazkove-obladnannya-pasichnyka-minimum-i-optymum.png" alt="СХЕМА 19: Обов’язкове обладнання" />
+*СХЕМА 19: Обов’язкове обладнання*
+
+
 
 ### Костюм (комбінезон або куртка з сіткою)
 
@@ -163,10 +167,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 5. **Ваги вуликові** — найкращий інструмент для контролю медозбору без відкриття вулика.
 
 ### 📊 СХЕМА 19: ОБОВ'ЯЗКОВЕ ОБЛАДНАННЯ ПАСІЧНИКА — МІНІМУМ І ОПТИМУМ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P019_skhema-19-obov-yazkove-obladnannya-pasichnyka-minimum-i-optymum.png" alt="Обов’язкове обладнання пасічника (мінімум і оптимум)" />
-*Обов’язкове обладнання пасічника (мінімум і оптимум)*
-
 
 | Категорія | Мінімум (2–5 вуликів) | Оптимум (10+ вуликів) |
 |---|---|---|

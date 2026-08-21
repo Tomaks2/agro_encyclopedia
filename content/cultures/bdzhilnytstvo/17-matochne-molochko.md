@@ -157,8 +157,8 @@ Royalactin → активація TOR (Target of Rapamycin) → збільшен
 
 ### 📊 СХЕМА 34: МАТОЧНЕ МОЛОЧКО — СКЛАД ТА 10-HDA
 
-<LightboxImage src="/photos/bdzhilnytstvo/P034_skhema-34-matochne-molochko-sklad-ta-10-hda.png" alt="Маточне молочко — склад та 10-hda" />
-*Маточне молочко — склад та 10-hda*
+<LightboxImage src="/photos/bdzhilnytstvo/P034_skhema-34-matochne-molochko-sklad-ta-10-hda.png" alt="маточне молочко — склад" />
+*маточне молочко — склад*
 
 
 | Компонент | Частка | Особливості |
@@ -177,8 +177,8 @@ Royalactin → активація TOR (Target of Rapamycin) → збільшен
 
 ### 📊 СХЕМА 35: ЗБІР ТА ЗБЕРІГАННЯ МАТОЧНОГО МОЛОЧКА
 
-<LightboxImage src="/photos/bdzhilnytstvo/P035_skhema-35-zbir-ta-zberihannya-matochnoho-molochka.png" alt="Збір та зберігання маточного молочка" />
-*Збір та зберігання маточного молочка*
+<LightboxImage src="/photos/bdzhilnytstvo/P035_skhema-35-zbir-ta-zberihannya-matochnoho-molochka.png" alt="збір та зберігання маточного молочка" />
+*збір та зберігання маточного молочка*
 
 
 | Етап | Деталі |

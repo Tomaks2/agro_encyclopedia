@@ -4,13 +4,17 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png"
   title="Законодавство та реєстрація пасіки"
+<LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="реєстрація пасіки" />
+*реєстрація пасіки*
+
+
+
   subtitle="Правові норми та ДСТУ для пасічника"
   chapterNum="32"
   totalChapters="35"
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
-
 
 > **Правове застереження.** Це робочий освітній маршрут, а не індивідуальна юридична консультація. Норми, місцеві правила, форми документів і процедури можуть змінюватися; перед дією їх необхідно перевірити за чинним офіційним джерелом або у компетентному органі.
 
@@ -56,10 +60,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 33.6. Покрокова реєстрація пасіки (практичний маршрут)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="Реєстрація пасіки та паспорт" />
-*Реєстрація пасіки та паспорт*
-
-
 ### Крок 1: Ветеринарно-санітарний паспорт
 
 1. Звернутися до територіального органу Держпродспоживслужби (за місцем розміщення пасіки)
@@ -92,11 +92,12 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 33.8. ДСТУ на мед: ключові показники
 
-<LightboxImage src="/photos/bdzhilnytstvo/P065_skhema-65-dstu-4497-2005-parametry-naturalnoho-medu.png" alt="Дсту 4497:2005 — параметри натурального меду" />
-*Дсту 4497:2005 — параметри натурального меду*
-
-
 | Показник | ДСТУ 4497:2005 | Пояснення |
+<LightboxImage src="/photos/bdzhilnytstvo/P065_skhema-65-dstu-4497-2005-parametry-naturalnoho-medu.png" alt="ДСТУ 4497:2005" />
+*ДСТУ 4497:2005*
+
+
+
 |---|---|---|
 | **Вологість** | ≤20% (для більшості сортів) | Вища вологість → бродіння |
 | **Діастазне число** | ≥6,5 одиниць Готе | Маркер натуральності (не підігрітий, не розведений) |

@@ -11,7 +11,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-
 > **Освітнє застереження.** Прополісні настої, спреї, мазі й екстракти не є взаємозамінними та не повинні використовуватися як самостійна заміна діагностики або лікування. Розділ не містить рецептів, концентрацій, схем лікування слизової, шкіри чи внутрішнього прийому.
 
 ## 24.1. Що таке прополіс
@@ -48,8 +47,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 24.5. Як пасічник збирає та очищає прополіс
 
-<LightboxImage src="/photos/bdzhilnytstvo/P047_skhema-47-nastoyanka-propolisu-kontsentratsiyi-ta-zastosuvannya.png" alt="Настоянка прополісу — концентрації та застосування" />
-*Настоянка прополісу — концентрації та застосування*
+<LightboxImage src="/photos/bdzhilnytstvo/P047_skhema-47-nastoyanka-propolisu-kontsentratsiyi-ta-zastosuvannya.png" alt="концентрації настоянки" />
+*концентрації настоянки*
 
 
 ### Збір прополісу

@@ -85,6 +85,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 16.5. Настоянка прополісу
 
+<LightboxImage src="/photos/bdzhilnytstvo/P033_skhema-33-nastoyanka-propolisu-retseptura-ta-zastosuvannya.png" alt="настоянка прополісу" />
+*настоянка прополісу*
+
+
 ### Рецептура
 
 | Параметр | Значення |
@@ -148,8 +152,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 32: ПРОПОЛІС — СКЛАД ТА АКТИВНІ СПОЛУКИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P032_skhema-32-propolis-sklad-ta-aktyvni-spoluky.png" alt="Прополіс — склад та активні сполуки" />
-*Прополіс — склад та активні сполуки*
+<LightboxImage src="/photos/bdzhilnytstvo/P032_skhema-32-propolis-sklad-ta-aktyvni-spoluky.png" alt="прополіс — склад" />
+*прополіс — склад*
 
 
 | Компонент | Частка | Ключові речовини | Біологічна дія |
@@ -161,10 +165,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | **Мінерали** | 2-5% | Кальцій, магній, цинк, залізо, мідь | Мінеральна |
 
 ### 📊 СХЕМА 33: НАСТОЯНКА ПРОПОЛІСУ — РЕЦЕПТУРА ТА ЗАСТОСУВАННЯ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P033_skhema-33-nastoyanka-propolisu-retseptura-ta-zastosuvannya.png" alt="Настоянка прополісу — рецептура та застосування" />
-*Настоянка прополісу — рецептура та застосування*
-
 
 | Параметр | Значення |
 |---|---|

@@ -10,13 +10,12 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Епібудинок"
 />
 
-
 Епібудинок — це не просто «кімната з вуликами». Це жива система, де працюють одночасно бджоли та люди. Обслуговування має враховувати обидва.
 
 ## 84.1. Сезонний цикл (Полтавщина)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P080_epi-prompt-8-sezonnyy-tsykl-po-misyatsyakh.png" alt="Сезонний цикл (по місяцях)" />
-*Сезонний цикл (по місяцях)*
+<LightboxImage src="/photos/bdzhilnytstvo/P080_epi-prompt-8-sezonnyy-tsykl-po-misyatsyakh.png" alt="сезонний цикл" />
+*сезонний цикл*
 
 
 | Місяць | Етап | Ключові дії |

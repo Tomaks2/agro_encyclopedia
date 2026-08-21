@@ -4,6 +4,15 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png"
   title="Роїння та відводи"
+<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="відводи" />
+*відводи*
+
+
+<LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="роїння" />
+*роїння*
+
+
+
   subtitle="Управління, ловушки, повернення рою"
   chapterNum="12"
   totalChapters="35"
@@ -163,10 +172,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 24: РOЇННЯ — ОЗНАКИ, ПРОФІЛАКТИКА, ДІЇ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="Роїння — ознаки, профілактика, дії" />
-*Роїння — ознаки, профілактика, дії*
-
-
 | Етап | Ознаки | Дії пасічника |
 |---|---|---|
 | **Підготовка (7-10 днів до рою)** | Ройові маточники (3+), «борода», зниження роботи | Відвід або вирізання маточників + розширення |
@@ -176,10 +181,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | **Профілактика** | Затіснення, стара матка, надлишок молодих бджіл | Вчасне розширення, молода матка, відводи, вентиляція |
 
 ### 📊 СХЕМА 25: ВІДВОДИ — ТИПИ ТА ТЕХНОЛОГІЯ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="Відводи — типи та технологія" />
-*Відводи — типи та технологія*
-
 
 | Тип відводу | Склад | Матка | Коли використовувати | Результат |
 |---|---|---|---|---|

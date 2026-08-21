@@ -5,12 +5,16 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   imageSrc="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png"
   title="Санітарія та гігієна пасіки"
   subtitle="Дезінфекція, кочівля та облік"
+<LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="дезінфекція" />
+*дезінфекція*
+
+
+
   chapterNum="30"
   totalChapters="35"
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
-
 
 ## 31.1. Санітарія — це система, а не одна речовина
 
@@ -38,10 +42,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 У редакції 2026 не наведено самостійних рецептів із формаліном, кислотами, перекисом чи іншими хімічними речовинами. Безпечний спосіб полягає в застосуванні лише дозволених процедур та засобів за чинною офіційною інструкцією і після ветеринарної оцінки ризику. Це захищає пасічника, бджіл, продукцію та довкілля.
 
 ## 31.6. Практична дезінфекція (покроково)
-
-<LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="Дезінфекція вуликів та інвентарю" />
-*Дезінфекція вуликів та інвентарю*
-
 
 ### Паяльна лампа (найефективніший метод)
 
@@ -76,8 +76,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 31.8. Гігієна при кочівлі
 
-<LightboxImage src="/photos/bdzhilnytstvo/P061_skhema-61-kochivlya-ta-hihiyena-pasichnyka.png" alt="Кочівля та гігієна пасічника" />
-*Кочівля та гігієна пасічника*
+<LightboxImage src="/photos/bdzhilnytstvo/P061_skhema-61-kochivlya-ta-hihiyena-pasichnyka.png" alt="кочівля та гігієна" />
+*кочівля та гігієна*
 
 
 | Етап | Дії |

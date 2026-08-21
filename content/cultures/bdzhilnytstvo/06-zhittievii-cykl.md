@@ -15,6 +15,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 6.1. Повний метаморфоз: чотири стадії
 
+<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-1-tsykl-rozvytku-kast-bdzholynoyi-sim-yi.png" alt="6.1. Цикл розвитку" />
+*6.1. Цикл розвитку*
+
+
 Медоносна бджола — комаха з **повним метаморфозом**: яйце → личинка → лялечка → імаго. Весь цикл від яйця до дорослої особини:
 
 | Стадія | Тривалість | Особливість |
@@ -24,13 +28,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | **Передлялечка + лялечка** | 12 днів (разом з попередньою печатаною фазою) | Комірка запечатана; повна перебудова тіла |
 | **Разом (робітниця)** | **21 день** | Класична цифра для розрахунків |
 
-<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-1-tsykl-rozvytku-kast-bdzholynoyi-sim-yi.png" alt="Цикл розвитку каст бджолиної сім’ї" />
-*Цикл розвитку каст бджолиної сім’ї*
-
 ### 📊 СХЕМА 14: КАЛЕНДАР РОЗВИТКУ КАСТ (дні від яйця)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P014_skhema-14-kalendar-rozvytku-kast-dni-vid-yaytsya.png" alt="Календар розвитку каст (дні від яйця)" />
-*Календар розвитку каст (дні від яйця)*
+<LightboxImage src="/photos/bdzhilnytstvo/P014_skhema-14-kalendar-rozvytku-kast-dni-vid-yaytsya.png" alt="календар розвитку каст" />
+*календар розвитку каст*
 
 
 | День | Робітниця | Матка | Трутень | Подія |
@@ -92,8 +93,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 6.8. Вікова поліетія: перехід професій бджоли
 
-<LightboxImage src="/photos/bdzhilnytstvo/P003_skhema-3-profesiyna-kar-yera-robitnytsi.png" alt="Професійна кар’єра робітниці" />
-*Професійна кар’єра робітниці*
+<LightboxImage src="/photos/bdzhilnytstvo/P003_skhema-3-profesiyna-kar-yera-robitnytsi.png" alt="6.3. Професійна кар’єра робітниці" />
+*6.3. Професійна кар’єра робітниці*
+
 
 Робітниця протягом життя змінює професії залежно від віку (поліетизм за віком):
 
@@ -111,8 +113,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 6.9. Старіння бджоли: вітелогенін як регулятор довголіття
 
-<LightboxImage src="/photos/bdzhilnytstvo/P002_skhema-2-tryvalist-zhyttya-chleniv-sim-yi.png" alt="Тривалість життя членів сім’ї" />
-*Тривалість життя членів сім’ї*
+<LightboxImage src="/photos/bdzhilnytstvo/P002_skhema-2-tryvalist-zhyttya-chleniv-sim-yi.png" alt="6.2. Тривалість життя" />
+*6.2. Тривалість життя*
+
 
 **Вітелогенін (Vg)** — жовтковий білок, який у робітниць виконує унікальну роль регулятора тривалості життя:
 
@@ -134,8 +137,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 15: РОЗВИТОК РОЗПЛОДУ — ЩО БАЧИТЬ ПАСІЧНИК НА КОЖНОМУ ДНІ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P015_skhema-15-rozvytok-rozplodu-shcho-bachyt-pasichnyk-na-kozhnomu-dni.png" alt="Розвиток розплоду — що бачить пасічник на кожному дні" />
-*Розвиток розплоду — що бачить пасічник на кожному дні*
+<LightboxImage src="/photos/bdzhilnytstvo/P015_skhema-15-rozvytok-rozplodu-shcho-bachyt-pasichnyk-na-kozhnomu-dni.png" alt="розвиток розплоду" />
+*розвиток розплоду*
 
 
 | День від яйця | Що видно у комірці | Дії пасічника |

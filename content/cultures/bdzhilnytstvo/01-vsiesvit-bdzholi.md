@@ -69,10 +69,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 1: ЦИКЛ РОЗВИТКУ КАСТ БДЖОЛИНОЇ СІМ'Ї
 
-<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-01-znachennya-bdzhil-v-ekosystemi.png" alt="Значення бджіл в екосистемі" />
-*Значення бджіл в екосистемі*
-
-
 | Фаза | Матка | Робітниця | Трутень |
 |---|---|---|---|
 | Яйце | 3 дні | 3 дні | 3 дні |
@@ -163,8 +159,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 4: ПОКАЗНИКИ НОРМАЛЬНОЇ СІМ'Ї НА ПІКУ СЕЗОНУ (ПОЛТАВЩИНА)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P004_skhema-4-pokaznyky-normalnoyi-sim-yi-na-piku-sezonu-poltavshchyna.png" alt="Показники нормальної сім'ї на піку сезону (полтавщина)" />
-*Показники нормальної сім'ї на піку сезону (полтавщина)*
+<LightboxImage src="/photos/bdzhilnytstvo/P004_skhema-4-pokaznyky-normalnoyi-sim-yi-na-piku-sezonu-poltavshchyna.png" alt="ознаки нормальної бджолиної сім’ї" />
+*ознаки нормальної бджолиної сім’ї*
 
 
 | Показник | Норма | Критичне значення |
@@ -181,10 +177,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 *Apis mellifera* налічує **понад 30 підвидів** (географічних рас), кожен з яких адаптований до конкретного клімату та медоносної бази. Для пасічника Полтавщини вибір породи — одне з перших стратегічних рішень, бо воно визначає зимостійкість, агресивність, медопродуктивність і схильність до роїння.
 
 ### 📊 СХЕМА 5: ПІДВИДИ APIS MELLIFERA — ПОРІВНЯННЯ ДЛЯ УКРАЇНИ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-05-vulyk-yak-yedynyy-orhanizm-superorhanizm.png" alt="Вулик як єдиний організм (суперорганізм)" />
-*Вулик як єдиний організм (суперорганізм)*
-
 
 | Підвид | Походження | Агресивність | Зимостійкість | Медопродуктивність | Особливості |
 |---|---|---|---|---|---|

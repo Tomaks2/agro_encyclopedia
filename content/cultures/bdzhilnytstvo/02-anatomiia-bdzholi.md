@@ -23,10 +23,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 5: ЗАГАЛЬНА БУДОВА ТІЛА БДЖОЛИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-5-zahalna-budova-tila-bdzholy.png" alt="Загальна будова тіла бджоли" />
-*Загальна будова тіла бджоли*
-
-
+<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-5-zahalna-budova-tila-bdzholy.png" alt="Загальна будова тіла" />
+*Загальна будова тіла*
 | Відділ | Основні органи та функції |
 |---|---|
 | Голова | Складні очі (4 000–8 000 фасеток), 3 простих вічка, 2 вусики (12 члеників у самок / 13 у трутнів), хоботок (4 щелепи), мандибули |
@@ -159,6 +157,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | Відносний вантажопідйомність | 70–90% ваги | 20–30% | 10–20% | 10–20% |
 
 ## 2.7. Внутрішня будова: від зоба до мальпігієвих судин
+<LightboxImage src="/photos/bdzhilnytstvo/P006_skhema-6-anatomiya-vnutrishnikh-orhaniv-funktsionalna-karta.png" alt="СХЕМА 6: Внутрішні органи" />
+*СХЕМА 6: Внутрішні органи*
+
+
 
 ### Травна система: два «шлунки»
 
@@ -183,10 +185,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 **Гіпофарингеальні залози** (по ~550 ацинусів у голові) — фабрика маточного молочка: активні у бджіл 5–15 днів (годувальниці). **Верхньощелепні залози** матки виробляють QMP-феромони. **Слинні залози** — слина для розчинення корму, змішування з воском, ферментація нектару (глюкозооксидаза саме слинного походження). **Залоза Насонова** (на кінці черевця) — «орієнтирна»: бджола піднімає черевце і випускає ароматний секрет, щоб позначити льоток, джерело води чи місце рою.
 
 ### 📊 СХЕМА 6: АНАТОМІЯ ВНУТРІШНІХ ОРГАНІВ — ФУНКЦІОНАЛЬНА КАРТА
-
-<LightboxImage src="/photos/bdzhilnytstvo/P006_skhema-6-anatomiya-vnutrishnikh-orhaniv-funktsionalna-karta.png" alt="Анатомія внутрішніх органів — функціональна карта" />
-*Анатомія внутрішніх органів — функціональна карта*
-
 
 | Орган / система | Розташування | Функція | Практичне значення |
 |---|---|---|---|
@@ -219,8 +217,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 7: КЛЮЧОВІ АНАТОМІЧНІ ЦИФРИ ДЛЯ ПАСІЧНИКА
 
-<LightboxImage src="/photos/bdzhilnytstvo/P007_skhema-7-klyuchovi-anatomichni-tsyfry-dlya-pasichnyka.png" alt="Ключові анатомічні цифри для пасічника" />
-*Ключові анатомічні цифри для пасічника*
+<LightboxImage src="/photos/bdzhilnytstvo/P007_skhema-7-klyuchovi-anatomichni-tsyfry-dlya-pasichnyka.png" alt="анатомічні цифри" />
+*анатомічні цифри*
 
 
 | Параметр | Значення |

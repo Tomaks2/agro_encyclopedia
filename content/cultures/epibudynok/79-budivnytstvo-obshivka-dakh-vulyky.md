@@ -10,7 +10,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Епібудинок"
 />
 
-
 > **Проєктне застереження.** Продовження розділу 78. Всі навантаження, кріплення та пожежні вимоги мають бути перевірені фахівцем перед будівництвом.
 
 ## 79.1. Етап 7. Зовнішня обшивка (1–2 дні)
@@ -46,8 +45,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 79.4. Етап 10. Встановлення вуликів у бджолину зону (1–2 дні)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P077_epi-prompt-5-lezhanka-z-perforatsiyeyu-sitka-vulyk-lezhak.png" alt="Лежанка з перфорацією + сітка вулик–лежак" />
-*Лежанка з перфорацією + сітка вулик–лежак*
+<LightboxImage src="/photos/bdzhilnytstvo/P077_epi-prompt-5-lezhanka-z-perforatsiyeyu-sitka-vulyk-lezhak.png" alt="лежанка з перфорацією" />
+*лежанка з перфорацією*
+
 
 **Критичне проєктне правило — кількість бджіл на людину.** За даними Ярослава Мухи (СОК «Селекціонер», Прикарпаття, учасник BeeBreed.eu) для **лікувального ефекту БРТ** потрібна мінімум **300 000 бджіл на 1 людину** = **6 сильних сімей по 20 українських рамок** (120 рамок на людину). [5] [72.6]
 

@@ -37,6 +37,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 19.3. Збір пилку (пилковловлювач)
 
+<LightboxImage src="/photos/bdzhilnytstvo/P038_skhema-38-zbir-pylku-pylkovlovlyuvachem.png" alt="збір пилку" />
+*збір пилку*
+
+
 ### Конструкція пилковловлювача
 
 1. **Принцип**: бджола проходить через отвори 4,8-5,2 мм → кошички з пилком зчісуються з ніг → пилок падає в лоток.
@@ -171,10 +175,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 38: ЗБІР ПИЛКУ ПИЛКОВЛОВЛЮВАЧЕМ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P038_skhema-38-zbir-pylku-pylkovlovlyuvachem.png" alt="Збір пилку пилковловлювачем" />
-*Збір пилку пилковловлювачем*
-
-
 | Параметр | Значення |
 |---|---|
 | **Принцип** | Бджола проходить через отвори 4,8-5,2 мм → кошички з пилком зчісуються → пилок падає в лоток |
@@ -189,8 +189,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 39: СУШІННЯ ТА ЗБЕРІГАННЯ ПИЛКУ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P039_skhema-39-sushinnya-ta-zberihannya-pylku.png" alt="Сушіння та зберігання пилку" />
-*Сушіння та зберігання пилку*
+<LightboxImage src="/photos/bdzhilnytstvo/P039_skhema-39-sushinnya-ta-zberihannya-pylku.png" alt="сушіння та зберігання пилку" />
+*сушіння та зберігання пилку*
 
 
 | Спосіб сушіння | Температура | Термін | Переваги/недоліки |

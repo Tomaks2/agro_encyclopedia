@@ -3,6 +3,11 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png"
   title="Сеанс лікування: мікроклімат і правила"
+<LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="мікроклімат" />
+*мікроклімат*
+
+
+
   subtitle="Протокол сеансу апітерапії"
   chapterNum="80"
   totalChapters="12"
@@ -10,14 +15,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Епібудинок"
 />
 
-
 > **Медичне застереження.** Епібудинок — засіб релаксації та оздоровчої практики. Він не замінює лікування у лікаря. Усі параметри сеансу нижче — це узагальнення опублікованих практик виробників епібудинків і пілотних клінічних досліджень; систематичних мета-аналізів «сну на вуликах» наразі немає.
 
 ## 80.1. Підготовка до сеансу
-
-<LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="Мікроклімат (температура/вологість)" />
-*Мікроклімат (температура/вологість)*
-
 
 1. **Одяг**: тільки натуральні тканини — бавовна, льон, шовк. Світлі кольори. Довгі рукави та штани. Ніякої вовни, флісу, синтетики з ворсом — він тримає запахи та подразнює бджіл.
 2. **Гігієна**: відмовитися від парфумерії, одеколону, дезодорантів з різким запахом, ароматизованих кремів, лаку для волосся. Запахи, відмінні від звичних вуликових, провокують тривожність бджолиної сім'ї.

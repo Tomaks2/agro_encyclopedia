@@ -63,8 +63,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 16: ПОРІВНЯННЯ ТИПІВ ВУЛИКІВ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P016_skhema-16-porivnyannya-typiv-vulykiv.png" alt="Порівняння типів вуликів" />
-*Порівняння типів вуликів*
+<LightboxImage src="/photos/bdzhilnytstvo/P016_skhema-16-porivnyannya-typiv-vulykiv.png" alt="порівняння типів вуликів" />
+*порівняння типів вуликів*
 
 
 | Параметр | Дадан 12-р. | Український лежак | Багатокорпусний (Рут) | Варре |
@@ -89,10 +89,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 5. **Ергономіка бджоляра**: висота вулика з дном ≤ 30 см = огляд без нахилу; маса корпусу ≤ 15 кг = робота без спинової травми.
 
 ### 📊 СХЕМА 17: ЕПІДОМІЧНІ ПАРАМЕТРИ ВУЛИКА — ЧЕКЛИСТ
-
-<LightboxImage src="/photos/bdzhilnytstvo/P017_skhema-17-epidomichni-parametry-vulyka-cheklyst.png" alt="Епідомічні параметри вулика (чеклист)" />
-*Епідомічні параметри вулика (чеклист)*
-
 
 | Параметр | Норма | Перевірка |
 |---|---|---|
