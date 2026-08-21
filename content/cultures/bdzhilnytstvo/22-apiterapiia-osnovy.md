@@ -32,8 +32,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 22.3. Карта продуктів і чесні межі висновків
 
-<LightboxImage src="/photos/bdzhilnytstvo/P044_skhema-44-dokazova-baza-apiterapiyi.png" alt="BEEZ 044: СХЕМА 44: ДОКАЗОВА БАЗА АПІТЕРАПІЇ" />
-*СХЕМА 44: ДОКАЗОВА БАЗА АПІТЕРАПІЇ — ілюстрація за промптом P044.*
+<LightboxImage src="/photos/bdzhilnytstvo/P044_skhema-44-dokazova-baza-apiterapiyi.png" alt="Доказова база апітерапії" />
+*Доказова база апітерапії*
 
 
 | Продукт | Що можна сказати коректно | Межі та ризики |
@@ -48,8 +48,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 22.4. Алергія та безпека
 
-<LightboxImage src="/photos/bdzhilnytstvo/P045_skhema-45-protypokazannya-ta-alerhotest.png" alt="BEEZ 045: СХЕМА 45: ПРОТИПОКАЗАННЯ ТА АЛЕРГОТЕСТ" />
-*СХЕМА 45: ПРОТИПОКАЗАННЯ ТА АЛЕРГОТЕСТ — ілюстрація за промптом P045.*
+<LightboxImage src="/photos/bdzhilnytstvo/P045_skhema-45-protypokazannya-ta-alerhotest.png" alt="Протипоказання та алерготест" />
+*Протипоказання та алерготест*
 
 
 Реакція на один продукт бджільництва не тотожна реакції на інший, а реакція на мед не визначає ризик реакції на ужалення. Домашнє нанесення краплі меду чи настоянки на шкіру **не є валідованим тестом**, який дозволяє зробити висновок «реакції немає — отже, продукт або ужалення безпечні». Діагностику системної алергії на отруту перетинчастокрилих проводять фахівці на підставі анамнезу та спеціальних алергологічних досліджень. [6]

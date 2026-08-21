@@ -163,8 +163,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 24: РOЇННЯ — ОЗНАКИ, ПРОФІЛАКТИКА, ДІЇ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="BEEZ 024: СХЕМА 24: РОЇННЯ — ОЗНАКИ, ПРОФІЛАКТИКА, ДІЇ" />
-*СХЕМА 24: РОЇННЯ — ОЗНАКИ, ПРОФІЛАКТИКА, ДІЇ — ілюстрація за промптом P024.*
+<LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="Роїння — ознаки, профілактика, дії" />
+*Роїння — ознаки, профілактика, дії*
 
 
 | Етап | Ознаки | Дії пасічника |
@@ -177,8 +177,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 25: ВІДВОДИ — ТИПИ ТА ТЕХНОЛОГІЯ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="BEEZ 025: СХЕМА 25: ВІДВОДИ — ТИПИ ТА ТЕХНОЛОГІЯ" />
-*СХЕМА 25: ВІДВОДИ — ТИПИ ТА ТЕХНОЛОГІЯ — ілюстрація за промптом P025.*
+<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="Відводи — типи та технологія" />
+*Відводи — типи та технологія*
 
 
 | Тип відводу | Склад | Матка | Коли використовувати | Результат |

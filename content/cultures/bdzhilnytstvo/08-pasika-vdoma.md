@@ -173,8 +173,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 18: ПЛАН РОЗМІЩЕННЯ ПАСІКИ НА ДІЛЯНЦІ (епідомика)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P018_skhema-18-plan-rozmishchennya-pasiky-na-dilyantsi-epidomyka.png" alt="BEEZ 018: СХЕМА 18: ПЛАН РОЗМІЩЕННЯ ПАСІКИ НА ДІЛЯНЦІ ЕПІДОМІКА" />
-*СХЕМА 18: ПЛАН РОЗМІЩЕННЯ ПАСІКИ НА ДІЛЯНЦІ ЕПІДОМІКА — ілюстрація за промптом P018.*
+<LightboxImage src="/photos/bdzhilnytstvo/P018_skhema-18-plan-rozmishchennya-pasiky-na-dilyantsi-epidomyka.png" alt="План розміщення пасіки на ділянці епідоміка" />
+*План розміщення пасіки на ділянці епідоміка*
 
 
 | Елемент | Параметр | Пояснення |

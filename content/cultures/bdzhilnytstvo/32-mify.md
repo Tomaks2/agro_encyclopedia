@@ -123,8 +123,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 62: ТОП-5 МІФІВ ПРО БДЖІЛ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P062_skhema-62-top-5-mifiv-pro-bdzhil.png" alt="BEEZ 062: СХЕМА 62: ТОП-5 МІФІВ ПРО БДЖІЛ" />
-*СХЕМА 62: ТОП-5 МІФІВ ПРО БДЖІЛ — ілюстрація за промптом P062.*
+<LightboxImage src="/photos/bdzhilnytstvo/P062_skhema-62-top-5-mifiv-pro-bdzhil.png" alt="Топ-5 міфів про бджіл" />
+*Топ-5 міфів про бджіл*
 
 
 | Міф | Реальність |
@@ -137,8 +137,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 63: ТОП-5 МІФІВ ПРО МЕД ТА ПАСІКУ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P063_skhema-63-top-5-mifiv-pro-med-ta-pasiku.png" alt="BEEZ 063: СХЕМА 63: ТОП-5 МІФІВ ПРО МЕД ТА ПАСІКУ" />
-*СХЕМА 63: ТОП-5 МІФІВ ПРО МЕД ТА ПАСІКУ — ілюстрація за промптом P063.*
+<LightboxImage src="/photos/bdzhilnytstvo/P063_skhema-63-top-5-mifiv-pro-med-ta-pasiku.png" alt="Топ-5 міфів про мед та пасіку" />
+*Топ-5 міфів про мед та пасіку*
 
 
 | Міф | Реальність |

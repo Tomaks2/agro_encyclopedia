@@ -138,8 +138,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 66: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЗИМА-ВЕСНА)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P066_skhema-66-ahrokalendar-pasichnyka-poltavshchyny-zyma-vesna.png" alt="BEEZ 066: СХЕМА 66: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЗИМА–ВЕСНА)" />
-*СХЕМА 66: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЗИМА–ВЕСНА) — ілюстрація за промптом P066.*
+<LightboxImage src="/photos/bdzhilnytstvo/P066_skhema-66-ahrokalendar-pasichnyka-poltavshchyny-zyma-vesna.png" alt="Агрокалендар пасічника полтавщини (зима–весна)" />
+*Агрокалендар пасічника полтавщини (зима–весна)*
 
 
 | Місяць | Основні роботи |
@@ -153,8 +153,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 67: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЛІТО-ОСІНЬ)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P067_skhema-67-ahrokalendar-pasichnyka-poltavshchyny-lito-osin.png" alt="BEEZ 067: СХЕМА 67: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЛІТО–ОСІНЬ)" />
-*СХЕМА 67: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЛІТО–ОСІНЬ) — ілюстрація за промптом P067.*
+<LightboxImage src="/photos/bdzhilnytstvo/P067_skhema-67-ahrokalendar-pasichnyka-poltavshchyny-lito-osin.png" alt="Агрокалендар пасічника полтавщини (літо–осінь)" />
+*Агрокалендар пасічника полтавщини (літо–осінь)*
 
 
 | Місяць | Основні роботи |

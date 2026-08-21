@@ -56,8 +56,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 33.6. Покрокова реєстрація пасіки (практичний маршрут)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="BEEZ 064: СХЕМА 64: РЕЄСТРАЦІЯ ПАСІКИ ТА ПАСПОРТ" />
-*СХЕМА 64: РЕЄСТРАЦІЯ ПАСІКИ ТА ПАСПОРТ — ілюстрація за промптом P064.*
+<LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="Реєстрація пасіки та паспорт" />
+*Реєстрація пасіки та паспорт*
 
 
 ### Крок 1: Ветеринарно-санітарний паспорт
@@ -92,8 +92,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 33.8. ДСТУ на мед: ключові показники
 
-<LightboxImage src="/photos/bdzhilnytstvo/P065_skhema-65-dstu-4497-2005-parametry-naturalnoho-medu.png" alt="BEEZ 065: СХЕМА 65: ДСТУ 4497:2005 — ПАРАМЕТРИ НАТУРАЛЬНОГО МЕДУ" />
-*СХЕМА 65: ДСТУ 4497:2005 — ПАРАМЕТРИ НАТУРАЛЬНОГО МЕДУ — ілюстрація за промптом P065.*
+<LightboxImage src="/photos/bdzhilnytstvo/P065_skhema-65-dstu-4497-2005-parametry-naturalnoho-medu.png" alt="Дсту 4497:2005 — параметри натурального меду" />
+*Дсту 4497:2005 — параметри натурального меду*
 
 
 | Показник | ДСТУ 4497:2005 | Пояснення |

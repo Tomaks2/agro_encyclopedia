@@ -10,6 +10,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Епібудинок"
 />
 
+<LightboxImage src="/photos/bdzhilnytstvo/P071_77-4-deterministychna-skhema-dlya-kreslennya.png" alt="Безпека, експлуатація та аварійний план" />
+*Безпека, експлуатація та аварійний план*
+
 
 > **Застереження.** Епібудинок не підходить для людини, яка має невирішену проблему з реакціями на ужалення або сумнівається у своїй переносимості близькості до бджіл. Він не повинен використовуватися для «перевірки алергії», лікування або навмисного ужалення.
 

@@ -104,8 +104,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 8: ПОВНИЙ ЦИКЛ «НЕКТАР → МЕД»
 
-<LightboxImage src="/photos/bdzhilnytstvo/P008_skhema-8-povnyy-tsykl-nektar-med.png" alt="BEEZ 008: СХЕМА 8: ПОВНИЙ ЦИКЛ «НЕКТАР → МЕД»" />
-*СХЕМА 8: ПОВНИЙ ЦИКЛ «НЕКТАР → МЕД» — ілюстрація за промптом P008.*
+<LightboxImage src="/photos/bdzhilnytstvo/P008_skhema-8-povnyy-tsykl-nektar-med.png" alt="Повний цикл «нектар → мед»" />
+*Повний цикл «нектар → мед»*
 
 
 | Етап | Де відбувається | Що відбувається | Тривалість |
@@ -120,8 +120,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 9: ЕКОНОМІКА 1 КГ МЕДУ У ЦИФРАХ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P009_skhema-9-ekonomika-1-kh-medu-u-tsyfrakh.png" alt="BEEZ 009: СХЕМА 9: ЕКОНОМІКА 1 КГ МЕДУ У ЦИФРАХ" />
-*СХЕМА 9: ЕКОНОМІКА 1 КГ МЕДУ У ЦИФРАХ — ілюстрація за промптом P009.*
+<LightboxImage src="/photos/bdzhilnytstvo/P009_skhema-9-ekonomika-1-kh-medu-u-tsyfrakh.png" alt="Економіка 1 кг меду у цифрах" />
+*Економіка 1 кг меду у цифрах*
 
 
 | Показник | Значення |

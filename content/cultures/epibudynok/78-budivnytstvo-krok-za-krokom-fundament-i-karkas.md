@@ -65,8 +65,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 78.5. Етап 4. Вертикальні стійки (1 день)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png" alt="BEEZ 076: ЕПІ-ПРОМПТ 4: КАРКАС (ПОКРОКОВО)" />
-*ЕПІ-ПРОМПТ 4: КАРКАС (ПОКРОКОВО) — ілюстрація за промптом P076.*
+<LightboxImage src="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png" alt="Каркас (покроково)" />
+*Каркас (покроково)*
 
 Стійки — вертикальні елементи каркаса. Крок — **600 мм** по всіх стінах. Висота — **2,5 м** (від верху нижньої обв'язки до низу верхньої).
 

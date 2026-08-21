@@ -20,8 +20,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 25.2. Маточне молочко
 
-<LightboxImage src="/photos/bdzhilnytstvo/P049_skhema-49-pokazannya-matochne-molochko-perha-homohenat.png" alt="BEEZ 049: СХЕМА 49: ПОКАЗАННЯ — МАТОЧНЕ МОЛОЧКО, ПЕРГА, ГОМОГЕНАТ" />
-*СХЕМА 49: ПОКАЗАННЯ — МАТОЧНЕ МОЛОЧКО, ПЕРГА, ГОМОГЕНАТ — ілюстрація за промптом P049.*
+<LightboxImage src="/photos/bdzhilnytstvo/P049_skhema-49-pokazannya-matochne-molochko-perha-homohenat.png" alt="Показання — маточне молочко, перга, гомогенат" />
+*Показання — маточне молочко, перга, гомогенат*
 
 
 Маточне молочко — секрет залоз молодих робочих бджіл, який має особливе значення у вирощуванні маток. У його складі досліджують білки, ліпіди, вуглеводи та 10-HDA. Ці характеристики роблять продукт цікавим для харчових і біотехнологічних досліджень, але не дозволяють автоматично називати його гормональним препаратом, «імуностимулятором» або засобом від виснаження.
@@ -58,8 +58,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 25.7. Практика пасічника: отримання продуктів
 
-<LightboxImage src="/photos/bdzhilnytstvo/P048_skhema-48-dozy-ta-kursy-matochne-molochko-perha-homohenat.png" alt="BEEZ 048: СХЕМА 48: ДОЗИ ТА КУРСИ (ММ, ПЕРГА, ГОМОГЕНАТ)" />
-*СХЕМА 48: ДОЗИ ТА КУРСИ (ММ, ПЕРГА, ГОМОГЕНАТ) — ілюстрація за промптом P048.*
+<LightboxImage src="/photos/bdzhilnytstvo/P048_skhema-48-dozy-ta-kursy-matochne-molochko-perha-homohenat.png" alt="Дози та курси (мм, перга, гомогенат)" />
+*Дози та курси (мм, перга, гомогенат)*
 
 
 ### Маточне молочко — технологія отримання

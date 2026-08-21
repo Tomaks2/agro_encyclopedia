@@ -207,8 +207,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 28: МЕДОЗБІР — ПОКРОКОВИЙ АЛГОРИТМ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="BEEZ 028: СХЕМА 28: МЕДОЗБІР (ПОКРОКОВИЙ АЛГОРИТМ)" />
-*СХЕМА 28: МЕДОЗБІР (ПОКРОКОВИЙ АЛГОРИТМ) — ілюстрація за промптом P028.*
+<LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="Медозбір (покроковий алгоритм)" />
+*Медозбір (покроковий алгоритм)*
 
 
 | Крок | Дія | Термін | Примітка |
@@ -226,8 +226,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 29: ДСТУ 4497:2005 — КЛЮЧОВІ ПОКАЗНИКИ ЯКОСТІ МЕДУ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P029_skhema-29-dstu-4497-2005-klyuchovi-pokaznyky-yakosti-medu.png" alt="BEEZ 029: СХЕМА 29: ДСТУ 4497:2005 (КЛЮЧОВІ ПОКАЗНИКИ ЯКОСТІ МЕДУ)" />
-*СХЕМА 29: ДСТУ 4497:2005 (КЛЮЧОВІ ПОКАЗНИКИ ЯКОСТІ МЕДУ) — ілюстрація за промптом P029.*
+<LightboxImage src="/photos/bdzhilnytstvo/P029_skhema-29-dstu-4497-2005-klyuchovi-pokaznyky-yakosti-medu.png" alt="Дсту 4497:2005 (ключові показники якості меду)" />
+*Дсту 4497:2005 (ключові показники якості меду)*
 
 
 | Показник | Норма ДСТУ | Оптимально | Метод вимірювання |

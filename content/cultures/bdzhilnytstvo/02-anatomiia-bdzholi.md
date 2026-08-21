@@ -23,8 +23,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 5: ЗАГАЛЬНА БУДОВА ТІЛА БДЖОЛИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-5-zahalna-budova-tila-bdzholy.png" alt="BEEZ 005: СХЕМА 5: ЗАГАЛЬНА БУДОВА ТІЛА БДЖОЛИ" />
-*СХЕМА 5: ЗАГАЛЬНА БУДОВА ТІЛА БДЖОЛИ — ілюстрація за промптом P005.*
+<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-5-zahalna-budova-tila-bdzholy.png" alt="Загальна будова тіла бджоли" />
+*Загальна будова тіла бджоли*
 
 
 | Відділ | Основні органи та функції |
@@ -184,8 +184,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 6: АНАТОМІЯ ВНУТРІШНІХ ОРГАНІВ — ФУНКЦІОНАЛЬНА КАРТА
 
-<LightboxImage src="/photos/bdzhilnytstvo/P006_skhema-6-anatomiya-vnutrishnikh-orhaniv-funktsionalna-karta.png" alt="BEEZ 006: СХЕМА 6: АНАТОМІЯ ВНУТРІШНІХ ОРГАНІВ — ФУНКЦІОНАЛЬНА КАРТА" />
-*СХЕМА 6: АНАТОМІЯ ВНУТРІШНІХ ОРГАНІВ — ФУНКЦІОНАЛЬНА КАРТА — ілюстрація за промптом P006.*
+<LightboxImage src="/photos/bdzhilnytstvo/P006_skhema-6-anatomiya-vnutrishnikh-orhaniv-funktsionalna-karta.png" alt="Анатомія внутрішніх органів — функціональна карта" />
+*Анатомія внутрішніх органів — функціональна карта*
 
 
 | Орган / система | Розташування | Функція | Практичне значення |
@@ -219,8 +219,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 7: КЛЮЧОВІ АНАТОМІЧНІ ЦИФРИ ДЛЯ ПАСІЧНИКА
 
-<LightboxImage src="/photos/bdzhilnytstvo/P007_skhema-7-klyuchovi-anatomichni-tsyfry-dlya-pasichnyka.png" alt="BEEZ 007: СХЕМА 7: КЛЮЧОВІ АНАТОМІЧНІ ЦИФРИ ДЛЯ ПАСІЧНИКА" />
-*СХЕМА 7: КЛЮЧОВІ АНАТОМІЧНІ ЦИФРИ ДЛЯ ПАСІЧНИКА — ілюстрація за промптом P007.*
+<LightboxImage src="/photos/bdzhilnytstvo/P007_skhema-7-klyuchovi-anatomichni-tsyfry-dlya-pasichnyka.png" alt="Ключові анатомічні цифри для пасічника" />
+*Ключові анатомічні цифри для пасічника*
 
 
 | Параметр | Значення |

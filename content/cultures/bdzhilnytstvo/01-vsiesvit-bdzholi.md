@@ -69,8 +69,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 1: ЦИКЛ РОЗВИТКУ КАСТ БДЖОЛИНОЇ СІМ'Ї
 
-<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-01-znachennya-bdzhil-v-ekosystemi.png" alt="BEEZ 001: СХЕМА 01: ЗНАЧЕННЯ БДЖІЛ В ЕКОСИСТЕМІ" />
-*СХЕМА 01: ЗНАЧЕННЯ БДЖІЛ В ЕКОСИСТЕМІ — ілюстрація за промптом P001.*
+<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-01-znachennya-bdzhil-v-ekosystemi.png" alt="Значення бджіл в екосистемі" />
+*Значення бджіл в екосистемі*
 
 
 | Фаза | Матка | Робітниця | Трутень |
@@ -163,8 +163,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 4: ПОКАЗНИКИ НОРМАЛЬНОЇ СІМ'Ї НА ПІКУ СЕЗОНУ (ПОЛТАВЩИНА)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P004_skhema-4-pokaznyky-normalnoyi-sim-yi-na-piku-sezonu-poltavshchyna.png" alt="BEEZ 004: СХЕМА 4: ПОКАЗНИКИ НОРМАЛЬНОЇ СІМ'Ї НА ПІКУ СЕЗОНУ (ПОЛТАВЩИНА)" />
-*СХЕМА 4: ПОКАЗНИКИ НОРМАЛЬНОЇ СІМ'Ї НА ПІКУ СЕЗОНУ (ПОЛТАВЩИНА) — ілюстрація за промптом P004.*
+<LightboxImage src="/photos/bdzhilnytstvo/P004_skhema-4-pokaznyky-normalnoyi-sim-yi-na-piku-sezonu-poltavshchyna.png" alt="Показники нормальної сім'ї на піку сезону (полтавщина)" />
+*Показники нормальної сім'ї на піку сезону (полтавщина)*
 
 
 | Показник | Норма | Критичне значення |
@@ -182,8 +182,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 5: ПІДВИДИ APIS MELLIFERA — ПОРІВНЯННЯ ДЛЯ УКРАЇНИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-05-vulyk-yak-yedynyy-orhanizm-superorhanizm.png" alt="BEEZ 005: СХЕМА 05: ВУЛИК ЯК ЄДИНИЙ ОРГАНІЗМ (СУПЕРОРГАНІЗМ)" />
-*СХЕМА 05: ВУЛИК ЯК ЄДИНИЙ ОРГАНІЗМ (СУПЕРОРГАНІЗМ) — ілюстрація за промптом P005.*
+<LightboxImage src="/photos/bdzhilnytstvo/P005_skhema-05-vulyk-yak-yedynyy-orhanizm-superorhanizm.png" alt="Вулик як єдиний організм (суперорганізм)" />
+*Вулик як єдиний організм (суперорганізм)*
 
 
 | Підвид | Походження | Агресивність | Зимостійкість | Медопродуктивність | Особливості |

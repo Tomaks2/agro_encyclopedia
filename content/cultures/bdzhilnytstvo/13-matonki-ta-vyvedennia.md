@@ -199,8 +199,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 26: ВИВЕДЕННЯ МАТОК — МЕТОДИ ТА ЯКІСТЬ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P026_skhema-26-vyvedennya-matok-metody-ta-yakist.png" alt="BEEZ 026: СХЕМА 26: ВИВЕДЕННЯ МАТОК — МЕТОДИ ТА ЯКІСТЬ" />
-*СХЕМА 26: ВИВЕДЕННЯ МАТОК — МЕТОДИ ТА ЯКІСТЬ — ілюстрація за промптом P026.*
+<LightboxImage src="/photos/bdzhilnytstvo/P026_skhema-26-vyvedennya-matok-metody-ta-yakist.png" alt="Виведення маток — методи та якість" />
+*Виведення маток — методи та якість*
 
 
 | Метод | Складність | Якість матки | Кількість маток | Для кого |
@@ -213,8 +213,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 27: ПІДСАДКА МАТКИ — МЕТОДИ ТА УСПІШНІСТЬ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P027_skhema-27-pidsadka-matky-metody-ta-uspishnist.png" alt="BEEZ 027: СХЕМА 27: ПІДСАДКА МАТКИ — МЕТОДИ ТА УСПІШНІСТЬ" />
-*СХЕМА 27: ПІДСАДКА МАТКИ — МЕТОДИ ТА УСПІШНІСТЬ — ілюстрація за промптом P027.*
+<LightboxImage src="/photos/bdzhilnytstvo/P027_skhema-27-pidsadka-matky-metody-ta-uspishnist.png" alt="Підсадка матки — методи та успішність" />
+*Підсадка матки — методи та успішність*
 
 
 | Метод | Успішність | Ризик | Термін приймання | Примітка |

@@ -16,8 +16,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 26.1. Що містить бджолина отрута
 
-<LightboxImage src="/photos/bdzhilnytstvo/P050_skhema-50-sklad-apitoksynu.png" alt="BEEZ 050: СХЕМА 50: СКЛАД АПІТОКСИНУ" />
-*СХЕМА 50: СКЛАД АПІТОКСИНУ — ілюстрація за промптом P050.*
+<LightboxImage src="/photos/bdzhilnytstvo/P050_skhema-50-sklad-apitoksynu.png" alt="Склад апітоксину" />
+*Склад апітоксину*
 
 
 Бджолина отрута — складна суміш пептидів, ферментів і низькомолекулярних речовин. У ній вивчають, зокрема, мелітин, фосфоліпазу A2, апамін, гіалуронідазу та біогенні аміни. Ці речовини пояснюють місцевий біль, набряк, запальну реакцію і потенціал сенсибілізації. Лабораторна активність компонентів є важливою для токсикології та фармакології, але не дорівнює доведеній ефективності живого ужалення для лікування конкретної хвороби.
@@ -84,8 +84,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 26.6. Збір отрути (для наукових/ремесничих цілей)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P051_skhema-51-skhemy-bdzholodzhalennya-ta-protypokazannya.png" alt="BEEZ 051: СХЕМА 51: СХЕМИ БДЖОЛОВЖАЛЕННЯ ТА ПРОТИПОКАЗАННЯ" />
-*СХЕМА 51: СХЕМИ БДЖОЛОВЖАЛЕННЯ ТА ПРОТИПОКАЗАННЯ — ілюстрація за промптом P051.*
+<LightboxImage src="/photos/bdzhilnytstvo/P051_skhema-51-skhemy-bdzholodzhalennya-ta-protypokazannya.png" alt="Схеми бджоловжалення та протипоказання" />
+*Схеми бджоловжалення та протипоказання*
 
 
 ### Метод електрошоку

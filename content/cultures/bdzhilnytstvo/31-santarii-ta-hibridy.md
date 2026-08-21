@@ -39,8 +39,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 31.6. Практична дезінфекція (покроково)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="BEEZ 060: СХЕМА 60: ДЕЗІНФЕКЦІЯ ВУЛИКІВ ТА ІНВЕНТАРЮ" />
-*СХЕМА 60: ДЕЗІНФЕКЦІЯ ВУЛИКІВ ТА ІНВЕНТАРЮ — ілюстрація за промптом P060.*
+<LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="Дезінфекція вуликів та інвентарю" />
+*Дезінфекція вуликів та інвентарю*
 
 
 ### Паяльна лампа (найефективніший метод)
@@ -76,8 +76,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 31.8. Гігієна при кочівлі
 
-<LightboxImage src="/photos/bdzhilnytstvo/P061_skhema-61-kochivlya-ta-hihiyena-pasichnyka.png" alt="BEEZ 061: СХЕМА 61: КОЧІВЛЯ ТА ГІГІЄНА ПАСІЧНИКА" />
-*СХЕМА 61: КОЧІВЛЯ ТА ГІГІЄНА ПАСІЧНИКА — ілюстрація за промптом P061.*
+<LightboxImage src="/photos/bdzhilnytstvo/P061_skhema-61-kochivlya-ta-hihiyena-pasichnyka.png" alt="Кочівля та гігієна пасічника" />
+*Кочівля та гігієна пасічника*
 
 
 | Етап | Дії |

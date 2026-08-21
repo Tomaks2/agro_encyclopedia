@@ -119,8 +119,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 12: МОВА БДЖІЛ — СУМАРНА КАРТА КОМУНІКАЦІЇ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P012_skhema-12-mova-bdzhil-sumarna-karta-komunikatsiyi.png" alt="BEEZ 012: СХЕМА 12: МОВА БДЖІЛ — СУМАРНА КАРТА КОМУНІКАЦІЇ" />
-*СХЕМА 12: МОВА БДЖІЛ — СУМАРНА КАРТА КОМУНІКАЦІЇ — ілюстрація за промптом P012.*
+<LightboxImage src="/photos/bdzhilnytstvo/P012_skhema-12-mova-bdzhil-sumarna-karta-komunikatsiyi.png" alt="Мова бджіл — сумарна карта комунікації" />
+*Мова бджіл — сумарна карта комунікації*
 
 
 | Канал | Що передає | Приклад використання |
@@ -136,8 +136,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 13: ДЕКОДУВАННЯ ВИХЛЯЮЧОГО ТАНЦЮ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P013_skhema-13-dekoduvannya-vykhlyayuchoho-tantsyu.png" alt="BEEZ 013: СХЕМА 13: ДЕКОДУВАННЯ ВИХЛЯЮЧОГО ТАНЦЮ" />
-*СХЕМА 13: ДЕКОДУВАННЯ ВИХЛЯЮЧОГО ТАНЦЮ — ілюстрація за промптом P013.*
+<LightboxImage src="/photos/bdzhilnytstvo/P013_skhema-13-dekoduvannya-vykhlyayuchoho-tantsyu.png" alt="Декодування вихляючого танцю" />
+*Декодування вихляючого танцю*
 
 
 | Елемент танцю | Значення |

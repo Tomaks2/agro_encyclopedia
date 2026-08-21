@@ -15,8 +15,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 82.1. Вид спереду (фасад, 6.0 м)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P074_epi-prompt-2-plan-zverkhu-kontur-6-0-4-8.png" alt="BEEZ 074: СХЕМА 74: ПЛАН ЗВЕРХУ (ЕПІДОМІК 6.0 × 4.8 м)" />
-*СХЕМА 74: ПЛАН ЗВЕРХУ (ЕПІДОМІК 6.0 × 4.8 м) — ілюстрація за промптом P074.*
+<LightboxImage src="/photos/bdzhilnytstvo/P074_epi-prompt-2-plan-zverkhu-kontur-6-0-4-8.png" alt="План зверху (епідомік 6.0 × 4.8 м)" />
+*План зверху (епідомік 6.0 × 4.8 м)*
 
 
 
@@ -35,8 +35,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 82.3. Розріз через вулик та лежак (А–А)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P075_epi-prompt-3-rozriz-bichnyy-fundament-dakh.png" alt="BEEZ 075: СХЕМА 75: РОЗРІЗ БІЧНИЙ (ВУЛИК-ЛЕЖАК-ВІКНО)" />
-*СХЕМА 75: РОЗРІЗ БІЧНИЙ (ВУЛИК-ЛЕЖАК-ВІКНО) — ілюстрація за промптом P075.*
+<LightboxImage src="/photos/bdzhilnytstvo/P075_epi-prompt-3-rozriz-bichnyy-fundament-dakh.png" alt="Розріз бічний (вулик-лежак-вікно)" />
+*Розріз бічний (вулик-лежак-вікно)*
 
 
 
@@ -58,8 +58,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 82.6. Вузол «дах + стіна»
 
-<LightboxImage src="/photos/bdzhilnytstvo/P071_77-4-deterministychna-skhema-dlya-kreslennya.png" alt="BEEZ 071: СХЕМА 71: КОНСТРУКТИВНІ ВУЗЛИ ЕПІДОМІКУ (ДЕТЕРМІНІСТИЧНА СХЕМА)" />
-*СХЕМА 71: КОНСТРУКТИВНІ ВУЗЛИ ЕПІДОМІКУ (ДЕТЕРМІНІСТИЧНА СХЕМА) — ілюстрація за промптом P071.*
+<LightboxImage src="/photos/bdzhilnytstvo/P071_77-4-deterministychna-skhema-dlya-kreslennya.png" alt="Конструктивні вузли епідоміку (детерміністична схема)" />
+*Конструктивні вузли епідоміку (детерміністична схема)*
 
 
 

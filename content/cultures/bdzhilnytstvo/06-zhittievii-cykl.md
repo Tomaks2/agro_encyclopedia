@@ -24,13 +24,13 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | **Передлялечка + лялечка** | 12 днів (разом з попередньою печатаною фазою) | Комірка запечатана; повна перебудова тіла |
 | **Разом (робітниця)** | **21 день** | Класична цифра для розрахунків |
 
-<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-1-tsykl-rozvytku-kast-bdzholynoyi-sim-yi.png" alt="BEEZ 001: СХЕМА 1: ЦИКЛ РОЗВИТКУ КАСТ БДЖОЛИНОЇ СІМ’Ї" />
-*СХЕМА 1: ЦИКЛ РОЗВИТКУ КАСТ БДЖОЛИНОЇ СІМ’Ї — ілюстрація за промптом P001.*
+<LightboxImage src="/photos/bdzhilnytstvo/P001_skhema-1-tsykl-rozvytku-kast-bdzholynoyi-sim-yi.png" alt="Цикл розвитку каст бджолиної сім’ї" />
+*Цикл розвитку каст бджолиної сім’ї*
 
 ### 📊 СХЕМА 14: КАЛЕНДАР РОЗВИТКУ КАСТ (дні від яйця)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P014_skhema-14-kalendar-rozvytku-kast-dni-vid-yaytsya.png" alt="BEEZ 014: СХЕМА 14: КАЛЕНДАР РОЗВИТКУ КАСТ (ДНІ ВІД ЯЙЦЯ)" />
-*СХЕМА 14: КАЛЕНДАР РОЗВИТКУ КАСТ (ДНІ ВІД ЯЙЦЯ) — ілюстрація за промптом P014.*
+<LightboxImage src="/photos/bdzhilnytstvo/P014_skhema-14-kalendar-rozvytku-kast-dni-vid-yaytsya.png" alt="Календар розвитку каст (дні від яйця)" />
+*Календар розвитку каст (дні від яйця)*
 
 
 | День | Робітниця | Матка | Трутень | Подія |
@@ -92,8 +92,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 6.8. Вікова поліетія: перехід професій бджоли
 
-<LightboxImage src="/photos/bdzhilnytstvo/P003_skhema-3-profesiyna-kar-yera-robitnytsi.png" alt="BEEZ 003: СХЕМА 3: ПРОФЕСІЙНА КАР’ЄРА РОБІТНИЦІ" />
-*СХЕМА 3: ПРОФЕСІЙНА КАР’ЄРА РОБІТНИЦІ — ілюстрація за промптом P003.*
+<LightboxImage src="/photos/bdzhilnytstvo/P003_skhema-3-profesiyna-kar-yera-robitnytsi.png" alt="Професійна кар’єра робітниці" />
+*Професійна кар’єра робітниці*
 
 Робітниця протягом життя змінює професії залежно від віку (поліетизм за віком):
 
@@ -111,8 +111,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 6.9. Старіння бджоли: вітелогенін як регулятор довголіття
 
-<LightboxImage src="/photos/bdzhilnytstvo/P002_skhema-2-tryvalist-zhyttya-chleniv-sim-yi.png" alt="BEEZ 002: СХЕМА 2: ТРИВАЛІСТЬ ЖИТТЯ ЧЛЕНІВ СІМ’Ї" />
-*СХЕМА 2: ТРИВАЛІСТЬ ЖИТТЯ ЧЛЕНІВ СІМ’Ї — ілюстрація за промптом P002.*
+<LightboxImage src="/photos/bdzhilnytstvo/P002_skhema-2-tryvalist-zhyttya-chleniv-sim-yi.png" alt="Тривалість життя членів сім’ї" />
+*Тривалість життя членів сім’ї*
 
 **Вітелогенін (Vg)** — жовтковий білок, який у робітниць виконує унікальну роль регулятора тривалості життя:
 
@@ -134,8 +134,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 15: РОЗВИТОК РОЗПЛОДУ — ЩО БАЧИТЬ ПАСІЧНИК НА КОЖНОМУ ДНІ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P015_skhema-15-rozvytok-rozplodu-shcho-bachyt-pasichnyk-na-kozhnomu-dni.png" alt="BEEZ 015: СХЕМА 15: РОЗВИТОК РОЗПЛОДУ — ЩО БАЧИТЬ ПАСІЧНИК НА КОЖНОМУ ДНІ" />
-*СХЕМА 15: РОЗВИТОК РОЗПЛОДУ — ЩО БАЧИТЬ ПАСІЧНИК НА КОЖНОМУ ДНІ — ілюстрація за промптом P015.*
+<LightboxImage src="/photos/bdzhilnytstvo/P015_skhema-15-rozvytok-rozplodu-shcho-bachyt-pasichnyk-na-kozhnomu-dni.png" alt="Розвиток розплоду — що бачить пасічник на кожному дні" />
+*Розвиток розплоду — що бачить пасічник на кожному дні*
 
 
 | День від яйця | Що видно у комірці | Дії пасічника |

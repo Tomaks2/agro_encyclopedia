@@ -184,8 +184,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 30: СОРТИ МЕДУ ПОЛТАВЩИНИ — ПОРІВНЯННЯ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P030_skhema-30-sorty-medu-poltavshchyny-porivnyannya.png" alt="BEEZ 030: СХЕМА 30: СОРТИ МЕДУ ПОЛТАВЩИНИ — ПОРІВНЯННЯ" />
-*СХЕМА 30: СОРТИ МЕДУ ПОЛТАВЩИНИ — ПОРІВНЯННЯ — ілюстрація за промптом P030.*
+<LightboxImage src="/photos/bdzhilnytstvo/P030_skhema-30-sorty-medu-poltavshchyny-porivnyannya.png" alt="Сорти меду полтавщини — порівняння" />
+*Сорти меду полтавщини — порівняння*
 
 
 | Сорт | Медонос | Термін | Колір | Кристалізація | Смак | Особливості |
@@ -199,8 +199,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 31: ФАЛЬСИФІКАЦІЯ МЕДУ — ЯК ВИЯВИТИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P031_skhema-31-falsyfikatsiya-medu-y-metody-perevirky.png" alt="BEEZ 031: СХЕМА 31: ФАЛЬСИФІКАЦІЯ МЕДУ Й МЕТОДИ ПЕРЕВІРКИ" />
-*СХЕМА 31: ФАЛЬСИФІКАЦІЯ МЕДУ Й МЕТОДИ ПЕРЕВІРКИ — ілюстрація за промптом P031.*
+<LightboxImage src="/photos/bdzhilnytstvo/P031_skhema-31-falsyfikatsiya-medu-y-metody-perevirky.png" alt="Фальсифікація меду й методи перевірки" />
+*Фальсифікація меду й методи перевірки*
 
 
 | Тип фальсифікації | Домашній тест | Норма (натуральний) | Фальсифікат | Лабораторний метод |

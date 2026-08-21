@@ -10,6 +10,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Епібудинок"
 />
 
+<LightboxImage src="/photos/bdzhilnytstvo/P069_77-2-fotorealistychnyy-inter-yer-lyudskoyi-zony.png" alt="Повітря, акустика, вібрації і моніторинг" />
+*Повітря, акустика, вібрації і моніторинг*
+
 
 ## 75.1. Замість «резонансу» — вимірювання
 
@@ -29,8 +32,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 75.3. Як вести журнал середовища
 
-<LightboxImage src="/photos/bdzhilnytstvo/P072_77-5-foto-dlya-rozdilu-pasika-yak-systema-danykh.png" alt="BEEZ 072: ФОТО ДЛЯ РОЗДІЛУ «ПАСІКА ЯК СИСТЕМА ДАНИХ»" />
-*ФОТО ДЛЯ РОЗДІЛУ «ПАСІКА ЯК СИСТЕМА ДАНИХ» — ілюстрація за промптом P072.*
+<LightboxImage src="/photos/bdzhilnytstvo/P072_77-5-foto-dlya-rozdilu-pasika-yak-systema-danykh.png" alt="Пасіка як система даних" />
+*Пасіка як система даних*
 
 Журнал потрібен не для створення «лікувальних протоколів», а для обслуговування споруди і кращого розуміння комфорту. У ньому фіксують дату, погоду, кількість відвідувачів, час перебування, стан сімей, показники датчиків, скарги чи позитивні відгуки, технічні збої, присутність бджіл у людській зоні та дії, що були вжиті.
 

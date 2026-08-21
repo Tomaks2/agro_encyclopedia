@@ -123,8 +123,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 20: КАЛЕНДАР МЕДОНОСІВ ПОЛТАВЩИНИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P020_skhema-20-kalendar-medonosiv-poltavshchyny.png" alt="BEEZ 020: СХЕМА 20: КАЛЕНДАР МЕДОНОСІВ ПОЛТАВЩИНИ" />
-*СХЕМА 20: КАЛЕНДАР МЕДОНОСІВ ПОЛТАВЩИНИ — ілюстрація за промптом P020.*
+<LightboxImage src="/photos/bdzhilnytstvo/P020_skhema-20-kalendar-medonosiv-poltavshchyny.png" alt="Календар медоносів полтавщини" />
+*Календар медоносів полтавщини*
 
 
 | Місяць | Медоноси | Медопродуктивність (кг/га) | Медозбір/сім'я (кг) |
@@ -140,8 +140,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 21: ГОЛОВНІ МЕДОНОСИ ПОЛТАВЩИНИ — ДЕТАЛІЗАЦІЯ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P021_skhema-21-holovni-medonosy-poltavshchyny-detalizatsiya.png" alt="BEEZ 021: СХЕМА 21: ГОЛОВНІ МЕДОНОСИ ПОЛТАВЩИНИ — ДЕТАЛІЗАЦІЯ" />
-*СХЕМА 21: ГОЛОВНІ МЕДОНОСИ ПОЛТАВЩИНИ — ДЕТАЛІЗАЦІЯ — ілюстрація за промптом P021.*
+<LightboxImage src="/photos/bdzhilnytstvo/P021_skhema-21-holovni-medonosy-poltavshchyny-detalizatsiya.png" alt="Головні медоноси полтавщини — деталізація" />
+*Головні медоноси полтавщини — деталізація*
 
 
 | Медонос | Терміни цвітіння | Медопродуктивність | Якість меду | Кристалізація |

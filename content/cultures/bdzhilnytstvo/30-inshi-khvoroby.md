@@ -48,8 +48,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 30.5. Детальний огляд основних хвороб
 
-<LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="BEEZ 058: СХЕМА 58: ХВОРОБИ БДЖІЛ — ДІАГНОСТИКА ТА ЛІКУВАННЯ" />
-*СХЕМА 58: ХВОРОБИ БДЖІЛ — ДІАГНОСТИКА ТА ЛІКУВАННЯ — ілюстрація за промптом P058.*
+<LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="Хвороби бджіл — діагностика та лікування" />
+*Хвороби бджіл — діагностика та лікування*
 
 
 ### Нозематоз (Nosema apis / Nosema ceranae)
@@ -120,8 +120,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 30.6. Практичний алгоритм при підозрі на хворобу
 
-<LightboxImage src="/photos/bdzhilnytstvo/P059_skhema-59-profilaktyka-khvorob-bdzhil.png" alt="BEEZ 059: СХЕМА 59: ПРОФІЛАКТИКА ХВОРОБ БДЖІЛ" />
-*СХЕМА 59: ПРОФІЛАКТИКА ХВОРОБ БДЖІЛ — ілюстрація за промптом P059.*
+<LightboxImage src="/photos/bdzhilnytstvo/P059_skhema-59-profilaktyka-khvorob-bdzhil.png" alt="Профілактика хвороб бджіл" />
+*Профілактика хвороб бджіл*
 
 
 1. **Зафіксувати**: фото, дата, номер вулика, симптоми

@@ -97,8 +97,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 83.7. Інструменти
 
-<LightboxImage src="/photos/bdzhilnytstvo/P082_epi-prompt-10-instrumenty-povnyy-nabir.png" alt="BEEZ 082: ЕПІ-ПРОМПТ 10: ІНСТРУМЕНТИ (ПОВНИЙ НАБІР)" />
-*ЕПІ-ПРОМПТ 10: ІНСТРУМЕНТИ (ПОВНИЙ НАБІР) — ілюстрація за промптом P082.*
+<LightboxImage src="/photos/bdzhilnytstvo/P082_epi-prompt-10-instrumenty-povnyy-nabir.png" alt="Інструменти (повний набір)" />
+*Інструменти (повний набір)*
 
 | Категорія | Інструмент |
 |---|---|
@@ -113,8 +113,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 83.8. Кошторис за місткістю (Полтава 2026)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P083_skhema-70-koshtorys-epidomiku.png" alt="BEEZ 083: СХЕМА 70: КОШТОРИС ЕПІДОМІКУ" />
-*СХЕМА 70: КОШТОРИС ЕПІДОМІКУ — ілюстрація за промптом P083.*
+<LightboxImage src="/photos/bdzhilnytstvo/P083_skhema-70-koshtorys-epidomiku.png" alt="Кошторис епідоміку" />
+*Кошторис епідоміку*
 
 ### 1-місний (6 вуликів, лікування)
 

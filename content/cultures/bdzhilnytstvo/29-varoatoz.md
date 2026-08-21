@@ -80,8 +80,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 29.7. Сезонна схема IPM (Полтавщина)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P056_skhema-56-monitorynh-varoatozu.png" alt="BEEZ 056: СХЕМА 56: МОНІТОРИНГ ВАРОАТОЗУ" />
-*СХЕМА 56: МОНІТОРИНГ ВАРОАТОЗУ — ілюстрація за промптом P056.*
+<LightboxImage src="/photos/bdzhilnytstvo/P056_skhema-56-monitorynh-varoatozu.png" alt="Моніторинг вароатозу" />
+*Моніторинг вароатозу*
 
 
 | Сезон | Дії |
@@ -104,8 +104,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 29.9. Групи препаратів (орієнтаційно)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P057_skhema-57-ipm-stratehiyi-proty-varoatozu.png" alt="BEEZ 057: СХЕМА 57: МЕТОДИ БОРОТЬБИ (IPM)" />
-*СХЕМА 57: МЕТОДИ БОРОТЬБИ (IPM) — ілюстрація за промптом P057.*
+<LightboxImage src="/photos/bdzhilnytstvo/P057_skhema-57-ipm-stratehiyi-proty-varoatozu.png" alt="Методи боротьби (ipm)" />
+*Методи боротьби (ipm)*
 
 
 > ⚠️ **Юридичне застереження**: конкретні препарати, дози, строки — за офіційною інструкцією та чинним законодавством України.

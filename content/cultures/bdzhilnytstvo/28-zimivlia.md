@@ -61,8 +61,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 54: ОСІННЯ ПІДГОТОВКА ДО ЗИМІВЛІ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P054_skhema-54-osinnya-pidhotovka-do-zymivli.png" alt="BEEZ 054: СХЕМА 54: ОСІННЯ ПІДГОТОВКА ДО ЗИМІВЛІ" />
-*СХЕМА 54: ОСІННЯ ПІДГОТОВКА ДО ЗИМІВЛІ — ілюстрація за промптом P054.*
+<LightboxImage src="/photos/bdzhilnytstvo/P054_skhema-54-osinnya-pidhotovka-do-zymivli.png" alt="Осіння підготовка до зимівлі" />
+*Осіння підготовка до зимівлі*
 
 
 | Крок | Дія | Деталі |
@@ -77,8 +77,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 55: ЗИМОВИЙ КЛУБ ТА ВЕСНЯНИЙ ОБЛЬОТ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P055_skhema-55-zymovyy-klub-ta-vesnyanyy-oblot.png" alt="BEEZ 055: СХЕМА 55: ЗИМОВИЙ КЛУБ ТА ВЕСНЯНИЙ ОБЛІТ" />
-*СХЕМА 55: ЗИМОВИЙ КЛУБ ТА ВЕСНЯНИЙ ОБЛІТ — ілюстрація за промптом P055.*
+<LightboxImage src="/photos/bdzhilnytstvo/P055_skhema-55-zymovyy-klub-ta-vesnyanyy-oblot.png" alt="Зимовий клуб та весняний обліт" />
+*Зимовий клуб та весняний обліт*
 
 
 | Параметр | Значення |

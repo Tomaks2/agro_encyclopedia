@@ -15,8 +15,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 84.1. Сезонний цикл (Полтавщина)
 
-<LightboxImage src="/photos/bdzhilnytstvo/P080_epi-prompt-8-sezonnyy-tsykl-po-misyatsyakh.png" alt="BEEZ 080: ЕПІ-ПРОМПТ 8: СЕЗОННИЙ ЦИКЛ (ПО МІСЯЦЯХ)" />
-*ЕПІ-ПРОМПТ 8: СЕЗОННИЙ ЦИКЛ (ПО МІСЯЦЯХ) — ілюстрація за промптом P080.*
+<LightboxImage src="/photos/bdzhilnytstvo/P080_epi-prompt-8-sezonnyy-tsykl-po-misyatsyakh.png" alt="Сезонний цикл (по місяцях)" />
+*Сезонний цикл (по місяцях)*
 
 
 | Місяць | Етап | Ключові дії |

@@ -152,8 +152,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 36: ПИЛОК VS ПЕРГА — ПОРІВНЯННЯ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P036_skhema-36-pylok-vs-perha-porivnyannya.png" alt="BEEZ 036: СХЕМА 36: ПИЛОК VS ПЕРГА — ПОРІВНЯННЯ" />
-*СХЕМА 36: ПИЛОК VS ПЕРГА — ПОРІВНЯННЯ — ілюстрація за промптом P036.*
+<LightboxImage src="/photos/bdzhilnytstvo/P036_skhema-36-pylok-vs-perha-porivnyannya.png" alt="Пилок vs перга — порівняння" />
+*Пилок vs перга — порівняння*
 
 
 | Параметр | Пилок (обніжжя) | Перга |
@@ -170,8 +170,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 37: ЗБІР ТА ЗБЕРІГАННЯ ПЕРГИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P037_skhema-37-zbir-ta-zberihannya-perhy.png" alt="BEEZ 037: СХЕМА 37: ЗБІР ТА ЗБЕРІГАННЯ ПЕРГИ" />
-*СХЕМА 37: ЗБІР ТА ЗБЕРІГАННЯ ПЕРГИ — ілюстрація за промптом P037.*
+<LightboxImage src="/photos/bdzhilnytstvo/P037_skhema-37-zbir-ta-zberihannya-perhy.png" alt="Збір та зберігання перги" />
+*Збір та зберігання перги*
 
 
 | Етап | Деталі |

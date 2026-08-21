@@ -140,8 +140,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 40: ТРУТНЕВИЙ ГОМОГЕНАТ — СКЛАД ТА ЗБІР
 
-<LightboxImage src="/photos/bdzhilnytstvo/P040_skhema-40-trutnevyy-homohenat-sklad-ta-zbir.png" alt="BEEZ 040: СХЕМА 40: ТРУТНЕВИЙ ГОМОГЕНАТ — СКЛАД І ЗБІР" />
-*СХЕМА 40: ТРУТНЕВИЙ ГОМОГЕНАТ — СКЛАД І ЗБІР — ілюстрація за промптом P040.*
+<LightboxImage src="/photos/bdzhilnytstvo/P040_skhema-40-trutnevyy-homohenat-sklad-ta-zbir.png" alt="Трутневий гомогенат — склад і збір" />
+*Трутневий гомогенат — склад і збір*
 
 
 | Компонент | Частка | Особливості |
@@ -161,8 +161,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 41: ЗБЕРІГАННЯ ТА ЗАСТОСУВАННЯ ТРУТНЕВОГО ГОМОГЕНАТУ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P041_skhema-41-zberihannya-ta-zastosuvannya-trutnevoho-homohenatu.png" alt="BEEZ 041: СХЕМА 41: ГОМОГЕНАТ — ЗБЕРІГАННЯ ТА КОНСЕРВАЦІЯ" />
-*СХЕМА 41: ГОМОГЕНАТ — ЗБЕРІГАННЯ ТА КОНСЕРВАЦІЯ — ілюстрація за промптом P041.*
+<LightboxImage src="/photos/bdzhilnytstvo/P041_skhema-41-zberihannya-ta-zastosuvannya-trutnevoho-homohenatu.png" alt="Гомогенат — зберігання та консервація" />
+*Гомогенат — зберігання та консервація*
 
 
 | Зберігання | Умова | Термін |

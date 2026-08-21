@@ -160,8 +160,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 22: ВЕСНЯНЕ РОЗШИРЕННЯ ГНІЗДА — ПОКРОКОВИЙ АЛГОРИТМ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="BEEZ 022: СХЕМА 22: ВЕСНЯНЕ РОЗШИРЕННЯ ГНІЗДА (ПОКРОКОВИЙ АЛГОРИТМ)" />
-*СХЕМА 22: ВЕСНЯНЕ РОЗШИРЕННЯ ГНІЗДА (ПОКРОКОВИЙ АЛГОРИТМ) — ілюстрація за промптом P022.*
+<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="Весняне розширення гнізда (покроковий алгоритм)" />
+*Весняне розширення гнізда (покроковий алгоритм)*
 
 
 | Крок | Дія | Термін (Полтавщина) | Умова |
@@ -178,8 +178,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 23: ПІДГОДІВЛЯ НАВЕСНІ — РЕЖИМ І ДОЗУВАННЯ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P023_skhema-23-pidhodivlya-navesni-rezhym-i-dozuvannya.png" alt="BEEZ 023: СХЕМА 23: ПІДГОДІВЛЯ НАВЕСНІ — РЕЖИМ І ДОЗУВАННЯ" />
-*СХЕМА 23: ПІДГОДІВЛЯ НАВЕСНІ — РЕЖИМ І ДОЗУВАННЯ — ілюстрація за промптом P023.*
+<LightboxImage src="/photos/bdzhilnytstvo/P023_skhema-23-pidhodivlya-navesni-rezhym-i-dozuvannya.png" alt="Підгодівля навесні — режим і дозування" />
+*Підгодівля навесні — режим і дозування*
 
 
 | Тип підгодівлі | Концентрація | Доза | Коли | Примітка |

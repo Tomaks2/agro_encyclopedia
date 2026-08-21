@@ -171,8 +171,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 38: ЗБІР ПИЛКУ ПИЛКОВЛОВЛЮВАЧЕМ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P038_skhema-38-zbir-pylku-pylkovlovlyuvachem.png" alt="BEEZ 038: СХЕМА 38: ЗБІР ПИЛКУ ПИЛКОВЛОВЛЮВАЧЕМ" />
-*СХЕМА 38: ЗБІР ПИЛКУ ПИЛКОВЛОВЛЮВАЧЕМ — ілюстрація за промптом P038.*
+<LightboxImage src="/photos/bdzhilnytstvo/P038_skhema-38-zbir-pylku-pylkovlovlyuvachem.png" alt="Збір пилку пилковловлювачем" />
+*Збір пилку пилковловлювачем*
 
 
 | Параметр | Значення |
@@ -189,8 +189,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 39: СУШІННЯ ТА ЗБЕРІГАННЯ ПИЛКУ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P039_skhema-39-sushinnya-ta-zberihannya-pylku.png" alt="BEEZ 039: СХЕМА 39: СУШІННЯ ТА ЗБЕРІГАННЯ ПИЛКУ" />
-*СХЕМА 39: СУШІННЯ ТА ЗБЕРІГАННЯ ПИЛКУ — ілюстрація за промптом P039.*
+<LightboxImage src="/photos/bdzhilnytstvo/P039_skhema-39-sushinnya-ta-zberihannya-pylku.png" alt="Сушіння та зберігання пилку" />
+*Сушіння та зберігання пилку*
 
 
 | Спосіб сушіння | Температура | Термін | Переваги/недоліки |

@@ -15,8 +15,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 80.1. Підготовка до сеансу
 
-<LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="BEEZ 079: ЕПІ-ПРОМПТ 7: МІКРОКЛІМАТ (ТЕМПЕРАТУРА/ВОЛОГІСТЬ)" />
-*ЕПІ-ПРОМПТ 7: МІКРОКЛІМАТ (ТЕМПЕРАТУРА/ВОЛОГІСТЬ) — ілюстрація за промптом P079.*
+<LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="Мікроклімат (температура/вологість)" />
+*Мікроклімат (температура/вологість)*
 
 
 1. **Одяг**: тільки натуральні тканини — бавовна, льон, шовк. Світлі кольори. Довгі рукави та штани. Ніякої вовни, флісу, синтетики з ворсом — він тримає запахи та подразнює бджіл.

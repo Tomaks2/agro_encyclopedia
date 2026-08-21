@@ -164,8 +164,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 19: ОБОВ'ЯЗКОВЕ ОБЛАДНАННЯ ПАСІЧНИКА — МІНІМУМ І ОПТИМУМ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P019_skhema-19-obov-yazkove-obladnannya-pasichnyka-minimum-i-optymum.png" alt="BEEZ 019: СХЕМА 19: ОБОВ’ЯЗКОВЕ ОБЛАДНАННЯ ПАСІЧНИКА (МІНІМУМ І ОПТИМУМ)" />
-*СХЕМА 19: ОБОВ’ЯЗКОВЕ ОБЛАДНАННЯ ПАСІЧНИКА (МІНІМУМ І ОПТИМУМ) — ілюстрація за промптом P019.*
+<LightboxImage src="/photos/bdzhilnytstvo/P019_skhema-19-obov-yazkove-obladnannya-pasichnyka-minimum-i-optymum.png" alt="Обов’язкове обладнання пасічника (мінімум і оптимум)" />
+*Обов’язкове обладнання пасічника (мінімум і оптимум)*
 
 
 | Категорія | Мінімум (2–5 вуликів) | Оптимум (10+ вуликів) |

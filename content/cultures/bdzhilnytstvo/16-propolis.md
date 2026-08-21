@@ -148,8 +148,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 32: ПРОПОЛІС — СКЛАД ТА АКТИВНІ СПОЛУКИ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P032_skhema-32-propolis-sklad-ta-aktyvni-spoluky.png" alt="BEEZ 032: СХЕМА 32: ПРОПОЛІС — СКЛАД ТА АКТИВНІ СПОЛУКИ" />
-*СХЕМА 32: ПРОПОЛІС — СКЛАД ТА АКТИВНІ СПОЛУКИ — ілюстрація за промптом P032.*
+<LightboxImage src="/photos/bdzhilnytstvo/P032_skhema-32-propolis-sklad-ta-aktyvni-spoluky.png" alt="Прополіс — склад та активні сполуки" />
+*Прополіс — склад та активні сполуки*
 
 
 | Компонент | Частка | Ключові речовини | Біологічна дія |
@@ -162,8 +162,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 33: НАСТОЯНКА ПРОПОЛІСУ — РЕЦЕПТУРА ТА ЗАСТОСУВАННЯ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P033_skhema-33-nastoyanka-propolisu-retseptura-ta-zastosuvannya.png" alt="BEEZ 033: СХЕМА 33: НАСТОЯНКА ПРОПОЛІСУ — РЕЦЕПТУРА ТА ЗАСТОСУВАННЯ" />
-*СХЕМА 33: НАСТОЯНКА ПРОПОЛІСУ — РЕЦЕПТУРА ТА ЗАСТОСУВАННЯ — ілюстрація за промптом P033.*
+<LightboxImage src="/photos/bdzhilnytstvo/P033_skhema-33-nastoyanka-propolisu-retseptura-ta-zastosuvannya.png" alt="Настоянка прополісу — рецептура та застосування" />
+*Настоянка прополісу — рецептура та застосування*
 
 
 | Параметр | Значення |

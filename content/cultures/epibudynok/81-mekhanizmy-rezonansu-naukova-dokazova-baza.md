@@ -15,8 +15,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 81.1. Звук вулика: що ми фактично чуємо
 
-<LightboxImage src="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png" alt="BEEZ 078: ЕПІ-ПРОМПТ 6: ВІБРАЦІЙНИЙ РЕЗОНАНС (СХЕМА)" />
-*ЕПІ-ПРОМПТ 6: ВІБРАЦІЙНИЙ РЕЗОНАНС (СХЕМА) — ілюстрація за промптом P078.*
+<LightboxImage src="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png" alt="Вібраційний резонанс (схема)" />
+*Вібраційний резонанс (схема)*
 
 
 | Джерело звуку | Частота | Фізика |
@@ -80,8 +80,8 @@ Rohde et al. (2020, «Bees at the hotel») показали: людина на �
 
 ## 81.8. Доза вібрацій: чому потрібна мінімальна кількість бджіл
 
-<LightboxImage src="/photos/bdzhilnytstvo/P084_skhema-71-kilkist-bdzhil.png" alt="BEEZ 084: СХЕМА 71: КІЛЬКІСТЬ БДЖІЛ" />
-*СХЕМА 71: КІЛЬКІСТЬ БДЖІЛ — ілюстрація за промптом P084.*
+<LightboxImage src="/photos/bdzhilnytstvo/P084_skhema-71-kilkist-bdzhil.png" alt="Кількість бджіл" />
+*Кількість бджіл*
 
 Не всякий епідомік працює. Якщо під лежаком стоїть 1 слабка сім'я — гул буде замалий, вібрації через лежак — невідчутні. Якщо стоїть 10 сильних сімей — ефект максимальний. Дослідники та практики визначили **практичний мінімум** для терапевтичного ефекту:
 

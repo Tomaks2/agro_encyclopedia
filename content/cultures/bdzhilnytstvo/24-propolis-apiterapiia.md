@@ -48,8 +48,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 24.5. Як пасічник збирає та очищає прополіс
 
-<LightboxImage src="/photos/bdzhilnytstvo/P047_skhema-47-nastoyanka-propolisu-kontsentratsiyi-ta-zastosuvannya.png" alt="BEEZ 047: СХЕМА 47: НАСТОЯНКА ПРОПОЛІСУ — КОНЦЕНТРАЦІЇ ТА ЗАСТОСУВАННЯ" />
-*СХЕМА 47: НАСТОЯНКА ПРОПОЛІСУ — КОНЦЕНТРАЦІЇ ТА ЗАСТОСУВАННЯ — ілюстрація за промптом P047.*
+<LightboxImage src="/photos/bdzhilnytstvo/P047_skhema-47-nastoyanka-propolisu-kontsentratsiyi-ta-zastosuvannya.png" alt="Настоянка прополісу — концентрації та застосування" />
+*Настоянка прополісу — концентрації та застосування*
 
 
 ### Збір прополісу

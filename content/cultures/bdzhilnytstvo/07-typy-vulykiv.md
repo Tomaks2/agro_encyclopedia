@@ -63,8 +63,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 16: ПОРІВНЯННЯ ТИПІВ ВУЛИКІВ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P016_skhema-16-porivnyannya-typiv-vulykiv.png" alt="BEEZ 016: СХЕМА 16: ПОРІВНЯННЯ ТИПІВ ВУЛИКІВ" />
-*СХЕМА 16: ПОРІВНЯННЯ ТИПІВ ВУЛИКІВ — ілюстрація за промптом P016.*
+<LightboxImage src="/photos/bdzhilnytstvo/P016_skhema-16-porivnyannya-typiv-vulykiv.png" alt="Порівняння типів вуликів" />
+*Порівняння типів вуликів*
 
 
 | Параметр | Дадан 12-р. | Український лежак | Багатокорпусний (Рут) | Варре |
@@ -90,8 +90,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ### 📊 СХЕМА 17: ЕПІДОМІЧНІ ПАРАМЕТРИ ВУЛИКА — ЧЕКЛИСТ
 
-<LightboxImage src="/photos/bdzhilnytstvo/P017_skhema-17-epidomichni-parametry-vulyka-cheklyst.png" alt="BEEZ 017: СХЕМА 17: ЕПІДОМІЧНІ ПАРАМЕТРИ ВУЛИКА (ЧЕКЛИСТ)" />
-*СХЕМА 17: ЕПІДОМІЧНІ ПАРАМЕТРИ ВУЛИКА (ЧЕКЛИСТ) — ілюстрація за промптом P017.*
+<LightboxImage src="/photos/bdzhilnytstvo/P017_skhema-17-epidomichni-parametry-vulyka-cheklyst.png" alt="Епідомічні параметри вулика (чеклист)" />
+*Епідомічні параметри вулика (чеклист)*
 
 
 | Параметр | Норма | Перевірка |
