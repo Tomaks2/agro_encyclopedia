@@ -4,10 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png"
   title="Інші хвороби бджіл"
-<LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="хвороби бджіл" />
-*хвороби бджіл*
-
-
 
   subtitle="Діагностика та профілактика"
   chapterNum="29"
@@ -15,6 +11,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="хвороби бджіл" />
+*хвороби бджіл*
 
 > **Ветеринарне застереження.** Видимі ознаки допомагають помітити проблему, але не завжди встановлюють діагноз. За підозри на заразну хворобу, масову загибель, нетиповий розплід або різке ослаблення сім’ї слід звернутися до ветеринарного фахівця та виконати чинні вимоги щодо зразків, переміщення й повідомлення.
 
@@ -122,7 +121,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 <LightboxImage src="/photos/bdzhilnytstvo/P059_skhema-59-profilaktyka-khvorob-bdzhil.png" alt="профілактика хвороб" />
 *профілактика хвороб*
-
 
 1. **Зафіксувати**: фото, дата, номер вулика, симптоми
 2. **Ізолювати**: не переміщувати рамки до інших сімей

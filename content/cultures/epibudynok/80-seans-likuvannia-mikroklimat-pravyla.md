@@ -3,10 +3,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png"
   title="Сеанс лікування: мікроклімат і правила"
-<LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="мікроклімат" />
-*мікроклімат*
-
-
 
   subtitle="Протокол сеансу апітерапії"
   chapterNum="80"
@@ -14,6 +10,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="epibudynok"
   cultureTitle="Епібудинок"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="мікроклімат" />
+*мікроклімат*
 
 > **Медичне застереження.** Епібудинок — засіб релаксації та оздоровчої практики. Він не замінює лікування у лікаря. Усі параметри сеансу нижче — це узагальнення опублікованих практик виробників епібудинків і пілотних клінічних досліджень; систематичних мета-аналізів «сну на вуликах» наразі немає.
 

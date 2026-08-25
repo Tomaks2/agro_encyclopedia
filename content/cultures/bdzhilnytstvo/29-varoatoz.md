@@ -4,10 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P056_skhema-56-monitorynh-varoatozu.png"
   title="Вароатоз та IPM"
-<LightboxImage src="/photos/bdzhilnytstvo/P057_skhema-57-ipm-stratehiyi-proty-varoatozu.png" alt="IPM" />
-*IPM*
-
-
 
   subtitle="Системний підхід до боротьби з варроа"
   chapterNum="28"
@@ -15,6 +11,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P057_skhema-57-ipm-stratehiyi-proty-varoatozu.png" alt="IPM" />
+*IPM*
 
 > **Ветеринарне застереження.** Цей розділ навчає логіки моніторингу й інтегрованого контролю. Він не замінює ветеринарну діагностику, чинну офіційну інструкцію зареєстрованого засобу або локальні вимоги щодо строків, залишків і переміщення продукції.
 
@@ -86,7 +85,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 <LightboxImage src="/photos/bdzhilnytstvo/P056_skhema-56-monitorynh-varoatozu.png" alt="моніторинг вароатозу" />
 *моніторинг вароатозу*
-
 
 | Сезон | Дії |
 |---|---|

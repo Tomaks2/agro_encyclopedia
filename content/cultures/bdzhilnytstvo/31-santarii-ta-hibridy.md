@@ -5,16 +5,15 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   imageSrc="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png"
   title="Санітарія та гігієна пасіки"
   subtitle="Дезінфекція, кочівля та облік"
-<LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="дезінфекція" />
-*дезінфекція*
-
-
 
   chapterNum="30"
   totalChapters="35"
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="дезінфекція" />
+*дезінфекція*
 
 ## 31.1. Санітарія — це система, а не одна речовина
 
@@ -78,7 +77,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 <LightboxImage src="/photos/bdzhilnytstvo/P061_skhema-61-kochivlya-ta-hihiyena-pasichnyka.png" alt="кочівля та гігієна" />
 *кочівля та гігієна*
-
 
 | Етап | Дії |
 |---|---|

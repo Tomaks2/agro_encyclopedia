@@ -4,14 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png"
   title="Підмор і віск: технологія, якість та безпека"
-<LightboxImage src="/photos/bdzhilnytstvo/P043_skhema-43-visk-vlastyvosti-ta-toplinnya.png" alt="віск" />
-*віск*
-
-
-<LightboxImage src="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png" alt="підмор" />
-*підмор*
-
-
 
   subtitle="Підмор як сировина пасіки"
   chapterNum="21"
@@ -19,6 +11,12 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P043_skhema-43-visk-vlastyvosti-ta-toplinnya.png" alt="віск" />
+*віск*
+
+<LightboxImage src="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png" alt="підмор" />
+*підмор*
 
 ## 21.1. Підмор як сировина, а не «ліки від усього»
 

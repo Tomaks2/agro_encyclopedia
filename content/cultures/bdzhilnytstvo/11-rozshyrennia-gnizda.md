@@ -4,10 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png"
   title="Весняне розширення гнізда"
-<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="весняне розширення" />
-*весняне розширення*
-
-
 
   subtitle="Огляд, підсилення, відбудова, вощина"
   chapterNum="11"
@@ -15,6 +11,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="весняне розширення" />
+*весняне розширення*
 
 <TableOfContents />
 
@@ -49,7 +48,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 <LightboxImage src="/photos/bdzhilnytstvo/P023_skhema-23-pidhodivlya-navesni-rezhym-i-dozuvannya.png" alt="підгодівля навесні" />
 *підгодівля навесні*
-
 
 ### Цукровий сироп 1:1 (весна)
 

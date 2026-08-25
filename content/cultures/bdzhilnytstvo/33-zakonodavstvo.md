@@ -4,10 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png"
   title="Законодавство та реєстрація пасіки"
-<LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="реєстрація пасіки" />
-*реєстрація пасіки*
-
-
 
   subtitle="Правові норми та ДСТУ для пасічника"
   chapterNum="32"
@@ -15,6 +11,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="реєстрація пасіки" />
+*реєстрація пасіки*
 
 > **Правове застереження.** Це робочий освітній маршрут, а не індивідуальна юридична консультація. Норми, місцеві правила, форми документів і процедури можуть змінюватися; перед дією їх необхідно перевірити за чинним офіційним джерелом або у компетентному органі.
 
@@ -95,8 +94,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | Показник | ДСТУ 4497:2005 | Пояснення |
 <LightboxImage src="/photos/bdzhilnytstvo/P065_skhema-65-dstu-4497-2005-parametry-naturalnoho-medu.png" alt="ДСТУ 4497:2005" />
 *ДСТУ 4497:2005*
-
-
 
 |---|---|---|
 | **Вологість** | ≤20% (для більшості сортів) | Вища вологість → бродіння |

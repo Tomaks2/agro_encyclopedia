@@ -4,10 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png"
   title="Медозбір та відкачка меду"
-<LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="медозбір" />
-*медозбір*
-
-
 
   subtitle="Магазини, вологість, ДСТУ 4497:2005"
   chapterNum="14"
@@ -15,6 +11,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="медозбір" />
+*медозбір*
 
 <TableOfContents />
 

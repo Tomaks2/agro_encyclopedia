@@ -4,14 +4,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png"
   title="Роїння та відводи"
-<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="відводи" />
-*відводи*
-
-
-<LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="роїння" />
-*роїння*
-
-
 
   subtitle="Управління, ловушки, повернення рою"
   chapterNum="12"
@@ -19,6 +11,12 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="bdzhilnytstvo"
   cultureTitle="Бджільництво"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="відводи" />
+*відводи*
+
+<LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="роїння" />
+*роїння*
 
 <TableOfContents />
 

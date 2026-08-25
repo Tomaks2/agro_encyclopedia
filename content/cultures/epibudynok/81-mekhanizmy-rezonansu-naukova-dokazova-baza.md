@@ -4,16 +4,15 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   imageSrc="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png"
   title="Механізми резонансу: наукова доказова база"
   subtitle="Вібраційний резонанс та доказовість"
-<LightboxImage src="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png" alt="вібраційний резонанс" />
-*вібраційний резонанс*
-
-
 
   chapterNum="81"
   totalChapters="12"
   culture="epibudynok"
   cultureTitle="Епібудинок"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png" alt="вібраційний резонанс" />
+*вібраційний резонанс*
 
 Цей розділ — найчесніша частина тому. Ми розбираємо, **що фізично відбувається**, **які механізми підтверджені**, а **де закінчуються докази** і починаються гіпотези. Це важливо, бо епібудинок продають із перебільшеннями («лікує від всього»), а реальна наука говорить скромніше — але все одно цікаво.
 
@@ -82,7 +81,6 @@ Rohde et al. (2020, «Bees at the hotel») показали: людина на �
 
 <LightboxImage src="/photos/bdzhilnytstvo/P084_skhema-71-kilkist-bdzhil.png" alt="кількість бджіл" />
 *кількість бджіл*
-
 
 Не всякий епідомік працює. Якщо під лежаком стоїть 1 слабка сім'я — гул буде замалий, вібрації через лежак — невідчутні. Якщо стоїть 10 сильних сімей — ефект максимальний. Дослідники та практики визначили **практичний мінімум** для терапевтичного ефекту:
 

@@ -3,10 +3,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png"
   title="Будівництво: фундамент і каркас"
-<LightboxImage src="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png" alt="каркас" />
-*каркас*
-
-
 
   subtitle="Покроковий посібник з будівництва"
   chapterNum="78"
@@ -14,6 +10,9 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="epibudynok"
   cultureTitle="Епібудинок"
 />
+
+<LightboxImage src="/photos/bdzhilnytstvo/P076_epi-prompt-4-karkas-pokrokovo.png" alt="каркас" />
+*каркас*
 
 > **Проєктне застереження.** Це детальна технологічна інструкція з практик досвідчених будівників епібудинків, але вона не замінює перевірки ділянки, розрахунку навантажень, місцевих будівельних правил та дозволів. Перед початком робіт затвердьте план із фахівцем і отримайте необхідні дозволи. Всі навантаження на конструкцію (вулики, лежак, люди) мають бути перевірені інженером.
 
