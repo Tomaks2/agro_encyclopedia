@@ -9,6 +9,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="advanced"
   cultureTitle="Професійне бджільництво"
 />
+<LightboxImage src="/photos/advanced/beez_P013.png" alt="новачок: пасіка для початківця" />
+*новачок: пасіка для початківця*
+
+
 
 <TableOfContents />
 

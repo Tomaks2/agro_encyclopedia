@@ -9,6 +9,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="advanced"
   cultureTitle="Професійне бджільництво"
 />
+<LightboxImage src="/photos/advanced/beez_P009.png" alt="відбір зразків і лабораторна діагностика" />
+*відбір зразків і лабораторна діагностика*
+
+
 
 
 Лабораторний аналіз — це не бюрократія, а інструмент контролю якості та доказовості. Він відокремлює виміряні показники від припущень і дає змогу заявляти про якість продукту на основі фактів.

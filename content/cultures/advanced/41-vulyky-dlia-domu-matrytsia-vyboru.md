@@ -9,6 +9,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="advanced"
   cultureTitle="Професійне бджільництво"
 />
+<LightboxImage src="/photos/advanced/beez_P006.png" alt="вулики для дому: матриця вибору" />
+*вулики для дому: матриця вибору*
+
+
 
 
 ## 41.1. Немає одного «найкращого вулика»

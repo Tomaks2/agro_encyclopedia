@@ -9,6 +9,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="advanced"
   cultureTitle="Професійне бджільництво"
 />
+<LightboxImage src="/photos/advanced/beez_P001.png" alt="геном, епігенетика та касти" />
+*геном, епігенетика та касти*
+
+
 
 
 ## 36.1. Чому бджолина сім’я — генетично незвичайна система

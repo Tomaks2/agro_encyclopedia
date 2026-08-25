@@ -9,6 +9,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="advanced"
   cultureTitle="Професійне бджільництво"
 />
+<LightboxImage src="/photos/advanced/beez_P002.png" alt="мікробіом, імунітет і віруси" />
+*мікробіом, імунітет і віруси*
+
+
 
 
 ## 37.1. Здорова бджола — не тільки «без кліща»
