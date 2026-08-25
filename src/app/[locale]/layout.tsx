@@ -21,6 +21,7 @@ export const viewport: Viewport = {
   maximumScale: 5,
 };
 
+import { ContentProtection } from "@/components/layout/ContentProtection";
 import { ThemeProvider } from "@/components/layout/ThemeProvider";
 
 export default async function LocaleLayout({
@@ -45,6 +46,7 @@ export default async function LocaleLayout({
         <link rel="stylesheet" href="/print.css" media="print" />
       </head>
       <body>
+        <ContentProtection />
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <NextIntlClientProvider messages={messages}>
             {children}
