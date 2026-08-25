@@ -1,0 +1,193 @@
+{
+  "slug": "advanced",
+  "emoji": "🔬",
+  "image": "/photos/bdzhilnytstvo/beez_P036.png",
+  "color": "#4338ca",
+  "colorLight": "#e0e7ff",
+  "uk": {
+    "name": "Професійне бджільництво",
+    "latinName": "Apicultura Provecta",
+    "tagline": "Промислові технології та генетика",
+    "description": "Промислові пасіки, виведення маток, штучне осіменіння"
+  },
+  "en": {
+    "name": "Advanced Beekeeping",
+    "latinName": "Apicultura Provecta",
+    "tagline": "Commercial technologies & genetics",
+    "description": "Commercial apiaries, queen rearing, artificial insemination"
+  },
+  "sections": [
+    {
+      "slug": "36-genom-epihenetyka-ta-kasty",
+      "filename": "36-genom-epihenetyka-ta-kasty.md",
+      "uk": {
+        "title": "Геном, гаплодиплоїдність і епігенетика каст бджоли",
+        "description": "Чому бджолина сім’я — генетично незвичайна система"
+      },
+      "en": {
+        "title": "Геном, гаплодиплоїдність і епігенетика каст бджоли",
+        "description": "Чому бджолина сім’я — генетично незвичайна система"
+      }
+    },
+    {
+      "slug": "37-mikrobiom-imunitet-i-virusy",
+      "filename": "37-mikrobiom-imunitet-i-virusy.md",
+      "uk": {
+        "title": "Мікробіом, імунітет і віруси бджолиної сім’ї",
+        "description": "Здорова бджола — не тільки «без кліща»"
+      },
+      "en": {
+        "title": "Мікробіом, імунітет і віруси бджолиної сім’ї",
+        "description": "Здорова бджола — не тільки «без кліща»"
+      }
+    },
+    {
+      "slug": "38-biofizyka-hnizda-ta-termorehuliatsiia",
+      "filename": "38-biofizyka-hnizda-ta-termorehuliatsiia.md",
+      "uk": {
+        "title": "Біофізика гнізда: тепло, вентиляція і колективна терморегуляція",
+        "description": "Температурні зони гнізда"
+      },
+      "en": {
+        "title": "Біофізика гнізда: тепло, вентиляція і колективна терморегуляція",
+        "description": "Температурні зони гнізда"
+      }
+    },
+    {
+      "slug": "39-feromony-ta-kolektyvni-rishennia",
+      "filename": "39-feromony-ta-kolektyvni-rishennia.md",
+      "uk": {
+        "title": "Феромони бджолиної сім'ї: хімічна мова суперорганізму",
+        "description": "Класифікація феромонів"
+      },
+      "en": {
+        "title": "Феромони бджолиної сім'ї: хімічна мова суперорганізму",
+        "description": "Класифікація феромонів"
+      }
+    },
+    {
+      "slug": "40-selektsiia-matky-ta-genetychne-upravlinnia",
+      "filename": "40-selektsiia-matky-ta-genetychne-upravlinnia.md",
+      "uk": {
+        "title": "Селекція, матки та генетичне управління пасікою",
+        "description": "Тест на вароа-сенситивну гігієну (VSH)"
+      },
+      "en": {
+        "title": "Селекція, матки та генетичне управління пасікою",
+        "description": "Тест на вароа-сенситивну гігієну (VSH)"
+      }
+    },
+    {
+      "slug": "41-vulyky-dlia-domu-matrytsia-vyboru",
+      "filename": "41-vulyky-dlia-domu-matrytsia-vyboru.md",
+      "uk": {
+        "title": "Вулики для домашньої пасіки: матриця вибору за сценаріями",
+        "description": "Немає одного «найкращого вулика»"
+      },
+      "en": {
+        "title": "Вулики для домашньої пасіки: матриця вибору за сценаріями",
+        "description": "Немає одного «найкращого вулика»"
+      }
+    },
+    {
+      "slug": "42-pasika-yak-systema-danykh",
+      "filename": "42-pasika-yak-systema-danykh.md",
+      "uk": {
+        "title": "Пасіка як система даних: журнал, датчики та рішення",
+        "description": "Навіщо пасічнику дані"
+      },
+      "en": {
+        "title": "Пасіка як система даних: журнал, датчики та рішення",
+        "description": "Навіщо пасічнику дані"
+      }
+    },
+    {
+      "slug": "43-ipm-varoatzu-ta-rezystentnist",
+      "filename": "43-ipm-varoatzu-ta-rezystentnist.md",
+      "uk": {
+        "title": "IPM вароатозу: пороги, резистентність і контроль результату",
+        "description": "Молекулярна біологія гігієнічної поведінки (VSH)"
+      },
+      "en": {
+        "title": "IPM вароатозу: пороги, резистентність і контроль результату",
+        "description": "Молекулярна біологія гігієнічної поведінки (VSH)"
+      }
+    },
+    {
+      "slug": "44-vidbir-zrazkiv-i-laboratorna-diahnostyka",
+      "filename": "44-vidbir-zrazkiv-i-laboratorna-diahnostyka.md",
+      "uk": {
+        "title": "Відбір зразків та лабораторна діагностика апійпродуктів",
+        "description": "Протокол відбору зразків"
+      },
+      "en": {
+        "title": "Відбір зразків та лабораторна діагностика апійпродуктів",
+        "description": "Протокол відбору зразків"
+      }
+    },
+    {
+      "slug": "45-yakist-prostezhuvanist-i-laboratoriia",
+      "filename": "45-yakist-prostezhuvanist-i-laboratoriia.md",
+      "uk": {
+        "title": "Якість, простежуваність і лабораторія продуктів бджільництва",
+        "description": "Ключові лабораторні показники меду (ДСТУ 4497)"
+      },
+      "en": {
+        "title": "Якість, простежуваність і лабораторія продуктів бджільництва",
+        "description": "Ключові лабораторні показники меду (ДСТУ 4497)"
+      }
+    },
+    {
+      "slug": "46-ekonomika-ryzyky-ta-etyka",
+      "filename": "46-ekonomika-ryzyky-ta-etyka.md",
+      "uk": {
+        "title": "Економіка, ризики та етика пасіки",
+        "description": "Собівартість меду: розрахунок для Полтавщини"
+      },
+      "en": {
+        "title": "Економіка, ризики та етика пасіки",
+        "description": "Собівартість меду: розрахунок для Полтавщини"
+      }
+    },
+    {
+      "slug": "47-apiprodukty-karta-dokaziv-i-bezpeky",
+      "filename": "47-apiprodukty-karta-dokaziv-i-bezpeky.md",
+      "uk": {
+        "title": "Продукти бджільництва: карта доказовості, якості та безпеки",
+        "description": "Рівні доказовості (шкала Oxford CEBM)"
+      },
+      "en": {
+        "title": "Продукти бджільництва: карта доказовості, якості та безпеки",
+        "description": "Рівні доказовості (шкала Oxford CEBM)"
+      }
+    },
+    {
+      "slug": "48-novachok-pasika-dlya-pochatkivtsya",
+      "filename": "48-novachok-pasika-dlya-pochatkivtsya.md",
+      "uk": {
+        "title": "48-novachok-pasika-dlya-pochatkivtsya",
+        "description": "Чому саме невеличка пасіка (5-15 вуликів)"
+      },
+      "en": {
+        "title": "48-novachok-pasika-dlya-pochatkivtsya",
+        "description": "Чому саме невеличка пасіка (5-15 вуликів)"
+      }
+    },
+    {
+      "slug": "49-ekonomika-nevelykoi-pasiky-2026",
+      "filename": "49-ekonomika-nevelykoi-pasiky-2026.md",
+      "uk": {
+        "title": "49. Економіка невеликої пасіки 2026: повний розбір витрат та доходів",
+        "description": "Загальна картина: скільки коштує невеличка пасіка"
+      },
+      "en": {
+        "title": "49. Економіка невеликої пасіки 2026: повний розбір витрат та доходів",
+        "description": "Загальна картина: скільки коштує невеличка пасіка"
+      }
+    }
+  ],
+  "stats": {
+    "sections": 14,
+    "readTimeMinutes": 70
+  }
+}

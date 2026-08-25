@@ -1,134 +1,420 @@
 {
   "slug": "bdzhilnytstvo",
   "emoji": "🐝",
-  "image": "/images/cultures/bdzhilnytstvo.jpg",
   "color": "#eab308",
-  "colorLight": "#fef9c3",
-  "category": "special",
+  "colorLight": "#fef08a",
   "uk": {
     "name": "Бджільництво",
-    "latinName": "Apis mellifera L.",
-    "tagline": "Фундаментальна енциклопедія апікультури, конструкцій вуликів, апітерапії та здоров'я бджолиних сімей",
-    "description": "Найповніший академічний довідник з бджільництва та апітерапії. Систематика та морфологія Apis mellifera, мова танців та феромони, 8 типів вуликів з точними кресленнями (Дадан, Рут, Лежак, Варре, Колода), апітерапевтичні будиночки («сон під вуликом»), протоколи апітоксинотерапії, Varroa destructor та лікування, прополіс, перга, маточне молоко та комерційний медозбір."
+    "latinName": "Apis mellifera",
+    "tagline": "Повна енциклопедія бджільництва 2026",
+    "description": "Сучасний посібник з пасічництва, біології бджіл, медозбору та апітерапії."
   },
   "en": {
-    "name": "Beekeeping & Apiculture",
-    "latinName": "Apis mellifera L.",
-    "tagline": "Comprehensive guide to apiculture, hive designs, apitherapy, and colony health",
-    "description": "Complete encyclopedic guide to beekeeping and apitherapy. Apis mellifera biology, dance language, 8 hive construction standards, apitherapy house blueprints (sleep over hives), Varroa destructor control, apitoxin therapy, and commercial honey production."
+    "name": "Beekeeping",
+    "latinName": "Apis mellifera",
+    "tagline": "Complete Apiculture Encyclopedia 2026",
+    "description": "Modern guide to beekeeping, bee biology, honey harvest and apitherapy."
   },
   "sections": [
     {
-      "slug": "biolohiya-bdzholy",
-      "filename": "01-biolohiya-bdzholy.md",
-      "uk": { "title": "Біологія, анатомія та мова медоносної бджоли", "description": "Систематика Apis mellifera, підвиди (Carnica, Ligustica), морфологія, фасетковий УФ-зір, мова танців фон Фріша та феромони." },
-      "en": { "title": "Biology, Anatomy, and Dance Language of Honeybees", "description": "Apis mellifera taxonomy, sub-species, morphology, UV vision, von Frisch dance language, and pheromones." }
+      "slug": "01-vsiesvit-bdzholi",
+      "filename": "01-vsiesvit-bdzholi.md",
+      "uk": {
+        "title": "Всесвіт бджоли",
+        "description": "Суперорганізм, 20 000 видів і 150 мільйонів років еволюції"
+      },
+      "en": {
+        "title": "Всесвіт бджоли",
+        "description": "Суперорганізм, 20 000 видів і 150 мільйонів років еволюції"
+      }
     },
     {
-      "slug": "orhanizatsiya-simi",
-      "filename": "02-orhanizatsiya-simi.md",
-      "uk": { "title": "Організація бджолиної сім'ї та віковий розподіл праці", "description": "Суперорганізм, 3 касти (матка, робочі бджоли, трутні), розподіл праці по днях життя, роїння та спаровування." },
-      "en": { "title": "Colony Structure and Age-Based Labor Division", "description": "Superorganism structure, 3 castes, age-based polyethism, swarming dynamics, and mating biology." }
+      "slug": "02-anatomiia-bdzholi",
+      "filename": "02-anatomiia-bdzholi.md",
+      "uk": {
+        "title": "Анатомія бджоли",
+        "description": "Від хоботка до жала — повний розбір будови"
+      },
+      "en": {
+        "title": "Анатомія бджоли",
+        "description": "Від хоботка до жала — повний розбір будови"
+      }
     },
     {
-      "slug": "typy-vulykiv-konstruktsii",
-      "filename": "03-typy-vulykiv-konstruktsii.md",
-      "uk": { "title": "Типи вуликів, креслення та рамкові стандарти", "description": "Порівняльний аналіз 8 типів вуликів: Дадан-Блатт, Рут, Лежак, Варре, Альпійський, Колода. Точні розміри рамок та матеріали." },
-      "en": { "title": "Hive Types, Blueprints, and Frame Standards", "description": "Detailed analysis of 8 hive systems: Dadant, Langstroth, Layens, Warre, and Log hives with exact measurements." }
+      "slug": "03-fiziologiia-medofikatsii",
+      "filename": "03-fiziologiia-medofikatsii.md",
+      "uk": {
+        "title": "Фізіологія медотворення",
+        "description": "Як нектар стає медом — біохімія процесу"
+      },
+      "en": {
+        "title": "Фізіологія медотворення",
+        "description": "Як нектар стає медом — біохімія процесу"
+      }
     },
     {
-      "slug": "apiterapiya-budynky",
-      "filename": "04-apiterapiya-budynky.md",
-      "uk": { "title": "Будиночки для Апітерапії та «Сон під вуликом»", "description": "Наукова база апібудиночків, інфразвукові частоти (35–550 Гц), креслення капсул та апіхат, розміри лежаків та протипоказання." },
-      "en": { "title": "Apitherapy Houses and Bee-Bed Therapy", "description": "Scientific foundation of apitherapy cabins, sound resonance (35-550 Hz), construction blueprints, and safety." }
+      "slug": "04-kasty-simii",
+      "filename": "04-kasty-simii.md",
+      "uk": {
+        "title": "Касти бджолиної сім",
+        "description": "Матка, робітниці, трутні — поліетизм і феромони"
+      },
+      "en": {
+        "title": "Касти бджолиної сім",
+        "description": "Матка, робітниці, трутні — поліетизм і феромони"
+      }
     },
     {
-      "slug": "pochatok-persha-simya",
-      "filename": "05-pochatok-persha-simya.md",
-      "uk": { "title": "Початківцю: Вибір бджолопакету та перший огляд", "description": "Купівля бджолопакету vs відводку, інвентар бджоляра (димар, костюм), розміщення пасіки за законодавством України." },
-      "en": { "title": "Beginner Guide: Purchasing Package Bees and First Inspection", "description": "Package bees vs nucs, essential equipment, hive positioning laws, and first inspection protocols." }
+      "slug": "05-mova-ta-navihatsiia",
+      "filename": "05-mova-ta-navihatsiia.md",
+      "uk": {
+        "title": "Мова та навігація бджіл",
+        "description": "Танці Фріша, сонячний компас, магнетит"
+      },
+      "en": {
+        "title": "Мова та навігація бджіл",
+        "description": "Танці Фріша, сонячний компас, магнетит"
+      }
     },
     {
-      "slug": "sezonny-dohliad",
-      "filename": "06-sezonny-dohliad.md",
-      "uk": { "title": "12-місячний календар робіт на пасіці", "description": "Покроковий операційний календар робіт: від весняного облітку та розширення гнізда до відкачки меду та осінньої підгодівлі." },
-      "en": { "title": "12-Month Apiary Management Calendar", "description": "Seasonal operations manual: from early spring flight and colony expansion to honey harvest and autumn feeding." }
+      "slug": "06-zhittievii-cykl",
+      "filename": "06-zhittievii-cykl.md",
+      "uk": {
+        "title": "Життєвий цикл бджоли",
+        "description": "Яйце → личинка → лялечка — 21 день від народження"
+      },
+      "en": {
+        "title": "Життєвий цикл бджоли",
+        "description": "Яйце → личинка → лялечка — 21 день від народження"
+      }
     },
     {
-      "slug": "khvoroby-varroatoz",
-      "filename": "07-khvoroby-varroatoz.md",
-      "uk": { "title": "Хвороби: Варроатоз, Нозематоз та Інфекції", "description": "Повний протокол боротьби з Varroa destructor (щавлева/мурашина кислоти, тимол, акарициди), нозематоз, гнильці та віруси." },
-      "en": { "title": "Diseases: Varroosis, Nosematosis, and Pathogens", "description": "Comprehensive Varroa destructor treatment (oxalic/formic acid, thymol, rotation), Nosema, Foulbrood, and viruses." }
+      "slug": "07-typy-vulykiv",
+      "filename": "07-typy-vulykiv.md",
+      "uk": {
+        "title": "Типи вуликів",
+        "description": "Дадан, лежак, Рут, Варре — вибір і порівняння"
+      },
+      "en": {
+        "title": "Типи вуликів",
+        "description": "Дадан, лежак, Рут, Варре — вибір і порівняння"
+      }
     },
     {
-      "slug": "epidemiyi-mor-pestycydy",
-      "filename": "08-epidemiyi-mor-pestycydy.md",
-      "uk": { "title": "Епідемії, Колапс сімей (CCD) та Захист від Пестицидів", "description": "Причини CCD, токсичність інсектицидів (неокотиноїди), алгоритм дій бджоляра при отруєнні та юридичні позови." },
-      "en": { "title": "Epidemics, Colony Collapse Disorder (CCD), and Pesticide Protection", "description": "CCD drivers, insecticide toxicity levels, legal protocols for pesticide damage claims in agriculture." }
+      "slug": "08-pasika-vdoma",
+      "filename": "08-pasika-vdoma.md",
+      "uk": {
+        "title": "Пасіка вдома",
+        "description": "Найкращі вулики для дому, розміщення, безпека"
+      },
+      "en": {
+        "title": "Пасіка вдома",
+        "description": "Найкращі вулики для дому, розміщення, безпека"
+      }
     },
     {
-      "slug": "produkty-med-pylok",
-      "filename": "09-produkty-med-pylok.md",
-      "uk": { "title": "Продукти: Мед, Квітковий Пилок та Перга", "description": "Хімія 12 видів меду, індекс рефракції Brix, фальсифікація (HMF), збір пилку та бджолиний хліб (перга)." },
-      "en": { "title": "Bee Products: Honey, Pollen, and Bee Bread (Perga)", "description": "Chemistry of honey types, Brix refractometry, adulteration tests, pollen traps, and bee bread fermentation." }
+      "slug": "09-obladnannia-inventar",
+      "filename": "09-obladnannia-inventar.md",
+      "uk": {
+        "title": "Обладнання та інвентар",
+        "description": "Медогонка, димар, захисний костюм"
+      },
+      "en": {
+        "title": "Обладнання та інвентар",
+        "description": "Медогонка, димар, захисний костюм"
+      }
     },
     {
-      "slug": "apitoksyn-bdzholyy-vukus",
-      "filename": "10-apitoksyn-bdzholyy-vukus.md",
-      "uk": { "title": "Бджолиний укус, Бджолина Отрута (Апітоксин) та Невідкладна Допомога", "description": "Біохімія апітоксину (мелітин, фосфоліпаза A2), перша допомога при укусах, анафілактичний шок та протокол ЕпіПен." },
-      "en": { "title": "Bee Sting, Apitoxin Venom Biochemistry, and Emergency First Aid", "description": "Apitoxin biochemistry (melittin, phospholipase A2), sting first aid, anaphylaxis protocol, and EpiPen use." }
+      "slug": "10-medonosy-poltavshchyny",
+      "filename": "10-medonosy-poltavshchyny.md",
+      "uk": {
+        "title": "Медоноси Полтавщини",
+        "description": "Календар цвітіння по місяцях"
+      },
+      "en": {
+        "title": "Медоноси Полтавщини",
+        "description": "Календар цвітіння по місяцях"
+      }
     },
     {
-      "slug": "apiterapiya-protokoly",
-      "filename": "11-apiterapiya-protokoly.md",
-      "uk": { "title": "Апітоксинотерапія: Медичні Протоколи та Точки Вжалення", "description": "Клінічне застосування бджоловжалення при суглобових та нервових хворобах, біологічно активні точки, алергопроба." },
-      "en": { "title": "Apitoxin Therapy: Clinical Protocols and Bee Venom Acupuncture Points", "description": "Clinical bee venom acupuncture protocols for joint and neurological conditions, skin sensitivity testing." }
+      "slug": "11-rozshyrennia-gnizda",
+      "filename": "11-rozshyrennia-gnizda.md",
+      "uk": {
+        "title": "Весняне розширення гнізда",
+        "description": "Огляд, підсилення, відбудова, вощина"
+      },
+      "en": {
+        "title": "Весняне розширення гнізда",
+        "description": "Огляд, підсилення, відбудова, вощина"
+      }
     },
     {
-      "slug": "propolis-visk-matochy",
-      "filename": "12-propolis-visk-matochy.md",
-      "uk": { "title": "Прополіс, Бджолиний Віск та Маточне Молочко", "description": "Збір та витопка воску, бактерицидні настоянки прополісу, личиночне маточне молоко та трутневий гомогенат." },
-      "en": { "title": "Propolis, Beeswax, Royal Jelly, and Drone Homogenate", "description": "Beeswax processing, propolis tinctures, Royal Jelly extraction, and drone brood homogenate production." }
+      "slug": "12-roiinnya-ta-vidvody",
+      "filename": "12-roiinnya-ta-vidvody.md",
+      "uk": {
+        "title": "Роїння та відводи",
+        "description": "Управління, ловушки, повернення рою"
+      },
+      "en": {
+        "title": "Роїння та відводи",
+        "description": "Управління, ловушки, повернення рою"
+      }
     },
     {
-      "slug": "rozvede-matok-henetyka",
-      "filename": "13-rozvede-matok-henetyka.md",
-      "uk": { "title": "Маткарство: Виведення маток та Штучне Запліднення", "description": "Метод Нікот та Джентер, маткові мисочки, щеплення личинок, матководчі нуклеуси, штучне осіменіння (ШО)." },
-      "en": { "title": "Queen Rearing, Genetics, and Instrumental Insemination", "description": "Grafting techniques (Nicot/Jenter), mating nucs, queen breeding genetics, and instrumental insemination." }
+      "slug": "13-matonki-ta-vyvedennia",
+      "filename": "13-matonki-ta-vyvedennia.md",
+      "uk": {
+        "title": "Матки: виведення, підсадка, позначення",
+        "description": "Штучне виведення, підсадка, кольорові клипси"
+      },
+      "en": {
+        "title": "Матки: виведення, підсадка, позначення",
+        "description": "Штучне виведення, підсадка, кольорові клипси"
+      }
     },
     {
-      "slug": "medozbyir-komertsiyne",
-      "filename": "14-medozbyir-komertsiyne.md",
-      "uk": { "title": "Комерційний Медозбір та Промислова Огорожа", "description": "Промислове бджільництво, радіальні медогонки, роздрукувальні верстати, гомогенізація та експортні стандарти ЄС." },
-      "en": { "title": "Commercial Honey Harvesting and Industrial Processing", "description": "Industrial apiary management, radial honey extractors, uncapping machines, EU export compliance." }
+      "slug": "14-madyzbiir-ta-vidkachka",
+      "filename": "14-madyzbiir-ta-vidkachka.md",
+      "uk": {
+        "title": "Медозбір та відкачка меду",
+        "description": "Магазини, вологість, ДСТУ 4497:2005"
+      },
+      "en": {
+        "title": "Медозбір та відкачка меду",
+        "description": "Магазини, вологість, ДСТУ 4497:2005"
+      }
     },
     {
-      "slug": "kochivlia-pasika",
-      "filename": "15-kochivlia-pasika.md",
-      "uk": { "title": "Кочове Бджільництво та Перевезення Пасіки", "description": "Транспортування вуликів на медоноси (акація, соняшник, ріпак), пасічні причепи, платформенне утримання." },
-      "en": { "title": "Migratory Beekeeping and Apiary Logistics", "description": "Transporting colonies to nectar flows (Acacia, Sunflower), migratory trailers, platform systems." }
+      "slug": "15-med",
+      "filename": "15-med.md",
+      "uk": {
+        "title": "Мед",
+        "description": "Сорти Полтавщини, фізико-хімія, фальсифікація"
+      },
+      "en": {
+        "title": "Мед",
+        "description": "Сорти Полтавщини, фізико-хімія, фальсифікація"
+      }
     },
     {
-      "slug": "zimivlia-pidhotovka",
-      "filename": "16-zimivlia-pidhotovka.md",
-      "uk": { "title": "Осіння Підготовка та Зимівля Бджіл", "description": "Зимовий клуб, норми кормових запасів (18–25 кг), зимовники (змівники) vs зимівля на надворі, контроль вологості." },
-      "en": { "title": "Autumn Preparation and Wintering Management", "description": "Winter cluster dynamics, feed storage standards (18-25kg), wintering indoor houses vs outdoor setup." }
+      "slug": "16-propolis",
+      "filename": "16-propolis.md",
+      "uk": {
+        "title": "Прополіс",
+        "description": "Склад, 300+ сполук, збір, настоянка"
+      },
+      "en": {
+        "title": "Прополіс",
+        "description": "Склад, 300+ сполук, збір, настоянка"
+      }
     },
     {
-      "slug": "rehiony-ukrainy",
-      "filename": "17-rehiony-ukrainy.md",
-      "uk": { "title": "Медоносна База та Бджільництво за Регіонами України", "description": "Карта медоносів України (Степ, Лісостеп, Карпати), акацієвий, гречаний та соняшниковий пояси, пилконоси." },
-      "en": { "title": "Honey Plants Map and Regional Apiculture in Ukraine", "description": "Honey flora distribution across Ukraine (Steppe, Forest-Steppe, Carpathians), nectar yield calendar." }
+      "slug": "17-matochne-molochko",
+      "filename": "17-matochne-molochko.md",
+      "uk": {
+        "title": "Маточне молочко",
+        "description": "10-HDA, вирощування, зберігання"
+      },
+      "en": {
+        "title": "Маточне молочко",
+        "description": "10-HDA, вирощування, зберігання"
+      }
     },
     {
-      "slug": "apituryzm-ekoturyzm",
-      "filename": "18-apituryzm-ekoturyzm.md",
-      "uk": { "title": "Апітуризм, Зелений Туризм та Дегустації Меду", "description": "Організація туристичної апіпасіки, інтерактивні екскурсії, медові дегустації (сомельє) та апікомплекси." },
-      "en": { "title": "Apitourism, Agritourism, and Honey Sommelier Tastings", "description": "Designing tourist apiaries, interactive guided tours, honey sommelier tasting protocols, and eco-lodges." }
+      "slug": "18-perga",
+      "filename": "18-perga.md",
+      "uk": {
+        "title": "Перга",
+        "description": "Бджолиний хліб, біодоступність, збір"
+      },
+      "en": {
+        "title": "Перга",
+        "description": "Бджолиний хліб, біодоступність, збір"
+      }
+    },
+    {
+      "slug": "19-pylok",
+      "filename": "19-pylok.md",
+      "uk": {
+        "title": "Пилок",
+        "description": "Збір, сушіння, зберігання"
+      },
+      "en": {
+        "title": "Пилок",
+        "description": "Збір, сушіння, зберігання"
+      }
+    },
+    {
+      "slug": "20-trutnevyi-homogenat",
+      "filename": "20-trutnevyi-homogenat.md",
+      "uk": {
+        "title": "Трутневий гомогенат",
+        "description": "Личинки, тестостерон-подібні речовини"
+      },
+      "en": {
+        "title": "Трутневий гомогенат",
+        "description": "Личинки, тестостерон-подібні речовини"
+      }
+    },
+    {
+      "slug": "21-pidmor",
+      "filename": "21-pidmor.md",
+      "uk": {
+        "title": "Підмор як сировина, а не «ліки від усього»",
+        "description": "Підмор — це загиблі бджоли, які можуть бути побічною сировиною пасіки. Його склад залежить від віку бджіл, сезону, причи..."
+      },
+      "en": {
+        "title": "Підмор як сировина, а не «ліки від усього»",
+        "description": "Підмор — це загиблі бджоли, які можуть бути побічною сировиною пасіки. Його склад залежить від віку бджіл, сезону, причи..."
+      }
+    },
+    {
+      "slug": "22-apiterapiia-osnovy",
+      "filename": "22-apiterapiia-osnovy.md",
+      "uk": {
+        "title": "Межі терміна «апітерапія»",
+        "description": "Апітерапія об’єднує дуже різні практики: харчове використання меду, застосування стандартизованих медичних виробів, косм..."
+      },
+      "en": {
+        "title": "Межі терміна «апітерапія»",
+        "description": "Апітерапія об’єднує дуже різні практики: харчове використання меду, застосування стандартизованих медичних виробів, косм..."
+      }
+    },
+    {
+      "slug": "23-medy-likuvannia",
+      "filename": "23-medy-likuvannia.md",
+      "uk": {
+        "title": "Важлива різниця: харчовий мед і медичний виріб",
+        "description": "Пасічний мед може бути якісним харчовим продуктом, але він не є стерильним медичним виробом. Для окремих клінічних ситуа..."
+      },
+      "en": {
+        "title": "Важлива різниця: харчовий мед і медичний виріб",
+        "description": "Пасічний мед може бути якісним харчовим продуктом, але він не є стерильним медичним виробом. Для окремих клінічних ситуа..."
+      }
+    },
+    {
+      "slug": "24-propolis-apiterapiia",
+      "filename": "24-propolis-apiterapiia.md",
+      "uk": {
+        "title": "Що таке прополіс",
+        "description": "Прополіс — смолиста речовина, яку бджоли створюють із рослинних ексудатів, воску та власних секретів. Його склад залежит..."
+      },
+      "en": {
+        "title": "Що таке прополіс",
+        "description": "Прополіс — смолиста речовина, яку бджоли створюють із рослинних ексудатів, воску та власних секретів. Його склад залежит..."
+      }
+    },
+    {
+      "slug": "25-mm-ta-perga-apiterapiia",
+      "filename": "25-mm-ta-perga-apiterapiia.md",
+      "uk": {
+        "title": "Чому ці продукти не можна описувати одним словом «лікує»",
+        "description": "Маточне молочко, перга й трутневий гомогенат відрізняються походженням, вологістю, стабільністю, ризиками мікробіологічн..."
+      },
+      "en": {
+        "title": "Чому ці продукти не можна описувати одним словом «лікує»",
+        "description": "Маточне молочко, перга й трутневий гомогенат відрізняються походженням, вологістю, стабільністю, ризиками мікробіологічн..."
+      }
+    },
+    {
+      "slug": "26-apitoksyn",
+      "filename": "26-apitoksyn.md",
+      "uk": {
+        "title": "Що містить бджолина отрута",
+        "description": "Бджолина отрута — складна суміш пептидів, ферментів і низькомолекулярних речовин. У ній вивчають, зокрема, мелітин, фосф..."
+      },
+      "en": {
+        "title": "Що містить бджолина отрута",
+        "description": "Бджолина отрута — складна суміш пептидів, ферментів і низькомолекулярних речовин. У ній вивчають, зокрема, мелітин, фосф..."
+      }
+    },
+    {
+      "slug": "28-zimivlia",
+      "filename": "28-zimivlia.md",
+      "uk": {
+        "title": "Зимівля бджіл",
+        "description": "Підготовка, клуб, корми, весняний обльот"
+      },
+      "en": {
+        "title": "Зимівля бджіл",
+        "description": "Підготовка, клуб, корми, весняний обльот"
+      }
+    },
+    {
+      "slug": "29-varoatoz",
+      "filename": "29-varoatoz.md",
+      "uk": {
+        "title": "Чому вароа — системна проблема",
+        "description": "*Varroa destructor* шкодить бджолиним сім’ям не лише прямим паразитуванням. Кліщ пов’язаний з ослабленням розплоду та пе..."
+      },
+      "en": {
+        "title": "Чому вароа — системна проблема",
+        "description": "*Varroa destructor* шкодить бджолиним сім’ям не лише прямим паразитуванням. Кліщ пов’язаний з ослабленням розплоду та пе..."
+      }
+    },
+    {
+      "slug": "30-inshi-khvoroby",
+      "filename": "30-inshi-khvoroby.md",
+      "uk": {
+        "title": "Ознака — не діагноз",
+        "description": "Слабка сім’я, плямистий розплід, діарея, мертві личинки, «мумії», деформовані крила або повзучі бджоли мають багато можл..."
+      },
+      "en": {
+        "title": "Ознака — не діагноз",
+        "description": "Слабка сім’я, плямистий розплід, діарея, мертві личинки, «мумії», деформовані крила або повзучі бджоли мають багато можл..."
+      }
+    },
+    {
+      "slug": "31-santarii-ta-hibridy",
+      "filename": "31-santarii-ta-hibridy.md",
+      "uk": {
+        "title": "Санітарія — це система, а не одна речовина",
+        "description": "Належна санітарія починається до появи хвороби: з контрольованого походження маток і пакетів, чистого інвентарю, окремог..."
+      },
+      "en": {
+        "title": "Санітарія — це система, а не одна речовина",
+        "description": "Належна санітарія починається до появи хвороби: з контрольованого походження маток і пакетів, чистого інвентарю, окремог..."
+      }
+    },
+    {
+      "slug": "32-mify",
+      "filename": "32-mify.md",
+      "uk": {
+        "title": "Міфи бджільництва",
+        "description": "Розвінчання поширених помилок"
+      },
+      "en": {
+        "title": "Міфи бджільництва",
+        "description": "Розвінчання поширених помилок"
+      }
+    },
+    {
+      "slug": "33-zakonodavstvo",
+      "filename": "33-zakonodavstvo.md",
+      "uk": {
+        "title": "Базова послідовність дій",
+        "description": "За офіційним описом послуг першим кроком є отримання ветеринарно-санітарного паспорта пасіки в територіальному органі Де..."
+      },
+      "en": {
+        "title": "Базова послідовність дій",
+        "description": "За офіційним описом послуг першим кроком є отримання ветеринарно-санітарного паспорта пасіки в територіальному органі Де..."
+      }
+    },
+    {
+      "slug": "35-kalendar-poltavshchyna",
+      "filename": "35-kalendar-poltavshchyna.md",
+      "uk": {
+        "title": "Агрокалендар Полтавщини",
+        "description": "По місяцях для пасічника"
+      },
+      "en": {
+        "title": "Агрокалендар Полтавщини",
+        "description": "По місяцях для пасічника"
+      }
     }
   ],
   "stats": {
-    "sections": 18,
-    "readTimeMinutes": 120
+    "sections": 33,
+    "readTimeMinutes": 340
   }
 }

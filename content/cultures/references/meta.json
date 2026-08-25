@@ -1,0 +1,49 @@
+{
+  "slug": "references",
+  "emoji": "📚",
+  "image": "/photos/bdzhilnytstvo/beez_P083.png",
+  "color": "#0f766e",
+  "colorLight": "#ccfbf1",
+  "uk": {
+    "name": "Дослідження та традиції",
+    "latinName": "Research & Traditions",
+    "tagline": "Доказова база та народний досвід",
+    "description": "Зовнішній аудит, реєстр неперевірених практик"
+  },
+  "en": {
+    "name": "Research & Traditions",
+    "latinName": "Research & Traditions",
+    "tagline": "Evidence base and folklore",
+    "description": "External audit, registry of unverified practices"
+  },
+  "sections": [
+    {
+      "slug": "external_validation_notes",
+      "filename": "external_validation_notes.md",
+      "uk": {
+        "title": "Зовнішня перевірка: ключові джерела для аудиту проєкту «Бджільництво»",
+        "description": "1. Епібудинок / апіхата / «сон на вуликах»"
+      },
+      "en": {
+        "title": "Зовнішня перевірка: ключові джерела для аудиту проєкту «Бджільництво»",
+        "description": "1. Епібудинок / апіхата / «сон на вуликах»"
+      }
+    },
+    {
+      "slug": "REIESTR_tradytsiinykh_i_neperevirenykh_praktyk",
+      "filename": "REIESTR_tradytsiinykh_i_neperevirenykh_praktyk.md",
+      "uk": {
+        "title": "Приватний реєстр традиційних і неперевірених практик",
+        "description": "Призначення реєстру"
+      },
+      "en": {
+        "title": "Приватний реєстр традиційних і неперевірених практик",
+        "description": "Призначення реєстру"
+      }
+    }
+  ],
+  "stats": {
+    "sections": 2,
+    "readTimeMinutes": 10
+  }
+}

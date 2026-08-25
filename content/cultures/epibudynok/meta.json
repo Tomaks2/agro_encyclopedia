@@ -1,0 +1,169 @@
+{
+  "slug": "epibudynok",
+  "emoji": "🏡",
+  "image": "/photos/bdzhilnytstvo/P072_77-5-foto-dlya-rozdilu-pasika-yak-systema-danykh.png",
+  "color": "#15803d",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Епібудинок",
+    "latinName": "Apihouse",
+    "tagline": "Конструкція, матеріали та апітерапія",
+    "description": "Сон на вуликах, проєктування апібудиночків"
+  },
+  "en": {
+    "name": "Apihouse",
+    "latinName": "Apihouse",
+    "tagline": "Construction, materials and apitherapy",
+    "description": "Sleeping on beehives, apihouse design"
+  },
+  "sections": [
+    {
+      "slug": "72-terminy-dokazovist-i-mezhi",
+      "filename": "72-terminy-dokazovist-i-mezhi.md",
+      "uk": {
+        "title": "Епібудинок: терміни, доказовість і межі заяв",
+        "description": "Термінологія"
+      },
+      "en": {
+        "title": "Епібудинок: терміни, доказовість і межі заяв",
+        "description": "Термінологія"
+      }
+    },
+    {
+      "slug": "73-funktsionalna-prohrama-ta-zonuvannia",
+      "filename": "73-funktsionalna-prohrama-ta-zonuvannia.md",
+      "uk": {
+        "title": "Епібудинок: функціональна програма, зонування та концептуальний план",
+        "description": "Головний принцип: три ізольовані потоки"
+      },
+      "en": {
+        "title": "Епібудинок: функціональна програма, зонування та концептуальний план",
+        "description": "Головний принцип: три ізольовані потоки"
+      }
+    },
+    {
+      "slug": "74-dilianka-materialy-i-konstruktyvne-tz",
+      "filename": "74-dilianka-materialy-i-konstruktyvne-tz.md",
+      "uk": {
+        "title": "Епібудинок: ділянка, матеріали та технічне завдання для проєктування",
+        "description": "Вихідні дані ділянки"
+      },
+      "en": {
+        "title": "Епібудинок: ділянка, матеріали та технічне завдання для проєктування",
+        "description": "Вихідні дані ділянки"
+      }
+    },
+    {
+      "slug": "75-povitrya-akustyka-vibratsii-i-monitorynh",
+      "filename": "75-povitrya-akustyka-vibratsii-i-monitorynh.md",
+      "uk": {
+        "title": "Епібудинок: повітря, акустика, вібрації та моніторинг",
+        "description": "Замість «резонансу» — вимірювання"
+      },
+      "en": {
+        "title": "Епібудинок: повітря, акустика, вібрації та моніторинг",
+        "description": "Замість «резонансу» — вимірювання"
+      }
+    },
+    {
+      "slug": "76-bezpeka-ekspluatatsiia-ta-avariinyi-plan",
+      "filename": "76-bezpeka-ekspluatatsiia-ta-avariinyi-plan.md",
+      "uk": {
+        "title": "Епібудинок: безпека, експлуатація та план інцидентів",
+        "description": "Правила для відвідувача"
+      },
+      "en": {
+        "title": "Епібудинок: безпека, експлуатація та план інцидентів",
+        "description": "Правила для відвідувача"
+      }
+    },
+    {
+      "slug": "78-budivnytstvo-krok-za-krokom-fundament-i-karkas",
+      "filename": "78-budivnytstvo-krok-za-krokom-fundament-i-karkas.md",
+      "uk": {
+        "title": "Епібудинок: поетапне будівництво — фундамент і каркас, крок за кроком",
+        "description": "Що будуємо: габаритна модель"
+      },
+      "en": {
+        "title": "Епібудинок: поетапне будівництво — фундамент і каркас, крок за кроком",
+        "description": "Що будуємо: габаритна модель"
+      }
+    },
+    {
+      "slug": "79-budivnytstvo-obshivka-dakh-vulyky",
+      "filename": "79-budivnytstvo-obshivka-dakh-vulyky.md",
+      "uk": {
+        "title": "Епібудинок: поетапне будівництво — обшивка, дах, двері, вікно, встановлення вуликів",
+        "description": "Етап 7. Зовнішня обшивка (1–2 дні)"
+      },
+      "en": {
+        "title": "Епібудинок: поетапне будівництво — обшивка, дах, двері, вікно, встановлення вуликів",
+        "description": "Етап 7. Зовнішня обшивка (1–2 дні)"
+      }
+    },
+    {
+      "slug": "80-seans-likuvannia-mikroklimat-pravyla",
+      "filename": "80-seans-likuvannia-mikroklimat-pravyla.md",
+      "uk": {
+        "title": "Епібудинок: як проходити сеанс — мікроклімат, поза, правила, тривалість, протипоказання",
+        "description": "Підготовка до сеансу"
+      },
+      "en": {
+        "title": "Епібудинок: як проходити сеанс — мікроклімат, поза, правила, тривалість, протипоказання",
+        "description": "Підготовка до сеансу"
+      }
+    },
+    {
+      "slug": "81-mekhanizmy-rezonansu-naukova-dokazova-baza",
+      "filename": "81-mekhanizmy-rezonansu-naukova-dokazova-baza.md",
+      "uk": {
+        "title": "Епібудинок: механізми віброакустичного ефекту — що наука каже про гул вулика",
+        "description": "Звук вулика: що ми фактично чуємо"
+      },
+      "en": {
+        "title": "Епібудинок: механізми віброакустичного ефекту — що наука каже про гул вулика",
+        "description": "Звук вулика: що ми фактично чуємо"
+      }
+    },
+    {
+      "slug": "82-kreslennia-ta-rozmiry",
+      "filename": "82-kreslennia-ta-rozmiry.md",
+      "uk": {
+        "title": "Епібудинок: технічні креслення з розмірами — види, розрізи, вузли",
+        "description": "Вид спереду (фасад, 6.0 м)"
+      },
+      "en": {
+        "title": "Епібудинок: технічні креслення з розмірами — види, розрізи, вузли",
+        "description": "Вид спереду (фасад, 6.0 м)"
+      }
+    },
+    {
+      "slug": "83-materialy-ta-znahobia",
+      "filename": "83-materialy-ta-znahobia.md",
+      "uk": {
+        "title": "Епібудинок: матеріали та інструменти — повний перелік для побудови",
+        "description": "Деревина: породи та обґрунтування вибору"
+      },
+      "en": {
+        "title": "Епібудинок: матеріали та інструменти — повний перелік для побудови",
+        "description": "Деревина: породи та обґрунтування вибору"
+      }
+    },
+    {
+      "slug": "84-sezonovi-roboty-ta-obsluhovuvannia",
+      "filename": "84-sezonovi-roboty-ta-obsluhovuvannia.md",
+      "uk": {
+        "title": "Епібудинок: сезонні роботи та обслуговування — по місяцях",
+        "description": "Сезонний цикл (Полтавщина)"
+      },
+      "en": {
+        "title": "Епібудинок: сезонні роботи та обслуговування — по місяцях",
+        "description": "Сезонний цикл (Полтавщина)"
+      }
+    }
+  ],
+  "stats": {
+    "sections": 12,
+    "readTimeMinutes": 70
+  }
+}

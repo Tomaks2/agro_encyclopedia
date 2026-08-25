@@ -29,6 +29,10 @@ const SLUG_TO_CATEGORY: Record<string, string> = {
   horokh: "legume", kvasolia: "legume", asparahus: "legume",
   // Бджільництво
   bdzhilnytstvo: "apiary",
+  advanced: "apiary",
+  audit: "apiary",
+  epibudynok: "apiary",
+  references: "apiary",
 };
 
 // ─── Категорії ────────────────────────────────────────────────────────────────
