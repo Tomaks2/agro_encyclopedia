@@ -28,11 +28,11 @@ export function ContentProtection() {
         e.preventDefault();
       }
 
-      // Prevent PrintScreen key
-      if (e.key === "PrintScreen") {
-        e.preventDefault();
-        navigator.clipboard.writeText(""); // Clear clipboard just in case
-      }
+      // Prevent PrintScreen key - Removed per user request
+      // if (e.key === "PrintScreen") {
+      //   e.preventDefault();
+      //   navigator.clipboard.writeText(""); // Clear clipboard just in case
+      // }
 
       // Prevent developer tools (F12, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U)
       if (
