@@ -9,11 +9,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   culture="advanced"
   cultureTitle="Професійне бджільництво"
 />
-<LightboxImage src="/photos/advanced/beez_P007.png" alt="пасіка як система даних" />
-*пасіка як система даних*
-
-
-
 
 ## 42.1. Навіщо пасічнику дані
 

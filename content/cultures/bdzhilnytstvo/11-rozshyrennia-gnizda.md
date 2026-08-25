@@ -12,9 +12,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="весняне розширення" />
-*весняне розширення*
-
 <TableOfContents />
 
 ## 11.1. Перший весняний огляд
@@ -68,6 +65,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 Після першого огляду зайві рамки прибирають. Залишають стільки, скільки бджоли щільно обсиджують + 1–2 з кормом. **Принцип**: бджоли повинні обсиджувати всі рамки — інакше холонуть.
 
 ### Весняне розширення (квітень–травень)
+
+<LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="весняне розширення" />
+*весняне розширення*
+
 
 Коли сім'я обсиджує всі рамки і є приріст: додають 1 рамку (вощину або суш) через 5–7 днів. **Не додавати 2+ рамки одразу** — бджоли не встигають обігріти, розплід студиться.
 

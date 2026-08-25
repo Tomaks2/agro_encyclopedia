@@ -12,9 +12,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-<LightboxImage src="/photos/bdzhilnytstvo/P044_skhema-44-dokazova-baza-apiterapiyi.png" alt="доказова база" />
-*доказова база*
-
 > **Освітнє застереження.** Матеріал пояснює склад продуктів, силу наявних даних і межі безпеки. Він не є діагностикою, індивідуальним призначенням, рецептом лікування або інструкцією для бджоловжалення. Рішення щодо захворювання, алергії, вагітності, дитини чи регулярних ліків слід приймати з кваліфікованим медичним фахівцем.
 
 ## 22.1. Межі терміна «апітерапія»
@@ -131,3 +128,7 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 [6]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10580978/ "Ruëff et al. — Diagnosis and treatment of Hymenoptera venom allergy"
 
 <NextChapter href="/uk/bdzhilnytstvo/23-medy-likuvannia" title="Мед у харчуванні та лікуванні" chapterNum="23" />
+
+
+<LightboxImage src="/photos/bdzhilnytstvo/P044_skhema-44-dokazova-baza-apiterapiyi.png" alt="доказова база" />
+*доказова база*

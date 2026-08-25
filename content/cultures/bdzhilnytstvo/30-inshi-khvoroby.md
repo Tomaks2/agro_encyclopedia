@@ -12,9 +12,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-<LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="хвороби бджіл" />
-*хвороби бджіл*
-
 > **Ветеринарне застереження.** Видимі ознаки допомагають помітити проблему, але не завжди встановлюють діагноз. За підозри на заразну хворобу, масову загибель, нетиповий розплід або різке ослаблення сім’ї слід звернутися до ветеринарного фахівця та виконати чинні вимоги щодо зразків, переміщення й повідомлення.
 
 ## 30.1. Ознака — не діагноз
@@ -150,3 +147,7 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 [3]: https://www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-access/ "WOAH — Terrestrial Animal Health Code"
 
 <NextChapter href="/uk/bdzhilnytstvo/31-santarii-ta-hibridy" title="Санітарія та гігієна пасіки" chapterNum="30" />
+
+
+<LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="хвороби бджіл" />
+*хвороби бджіл*

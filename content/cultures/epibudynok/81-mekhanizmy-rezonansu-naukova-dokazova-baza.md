@@ -11,9 +11,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Епібудинок"
 />
 
-<LightboxImage src="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png" alt="вібраційний резонанс" />
-*вібраційний резонанс*
-
 Цей розділ — найчесніша частина тому. Ми розбираємо, **що фізично відбувається**, **які механізми підтверджені**, а **де закінчуються докази** і починаються гіпотези. Це важливо, бо епібудинок продають із перебільшеннями («лікує від всього»), а реальна наука говорить скромніше — але все одно цікаво.
 
 ## 81.1. Звук вулика: що ми фактично чуємо
@@ -117,3 +114,7 @@ Rohde et al. (2020, «Bees at the hotel») показали: людина на �
 8. [BeeUniverse — апі-хатина: оптимальна кількість бджіл (300 000 на 1 людину)](https://beeuniverse.com.ua/api-hatyna/)
 
 <NextChapter href="/uk/epibudynok/82-kreslennia-ta-rozmiry" title="Технічні креслення з розмірами" chapterNum="82" />
+
+
+<LightboxImage src="/photos/bdzhilnytstvo/P078_epi-prompt-6-vibratsiynyy-rezonans-skhema.png" alt="вібраційний резонанс" />
+*вібраційний резонанс*

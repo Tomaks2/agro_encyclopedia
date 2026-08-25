@@ -12,9 +12,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-<LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="медозбір" />
-*медозбір*
-
 <TableOfContents />
 
 ## 14.1. Коли ставити магазини
@@ -49,6 +46,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 Крапля меду на папір: стиглий не розтікається, недостиглий — розтікається (волога вбирається в папір).
 
 > 📌 **Золотий стандарт: рефрактометр.** Вологість &lt;20% — медозбір можна відкачувати. ДСТУ 4497:2005: вологість ≤21%.
+
+<LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="медозбір" />
+*медозбір*
+
 
 ## 14.3. Відкачка меду
 

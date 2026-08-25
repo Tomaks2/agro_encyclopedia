@@ -12,9 +12,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
   cultureTitle="Бджільництво"
 />
 
-<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="відводи" />
-*відводи*
-
 <LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="роїння" />
 *роїння*
 
@@ -50,6 +47,10 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 6. **Відвід**: найефективніший метод — розділити сім'ю (див. нижче).
 
 ## 12.4. Відводи (штучне розмноження)
+
+<LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="відводи" />
+*відводи*
+
 
 ### Простий відвід (на 1 матку)
 
