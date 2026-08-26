@@ -117,7 +117,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 30.6. Практичний алгоритм при підозрі на хворобу
 
 <LightboxImage src="/photos/bdzhilnytstvo/P059_skhema-59-profilaktyka-khvorob-bdzhil.png" alt="профілактика хвороб" />
-*профілактика хвороб*
 
 1. **Зафіксувати**: фото, дата, номер вулика, симптоми
 2. **Ізолювати**: не переміщувати рамки до інших сімей
@@ -150,4 +149,4 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 
 <LightboxImage src="/photos/bdzhilnytstvo/P058_skhema-58-khvoroby-bdzhil-diahnostyka-ta-likuvannya.png" alt="хвороби бджіл" />
-*хвороби бджіл*
+

@@ -13,7 +13,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 />
 
 <LightboxImage src="/photos/bdzhilnytstvo/P024_skhema-24-royinnya-oznaky-profilaktyka-diyi.png" alt="роїння" />
-*роїння*
 
 <TableOfContents />
 
@@ -49,8 +48,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 12.4. Відводи (штучне розмноження)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P025_skhema-25-vidvody-typy-ta-tekhnolohiya.png" alt="відводи" />
-*відводи*
-
 
 ### Простий відвід (на 1 матку)
 

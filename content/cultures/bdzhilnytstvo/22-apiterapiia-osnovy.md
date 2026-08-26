@@ -45,7 +45,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 22.4. Алергія та безпека
 
 <LightboxImage src="/photos/bdzhilnytstvo/P045_skhema-45-protypokazannya-ta-alerhotest.png" alt="протипоказання" />
-*протипоказання*
 
 Реакція на один продукт бджільництва не тотожна реакції на інший, а реакція на мед не визначає ризик реакції на ужалення. Домашнє нанесення краплі меду чи настоянки на шкіру **не є валідованим тестом**, який дозволяє зробити висновок «реакції немає — отже, продукт або ужалення безпечні». Діагностику системної алергії на отруту перетинчастокрилих проводять фахівці на підставі анамнезу та спеціальних алергологічних досліджень. [6]
 
@@ -131,4 +130,4 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 
 <LightboxImage src="/photos/bdzhilnytstvo/P044_skhema-44-dokazova-baza-apiterapiyi.png" alt="доказова база" />
-*доказова база*
+

@@ -40,8 +40,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 31.6. Практична дезінфекція (покроково)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P060_skhema-60-dezinfektsiya-vulykiv-ta-inventaryu.png" alt="дезінфекція" />
-*дезінфекція*
-
 
 ### Паяльна лампа (найефективніший метод)
 
@@ -77,7 +75,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 31.8. Гігієна при кочівлі
 
 <LightboxImage src="/photos/bdzhilnytstvo/P061_skhema-61-kochivlya-ta-hihiyena-pasichnyka.png" alt="кочівля та гігієна" />
-*кочівля та гігієна*
 
 | Етап | Дії |
 |---|---|

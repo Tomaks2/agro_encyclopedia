@@ -48,8 +48,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 > 📌 **Золотий стандарт: рефрактометр.** Вологість &lt;20% — медозбір можна відкачувати. ДСТУ 4497:2005: вологість ≤21%.
 
 <LightboxImage src="/photos/bdzhilnytstvo/P028_skhema-28-medozbir-pokrokovyy-alhorytm.png" alt="медозбір" />
-*медозбір*
-
 
 ## 14.3. Відкачка меду
 

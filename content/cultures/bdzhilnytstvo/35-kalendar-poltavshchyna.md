@@ -116,9 +116,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 35.5. Медоноси Полтавщини по місяцях
 <LightboxImage src="/photos/bdzhilnytstvo/P020_skhema-20-kalendar-medonosiv-poltavshchyny.png" alt="СХЕМА 20: Календар медоносів" />
-*СХЕМА 20: Календар медоносів*
-
-
 
 | Місяць | Медоноси |
 |---|---|
@@ -143,8 +140,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 66: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЗИМА-ВЕСНА)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P066_skhema-66-ahrokalendar-pasichnyka-poltavshchyny-zyma-vesna.png" alt="агрокалендар пасічника — зима-весна" />
-*агрокалендар пасічника — зима-весна*
-
 
 | Місяць | Основні роботи |
 |---|---|
@@ -158,8 +153,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 67: АГРОКАЛЕНДАР ПАСІЧНИКА ПОЛТАВЩИНИ (ЛІТО-ОСІНЬ)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P067_skhema-67-ahrokalendar-pasichnyka-poltavshchyny-lito-osin.png" alt="агрокалендар пасічника — літо-осінь" />
-*агрокалендар пасічника — літо-осінь*
-
 
 | Місяць | Основні роботи |
 |---|---|

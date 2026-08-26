@@ -55,8 +55,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 13.3. Підсадка матки
 
 <LightboxImage src="/photos/bdzhilnytstvo/P027_skhema-27-pidsadka-matky-metody-ta-uspishnist.png" alt="підсадка матки" />
-*підсадка матки*
-
 
 ### Чому бджоли приймають/не приймають
 
@@ -204,8 +202,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 26: ВИВЕДЕННЯ МАТОК — МЕТОДИ ТА ЯКІСТЬ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P026_skhema-26-vyvedennya-matok-metody-ta-yakist.png" alt="виведення маток" />
-*виведення маток*
-
 
 | Метод | Складність | Якість матки | Кількість маток | Для кого |
 |---|---|---|---|---|

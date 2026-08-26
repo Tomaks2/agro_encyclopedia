@@ -15,9 +15,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 9.1. Захисне спорядження
 <LightboxImage src="/photos/bdzhilnytstvo/P019_skhema-19-obov-yazkove-obladnannya-pasichnyka-minimum-i-optymum.png" alt="СХЕМА 19: Обов’язкове обладнання" />
-*СХЕМА 19: Обов’язкове обладнання*
-
-
 
 ### Костюм (комбінезон або куртка з сіткою)
 

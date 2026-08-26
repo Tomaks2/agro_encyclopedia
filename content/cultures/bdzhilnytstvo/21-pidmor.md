@@ -13,7 +13,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 />
 
 <LightboxImage src="/photos/bdzhilnytstvo/P042_skhema-42-pidmor-sklad-ta-nastoyanka.png" alt="підмор" />
-*підмор*
 
 ## 21.1. Підмор як сировина, а не «ліки від усього»
 
@@ -34,8 +33,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 21.3. Віск і вощина
 
 <LightboxImage src="/photos/bdzhilnytstvo/P043_skhema-43-visk-vlastyvosti-ta-toplinnya.png" alt="віск" />
-*віск*
-
 
 Віск — один із найважливіших технологічних продуктів пасіки. Його практична цінність пов’язана з будівництвом стільників, переробкою, свічками, косметичними та ремісничими продуктами. Головні питання якості — походження, чистота, залишки, домішки, температура плавлення, колір, запах і простежуваність партії.
 

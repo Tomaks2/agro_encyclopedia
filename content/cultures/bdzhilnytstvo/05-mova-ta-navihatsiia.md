@@ -27,8 +27,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 5.2. Вихляючий танець: що саме кодується
 
 <LightboxImage src="/photos/bdzhilnytstvo/P013_skhema-13-dekoduvannya-vykhlyayuchoho-tantsyu.png" alt="вихляючий танець" />
-*вихляючий танець*
-
 
 У фазі «прямого пробігу» танцівниця:
 
@@ -124,8 +122,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 12: МОВА БДЖІЛ — СУМАРНА КАРТА КОМУНІКАЦІЇ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P012_skhema-12-mova-bdzhil-sumarna-karta-komunikatsiyi.png" alt="мова бджіл" />
-*мова бджіл*
-
 
 | Канал | Що передає | Приклад використання |
 |---|---|---|

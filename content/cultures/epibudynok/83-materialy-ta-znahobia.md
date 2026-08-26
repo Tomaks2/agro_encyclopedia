@@ -97,8 +97,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 83.7. Інструменти
 
 <LightboxImage src="/photos/bdzhilnytstvo/P082_epi-prompt-10-instrumenty-povnyy-nabir.png" alt="інструменти" />
-*інструменти*
-
 
 | Категорія | Інструмент |
 |---|---|
@@ -114,8 +112,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 83.8. Кошторис за місткістю (Полтава 2026)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P083_skhema-70-koshtorys-epidomiku.png" alt="кошторис за місткістю" />
-*кошторис за місткістю*
-
 
 ### 1-місний (6 вуликів, лікування)
 

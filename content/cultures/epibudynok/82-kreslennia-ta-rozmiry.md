@@ -15,8 +15,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 82.1. План зверху та загальні габарити (6.0 × 4.8 м)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P074_epi-prompt-2-plan-zverkhu-kontur-6-0-4-8.png" alt="план зверху" />
-*план зверху*
-
 
 - **Фундамент**: стрічковий, периметр 6.0 × 4.8 м, глибина 1.0–1.2 м (нижче глибини промерзання для Полтави — 0.8–1.0 м), ширина 300 мм, армування 4×Ø12, бетон C20/25.
 - **Каркас стійки**: 100 × 100 мм, крок 600 мм, висота 2.60 м від цоколю.
@@ -33,8 +31,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 82.3. Розріз через вулик та лежак (А–А)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P075_epi-prompt-3-rozriz-bichnyy-fundament-dakh.png" alt="розріз бічний" />
-*розріз бічний*
-
 
 ## 82.4. Вузол «лежак + вулик» (деталь)
 

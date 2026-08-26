@@ -38,8 +38,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 23.5. Склад меду та його харчова цінність
 
 <LightboxImage src="/photos/bdzhilnytstvo/P046_skhema-46-med-u-likuvanni-retsepty-ta-dozy.png" alt="мед у лікуванні" />
-*мед у лікуванні*
-
 
 ### Макронутрієнти (на 100 г меду)
 

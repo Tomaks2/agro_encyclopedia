@@ -86,8 +86,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 16.5. Настоянка прополісу
 
 <LightboxImage src="/photos/bdzhilnytstvo/P033_skhema-33-nastoyanka-propolisu-retseptura-ta-zastosuvannya.png" alt="настоянка прополісу" />
-*настоянка прополісу*
-
 
 ### Рецептура
 
@@ -153,8 +151,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 32: ПРОПОЛІС — СКЛАД ТА АКТИВНІ СПОЛУКИ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P032_skhema-32-propolis-sklad-ta-aktyvni-spoluky.png" alt="прополіс — склад" />
-*прополіс — склад*
-
 
 | Компонент | Частка | Ключові речовини | Біологічна дія |
 |---|---|---|---|

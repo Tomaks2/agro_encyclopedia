@@ -26,8 +26,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 | 4. Кочівля | Власник і відповідні органи | Завчасно подана інформація | Територія, строк, епізоотичний статус, вимоги громади |
 
 <LightboxImage src="/photos/bdzhilnytstvo/P064_skhema-64-reyestratsiya-pasiky-ta-pasport.png" alt="реєстрація пасіки" />
-*реєстрація пасіки*
-
 
 ## 33.2. Що виправлено у редакції 2026
 
@@ -94,7 +92,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 | Показник | ДСТУ 4497:2005 | Пояснення |
 <LightboxImage src="/photos/bdzhilnytstvo/P065_skhema-65-dstu-4497-2005-parametry-naturalnoho-medu.png" alt="ДСТУ 4497:2005" />
-*ДСТУ 4497:2005*
 
 |---|---|---|
 | **Вологість** | ≤20% (для більшості сортів) | Вища вологість → бродіння |

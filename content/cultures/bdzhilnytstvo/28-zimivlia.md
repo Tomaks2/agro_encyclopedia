@@ -16,8 +16,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 28.1. Осіння підготовка гнізда
 
 <LightboxImage src="/photos/bdzhilnytstvo/P054_skhema-54-osinnya-pidhotovka-do-zymivli.png" alt="осіння підготовка" />
-*осіння підготовка*
-
 
 1. **Скорочення рамок**: прибрати зайві (без бджіл, без меду, старі темні); залишити стільки, скільки щільно обсідають бджоли + 1-2 запасні.
 2. **Корми на рамці**: ≥2 кг меду на рамку.
@@ -36,8 +34,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 28.3. Зимовий клуб
 
 <LightboxImage src="/photos/bdzhilnytstvo/P055_skhema-55-zymovyy-klub-ta-vesnyanyy-oblot.png" alt="зимовий клуб" />
-*зимовий клуб*
-
 
 1. **Температура**: ядро кулі 20-25°C, поверхня 8-12°C; температура всередині клубу не падає нижче 14°C.
 2. **Рух**: клуб кочує вгору по міжрамкових просторах, споживаючи корм.

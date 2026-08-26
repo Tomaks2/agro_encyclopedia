@@ -44,7 +44,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 11.2. Підгодівля навесні
 
 <LightboxImage src="/photos/bdzhilnytstvo/P023_skhema-23-pidhodivlya-navesni-rezhym-i-dozuvannya.png" alt="підгодівля навесні" />
-*підгодівля навесні*
 
 ### Цукровий сироп 1:1 (весна)
 
@@ -67,8 +66,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### Весняне розширення (квітень–травень)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P022_skhema-22-vesnyane-rozshyrennya-hnizda-pokrokovyy-alhorytm.png" alt="весняне розширення" />
-*весняне розширення*
-
 
 Коли сім'я обсиджує всі рамки і є приріст: додають 1 рамку (вощину або суш) через 5–7 днів. **Не додавати 2+ рамки одразу** — бджоли не встигають обігріти, розплід студиться.
 

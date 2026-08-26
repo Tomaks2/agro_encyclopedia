@@ -23,8 +23,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 6. **Вентиляція**: вікно — одна стулка з москітною сіткою. Свіже повітря + вуликовий мікроклімат = аеротерапевтичний ефект.
 
 <LightboxImage src="/photos/bdzhilnytstvo/P079_epi-prompt-7-mikroklimat-temperatura-volohist.png" alt="мікроклімат" />
-*мікроклімат*
-
 
 ## 80.2. Поза на лежанці
 

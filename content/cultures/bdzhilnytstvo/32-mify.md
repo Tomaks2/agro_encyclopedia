@@ -124,8 +124,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 62: ТОП-5 МІФІВ ПРО БДЖІЛ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P062_skhema-62-top-5-mifiv-pro-bdzhil.png" alt="міфи про бджіл" />
-*міфи про бджіл*
-
 
 | Міф | Реальність |
 |---|---|
@@ -138,8 +136,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 63: ТОП-5 МІФІВ ПРО МЕД ТА ПАСІКУ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P063_skhema-63-top-5-mifiv-pro-med-ta-pasiku.png" alt="міфи про мед" />
-*міфи про мед*
-
 
 | Міф | Реальність |
 |---|---|

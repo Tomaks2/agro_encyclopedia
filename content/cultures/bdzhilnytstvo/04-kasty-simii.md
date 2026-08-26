@@ -106,8 +106,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 10: ДІАГНОСТИКА СТАНУ МАТКИ ЗА РОЗПЛОДОМ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P010_skhema-10-diahnostyka-stanu-matky-za-rozplodom.png" alt="діагностика стану матки" />
-*діагностика стану матки*
-
 
 | Картина розплоду | Що означає | Дія |
 |---|---|---|
@@ -140,8 +138,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 11: ПОРІВНЯННЯ КАСТ — ПОВНА КАРТА
 
 <LightboxImage src="/photos/bdzhilnytstvo/P011_skhema-11-porivnyannya-kast-povna-karta.png" alt="порівняння каст" />
-*порівняння каст*
-
 
 | Параметр | Матка | Робітниця | Трутень |
 |---|---|---|---|

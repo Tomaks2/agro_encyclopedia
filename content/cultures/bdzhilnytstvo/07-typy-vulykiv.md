@@ -64,8 +64,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 16: ПОРІВНЯННЯ ТИПІВ ВУЛИКІВ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P016_skhema-16-porivnyannya-typiv-vulykiv.png" alt="порівняння типів вуликів" />
-*порівняння типів вуликів*
-
 
 | Параметр | Дадан 12-р. | Український лежак | Багатокорпусний (Рут) | Варре |
 |---|---|---|---|---|

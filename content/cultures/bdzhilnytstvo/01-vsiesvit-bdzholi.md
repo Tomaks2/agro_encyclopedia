@@ -160,8 +160,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 4: ПОКАЗНИКИ НОРМАЛЬНОЇ СІМ'Ї НА ПІКУ СЕЗОНУ (ПОЛТАВЩИНА)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P004_skhema-4-pokaznyky-normalnoyi-sim-yi-na-piku-sezonu-poltavshchyna.png" alt="ознаки нормальної бджолиної сім’ї" />
-*ознаки нормальної бджолиної сім’ї*
-
 
 | Показник | Норма | Критичне значення |
 |---|---|---|

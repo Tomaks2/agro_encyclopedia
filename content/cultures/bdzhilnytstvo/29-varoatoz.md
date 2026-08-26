@@ -21,8 +21,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 29.2. Логіка IPM
 
 <LightboxImage src="/photos/bdzhilnytstvo/P057_skhema-57-ipm-stratehiyi-proty-varoatozu.png" alt="IPM" />
-*IPM*
-
 
 Інтегрований контроль шкідників означає послідовність рішень, а не довільне чергування препаратів. Вона починається з вимірювання, після якого пасічник обирає метод із урахуванням сезону, розплоду, медозбору, температури, чинної інструкції, місцевої резистентності та можливих залишків. Після втручання потрібен контрольний вимір.
 
@@ -85,7 +83,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 29.7. Сезонна схема IPM (Полтавщина)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P056_skhema-56-monitorynh-varoatozu.png" alt="моніторинг вароатозу" />
-*моніторинг вароатозу*
 
 | Сезон | Дії |
 |---|---|

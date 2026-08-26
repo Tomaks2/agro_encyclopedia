@@ -19,9 +19,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 10.2. Календар медоносів по місяцях
 <LightboxImage src="/photos/bdzhilnytstvo/P052_skhema-52-medonosy-poltavshchyny-po-misyatsyakh.png" alt="СХЕМА 52: Медоноси Полтавщини по місяцях" />
-*СХЕМА 52: Медоноси Полтавщини по місяцях*
-
-
 
 ### **Квітень** (підтримуючий медозбір, 5–15 кг/сім'я)
 
@@ -94,9 +91,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 ## 10.3. Стратегія медозбору для Полтавщини
 <LightboxImage src="/photos/bdzhilnytstvo/P053_skhema-53-holovni-tovarni-medonosy-poltavshchyny.png" alt="СХЕМА 53: Головні товарні медоноси" />
-*СХЕМА 53: Головні товарні медоноси*
-
-
 
 ### Два головні товарні медозбори:
 1. **Акація (травень)** — 30–50 кг/сім'я
@@ -126,9 +120,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 1. **Головні медоноси Полтавщини**: акація (травень), липа (червень–липень), гречка + соняшник (липень–серпень), золотушник (вересень).
 <LightboxImage src="/photos/bdzhilnytstvo/P021_skhema-21-holovni-medonosy-poltavshchyny-detalizatsiya.png" alt="головні медоноси" />
-*головні медоноси*
-
-
 
 2. **Підтримуючі**: верба + кульбаба + ріпак (квітень), конюшина (травень), фацелія (червень, вересень).
 3. **Стратегія**: до акації — 8–10 рамок бджіл; до липи — 12+; після липи — відбір товарного меду; вересень — зимове гніздо 24–28 л, корм 20–25 кг.

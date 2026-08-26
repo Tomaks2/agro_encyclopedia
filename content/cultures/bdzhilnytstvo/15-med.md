@@ -105,8 +105,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 15.4. Фальсифікація меду
 
 <LightboxImage src="/photos/bdzhilnytstvo/P031_skhema-31-falsyfikatsiya-medu-yak-vyyavyty.png" alt="фальсифікація меду" />
-*фальсифікація меду*
-
 
 ### Типи фальсифікації
 
@@ -189,8 +187,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 30: СОРТИ МЕДУ ПОЛТАВЩИНИ — ПОРІВНЯННЯ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P030_skhema-30-sorty-medu-poltavshchyny-porivnyannya.png" alt="сорти меду Полтавщини" />
-*сорти меду Полтавщини*
-
 
 | Сорт | Медонос | Термін | Колір | Кристалізація | Смак | Особливості |
 |---|---|---|---|---|---|---|
@@ -222,9 +218,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 
 1. ДСТУ 4497:2005 «Мед. Технічні умови»
 <LightboxImage src="/photos/bdzhilnytstvo/P029_skhema-29-dstu-4497-2005-klyuchovi-pokaznyky-yakosti-medu.png" alt="ДСТУ 4497:2005" />
-*ДСТУ 4497:2005*
-
-
 
 2. National Honey Board — [Honey Composition](https://www.honey.com/nutrition-and-health/honey-nutrition)
 3. Penn State Extension — [Honey Properties](https://extension.psu.edu/honey-properties)

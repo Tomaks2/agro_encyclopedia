@@ -20,8 +20,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 25.2. Маточне молочко
 
 <LightboxImage src="/photos/bdzhilnytstvo/P049_skhema-49-pokazannya-matochne-molochko-perha-homohenat.png" alt="показання" />
-*показання*
-
 
 Маточне молочко — секрет залоз молодих робочих бджіл, який має особливе значення у вирощуванні маток. У його складі досліджують білки, ліпіди, вуглеводи та 10-HDA. Ці характеристики роблять продукт цікавим для харчових і біотехнологічних досліджень, але не дозволяють автоматично називати його гормональним препаратом, «імуностимулятором» або засобом від виснаження.
 
@@ -58,8 +56,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 25.7. Практика пасічника: отримання продуктів
 
 <LightboxImage src="/photos/bdzhilnytstvo/P048_skhema-48-dozy-ta-kursy-matochne-molochko-perha-homohenat.png" alt="дози та курси" />
-*дози та курси*
-
 
 ### Маточне молочко — технологія отримання
 

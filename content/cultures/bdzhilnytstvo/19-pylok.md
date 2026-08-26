@@ -38,8 +38,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 19.3. Збір пилку (пилковловлювач)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P038_skhema-38-zbir-pylku-pylkovlovlyuvachem.png" alt="збір пилку" />
-*збір пилку*
-
 
 ### Конструкція пилковловлювача
 
@@ -190,8 +188,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 39: СУШІННЯ ТА ЗБЕРІГАННЯ ПИЛКУ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P039_skhema-39-sushinnya-ta-zberihannya-pylku.png" alt="сушіння та зберігання пилку" />
-*сушіння та зберігання пилку*
-
 
 | Спосіб сушіння | Температура | Термін | Переваги/недоліки |
 |---|---|---|---|

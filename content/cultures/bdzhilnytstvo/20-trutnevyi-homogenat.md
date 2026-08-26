@@ -16,8 +16,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ## 20.1. Що таке трутневий гомогенат
 
 <LightboxImage src="/photos/bdzhilnytstvo/P040_skhema-40-trutnevyy-homohenat-sklad-ta-zbir.png" alt="склад та збір трутневого гомогенату" />
-*склад та збір трутневого гомогенату*
-
 
 Трутневий гомогенат (дронброд, трутнева розплодна молочка) — гомогенізовані личинки трутнів віком 6-7 днів (незапечатаний розплід). Багатий на білки, тестостерон-подібні речовини, мінерали.
 
@@ -162,8 +160,6 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 41: ЗБЕРІГАННЯ ТА ЗАСТОСУВАННЯ ТРУТНЕВОГО ГОМОГЕНАТУ
 
 <LightboxImage src="/photos/bdzhilnytstvo/P041_skhema-41-zberihannya-ta-zastosuvannya-trutnevoho-homohenatu.png" alt="зберігання та застосування" />
-*зберігання та застосування*
-
 
 | Зберігання | Умова | Термін |
 |---|---|---|

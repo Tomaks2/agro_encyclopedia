@@ -174,12 +174,8 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 ### 📊 СХЕМА 18: ПЛАН РОЗМІЩЕННЯ ПАСІКИ НА ДІЛЯНЦІ (епідомика)
 
 <LightboxImage src="/photos/bdzhilnytstvo/P018_skhema-18-plan-rozmishchennya-pasiky-na-dilyantsi-epidomyka.png" alt="план розміщення пасіки" />
-*план розміщення пасіки*
-
 
 <LightboxImage src="/photos/bdzhilnytstvo/P017_skhema-17-epidomichni-parametry-vulyka-cheklyst.png" alt="епідомічні параметри" />
-*епідомічні параметри*
-
 
 | Елемент | Параметр | Пояснення |
 |---|---|---|
