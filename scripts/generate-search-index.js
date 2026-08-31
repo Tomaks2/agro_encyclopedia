@@ -32,11 +32,30 @@ function generateSearchIndex() {
     
     for (const section of culture.sections) {
       const content = getSectionContent(culture.slug, section.filename) || "";
-      // Strip markdown formatting for cleaner search
+      // Strip MDX/JSX components and markdown for clean search text
       const cleanContent = content
-        .replace(/[#*`_]/g, "")
+        // Remove YAML frontmatter
+        .replace(/^---[\s\S]*?---\n?/, "")
+        // Remove self-closing JSX/MDX components: <HeroCover .../>, <Callout/>
+        .replace(/<[A-Z][A-Za-z]*[^>]*\/>/g, " ")
+        // Remove paired JSX/MDX components: <Callout>...</Callout>
+        .replace(/<[A-Z][A-Za-z]*[^>]*>[\s\S]*?<\/[A-Z][A-Za-z]*>/g, " ")
+        // Remove remaining HTML/JSX tags
+        .replace(/<[^>]+>/g, " ")
+        // Remove markdown images
+        .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
+        // Convert links to text only
         .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-        .replace(/\n+/g, " ");
+        // Remove table rows
+        .replace(/^\|.*\|$/gm, "")
+        // Remove markdown formatting characters
+        .replace(/[#*`_~>\\]/g, " ")
+        // Remove list markers
+        .replace(/^\s*[-*+]\s+/gm, "")
+        .replace(/^\s*\d+\.\s+/gm, "")
+        // Collapse whitespace
+        .replace(/\s+/g, " ")
+        .trim();
 
       searchDocs.push({
         id: `${culture.slug}-${section.slug}`,

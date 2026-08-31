@@ -25,7 +25,6 @@ export default function Footer() {
           <div className="footer-col-title">Розділи</div>
           <ul className="footer-links">
             <li><Link href={L}>{tNav("home")}</Link></li>
-            <li><Link href={`${L}/diagnostics`}>{tNav("diagnostics")}</Link></li>
             <li><Link href={`${L}/calendar`}>{tNav("calendar")}</Link></li>
             <li><Link href={`${L}/search`}>{tNav("search")}</Link></li>
           </ul>

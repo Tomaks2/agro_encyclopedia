@@ -5,12 +5,6 @@ import { usePathname } from "next/navigation";
 import { useTranslations, useLocale } from "next-intl";
 import { useState, useEffect, useRef } from "react";
 import Fuse from "fuse.js";
-import { ThemeToggle } from "@/components/layout/ThemeToggle";
-
-const LOCALES = [
-  { code: "uk", flag: "🇺🇦", label: "УКР" },
-  { code: "en", flag: "🇬🇧", label: "ENG" },
-];
 
 export default function Header() {
   const t = useTranslations("nav");
@@ -28,14 +22,8 @@ export default function Header() {
 
   const navLinks = [
     { href: `/${locale}`, label: t("home") },
-    { href: `/${locale}/diagnostics`, label: t("diagnostics") },
     { href: `/${locale}/calendar`, label: t("calendar") },
   ];
-
-  const getLocaleHref = (targetLocale: string) => {
-    const pathWithoutLocale = pathname.replace(/^\/(uk|en)/, "") || "";
-    return `/${targetLocale}${pathWithoutLocale}`;
-  };
 
   return (
     <>
@@ -81,24 +69,6 @@ export default function Header() {
               </span>
               <kbd className="search-btn-kbd">⌘K</kbd>
             </button>
-
-            {/* Theme Toggle */}
-            <ThemeToggle />
-
-            {/* Language switcher */}
-            <div className="lang-switcher" role="group" aria-label="Вибір мови">
-              {LOCALES.map((loc) => (
-                <Link
-                  key={loc.code}
-                  href={getLocaleHref(loc.code)}
-                  className={`lang-btn ${locale === loc.code ? "active" : ""}`}
-                  aria-label={`Перейти на ${loc.label}`}
-                >
-                  <span>{loc.flag}</span>
-                  <span className="lang-label">{loc.label}</span>
-                </Link>
-              ))}
-            </div>
 
             {/* Mobile toggle */}
             <button
