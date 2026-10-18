@@ -1,12 +1,16 @@
+/* eslint-disable @typescript-eslint/no-explicit-any -- legacy MDX data accepts heterogeneous JSON payloads. */
+import { existsSync } from "node:fs";
+import path from "node:path";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import remarkGfm from "remark-gfm";
-import { getCultureMeta, getSectionContent, getAllCultures } from "@/lib/cultures";
+import { getCultureMeta, getSectionContent, getAllCultures, getSectionHref, getSectionNumber } from "@/lib/cultures";
 import { extractHeadings, estimateReadTime } from "@/lib/mdx";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
+import BackToTop from "@/components/culture/BackToTop";
 import ReadingProgress from "@/components/culture/ReadingProgress";
 import TreeAnatomyDiagram from "@/components/diagrams/TreeAnatomyDiagram";
 import FruitFormationsDiagram from "@/components/diagrams/FruitFormationsDiagram";
@@ -14,11 +18,8 @@ import RootSystemDiagram from "@/components/diagrams/RootSystemDiagram";
 import BudArrangementDiagram from "@/components/diagrams/BudArrangementDiagram";
 import PeachAppleComparison from "@/components/diagrams/PeachAppleComparison";
 import AnnualCycleDiagram from "@/components/diagrams/AnnualCycleDiagram";
-import PremiumHierarchy from "@/components/diagrams/PremiumHierarchy";
-import PremiumProcess from "@/components/diagrams/PremiumProcess";
 import BranchAngleDiagram from "@/components/diagrams/BranchAngleDiagram";
 import TreeLifespanDiagram from "@/components/diagrams/TreeLifespanDiagram";
-import PremiumComparison from "@/components/diagrams/PremiumComparison";
 import ChemicalsDirectory from "@/components/diagrams/ChemicalsDirectory";
 import BranchAnatomyDiagram from "@/components/diagrams/BranchAnatomyDiagram";
 import { ScrollToTop } from "@/components/ui/ScrollToTop";
@@ -28,7 +29,6 @@ import { HeroCover } from "@/components/mdx/HeroCover";
 import { PullQuote } from "@/components/mdx/PullQuote";
 import { EditorialDivider } from "@/components/mdx/EditorialDivider";
 import FilterTabs, { FilterTab } from "@/components/mdx/FilterTabs";
-import ComparisonTable from "@/components/mdx/ComparisonTable";
 import TableOfContents from "@/components/mdx/TableOfContents";
 import NextChapter from "@/components/mdx/NextChapter";
 import DiagnosticTool from "@/components/mdx/DiagnosticTool";
@@ -55,18 +55,34 @@ function getHeadingId(children: React.ReactNode): string | undefined {
 }
 
 // Custom MDX components for rendering the existing content beautifully
-const getMdxComponents = (cultureSlug: string) => ({
+const getMdxComponents = (cultureSlug: string, locale: string) => {
+  const cultureFallback = getCultureMeta(cultureSlug)?.image ?? (
+    cultureSlug === "nasinnytstvo" ? "/images/content/img_beans.jpg" : undefined
+  );
+
+  return {
   Callout,
   InfoBlock,
   ChapterHeader,
-  HeroCover,
+  HeroCover: (props: React.ComponentProps<typeof HeroCover>) => (
+    <HeroCover
+      {...props}
+      imageSrc={
+        props.imageSrc && existsSync(path.join(process.cwd(), "public", props.imageSrc.replace(/^\//, "")))
+          ? props.imageSrc
+          : cultureFallback ?? ""
+      }
+      fallbackSrc={cultureFallback}
+    />
+  ),
   PullQuote,
   EditorialDivider,
   FilterTabs,
   FilterTab,
-  ComparisonTable,
   TableOfContents,
-  NextChapter,
+  NextChapter: (props: React.ComponentProps<typeof NextChapter>) => (
+    <NextChapter {...props} locale={locale} />
+  ),
   DiagnosticTool,
   LightboxImage,
   PrintButton,
@@ -85,11 +101,8 @@ const getMdxComponents = (cultureSlug: string) => ({
   BudArrangementDiagram,
   PeachAppleComparison,
   AnnualCycleDiagram,
-  PremiumHierarchy,
-  PremiumProcess,
   BranchAngleDiagram,
   TreeLifespanDiagram,
-  PremiumComparison,
   ChemicalsDirectory,
   BranchAnatomyDiagram,
   // Enhanced element rendering with cinematic reveal
@@ -178,8 +191,8 @@ const getMdxComponents = (cultureSlug: string) => ({
 
   // Premium table with proper classes
   table: ({ children }: { children: React.ReactNode }) => (
-    <div className="comparison-table-wrapper">
-      <table className="comparison-table" style={{ minWidth: "700px" }}>{children}</table>
+    <div className="comparison-table-wrapper" role="region" aria-label="Таблиця" tabIndex={0}>
+      <table className="comparison-table">{children}</table>
     </div>
   ),
   thead: ({ children }: { children: React.ReactNode }) => (
@@ -222,7 +235,8 @@ const getMdxComponents = (cultureSlug: string) => ({
   h4: ({ children, id, className, ...props }: React.HTMLAttributes<HTMLHeadingElement>) => (
     <h4 id={id ?? getHeadingId(children)} className={["prose-h4", className].filter(Boolean).join(" ")} {...props}>{children}</h4>
   ),
-});
+  };
+};
 
 import { ActiveTOC } from "@/components/ui/ActiveTOC";
 
@@ -239,10 +253,12 @@ function extractBlockquoteText(children: React.ReactNode): string | undefined {
 
 export async function generateStaticParams() {
   const cultures = getAllCultures();
-  const locales = ["uk", "en"];
+  const locales = ["uk"];
   return locales.flatMap((locale) =>
     cultures.flatMap((c) =>
-      c.sections.map((s) => ({ locale, culture: c.slug, section: s.slug }))
+      c.sections
+        .filter((s) => Boolean(s.filename))
+        .map((s) => ({ locale, culture: c.slug, section: s.slug }))
     )
   );
 }
@@ -258,6 +274,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${sData.title} — ${cData.name}`,
     description: sData.description,
+    alternates: { canonical: `/${locale}/${cultureSlug}/${sectionSlug}` },
   };
 }
 
@@ -270,6 +287,7 @@ export default async function SectionPage({ params }: Props) {
   if (sectionIndex === -1) notFound();
 
   const section = culture.sections[sectionIndex];
+  if (!section.filename) notFound();
   const content = getSectionContent(cultureSlug, section.filename);
   if (!content) notFound();
 
@@ -286,8 +304,21 @@ export default async function SectionPage({ params }: Props) {
     <>
       <Header />
       <ReadingProgress />
+      <BackToTop />
 
       <div className="reading-layout">
+        <nav className="mobile-reading-nav" aria-label="Навігація по розділу">
+          <Link href={`${prefix}/${cultureSlug}`} className="mobile-reading-back">
+            ← {cData.name}
+          </Link>
+          <details>
+            <summary>Зміст цього розділу</summary>
+            <div className="mobile-reading-nav-content">
+              <ActiveTOC headings={headings} />
+            </div>
+          </details>
+        </nav>
+
         {/* Sidebar */}
         <aside className="reading-sidebar" aria-label="Навігація по розділах">
           {/* Back to culture */}
@@ -319,7 +350,7 @@ export default async function SectionPage({ params }: Props) {
                 return (
                   <Link
                     key={s.slug}
-                    href={`${prefix}/${cultureSlug}/${s.slug}`}
+                    href={getSectionHref(locale, cultureSlug, s)}
                     style={{
                       display: "flex", gap: "0.6rem", alignItems: "flex-start",
                       padding: "0.5rem 0.6rem", borderRadius: "var(--radius-md)",
@@ -337,7 +368,7 @@ export default async function SectionPage({ params }: Props) {
                       display: "flex", alignItems: "center", justifyContent: "center",
                       fontSize: "0.7rem", fontWeight: "700", flexShrink: 0,
                     }}>
-                      {i + 1}
+                      {getSectionNumber(s, i)}
                     </span>
                     {sd.title}
                   </Link>
@@ -348,7 +379,7 @@ export default async function SectionPage({ params }: Props) {
         </aside>
 
         {/* Main content */}
-        <main>
+        <main id="main-content" tabIndex={-1}>
           {/* Breadcrumbs */}
           <nav className="breadcrumbs" aria-label="Хлібні крихти">
             <Link href={`${prefix}/`}>Головна</Link>
@@ -385,7 +416,7 @@ export default async function SectionPage({ params }: Props) {
           <article className="prose">
             <MDXRemote
               source={content}
-              components={getMdxComponents(cultureSlug) as unknown as Record<string, React.ComponentType>}
+              components={getMdxComponents(cultureSlug, locale) as unknown as Record<string, React.ComponentType>}
               options={{
                 mdxOptions: {
                   remarkPlugins: [remarkGfm],
@@ -445,5 +476,3 @@ export default async function SectionPage({ params }: Props) {
     </>
   );
 }
-
-

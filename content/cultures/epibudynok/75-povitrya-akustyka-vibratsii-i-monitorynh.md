@@ -1,4 +1,4 @@
-import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonTable, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
+import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
 
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P069_77-2-fotorealistychnyy-inter-yer-lyudskoyi-zony.png"

@@ -2,18 +2,17 @@
 
 import React, { useState } from 'react';
 
+const ArrowDown = () => (
+  <div style={{ display: 'flex', justifyContent: 'center', margin: '1rem 0' }}>
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ color: 'var(--color-border-dark, #9ca3af)' }}>
+      <line x1="12" y1="4" x2="12" y2="20"></line>
+      <polyline points="19 13 12 20 5 13"></polyline>
+    </svg>
+  </div>
+);
+
 export default function WatermelonGraftingDiagram() {
   const [hoveredStep, setHoveredStep] = useState<number | null>(null);
-
-  // SVG стрілочка вниз
-  const ArrowDown = () => (
-    <div style={{ display: 'flex', justifyContent: 'center', margin: '1rem 0' }}>
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" style={{ color: 'var(--color-border-dark, #9ca3af)' }}>
-        <line x1="12" y1="4" x2="12" y2="20"></line>
-        <polyline points="19 13 12 20 5 13"></polyline>
-      </svg>
-    </div>
-  );
 
   return (
     <div className="grafting-diagram-container" style={{
@@ -132,7 +131,7 @@ export default function WatermelonGraftingDiagram() {
           onMouseEnter={() => setHoveredStep(3)}
           onMouseLeave={() => setHoveredStep(null)}
         >
-          З'єднання язичків + Фіксація кліпсою
+          З’єднання язичків + Фіксація кліпсою
         </div>
       </div>
       

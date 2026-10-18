@@ -1,4 +1,4 @@
-import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonTable, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
+import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
 
 <HeroCover
   imageSrc="/photos/advanced/beez_P008.png"

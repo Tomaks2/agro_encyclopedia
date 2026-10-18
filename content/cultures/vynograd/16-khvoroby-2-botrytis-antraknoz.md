@@ -1,5 +1,5 @@
 
-import { HeroCover, TableOfContents, Callout, InfoBlock, LightboxImage, PullQuote, ComparisonTable, NextChapter } from '@/components/mdx';
+import { HeroCover, TableOfContents, Callout, InfoBlock, LightboxImage, PullQuote, NextChapter } from '@/components/mdx';
 
 <HeroCover
   imageSrc="/photos/vynograd/rozdel_16_schema_32_kalendar_obrobok_khvoroby.png"

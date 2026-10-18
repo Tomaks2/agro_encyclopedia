@@ -12,10 +12,10 @@ export default function ComparisonTable(props: Props) {
   let rows = props.rows || [];
 
   if (props.headersJSON) {
-    try { headers = JSON.parse(props.headersJSON); } catch (e) {}
+    try { headers = JSON.parse(props.headersJSON); } catch {}
   }
   if (props.rowsJSON) {
-    try { rows = JSON.parse(props.rowsJSON); } catch (e) {}
+    try { rows = JSON.parse(props.rowsJSON); } catch {}
   }
 
   if (!headers || !headers.map) headers = [];

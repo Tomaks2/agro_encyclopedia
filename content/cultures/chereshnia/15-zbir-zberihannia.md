@@ -51,4 +51,4 @@
 - [2] Washington State University — Hydrocooling and Storage — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
 - [3] USDA Agricultural Handbook 66 — Storage of Cherries — [https://www.ars.usda.gov/](https://www.ars.usda.gov/)
 
-<NextChapter href="/uk/chereshnia/16-mify" title="15 МІФІВ ПРО ЧЕРЕШНЮ" chapterNum="16" />
+<NextChapter href="/uk/chereshnia/mify" title="15 МІФІВ ПРО ЧЕРЕШНЮ" chapterNum="16" />

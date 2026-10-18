@@ -197,6 +197,71 @@ a:hover {
   color: var(--color-primary-light);
 }
 
+.skip-link {
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 1000;
+  transform: translateY(-160%);
+  padding: 0.65rem 1rem;
+  border-radius: var(--radius-sm);
+  background: var(--color-primary-dark);
+  color: #fff;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 700;
+  box-shadow: var(--shadow-md);
+  transition: transform var(--transition-fast);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+  color: #fff;
+}
+
+.back-to-top {
+  position: fixed;
+  right: clamp(1rem, 3vw, 2rem);
+  bottom: clamp(1rem, 3vw, 2rem);
+  z-index: 50;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  background: color-mix(in srgb, var(--color-surface) 92%, transparent);
+  color: var(--color-primary-dark);
+  box-shadow: var(--shadow-md);
+  backdrop-filter: blur(10px);
+  cursor: pointer;
+  font: 600 0.78rem/1 var(--font-sans);
+}
+
+.back-to-top:hover {
+  background: var(--color-surface);
+  color: var(--color-primary);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
 /* ═══════════════════════════════════════════════
    TYPOGRAPHY SCALE
 ═══════════════════════════════════════════════ */
@@ -267,16 +332,6 @@ pre code {
   line-height: 1.9;
   color: var(--color-text);
 }
-
-/* Constrain text elements for readability and center them */
-.prose > p, 
-.prose > ul, 
-.prose > ol, 
-.prose > blockquote,
-.prose > h2,
-.prose > h3,
-.prose > h4,
-.prose > 
 
 /* ── H2: Kinfolk Magazine style ─────────────── */
 .prose h2 {
@@ -377,8 +432,6 @@ pre code {
   color: var(--color-accent);
 }
 
-.prose > * + * { }
-
 .prose img {
   border-radius: var(--radius-md);
   box-shadow: var(--shadow-md);
@@ -405,35 +458,6 @@ pre code {
 }
 
 .prose blockquote p:last-child { margin-bottom: 0; }
-
-/* ═══════════════════════════════════════════════
-   TABLES — Premium Kinfolk Style
-═══════════════════════════════════════════════ */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* No alternating background for a cleaner, premium card look */
-
-
-
-
-/* Table wrapper for mobile scroll */
-
-
-
 
 .callout:hover {
   transform: translateX(2px);
@@ -1048,6 +1072,8 @@ pre code {
 
 .reading-content, .reading-layout > main { min-width: 0; }
 
+.mobile-reading-nav { display: none; }
+
 /* Progress bar */
 .reading-progress {
   position: fixed;
@@ -1416,6 +1442,19 @@ pre code {
 
 .footer-links a:hover { color: var(--color-accent-light); }
 
+.footer-search-link {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: rgba(255,255,255,0.6);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.88rem;
+  transition: color var(--transition-fast);
+}
+
+.footer-search-link:hover { color: var(--color-accent-light); }
+
 .footer-bottom {
   max-width: var(--max-width);
   margin: 2rem auto 0;
@@ -1557,9 +1596,41 @@ pre code {
   }
 
   .reading-sidebar {
-    position: static;
-    max-height: none;
-    padding-right: 0;
+    display: none;
+  }
+
+  .mobile-reading-nav {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    background: var(--color-surface);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .mobile-reading-back {
+    color: var(--color-primary-dark);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+
+  .mobile-reading-nav details {
+    flex: 1 1 12rem;
+  }
+
+  .mobile-reading-nav summary {
+    cursor: pointer;
+    color: var(--color-muted);
+    font-size: 0.85rem;
+    font-weight: 600;
+  }
+
+  .mobile-reading-nav-content {
+    padding-top: 0.75rem;
   }
 
   .footer-inner {
@@ -2219,7 +2290,9 @@ pre code {
 
 /* Comparison Table */
 .comparison-table-wrapper {
+  position: relative;
   overflow-x: auto;
+  overscroll-behavior-inline: contain;
   margin: 2rem 0;
   border: 1px solid var(--color-border);
   border-radius: var(--radius-lg);
@@ -2227,6 +2300,7 @@ pre code {
 }
 .comparison-table {
   width: 100%;
+  min-width: 42rem;
   text-align: left;
   border-collapse: collapse;
 }
@@ -2254,6 +2328,19 @@ pre code {
 }
 .comparison-table td strong {
   font-weight: 600;
+}
+
+@media (max-width: 48rem) {
+  .comparison-table-wrapper::after {
+    content: "Горизонтально прокручуйте таблицю →";
+    display: block;
+    padding: 0.45rem 0.75rem;
+    border-top: 1px solid var(--color-border-subtle);
+    background: var(--color-bg-alt);
+    color: var(--color-muted);
+    font-size: 0.72rem;
+    text-align: right;
+  }
 }
 
 
@@ -2427,5 +2514,3 @@ pre code {
 }
 .prose ol, .prose ul, .prose li { font-size: 1rem !important; font-family: var(--font-body) !important; font-weight: normal !important; line-height: 1.8 !important; }
 .prose li strong { font-size: 1rem !important; font-family: var(--font-body) !important; font-weight: 600 !important; color: var(--color-primary-dark) !important; }
-
-

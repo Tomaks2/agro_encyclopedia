@@ -75,4 +75,4 @@
 - [3] Michigan State University Extension — Spring Freeze Risk in Stone Fruit — [https://www.canr.msu.edu/news/sweet-cherry-production-guides](https://www.canr.msu.edu/news/sweet-cherry-production-guides)
 - [4] Utah State University Extension — Frost Protection of Fruit Crops — [https://extension.usu.edu/yardandgarden/research/frost-protection](https://extension.usu.edu/yardandgarden/research/frost-protection)
 
-<NextChapter href="/uk/chereshnia/01-biolohiya" title="БІОЛОГІЯ ЧЕРЕШНІ" chapterNum="01" />
+<NextChapter href="/uk/chereshnia/biolohiya" title="БІОЛОГІЯ ЧЕРЕШНІ" chapterNum="01" />

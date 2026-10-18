@@ -56,4 +56,4 @@
 - [2] Penn State Extension — Cherry Spray Program — [https://extension.psu.edu/growing-cherries](https://extension.psu.edu/growing-cherries)
 - [3] Michigan State University — Cherry Protection Calendar — [https://www.canr.msu.edu/news](https://www.canr.msu.edu/news)
 
-<NextChapter href="/uk/chereshnia/14-scheplennia" title="ЩЕПЛЕННЯ" chapterNum="14" />
+<NextChapter href="/uk/chereshnia/scheplennia" title="ЩЕПЛЕННЯ" chapterNum="14" />

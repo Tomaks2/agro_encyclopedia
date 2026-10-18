@@ -7,10 +7,19 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Каталог культур — АгроЕнциклопедія",
   description: "Повний перелік довідників з вирощування плодових дерев, ягід та овочів.",
+  alternates: { canonical: "/uk/catalog" },
 };
 
-export default async function CatalogPage({ params }: { params: Promise<{ locale: string }> }) {
+export default async function CatalogPage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ locale: string }>;
+  searchParams: Promise<{ category?: string | string[] }>;
+}) {
   const { locale } = await params;
+  const query = await searchParams;
+  const requestedCategory = Array.isArray(query.category) ? query.category[0] : query.category;
   
   const cultures = getAllCultures();
   const order = ['yablunia', 'hrusha', 'persyk'];
@@ -26,8 +35,8 @@ export default async function CatalogPage({ params }: { params: Promise<{ locale
   return (
     <>
       <Header />
-      <main>
-        <CulturesCatalog cultures={cultures} locale={locale} />
+      <main id="main-content" tabIndex={-1}>
+        <CulturesCatalog cultures={cultures} locale={locale} initialCategory={requestedCategory ?? null} />
       </main>
       <Footer />
     </>

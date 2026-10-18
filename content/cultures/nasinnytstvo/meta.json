@@ -1,0 +1,364 @@
+{
+  "slug": "nasinnytstvo",
+  "kind": "seed-production",
+  "category": "seed",
+  "emoji": "🌱",
+  "color": "#166534",
+  "colorLight": "#dcfce7",
+  "uk": {
+    "name": "Насінництво й селекція",
+    "latinName": "",
+    "tagline": "Від збереження сортової чистоти до власної селекційної програми",
+    "description": "Спільна база знань про збирання, очищення, зберігання та добір насіння, контроль запилення, гібридизацію й розсадництво."
+  },
+  "en": {
+    "name": "Seed Production and Breeding",
+    "latinName": "",
+    "tagline": "From varietal integrity to a personal breeding program",
+    "description": "A shared knowledge base on seed saving, cleaning, storage, selection, pollination control, hybridization and nursery production."
+  },
+  "sections": [
+    {
+      "slug": "vstup-chomu-vlasne-nasinnia",
+      "filename": "01-vstup-chomu-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Чому варто зберігати власне насіння",
+        "description": "Від вибору рослини до збереження сорту: можливості, межі та відповідальність садівника."
+      },
+      "en": {
+        "title": "Why Save Your Own Seed",
+        "description": "From choosing a plant to preserving a cultivar: opportunities, limits and the gardener’s responsibility."
+      }
+    },
+    {
+      "slug": "biolohiia-zapylennia-ta-rozmnozhennia",
+      "filename": "02-biolohiia-zapylennia-ta-rozmnozhennia.md",
+      "uk": {
+        "title": "Біологія запилення",
+        "description": "Самозапилення, перехресне запилення та переносники пилку: чому тип запилення визначає збереження насіння."
+      },
+      "en": {
+        "title": "Pollination Biology",
+        "description": "Self-pollination, cross-pollination and pollen vectors: why pollination type determines seed saving."
+      }
+    },
+    {
+      "slug": "chystota-sortu-izoliatsiia",
+      "filename": "03-chystota-sortu-izoliatsiia.md",
+      "uk": {
+        "title": "Сортова чистота та ізоляція",
+        "description": "Як запобігати небажаному перезапиленню відстанню, часом і фізичними бар’єрами."
+      },
+      "en": {
+        "title": "Varietal Integrity and Isolation",
+        "description": "Preventing unwanted cross-pollination with distance, timing and physical barriers."
+      }
+    },
+    {
+      "slug": "vidbir-materynskykh-roslyn",
+      "filename": "04-vidbir-materynskykh-roslyn.md",
+      "uk": {
+        "title": "Відбір материнських рослин",
+        "description": "Критерії вибору здорових рослин для збереження сорту або власної селекційної програми."
+      },
+      "en": {
+        "title": "Selecting Mother Plants",
+        "description": "Criteria for selecting healthy plants for seed saving or a personal breeding program."
+      }
+    },
+    {
+      "slug": "dozrivannia-ta-zbir-nasinnia",
+      "filename": "05-dozrivannia-ta-zbir-nasinnia.md",
+      "uk": {
+        "title": "Дозрівання та збір насіння",
+        "description": "Фізіологічна стиглість, сухе й мокре вилучення та ознаки готовності насіння для різних культур."
+      },
+      "en": {
+        "title": "Seed Maturity and Harvest",
+        "description": "Physiological maturity, dry and wet extraction, and crop-specific harvest indicators."
+      }
+    },
+    {
+      "slug": "fermentatsiia-ochyshchennia-sushinnia",
+      "filename": "06-fermentatsiia-ochyshchennia-sushinnia.md",
+      "uk": {
+        "title": "Ферментація, очищення та сушіння",
+        "description": "Коли ферментація потрібна, як очищати насіння різних культур і як підготувати його до зберігання."
+      },
+      "en": {
+        "title": "Fermentation, Cleaning and Drying",
+        "description": "When fermentation is useful, how to clean different crops, and how to prepare seed for storage."
+      }
+    },
+    {
+      "slug": "skhozhist-zberihannia-etykuvannia",
+      "filename": "07-skhozhist-zberihannia-etykuvannia.md",
+      "uk": {
+        "title": "Схожість, зберігання та етикетування",
+        "description": "Домашній тест схожості, умови зберігання, орієнтовна довговічність і простежуваність партій."
+      },
+      "en": {
+        "title": "Germination, Storage and Labeling",
+        "description": "Home germination testing, storage conditions, approximate longevity and seed-lot traceability."
+      }
+    },
+    {
+      "slug": "nasinnieva-infektsiia-ta-protruiuvannia",
+      "filename": "08-nasinnieva-infektsiia-ta-protruiuvannia.md",
+      "uk": {
+        "title": "Насіннєва інфекція та протруювання",
+        "description": "Поверхневе й внутрішнє зараження насіння, межі домашньої обробки, гаряча вода, хімічне протруювання та безпека."
+      },
+      "en": {
+        "title": "Seedborne Infection and Seed Treatment",
+        "description": "Surface and internal seed infection, limits of home treatment, hot water, chemical seed treatment and safety."
+      }
+    },
+    {
+      "slug": "kontrolovane-skreshchuvannia",
+      "filename": "09-kontrolovane-skreshchuvannia.md",
+      "uk": {
+        "title": "Контрольоване схрещування",
+        "description": "Різниця між сортом, лінією, гібридом і F1, батьківські форми, ручне запилення, ізоляція, маркування та межі аматорської селекції."
+      },
+      "en": {
+        "title": "Controlled Crossing",
+        "description": "The difference between cultivar, line, hybrid and F1, parental forms, hand pollination, isolation, labeling and the limits of amateur breeding."
+      }
+    },
+    {
+      "slug": "stabilizatsiia-oznak-ta-linii",
+      "filename": "10-stabilizatsiia-oznak-ta-linii.md",
+      "uk": {
+        "title": "Стабілізація ознак та селекційні лінії",
+        "description": "Що означає стабілізація ознаки, чому F1 розщеплюється, як вести сім’ї та відрізняти домашній матеріал від офіційно визнаного сорту."
+      },
+      "en": {
+        "title": "Trait Stabilization and Breeding Lines",
+        "description": "What trait stabilization means, why F1 segregates, how to manage families, and how experimental material differs from an officially recognized variety."
+      }
+    },
+    {
+      "slug": "tomat-vlasne-nasinnia",
+      "filename": "11-tomat-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Томат: власне насіння",
+        "description": "Культура-специфічний протокол самозапилення, вибору відкритозапильного сорту, відбору здорових рослин, повної стиглості, ферментації, сушіння, тесту схожості та ведення окремих ліній."
+      },
+      "en": {
+        "title": "Tomato: Saving Your Own Seed",
+        "description": "A crop-specific protocol for self-pollination, open-pollinated varieties, healthy mother plants, full ripeness, fermentation, drying, germination testing and separate line tracking."
+      }
+    },
+    {
+      "slug": "harbuzovi-vlasne-nasinnia",
+      "filename": "12-harbuzovi-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Гарбузові: власне насіння",
+        "description": "Видова сумісність огірка, дині, кавуна та Cucurbita, ізоляція й ручне запилення, різниця товарної та насіннєвої стиглості, мокре очищення, сушіння, тест схожості та OP проти F1."
+      },
+      "en": {
+        "title": "Cucurbits: Saving Your Own Seed",
+        "description": "Species compatibility of cucumber, melon, watermelon and Cucurbita, isolation and hand pollination, market versus seed maturity, wet processing, drying, germination testing and OP versus F1."
+      }
+    },
+    {
+      "slug": "kukurudza-tsukrova-vlasne-nasinnia",
+      "number": 13,
+      "linkedCulture": "kukurudza-tsukrova",
+      "linkedSection": "kukurudza-tsukrova-vlasne-nasinnia",
+      "uk": {
+        "title": "Кукурудза цукрова: власне насіння",
+        "description": "Canonical розділ про ізоляцію, контроль пилку, насіннєву стиглість, сушіння, зберігання та тестування насіння цукрової кукурудзи."
+      },
+      "en": {
+        "title": "Sweet Corn: Saving Your Own Seed",
+        "description": "Canonical chapter on isolation, pollen control, seed maturity, drying, storage and testing for sweet corn seed."
+      }
+    },
+    {
+      "slug": "paslonovi-perec-baklazhan",
+      "filename": "14-paslonovi-perec-baklazhan.md",
+      "uk": {
+        "title": "Пасльонові: перець і баклажан",
+        "description": "Самозапилення та ризик перехресного запилення, види Capsicum, OP проти F1, повна стиглість, мокре очищення, сушіння, тест схожості й межі гарячої води."
+      },
+      "en": {
+        "title": "Nightshades: Peppers and Eggplant",
+        "description": "Self-pollination and cross-pollination risk, Capsicum species, OP versus F1, full maturity, wet cleaning, drying, germination testing and the limits of hot-water treatment."
+      }
+    },
+    {
+      "slug": "bobovi-vlasne-nasinnia",
+      "filename": "15-bobovi-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Бобові: власне насіння",
+        "description": "Культура-специфічне насінництво квасолі, гороху та інших бобових: самозапилення, можливе перехресне запилення окремих типів, OP проти F1, сухі стручки, брухіди, хвороби, сушіння, зберігання й тест схожості."
+      },
+      "en": {
+        "title": "Legumes: Saving Your Own Seed",
+        "description": "Crop-specific seed saving for beans, peas and other legumes: self-pollination, possible outcrossing in some types, OP versus F1, dry pods, bruchids, diseases, drying, storage and germination testing."
+      }
+    },
+    {
+      "slug": "kapustiani-ta-dvorichni-vlasne-nasinnia",
+      "filename": "16-kapustiani-dvorichni-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Капустяні та дворічні культури: власне насіння",
+        "description": "Капустяні, салат, редис, морква та буряк: перехресне запилення в межах виду, односезонний і дворічний цикли, ізоляція, сухі стручки, хвороби, OP/F1, сушіння, зберігання та тест схожості."
+      },
+      "en": {
+        "title": "Brassicas and Biennial Crops: Saving Your Own Seed",
+        "description": "Brassicas, lettuce, radish, carrot and beet: within-species cross-pollination, annual and biennial cycles, isolation, dry pods, diseases, OP/F1, drying, storage and germination testing."
+      }
+    },
+    {
+      "slug": "koreneplody-zelenni-vlasne-nasinnia",
+      "filename": "17-koreneplody-zelenni-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Коренеплоди й зеленні: власне насіння",
+        "description": "Морква, буряк, редис, салат, шпинат, кріп та інші зеленні: однорічний і дворічний цикли, маточники, перехресне запилення, ізоляція, суха стиглість, збір частинами, хвороби, сушіння та тест схожості."
+      },
+      "en": {
+        "title": "Root Crops and Greens: Saving Your Own Seed",
+        "description": "Carrot, beet, radish, lettuce, spinach, dill and other greens: annual and biennial cycles, mother plants, cross-pollination, isolation, dry maturity, multiple harvests, diseases, drying and germination testing."
+      }
+    },
+    {
+      "slug": "odnorichni-zelenni-priani-vlasne-nasinnia",
+      "filename": "18-odnorichni-zelenni-priani-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Однорічні зеленні й пряні культури: власне насіння",
+        "description": "Салат, шпинат, кріп, коріандр, базилік і рукола: болтинг, різні типи запилення, ізоляція, сухі суцвіття, збір частинами, хвороби, сушіння та тест схожості."
+      },
+      "en": {
+        "title": "Annual Greens and Herbs: Saving Your Own Seed",
+        "description": "Lettuce, spinach, dill, cilantro, basil and arugula: bolting, contrasting pollination systems, isolation, dry inflorescences, staged harvest, disease, drying and germination testing."
+      }
+    },
+    {
+      "slug": "bahatorichni-kultury-kvity-vlasne-nasinnia",
+      "filename": "19-bahatorichni-kultury-kvity-vlasne-nasinnia.md",
+      "uk": {
+        "title": "Багаторічні культури та квіти: власне насіння",
+        "description": "Багаторічний і дворічний цикл, насіння проти клонового розмноження, OP/F1, маточні рослини, перехресне запилення, сухі суцвіття, стратифікація лише за підтвердженням, хвороби, схожість і зберігання."
+      },
+      "en": {
+        "title": "Perennial Crops and Flowers: Saving Your Own Seed",
+        "description": "Annual, biennial and perennial cycles, seed versus clonal propagation, OP/F1, mother plants, cross-pollination, dry inflorescences, source-confirmed stratification, disease, germination and storage."
+      }
+    },
+    {
+      "slug": "plodovi-dereva-siantsi-pidshchepy",
+      "filename": "20-plodovi-dereva-siantsi-pidshchepy.md",
+      "uk": {
+        "title": "Плодові дерева: сіянці та підщепи",
+        "description": "Насіннєві сіянці як підщепи, щеплення для збереження сорту, видоспецифічна стратифікація, сумісність, селекційне потомство та розсадницька простежуваність."
+      },
+      "en": {
+        "title": "Fruit Trees: Seedlings and Rootstocks",
+        "description": "Seedlings as rootstocks, grafting to preserve cultivars, species-specific stratification, compatibility, breeding progeny and nursery traceability."
+      }
+    },
+    {
+      "slug": "praktychne-domashnie-rozsadnytstvo",
+      "filename": "21-praktychne-domashnie-rozsadnytstvo.md",
+      "uk": {
+        "title": "Практичне домашнє розсадництво",
+        "description": "Планування маточника й розсадника, окремі потоки підщеп, сіянців, клонів і щеплених саджанців, видоспецифічна стратифікація, санітарія, маркування, сортування та фітосанітарні межі."
+      },
+      "en": {
+        "title": "Practical Home Nursery Production",
+        "description": "Planning mother plants and nursery zones, separate rootstock, seedling, clone and grafted-tree streams, species-specific stratification, sanitation, labeling, grading and phytosanitary boundaries."
+      }
+    },
+    {
+      "slug": "yablunia-hrusha-vlasne-rozsadnytstvo",
+      "filename": "22-yablunia-hrusha-vlasne-rozsadnytstvo.md",
+      "uk": {
+        "title": "Яблуня і груша: власне розсадництво",
+        "description": "Сіянці для насіннєвих підщеп, клонові підщепи, культура-специфічне щеплення, сумісність і випробування селекційного матеріалу."
+      },
+      "en": {
+        "title": "Apple and Pear: Own Nursery Production",
+        "description": "Seedlings for seedling rootstocks, clonal rootstocks, crop-specific grafting, compatibility and evaluation of breeding material."
+      }
+    },
+    {
+      "slug": "kistochkovi-dereva-vlasne-rozsadnytstvo",
+      "filename": "23-kistochkovi-dereva-vlasne-rozsadnytstvo.md",
+      "uk": {
+        "title": "Кісточкові дерева: власне розсадництво",
+        "description": "Слива, вишня, черешня, абрикос і персик: кісточки для підщеп, насіння для селекції, видоспецифічна стратифікація, сумісність і щеплені саджанці сорту."
+      },
+      "en": {
+        "title": "Stone Fruit Trees: Own Nursery Production",
+        "description": "Plum, sour cherry, sweet cherry, apricot and peach: pits for rootstocks, seed for breeding, species-specific stratification, compatibility and grafted cultivar trees."
+      }
+    },
+    {
+      "slug": "vynohrad-i-yahidni-vlasne-rozmnozhennia",
+      "filename": "24-vynohrad-i-yahidni-vlasne-rozmnozhennia.md",
+      "uk": {
+        "title": "Виноград і ягідні культури: власне розмноження",
+        "description": "Виноград, суниця, малина, смородина, аґрус та інші ягоди: насіння проти клонового розмноження, живці, відводки, вуса, підщепи, запилення, санітарія й видоспецифічний стан насіння."
+      },
+      "en": {
+        "title": "Grapes and Berry Crops: Own Propagation",
+        "description": "Grapes, strawberries, raspberries, currants, gooseberries and other berries: seed versus clonal propagation, cuttings, layering, runners, rootstocks, pollination, sanitation and species-specific seed dormancy."
+      }
+    },
+    {
+      "slug": "oblik-linii-kontrol-yakosti",
+      "filename": "25-oblik-linii-kontrol-yakosti.md",
+      "uk": {
+        "title": "Облік ліній і контроль якості",
+        "description": "Простежуваність від материнської рослини, хреста або джерела живця до партії, контрольного зразка, тесту та обережної назви матеріалу."
+      },
+      "en": {
+        "title": "Line Records and Quality Control",
+        "description": "Traceability from mother plant, cross or cutting source to seed lot, control sample, testing and careful material naming."
+      }
+    },
+    {
+      "slug": "eksperymentalnyi-dyzain-kontrol",
+      "filename": "26-eksperymentalnyi-dyzain-kontrol.md",
+      "uk": {
+        "title": "Експериментальний дизайн і контроль",
+        "description": "Контрольна група, рандомізація, повторення, блокування за мікроділянкою, схожість, F1/F2 та обережні висновки для насіння, ліній і саджанців."
+      },
+      "en": {
+        "title": "Experimental Design and Controls",
+        "description": "Controls, randomization, replication, microplot blocking, germination, F1/F2 evaluation and cautious conclusions for seeds, lines and seedlings."
+      }
+    },
+    {
+      "slug": "ryzyky-bezpeka-fitosanitarna-vidpovidalnist",
+      "filename": "27-ryzyky-bezpeka-fitosanitarna-vidpovidalnist.md",
+      "uk": {
+        "title": "Ризики, безпека й фітосанітарна відповідальність",
+        "description": "Насіннєві та карантинні організми, межі домашніх тестів, санітарія, переміщення, утилізація, безпечні культура-специфічні обробки та чек-лист для насіння, живців і саджанців."
+      },
+      "en": {
+        "title": "Risks, Safety and Phytosanitary Responsibility",
+        "description": "Seed-borne and quarantine pests, limits of home testing, sanitation, movement, disposal, safe crop-specific treatments and a checklist for seeds, cuttings and seedlings."
+      }
+    },
+    {
+      "slug": "kultura-specyfichni-protokoly-redaktsiia",
+      "filename": "28-kultura-spetsyfichni-protokoly-redaktsiia.md",
+      "uk": {
+        "title": "Культура-специфічні протоколи й редакція",
+        "description": "Практичний доказовий протокол створення нових культура-специфічних глав: типи матеріалу, джерела й юрисдикції, контрольні досліди, редакційні шаблони та MDX-перевірка."
+      },
+      "en": {
+        "title": "Crop-Specific Protocols and Editorial Practice",
+        "description": "An evidence-based protocol for new crop-specific chapters: material types, sources and jurisdictions, controlled observations, editorial templates and MDX checks."
+      }
+    }
+  ],
+  "stats": {
+    "sections": 28,
+    "readTimeMinutes": 551
+  }
+}

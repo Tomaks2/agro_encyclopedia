@@ -75,4 +75,4 @@
 5. [Michigan State University Extension — Currant Variety Trials](https://www.canr.msu.edu/fruit/)
 6. [IBPGR — Ribes descriptors (varietal standards)](https://www.bioversityinternational.org/)
 
-<NextChapter href="/uk/smorodyna/obrizka-kushchova-та-shtambova" title="ОБРІЗКА: КУЩОВА ТА ШТАМБОВА ФОРМИ СМОРОДИНИ" chapterNum="3" />
+<NextChapter href="/uk/smorodyna/obrizka-kushchova-ta-shtambova" title="ОБРІЗКА: КУЩОВА ТА ШТАМБОВА ФОРМИ СМОРОДИНИ" chapterNum="3" />

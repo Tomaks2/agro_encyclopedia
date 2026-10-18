@@ -86,4 +86,4 @@
 - [2] UC Davis ANR — Propagation of Cherries — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
 - [3] Washington State University — Chip Budding and Copulation — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
 
-<NextChapter href="/uk/chereshnia/15-zbir-zberihannia" title="ЗБІР ТА ЗБЕРІГАННЯ" chapterNum="15" />
+<NextChapter href="/uk/chereshnia/zbir-zberihannia" title="ЗБІР ТА ЗБЕРІГАННЯ" chapterNum="15" />

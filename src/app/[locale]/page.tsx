@@ -1,4 +1,3 @@
-import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { getAllCultures } from "@/lib/cultures";
 import Header from "@/components/layout/Header";
@@ -11,18 +10,9 @@ export const metadata: Metadata = {
   title: "АгроЕнциклопедія — Повний довідник садівника України",
   description:
     "Практичні знання про вирощування плодових дерев, ягід та овочів. Від посадки до врожаю — все що потрібно знати садівнику.",
+  alternates: { canonical: "/uk" },
 };
 
-const COMING_SOON = [
-  { emoji: "🍑", uk: "Персик", en: "Peach" },
-  { emoji: "🍒", uk: "Черешня", en: "Cherry" },
-  { emoji: "🫐", uk: "Слива", en: "Plum" },
-  { emoji: "🍓", uk: "Полуниця", en: "Strawberry" },
-  { emoji: "🍇", uk: "Виноград", en: "Grape" },
-  { emoji: "🫐", uk: "Лохина", en: "Blueberry" },
-  { emoji: "🍅", uk: "Томат", en: "Tomato" },
-  { emoji: "🥒", uk: "Огірок", en: "Cucumber" },
-];
 
 const MONTHS_UK = [
   "Січень","Лютий","Березень","Квітень","Травень","Червень",
@@ -62,7 +52,7 @@ export default async function HomePage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
-  let cultures = getAllCultures();
+  const cultures = getAllCultures();
   
   // Sort to ensure Yablunia is always first, then Hrusha, then Persyk
   const order = ['yablunia', 'hrusha', 'persyk'];
@@ -81,7 +71,7 @@ export default async function HomePage({
   return (
     <>
       <Header />
-      <main>
+      <main id="main-content" tabIndex={-1}>
         {/* PREMIUM WOW HERO */}
         <section 
           aria-labelledby="hero-title"
@@ -236,7 +226,7 @@ export default async function HomePage({
         </section>
 
         {/* CATEGORIZED CATALOG */}
-        <CulturesCatalog cultures={cultures} locale={locale} />
+        <CulturesCatalog cultures={cultures} locale={locale} navigateCategories />
 
 
 

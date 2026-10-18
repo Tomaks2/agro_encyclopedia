@@ -16,11 +16,11 @@ export default function FilterTabs({ tabs = [], children }: { tabs?: string[] | 
     if (tabs.includes(',') || !tabs.startsWith('[')) {
       parsedTabs = tabs.split(',').map(t => t.trim());
     } else {
-      try { parsedTabs = JSON.parse(tabs); } catch(e) { parsedTabs = []; }
+      try { parsedTabs = JSON.parse(tabs); } catch { parsedTabs = []; }
     }
   }
 
-  let contentBlocks = React.Children.toArray(children).filter((child) => {
+  const contentBlocks = React.Children.toArray(children).filter((child) => {
     if (typeof child === 'string' && child.trim() === '') return false;
     return true;
   });

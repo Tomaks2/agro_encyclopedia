@@ -86,4 +86,4 @@
 
 <LightboxImage src="/images/cultures/malytsia/pidkormka-smorodyny-kryzhovnyka-ta-malyny.jpg" alt="Підживлення смородини, агрусу та малини" />
 
-<NextChapter href="/uk/malytsia/khvoroby-малини" title="ХВОРОБИ МАЛИНИ: ДІДІМЕЛА, АНТРАКНОЗ ТА ЗАХИСТ" chapterNum="5" />
+<NextChapter href="/uk/malytsia/khvoroby-malyny" title="ХВОРОБИ МАЛИНИ: ДІДІМЕЛА, АНТРАКНОЗ ТА ЗАХИСТ" chapterNum="5" />

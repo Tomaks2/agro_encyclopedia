@@ -1,9 +1,13 @@
+/* eslint-disable @next/next/no-page-custom-font -- external font stylesheet is intentionally loaded at the locale document level. */
+/* eslint-disable @next/next/no-css-tags -- print stylesheet must be available as a document-level media stylesheet. */
 import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
+import { notFound } from "next/navigation";
 import type { Metadata, Viewport } from "next";
 import "@/app/globals.css";
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"),
   title: {
     template: "%s | АгроЕнциклопедія",
     default: "АгроЕнциклопедія — Повний довідник садівника України",
@@ -12,6 +16,20 @@ export const metadata: Metadata = {
     "Практичні знання про вирощування плодових дерев, ягід та овочів. Від посадки до врожаю — все що потрібно знати садівнику.",
   keywords: ["садівництво", "яблуня", "груша", "обрізка", "щеплення", "хвороби рослин", "агрономія"],
   manifest: "/manifest.json",
+  openGraph: {
+    type: "website",
+    locale: "uk_UA",
+    siteName: "АгроЕнциклопедія",
+    title: "АгроЕнциклопедія — Повний довідник садівника України",
+    description:
+      "Практичні знання про вирощування плодових дерев, ягід та овочів. Від посадки до врожаю — все що потрібно знати садівнику.",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "АгроЕнциклопедія — Повний довідник садівника України",
+    description:
+      "Практичні знання про вирощування плодових дерев, ягід та овочів.",
+  },
 };
 
 export const viewport: Viewport = {
@@ -32,6 +50,7 @@ export default async function LocaleLayout({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  if (locale !== "uk") notFound();
   const messages = await getMessages();
 
   return (
@@ -47,6 +66,9 @@ export default async function LocaleLayout({
       </head>
       <body>
         <ContentProtection />
+        <a className="skip-link" href="#main-content">
+          Перейти до основного вмісту
+        </a>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
           <NextIntlClientProvider messages={messages}>
             {children}

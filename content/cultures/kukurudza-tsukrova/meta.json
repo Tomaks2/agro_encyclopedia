@@ -54,14 +54,20 @@
       "en": { "title": "Diseases and Pests", "description": "Corn smut (*Ustilago maydis*), European corn borer (*Ostrinia nubilalis*), corn earworm, frit fly." }
     },
     {
-      "slug": "zbir-molochna-стиглість-cooling",
+      "slug": "zbir-molochna-styhist-cooling",
       "filename": "07-zbir-molochna-стиглість-cooling.md",
       "uk": { "title": "Збір у молочній стиглості та Hydrocooling", "description": "Ознаки молочної стиглості (вологість 70-72%, ниті маточки побратніли), швидке крижане гідроохолодження (Hydrocooling +1°C) для зупинки конверсії цукру в крохмаль." },
       "en": { "title": "Milk Stage Harvest and Hydrocooling", "description": "Milk stage criteria (70-72% moisture), rapid Hydrocooling (+1°C) to stop sugar-to-starch conversion." }
+    },
+    {
+      "slug": "kukurudza-tsukrova-vlasne-nasinnia",
+      "filename": "13-kukurudza-tsukrova-vlasne-nasinnia.md",
+      "uk": { "title": "Цукрова кукурудза: власне насіння", "description": "Вітрозапилення, ксенійність, ізоляція за відстанню й часом, популяційний розмір, насіннєва стиглість, сушіння та OP проти F1 без універсальних відстаней." },
+      "en": { "title": "Sweet Corn: Saving Your Own Seed", "description": "Wind pollination, xenia, distance and timing isolation, population size, seed maturity, drying, storage, and OP versus F1." }
     }
   ],
   "stats": {
-    "sections": 7,
-    "readTimeMinutes": 210
+    "sections": 8,
+    "readTimeMinutes": 240
   }
 }

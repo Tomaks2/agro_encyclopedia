@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/set-state-in-effect -- browser hydration/DOM observation requires a post-mount state sync. */
 "use client";
 
 import React, { useState, useEffect } from "react";

@@ -142,4 +142,4 @@
 - [3] University of California ANR — Rootstocks for Cherries — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
 - [4] Michigan State University — Rootstock Choices for Sweet Cherry — [https://www.canr.msu.edu/news](https://www.canr.msu.edu/news)
 
-<NextChapter href="/uk/chereshnia/03-sorty" title="СОРТИ ЧЕРЕШНІ, ВИШНІ ТА ДЮКІВ" chapterNum="3" />
+<NextChapter href="/uk/chereshnia/sorty" title="СОРТИ ЧЕРЕШНІ, ВИШНІ ТА ДЮКІВ" chapterNum="3" />

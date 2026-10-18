@@ -64,4 +64,4 @@
 - [2] Penn State Extension — Cherry Pests — [https://extension.psu.edu/growing-cherries](https://extension.psu.edu/growing-cherries)
 - [3] UC IPM — Cherry Pest Management Guidelines — [https://ipm.ucanr.edu/agriculture/sweet-cherry/](https://ipm.ucanr.edu/agriculture/sweet-cherry/)
 
-<NextChapter href="/uk/chereshnia/13-kalendar-zakhystu" title="КАЛЕНДАР ЗАХИСТУ" chapterNum="13" />
+<NextChapter href="/uk/chereshnia/kalendar-zakhystu" title="КАЛЕНДАР ЗАХИСТУ" chapterNum="13" />

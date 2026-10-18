@@ -1,10 +1,10 @@
 import React from 'react';
 import RevealOnScroll from '@/components/ui/RevealOnScroll';
 
-type CalloutType = 'tip' | 'warning' | 'info' | 'success' | 'danger' | 'note';
+type CalloutType = 'tip' | 'warning' | 'important' | 'info' | 'success' | 'danger' | 'note';
 
 interface CalloutProps {
-  type?: CalloutType | string;
+  type?: CalloutType;
   title?: string;
   children: React.ReactNode;
 }
@@ -32,6 +32,14 @@ const CALLOUT_CONFIG: Record<string, {
     accentColor: '#d97706',
     bgColor: '#fffbeb',
     textColor: '#78350f',
+  },
+  important: {
+    icon: '❗',
+    defaultTitle: 'Особливо важливо',
+    gradient: 'linear-gradient(135deg, #fff7ed, #fed7aa)',
+    accentColor: '#ea580c',
+    bgColor: '#fff7ed',
+    textColor: '#7c2d12',
   },
   info: {
     icon: '💡',
@@ -90,7 +98,7 @@ export const Callout = ({ type = 'tip', title, children }: CalloutProps) => {
 interface InfoBlockProps {
   icon?: string;
   title?: string;
-  type?: 'gold' | 'green' | 'blue' | 'red';
+  type?: 'gold' | 'green' | 'blue' | 'red' | 'purple';
   children: React.ReactNode;
 }
 

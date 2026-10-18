@@ -111,4 +111,4 @@
 - [2] UC Davis ANR — Orchard Establishment — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
 - [3] Michigan State University — Site Selection for Cherries — [https://www.canr.msu.edu/news](https://www.canr.msu.edu/news)
 
-<NextChapter href="/uk/chereshnia/05-formuvannia" title="СИСТЕМИ ФОРМУВАННЯ КРОНИ" chapterNum="5" />
+<NextChapter href="/uk/chereshnia/formuvannia" title="СИСТЕМИ ФОРМУВАННЯ КРОНИ" chapterNum="5" />

@@ -1,16 +1,28 @@
+/* eslint-disable @next/next/no-img-element -- HeroCover uses a controlled fallback/static asset path. */
 'use client';
 
-import React from 'react';
-import Image from 'next/image';
+import React, { useState } from 'react';
 
 interface HeroCoverProps {
   imageSrc: string;
+  fallbackSrc?: string;
   chapter: string;
   title: string;
   subtitle: string;
 }
 
-export const HeroCover = ({ imageSrc, chapter, title, subtitle }: HeroCoverProps) => {
+export const HeroCover = ({ imageSrc, fallbackSrc, chapter, title, subtitle }: HeroCoverProps) => {
+  const [resolvedSrc, setResolvedSrc] = useState(imageSrc);
+  const [imageFailed, setImageFailed] = useState(false);
+
+  const handleImageError = () => {
+    if (fallbackSrc && resolvedSrc !== fallbackSrc) {
+      setResolvedSrc(fallbackSrc);
+      return;
+    }
+    setImageFailed(true);
+  };
+
   return (
     <div 
       className="mb-12 rounded-2xl overflow-hidden shadow-2xl group border border-[#e5e7eb]" 
@@ -28,12 +40,24 @@ export const HeroCover = ({ imageSrc, chapter, title, subtitle }: HeroCoverProps
     >
       {/* Background Image */}
       <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', zIndex: 0 }}>
-        <img
-          src={imageSrc}
-          alt={title || "Cover image"}
-          style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.8, mixBlendMode: 'overlay' }}
-          className="transform transition-transform duration-1000 ease-out group-hover:scale-105"
-        />
+        {!imageFailed && resolvedSrc ? (
+          <img
+            src={resolvedSrc}
+            alt={title || "Cover image"}
+            onError={handleImageError}
+            style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.8, mixBlendMode: 'overlay' }}
+            className="transform transition-transform duration-1000 ease-out group-hover:scale-105"
+          />
+        ) : (
+          <div
+            aria-hidden="true"
+            style={{
+              width: '100%',
+              height: '100%',
+              background: 'radial-gradient(circle at 30% 20%, rgba(200,169,126,0.45), transparent 45%), linear-gradient(135deg, #2d5c47, #17251d)',
+            }}
+          />
+        )}
         <div style={{ 
           position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', 
           background: 'linear-gradient(to top, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.4) 50%, transparent 100%)',

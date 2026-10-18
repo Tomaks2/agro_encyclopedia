@@ -3,7 +3,7 @@ import remarkGfm from "remark-gfm";
 
 export async function parseMarkdown(content: string) {
   // Pre-process: fix common issues in the MD content
-  let processed = content
+  const processed = content
     // Fix unclosed code blocks (`` `text `` → ``` text ```)
     .replace(/^``text$/gm, "```text")
     .replace(/^``$/gm, "```")

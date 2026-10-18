@@ -1,4 +1,4 @@
-import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonTable, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
+import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
 
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P077_epi-prompt-5-lezhanka-z-perforatsiyeyu-sitka-vulyk-lezhak.png"

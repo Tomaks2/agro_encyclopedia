@@ -83,4 +83,4 @@
 - [2] Penn State Extension — Canopy Management — [https://extension.psu.edu/growing-cherries](https://extension.psu.edu/growing-cherries)
 - [3] Oregon State University — Green Operations in Cherries — [https://extension.oregonstate.edu/catalog](https://extension.oregonstate.edu/catalog)
 
-<NextChapter href="/uk/chereshnia/08-zhyvlennia" title="ЖИВЛЕННЯ ТА УДОБРЕННЯ" chapterNum="8" />
+<NextChapter href="/uk/chereshnia/zhyvlennia" title="ЖИВЛЕННЯ ТА УДОБРЕННЯ" chapterNum="8" />

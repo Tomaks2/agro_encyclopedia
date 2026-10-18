@@ -100,4 +100,4 @@
 - [2] UC ANR — Pruning Sweet Cherry Trees — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
 - [3] Michigan State University — Cherry Pruning Timing — [https://www.canr.msu.edu/news](https://www.canr.msu.edu/news)
 
-<NextChapter href="/uk/chereshnia/07-zeleni-operatsii" title="ЗЕЛЕНІ ОПЕРАЦІЇ" chapterNum="7" />
+<NextChapter href="/uk/chereshnia/zeleni-operatsii" title="ЗЕЛЕНІ ОПЕРАЦІЇ" chapterNum="7" />

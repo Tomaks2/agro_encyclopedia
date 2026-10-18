@@ -75,5 +75,5 @@
 5. [Michigan State University Extension — Raspberry Cane Maggot and Gall Midges](https://www.canr.msu.edu/fruit/)
 6. [Koppert Biological Systems — Biological solutions for raspberry](https://www.koppert.com/products-for-berries/raspberry)
 
-<NextChapter href="/uk/malytsia/zbir-охлодження-зберігання" title="ЗБІР, ОХОЛОДЖЕННЯ ТА ЗБЕРІГАННЯ МАЛИНИ" chapterNum="7" />
+<NextChapter href="/uk/malytsia/zbir-okhlodzhennya-zberihannya" title="ЗБІР, ОХОЛОДЖЕННЯ ТА ЗБЕРІГАННЯ МАЛИНИ" chapterNum="7" />
 

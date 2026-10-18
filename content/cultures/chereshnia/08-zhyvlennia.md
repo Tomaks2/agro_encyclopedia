@@ -92,4 +92,4 @@
 - [2] Michigan State University — Cherry Nutrition Program — [https://www.canr.msu.edu/news](https://www.canr.msu.edu/news)
 - [3] Penn State Extension — Fertigation — [https://extension.psu.edu/growing-cherries](https://extension.psu.edu/growing-cherries)
 
-<NextChapter href="/uk/chereshnia/09-polyv" title="ПОЛИВ ТА ЗРОШЕННЯ" chapterNum="9" />
+<NextChapter href="/uk/chereshnia/polyv" title="ПОЛИВ ТА ЗРОШЕННЯ" chapterNum="9" />

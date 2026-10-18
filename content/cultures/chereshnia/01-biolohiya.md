@@ -136,4 +136,4 @@
 - [3] Michigan State University Extension — Sweet Cherry Production — [https://www.canr.msu.edu/news/sweet-cherry-production-guides](https://www.canr.msu.edu/news/sweet-cherry-production-guides)
 - [4] Washington State University Tree Fruit — Rootstocks and Scions — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
 
-<NextChapter href="/uk/chereshnia/02-pidshchepy" title="ПІДЩЕПИ ДЛЯ ЧЕРЕШНІ ТА ВИШНІ" chapterNum="2" />
+<NextChapter href="/uk/chereshnia/pidshchepy" title="ПІДЩЕПИ ДЛЯ ЧЕРЕШНІ ТА ВИШНІ" chapterNum="2" />

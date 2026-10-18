@@ -64,4 +64,4 @@
 5. [Ohioline OSU — Raspberry Postharvest](https://ohioline.osu.edu/factsheet/hyg-5142)
 6. [StePac — Xtend MAP solutions for raspberry](https://www.stepac.com/)
 
-<NextChapter href="/uk/malytsia/biolohiya-та-morfolohiya" title="РОЗДІЛ 1: БІОЛОГІЯ ТА МОРФОЛОГІЯ МАЛИНИ" chapterNum="1" />
+<NextChapter href="/uk/malytsia/biolohiya-ta-morfolohiya" title="РОЗДІЛ 1: БІОЛОГІЯ ТА МОРФОЛОГІЯ МАЛИНИ" chapterNum="1" />

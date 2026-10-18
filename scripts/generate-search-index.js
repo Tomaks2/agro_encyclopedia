@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-require-imports -- Next build executes this Node CommonJS script directly. */
 const fs = require("fs");
 const path = require("path");
 
@@ -31,23 +32,25 @@ function generateSearchIndex() {
     if (!culture.sections) continue;
     
     for (const section of culture.sections) {
+      if (!section.filename) continue;
       const content = getSectionContent(culture.slug, section.filename) || "";
       // Strip MDX/JSX components and markdown for clean search text
       const cleanContent = content
         // Remove YAML frontmatter
-        .replace(/^---[\s\S]*?---\n?/, "")
+        .replace(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/, "")
         // Remove self-closing JSX/MDX components: <HeroCover .../>, <Callout/>
         .replace(/<[A-Z][A-Za-z]*[^>]*\/>/g, " ")
-        // Remove paired JSX/MDX components: <Callout>...</Callout>
-        .replace(/<[A-Z][A-Za-z]*[^>]*>[\s\S]*?<\/[A-Z][A-Za-z]*>/g, " ")
-        // Remove remaining HTML/JSX tags
+        // Keep human-readable component labels in search (for example Callout title).
+        .replace(/<[A-Z][A-Za-z]*\b[^>]*\b(?:title|label)=["']([^"']+)["'][^>]*>/g, " $1 ")
+        // Remove opening/closing MDX tags but preserve their children text.
         .replace(/<[^>]+>/g, " ")
         // Remove markdown images
         .replace(/!\[[^\]]*\]\([^)]+\)/g, "")
         // Convert links to text only
         .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
-        // Remove table rows
-        .replace(/^\|.*\|$/gm, "")
+        // Preserve GFM table cell text while removing table delimiters and separators.
+        .replace(/^\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)+\|?$/gm, " ")
+        .replace(/\|/g, " ")
         // Remove markdown formatting characters
         .replace(/[#*`_~>\\]/g, " ")
         // Remove list markers

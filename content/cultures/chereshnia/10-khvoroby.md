@@ -116,4 +116,4 @@
 - [3] Michigan State University — Cherry Disease Management — [https://www.canr.msu.edu/news](https://www.canr.msu.edu/news)
 - [4] Cornell CALS — Cherry Disease Management — [https://hsl.cals.cornell.edu/sustainable-perennial-crops/cherries/](https://hsl.cals.cornell.edu/sustainable-perennial-crops/cherries/)
 
-<NextChapter href="/uk/chereshnia/11-fiziolohichni-problemy" title="ФІЗІОЛОГІЧНІ ПРОБЛЕМИ" chapterNum="11" />
+<NextChapter href="/uk/chereshnia/fiziolohichni-problemy" title="ФІЗІОЛОГІЧНІ ПРОБЛЕМИ" chapterNum="11" />

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 import type { CultureMeta } from "@/lib/cultures";
 
 // ─── Маппінг slug → категорія ────────────────────────────────────────────────
@@ -30,9 +31,10 @@ const SLUG_TO_CATEGORY: Record<string, string> = {
   // Бджільництво
   bdzhilnytstvo: "apiary",
   advanced: "apiary",
-  audit: "apiary",
   epibudynok: "apiary",
-  references: "apiary",
+  // Насінництво й спеціальні довідники
+  nasinnytstvo: "seed",
+  references: "special",
 };
 
 // ─── Категорії ────────────────────────────────────────────────────────────────
@@ -112,6 +114,23 @@ const CATEGORIES = [
     imageSrc: "/images/categories/apiary.png"
   },
   {
+    id: "seed",
+    label: "Насінництво й селекція",
+    emoji: "🌱",
+    color: "#166534",
+    gradient: "linear-gradient(135deg, #166534, #14532d)",
+    description: "Власне насіння, добір, ізоляція, схрещування та розсадництво",
+  },
+  {
+    id: "special",
+    label: "Спеціальні довідники",
+    emoji: "📚",
+    color: "#475569",
+    gradient: "linear-gradient(135deg, #475569, #1e293b)",
+    description: "Дослідницькі, редакційні та спеціалізовані матеріали",
+    imageSrc: "/images/categories/root.png"
+  },
+  {
     id: "all",
     label: "Всі культури",
     emoji: "🌿",
@@ -126,12 +145,19 @@ const CATEGORIES = [
 interface Props {
   cultures: CultureMeta[];
   locale: string;
+  navigateCategories?: boolean;
+  initialCategory?: string | null;
 }
 
-export default function CulturesCatalog({ cultures, locale }: Props) {
-  const [active, setActive] = useState<string | null>(null);
+export default function CulturesCatalog({ cultures, locale, navigateCategories = false, initialCategory = null }: Props) {
+  const router = useRouter();
+  const [active, setActive] = useState<string | null>(initialCategory);
 
   const handleSelect = (id: string) => {
+    if (navigateCategories) {
+      router.push(`/${locale}/catalog?category=${encodeURIComponent(id)}`);
+      return;
+    }
     if (active === id) {
       setActive(null);
       return;
@@ -144,7 +170,7 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
     }, 120);
   };
 
-  const getCategory = (slug: string) => SLUG_TO_CATEGORY[slug] ?? "vegetable";
+  const getCategory = (slug: string) => SLUG_TO_CATEGORY[slug] ?? "special";
 
   const filtered = active === null
     ? []
@@ -498,12 +524,23 @@ export default function CulturesCatalog({ cultures, locale }: Props) {
                   key={cat.id}
                   role="tab"
                   aria-selected={isActive}
+                  tabIndex={isActive || active === null ? 0 : -1}
                   className={`cat-tab-card ${isActive ? "cat-tab-card--active" : ""}`}
                   onClick={() => handleSelect(cat.id)}
+                  onKeyDown={(event) => {
+                    if (event.key === "Enter" || event.key === " ") {
+                      event.preventDefault();
+                      handleSelect(cat.id);
+                    }
+                  }}
                 >
-                  <div 
-                    className="cat-tab-bg" 
-                    style={{ backgroundImage: `url(${cat.imageSrc})` }} 
+                  <div
+                    className="cat-tab-bg"
+                    style={{
+                      backgroundImage: cat.imageSrc
+                        ? `url(${cat.imageSrc})`
+                        : cat.gradient,
+                    }}
                   />
                   <div className="cat-tab-overlay">
                     <div className="cat-tab-header">

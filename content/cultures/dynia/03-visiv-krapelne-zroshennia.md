@@ -40,4 +40,4 @@
 5. [University of Georgia Extension — Cantaloupe](https://extension.uga.edu/publications/)
 6. [USDA Agriculture Handbook 66 — Muskmelons](https://www.ars.usda.gov/oc/ohp)
 
-<NextChapter href="/uk/dynia/zhyvlennia-brix-цукор" title="ЖИВЛЕННЯ: КАЛІЙФІЛЬНА КУЛЬТУРА, K2O ДОМІНУЄ" chapterNum="4" />
+<NextChapter href="/uk/dynia/zhyvlennia-brix-tsukor" title="ЖИВЛЕННЯ: КАЛІЙФІЛЬНА КУЛЬТУРА, K2O ДОМІНУЄ" chapterNum="4" />

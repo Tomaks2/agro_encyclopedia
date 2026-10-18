@@ -98,4 +98,4 @@
 5. [Ohioline OSU — Postharvest Handling of Strawberry](https://ohioline.osu.edu/factsheet/hyg-5141)
 6. [StePac — Xtend MAP solutions for berries](https://www.stepac.com/)
 
-<NextChapter href="/uk/polunytsia/biolohiya-та-genetyka" title="РОЗДІЛ 1: БІОЛОГІЯ ТА ГЕНЕТИКА СУНИЦІ" chapterNum="1" />
+<NextChapter href="/uk/polunytsia/biolohiya-ta-genetyka" title="РОЗДІЛ 1: БІОЛОГІЯ ТА ГЕНЕТИКА СУНИЦІ" chapterNum="1" />

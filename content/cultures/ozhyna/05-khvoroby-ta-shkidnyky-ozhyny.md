@@ -55,4 +55,4 @@
 5. [Penn State Extension — Brambles: Diseases and Insects](https://extension.psu.edu/planting-berries-for-the-home-garden)
 6. [University of Kentucky Extension — Blackberry IPM](https://extension.uky.edu/fruit)
 
-<NextChapter href="/uk/ozhyna/zbir-охлодження-зберігання" title="ЗБІР, ОХОЛОДЖЕННЯ ТА ЗБЕРІГАННЯ ОЖИНИ" chapterNum="6" />
+<NextChapter href="/uk/ozhyna/zbir-okhlodzhennya-zberihannya" title="ЗБІР, ОХОЛОДЖЕННЯ ТА ЗБЕРІГАННЯ ОЖИНИ" chapterNum="6" />

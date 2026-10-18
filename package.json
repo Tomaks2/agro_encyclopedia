@@ -6,22 +6,28 @@
     "dev": "node scripts/generate-search-index.js && next dev",
     "build": "node scripts/generate-search-index.js && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate:metadata": "node scripts/validate-metadata.js",
+    "validate:routes": "node scripts/validate-routes.js",
+    "validate:assets": "node scripts/validate-assets.js",
+    "validate:editorial": "node scripts/validate-editorial.js",
+    "validate:coverage": "node scripts/validate-content-coverage.js",
+    "report:seed-coverage": "node scripts/report-seed-coverage.js",
+    "verify:release": "npm run validate:metadata && npm run validate:routes && npm run validate:assets && npm run validate:editorial && npm run validate:coverage && npx tsc --noEmit && npm run lint && npm audit --omit=dev --audit-level=moderate && npm run build"
   },
   "dependencies": {
-    "@serwist/next": "^9.5.11",
+    "@serwist/next": "^9.5.13",
     "clsx": "^2.1.1",
     "framer-motion": "^12.42.2",
     "fuse.js": "^7.4.2",
-    "gray-matter": "^4.0.3",
-    "next": "16.2.9",
+    "next": "^16.4.2",
     "next-intl": "^4.13.0",
     "next-mdx-remote": "^6.0.0",
     "next-themes": "^0.4.6",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "remark-gfm": "^4.0.1",
-    "serwist": "^9.5.11",
+    "serwist": "^9.5.13",
     "tailwind-merge": "^3.6.0"
   },
   "devDependencies": {
@@ -29,7 +35,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.2.9",
+    "eslint-config-next": "^16.4.2",
     "typescript": "^5"
   }
 }

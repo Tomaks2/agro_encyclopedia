@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { useTranslations, useLocale } from "next-intl";
+import SearchFooterLink from "@/components/layout/SearchFooterLink";
 
 export default function Footer() {
   const t = useTranslations("footer");
@@ -26,7 +27,7 @@ export default function Footer() {
           <ul className="footer-links">
             <li><Link href={L}>{tNav("home")}</Link></li>
             <li><Link href={`${L}/calendar`}>{tNav("calendar")}</Link></li>
-            <li><Link href={`${L}/search`}>{tNav("search")}</Link></li>
+            <li><SearchFooterLink /></li>
           </ul>
         </div>
 

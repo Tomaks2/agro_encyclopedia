@@ -81,4 +81,4 @@
 5. [Michigan State University Extension — Blueberry Pruning Techniques](https://www.canr.msu.edu/fruit/)
 6. [Washington State University Extension — Highbush Blueberry Pruning](https://pubs.extension.wsu.edu/blueberries)
 
-<NextChapter href="/uk/lokhyna/zhyvlennia-nh4-фертигація" title="ЖИВЛЕННЯ ЛОХИНИ: NH₄⁺ ЗАМІСТЬ NO₃⁻ ТА ФЕРТИГАЦІЯ" chapterNum="5" />
+<NextChapter href="/uk/lokhyna/zhyvlennia-nh4-fertyhatsiya" title="ЖИВЛЕННЯ ЛОХИНИ: NH₄⁺ ЗАМІСТЬ NO₃⁻ ТА ФЕРТИГАЦІЯ" chapterNum="5" />

@@ -96,4 +96,4 @@
 5. [Michigan State University Extension — Raspberry Canopy Management](https://www.canr.msu.edu/fruit/)
 6. [UC ANR — Raspberry Cane Management](https://anrcatalog.ucanr.edu/)
 
-<NextChapter href="/uk/malytsia/zhyvlennia-фертигація" title="ЖИВЛЕННЯ ТА ФЕРТИГАЦІЯ МАЛИНИ" chapterNum="4" />
+<NextChapter href="/uk/malytsia/zhyvlennia-fertyhatsiya" title="ЖИВЛЕННЯ ТА ФЕРТИГАЦІЯ МАЛИНИ" chapterNum="4" />

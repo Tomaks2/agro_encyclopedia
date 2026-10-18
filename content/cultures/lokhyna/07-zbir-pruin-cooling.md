@@ -64,4 +64,4 @@
 5. [Stepac — MAP Xtend for Blueberries](https://www.stepac.com/)
 6. [UC Davis Postharvest Technology Center — Blueberry: Recommendations for Maintaining Postharvest Quality](https://postharvest.ucdavis.edu/produce-facts-sheets/blueberry)
 
-<NextChapter href="/uk/lokhyna/biolohiya-та-atsydofiliia" title="РОЗДІЛ 1: БОТАНІЧНА БІОЛОГІЯ ТА ФЕНОМЕН АЦИДОФІЛІЇ ЛОХИНИ" chapterNum="1" />
+<NextChapter href="/uk/lokhyna/biolohiya-ta-atsydofiliia" title="РОЗДІЛ 1: БОТАНІЧНА БІОЛОГІЯ ТА ФЕНОМЕН АЦИДОФІЛІЇ ЛОХИНИ" chapterNum="1" />

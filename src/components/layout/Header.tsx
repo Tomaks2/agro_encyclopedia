@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/set-state-in-effect -- browser hydration/DOM observation requires a post-mount state sync. */
 "use client";
 
 import Link from "next/link";
@@ -13,6 +14,11 @@ export default function Header() {
   const pathname = usePathname();
   const [menuOpen, setMenuOpen] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
+
+  const closeSearch = () => {
+    setSearchOpen(false);
+    requestAnimationFrame(() => document.getElementById("search-trigger")?.focus());
+  };
 
   useEffect(() => {
     const handleOpenSearch = () => setSearchOpen(true);
@@ -45,6 +51,7 @@ export default function Header() {
                 key={link.href}
                 href={link.href}
                 className={`header-nav-link ${pathname === link.href ? "active" : ""}`}
+                aria-current={pathname === link.href ? "page" : undefined}
               >
                 {link.label}
               </Link>
@@ -101,6 +108,7 @@ export default function Header() {
                 key={link.href}
                 href={link.href}
                 className="header-nav-link"
+                aria-current={pathname === link.href ? "page" : undefined}
                 style={{ display: "block", padding: "0.6rem 0.9rem" }}
                 onClick={() => setMenuOpen(false)}
               >
@@ -113,17 +121,28 @@ export default function Header() {
 
       {/* Search overlay */}
       {searchOpen && (
-        <SearchModal onClose={() => setSearchOpen(false)} />
+        <SearchModal onClose={closeSearch} />
       )}
     </>
   );
 }
 
 function SearchModal({ onClose }: { onClose: () => void }) {
+  interface SearchIndexItem {
+    id: string;
+    cultureSlug: string;
+    sectionSlug: string;
+    cultureNameUk: string;
+    cultureNameEn: string;
+    sectionTitleUk: string;
+    sectionTitleEn: string;
+    content: string;
+  }
+
   const [query, setQuery] = useState("");
-  const [results, setResults] = useState<any[]>([]);
+  const [results, setResults] = useState<SearchIndexItem[]>([]);
   const [isSearching, setIsSearching] = useState(false);
-  const fuseRef = useRef<Fuse<any> | null>(null);
+  const fuseRef = useRef<Fuse<SearchIndexItem> | null>(null);
 
   // Initialize query from sessionStorage if exists
   useEffect(() => {
@@ -141,7 +160,7 @@ function SearchModal({ onClose }: { onClose: () => void }) {
     fetch("/search-index.json")
       .then((res) => res.json())
       .then((data) => {
-        fuseRef.current = new Fuse(data, {
+        fuseRef.current = new Fuse<SearchIndexItem>(data as SearchIndexItem[], {
           keys: [
             "cultureNameUk", "cultureNameEn",
             "sectionTitleUk", "sectionTitleEn",
@@ -170,6 +189,14 @@ function SearchModal({ onClose }: { onClose: () => void }) {
     return () => clearTimeout(timer);
   }, [query]);
 
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") onClose();
+    };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [onClose]);
+
   return (
     <div
       className="search-overlay"
@@ -188,6 +215,8 @@ function SearchModal({ onClose }: { onClose: () => void }) {
             autoFocus
             type="text"
             className="search-input"
+            aria-label={t("title") || "Пошук"}
+            aria-controls="search-results"
             placeholder={useTranslations("home")("search_placeholder") || "Пошук..."}
             value={query}
             onChange={(e) => setQuery(e.target.value)}
@@ -202,9 +231,9 @@ function SearchModal({ onClose }: { onClose: () => void }) {
         </div>
 
         {query.length > 1 ? (
-          <div className="search-results" style={{ padding: "0.5rem", maxHeight: "60vh", overflowY: "auto" }}>
+          <div id="search-results" className="search-results" style={{ padding: "0.5rem", maxHeight: "60vh", overflowY: "auto" }}>
             {isSearching ? (
-              <div style={{ padding: "1.5rem", textAlign: "center", color: "var(--color-muted)" }}>Шукаємо...</div>
+              <div role="status" aria-live="polite" style={{ padding: "1.5rem", textAlign: "center", color: "var(--color-muted)" }}>Шукаємо...</div>
             ) : results.length > 0 ? (
               <ul style={{ listStyle: "none", display: "flex", flexDirection: "column", gap: "0.25rem" }}>
                 {results.map((item) => {
@@ -213,7 +242,7 @@ function SearchModal({ onClose }: { onClose: () => void }) {
                   // Basic excerpt
                   const snippetIndex = item.content.toLowerCase().indexOf(query.toLowerCase());
                   const start = Math.max(0, snippetIndex - 40);
-                  const snippet = item.content.slice(start, start + 100) + "...";
+                  const snippet = item.content.slice(start, start + 100);
 
                   return (
                     <li key={item.id}>
@@ -236,7 +265,7 @@ function SearchModal({ onClose }: { onClose: () => void }) {
                           </span>
                         </div>
                         <div style={{ fontSize: "0.85rem", color: "var(--color-text-secondary)", lineHeight: "1.4" }}>
-                          {start > 0 ? "..." : ""}{snippet}
+                          {start > 0 ? "..." : ""}{highlightSearchText(snippet, query)}...
                         </div>
                       </Link>
                     </li>
@@ -256,5 +285,22 @@ function SearchModal({ onClose }: { onClose: () => void }) {
         )}
       </div>
     </div>
+  );
+}
+
+function highlightSearchText(text: string, query: string) {
+  const trimmedQuery = query.trim();
+  if (!trimmedQuery) return text;
+  const escaped = trimmedQuery.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const parts = text.split(new RegExp(`(${escaped})`, "ig"));
+
+  return parts.map((part, index) =>
+    part.toLocaleLowerCase() === trimmedQuery.toLocaleLowerCase() ? (
+      <mark key={`${part}-${index}`} style={{ background: "var(--color-accent-light)", color: "var(--color-primary-dark)", padding: "0 0.1em" }}>
+        {part}
+      </mark>
+    ) : (
+      part
+    )
   );
 }

@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Static photo/source asset, not application code.
+    "public/photos/**",
   ]),
 ]);
 

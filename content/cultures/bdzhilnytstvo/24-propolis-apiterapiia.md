@@ -1,5 +1,5 @@
 
-import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonTable, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
+import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
 
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P047_skhema-47-nastoyanka-propolisu-kontsentratsiyi-ta-zastosuvannya.png"

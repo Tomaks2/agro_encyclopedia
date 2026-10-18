@@ -7,7 +7,7 @@ declare global {
   }
 }
 
-declare const self: any;
+declare const self: typeof globalThis & { __SW_MANIFEST: (PrecacheEntry | string)[] | undefined };
 
 import { defaultCache } from "@serwist/next/worker";
 

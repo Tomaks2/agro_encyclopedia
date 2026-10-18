@@ -179,4 +179,4 @@
 
 ## 📖 Наступний розділ
 
-<NextChapter href="/uk/yablunia/biolohiya" title="БІОЛОГІЯ ТА ЕТАПИ РОЗВИТКУ ЯБЛУНІ" chapterNum="1" />
+<NextChapter href="/uk/yablunia/botanika" title="БІОЛОГІЯ ТА ЕТАПИ РОЗВИТКУ ЯБЛУНІ" chapterNum="1" />

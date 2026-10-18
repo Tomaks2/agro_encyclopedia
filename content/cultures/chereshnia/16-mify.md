@@ -71,4 +71,4 @@
 - [3] Michigan State University Extension — Sweet Cherry Production Guides — [https://www.canr.msu.edu/news/sweet-cherry-production-guides](https://www.canr.msu.edu/news/sweet-cherry-production-guides)
 - [4] Washington State University Tree Fruit — Sweet Cherry — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
 
-<NextChapter href="/uk/chereshnia/17-zamorozky" title="ВЕСНЯНІ ЗАМОРОЗКИ ЧЕРЕШНІ" chapterNum="17" />
+<NextChapter href="/uk/chereshnia/zamorozky" title="ВЕСНЯНІ ЗАМОРОЗКИ ЧЕРЕШНІ" chapterNum="17" />

@@ -5,6 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Сезонний календар садівника",
   description: "Календар робіт у саду по місяцях. Що і коли робити для отримання гарного врожаю.",
+  alternates: { canonical: "/uk/calendar" },
 };
 
 const MONTHS_UK = [
@@ -45,7 +46,7 @@ export default function CalendarPage() {
   return (
     <>
       <Header />
-      <main className="container" style={{ padding: "4rem 1.5rem", maxWidth: "800px" }}>
+      <main id="main-content" tabIndex={-1} className="container" style={{ padding: "4rem 1.5rem", maxWidth: "800px" }}>
         <div style={{ textAlign: "center", marginBottom: "3rem" }}>
           <h1 style={{ fontFamily: "var(--font-serif)", fontSize: "2.5rem", color: "var(--color-primary-dark)", marginBottom: "1rem" }}>
             📅 Сезонний календар

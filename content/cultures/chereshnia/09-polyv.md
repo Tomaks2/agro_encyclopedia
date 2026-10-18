@@ -92,4 +92,4 @@ $ET_c = ET_0 times K_c$
 - [2] Washington State University — Irrigation and Frost Protection — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
 - [3] FAO — Crop Evapotranspiration (Kc Cherries) — [https://www.fao.org/3/y3655e/y3655e07.htm](https://www.fao.org/3/y3655e/y3655e07.htm)
 
-<NextChapter href="/uk/chereshnia/10-khvoroby" title="ХВОРОБИ ЧЕРЕШНІ" chapterNum="10" />
+<NextChapter href="/uk/chereshnia/khvoroby" title="ХВОРОБИ ЧЕРЕШНІ" chapterNum="10" />

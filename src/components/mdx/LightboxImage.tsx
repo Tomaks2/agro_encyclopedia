@@ -1,7 +1,16 @@
+/* eslint-disable @next/next/no-img-element -- lightbox content is a user-provided/static asset path. */
 'use client';
 import React from 'react';
 
-export default function LightboxImage({ src, alt, width, height, className }: any) {
+interface LightboxImageProps {
+  src: string;
+  alt?: string;
+  width?: number;
+  height?: number;
+  className?: string;
+}
+
+export default function LightboxImage({ src, alt, className }: LightboxImageProps) {
   return (
     <figure className={`my-10 w-full ${className || ''}`} style={{ display: 'block', width: '100%', textAlign: 'center' }}>
       <img 

@@ -125,4 +125,4 @@
 - [2] Oregon State University Extension — Sweet Cherry Training — [https://extension.oregonstate.edu/catalog](https://extension.oregonstate.edu/catalog)
 - [3] Cornell HSL — High Density Cherry Systems — [https://hsl.cals.cornell.edu/sustainable-perennial-crops/cherries/](https://hsl.cals.cornell.edu/sustainable-perennial-crops/cherries/)
 
-<NextChapter href="/uk/chereshnia/06-obrizka" title="ОБРІЗКА" chapterNum="6" />
+<NextChapter href="/uk/chereshnia/obrizka" title="ОБРІЗКА" chapterNum="6" />

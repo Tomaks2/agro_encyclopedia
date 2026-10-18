@@ -1,10 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { useTranslations } from "next-intl";
 
 export default function HeroSearch() {
-  const t = useTranslations("home");
   const [query, setQuery] = useState("");
 
   const handleSearch = (e: React.FormEvent) => {

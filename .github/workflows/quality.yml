@@ -1,0 +1,63 @@
+name: Quality checks
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: quality-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  quality:
+    name: Install, typecheck, lint and build
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      - name: TypeScript
+        run: npx tsc --noEmit
+
+      - name: Validate metadata
+        run: npm run validate:metadata
+
+      - name: Validate routes
+        run: npm run validate:routes
+
+      - name: Validate assets
+        run: npm run validate:assets
+
+      - name: Validate editorial rules
+        run: npm run validate:editorial
+
+      - name: Audit content coverage
+        run: npm run validate:coverage
+
+      - name: Generate seed coverage matrix
+        run: npm run report:seed-coverage
+
+      - name: ESLint
+        run: npm run lint
+
+      - name: Production dependency audit
+        run: npm audit --omit=dev --audit-level=moderate
+
+      - name: Production build
+        run: npm run build

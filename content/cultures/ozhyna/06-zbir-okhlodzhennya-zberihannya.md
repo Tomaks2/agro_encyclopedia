@@ -40,4 +40,4 @@
 5. [Xtend® Fresh Produce Bags — MAP Storage of Berries](https://xtendfresh.com/)
 6. [Penn State Extension — Brambles Harvest](https://extension.psu.edu/planting-berries-for-the-home-garden)
 
-<NextChapter href="/uk/ozhyna/biolohiya-та-hrupy-sortiv" title="РОЗДІЛ 1: БОТАНІЧНА БІОЛОГІЯ ТА ГРУПИ СОРТІВ ОЖИНИ" chapterNum="1" />
+<NextChapter href="/uk/ozhyna/biolohiya-ta-hrupy-sortiv" title="РОЗДІЛ 1: БОТАНІЧНА БІОЛОГІЯ ТА ГРУПИ СОРТІВ ОЖИНИ" chapterNum="1" />

@@ -129,4 +129,4 @@
 - [3] UC Davis ANR — Cherry Varieties — [https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries](https://fruitsandnuts.ucdavis.edu/what-we-grow/cherries)
 - [4] ProSpecieRara / Swiss Pomology — Cherry Cultivar Database — [https://www.prospecierara.ch](https://www.prospecierara.ch)
 
-<NextChapter href="/uk/chereshnia/04-posadka" title="ПОСАДКА САДЖАНЦЯ" chapterNum="4" />
+<NextChapter href="/uk/chereshnia/posadka" title="ПОСАДКА САДЖАНЦЯ" chapterNum="4" />

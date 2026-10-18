@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any -- legacy MDX data accepts heterogeneous JSON payloads. */
 import React from "react";
 
 interface Props {

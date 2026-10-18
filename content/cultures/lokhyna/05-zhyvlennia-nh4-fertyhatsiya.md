@@ -66,4 +66,4 @@
 5. [Michigan State University Extension — Blueberry Fertigation](https://www.canr.msu.edu/fruit/)
 6. [Washington State University Extension — Blueberry Nutrition and Fertilization](https://pubs.extension.wsu.edu/blueberries)
 
-<NextChapter href="/uk/lokhyna/khvoroby-та-shkidnyky" title="ХВОРОБИ ТА ШКІДНИКИ ЛОХИНИ: АНТРАКНОЗ, ХРУЩ ТА ЗАХИСТ" chapterNum="6" />
+<NextChapter href="/uk/lokhyna/khvoroby-ta-shkidnyky" title="ХВОРОБИ ТА ШКІДНИКИ ЛОХИНИ: АНТРАКНОЗ, ХРУЩ ТА ЗАХИСТ" chapterNum="6" />

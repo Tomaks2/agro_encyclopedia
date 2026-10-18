@@ -341,22 +341,10 @@
         "title": "Міфи та помилки виноградаря: розвінчання поширених хиб",
         "description": "Розвінчання найпоширеніших міфів виноградарства: полив і тріщини, обрізка навесні, укриття землею, сульфати, вино з Ізабелли, морозостійкість без укриття та інші хибні уявлення."
       }
-    },
-    {
-      "slug": "generation-prompts",
-      "filename": "28-generation-prompts.md",
-      "uk": {
-        "title": "28-generation-prompts",
-        "description": "Опис розділу"
-      },
-      "en": {
-        "title": "28-generation-prompts",
-        "description": "Section description"
-      }
     }
   ],
   "stats": {
-    "sections": 28,
+    "sections": 27,
     "readTimeMinutes": 420
   }
 }

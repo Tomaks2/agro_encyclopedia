@@ -1,10 +1,23 @@
 import React from 'react';
 import Link from 'next/link';
+import { buildLocaleAwareHref } from '@/lib/cultures';
 
-export default function NextChapter({ href, title, chapterNum }: { href: string, title: string, chapterNum: string }) {
+export default function NextChapter({
+  href,
+  title,
+  chapterNum,
+  locale = 'uk',
+}: {
+  href: string;
+  title: string;
+  chapterNum: string;
+  locale?: string;
+}) {
+  const resolvedHref = buildLocaleAwareHref(href, locale);
+
   return (
     <div className="next-chapter-container">
-      <Link href={href} className="next-chapter-link">
+      <Link href={resolvedHref} className="next-chapter-link">
         <div className="next-chapter-card">
           <div>
             <span className="next-chapter-label">

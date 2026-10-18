@@ -1,5 +1,5 @@
 
-import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonTable, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
+import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, PullQuote, LightboxImage, NextChapter, ChemicalsDirectory } from '@/components/mdx'
 
 <HeroCover
   imageSrc="/photos/bdzhilnytstvo/P066_skhema-66-ahrokalendar-pasichnyka-poltavshchyny-zyma-vesna.png"
@@ -175,4 +175,4 @@ import { HeroCover, TableOfContents, Callout, InfoBlock, FilterTabs, ComparisonT
 2. Beekeeping World — Сезонні роботи пасічника: https://beekeeping.com.ua/sezoni-roboty-pasichnyka/
 3. Dadan.com.ua — Агрокалендар бджільництва: https://dadan.com.ua/articles-beekeeping/ahrokalendar-bdzilnytstva/
 
-<NextChapter href="/uk/bdzhilnytstvo/GENERATION_PROMPTS" title="Промпти для генерації інфографік" chapterNum="34" />
+<NextChapter href="/uk/bdzhilnytstvo/01-vsiesvit-bdzholi" title="Промпти для генерації інфографік" chapterNum="34" />

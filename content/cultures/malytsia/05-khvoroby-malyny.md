@@ -79,4 +79,4 @@
 5. [Michigan State University Extension — Raspberry Cane Blight and Spur Blight](https://www.canr.msu.edu/fruit/)
 6. [FRAC — Code List for fungicide groups](https://www.frac.info/)
 
-<NextChapter href="/uk/malytsia/shkidnyky-малини" title="ШКІДНИКИ МАЛИНИ: ЖУК, МОШКА ТА ІНТЕГРОВАНИЙ ЗАХИСТ" chapterNum="6" />
+<NextChapter href="/uk/malytsia/shkidnyky-malyny" title="ШКІДНИКИ МАЛИНИ: ЖУК, МОШКА ТА ІНТЕГРОВАНИЙ ЗАХИСТ" chapterNum="6" />

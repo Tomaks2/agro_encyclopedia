@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any -- legacy MDX data accepts heterogeneous JSON payloads. */
 "use client";
 
 import { useState } from "react";
@@ -109,7 +110,7 @@ export default function DiagnosticsPage() {
   return (
     <>
       <Header />
-      <main className="container" style={{ padding: "4rem 1.5rem", maxWidth: "800px", minHeight: "80vh" }}>
+      <main id="main-content" tabIndex={-1} className="container" style={{ padding: "4rem 1.5rem", maxWidth: "800px", minHeight: "80vh" }}>
         <div style={{ textAlign: "center", marginBottom: "3rem" }}>
           <h1 style={{ fontFamily: "var(--font-serif)", fontSize: "2.5rem", color: "var(--color-primary-dark)", marginBottom: "1rem" }}>
             🔬 Діагностика саду

@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import { getCultureMeta, getAllCultures } from "@/lib/cultures";
+import { getCultureMeta, getAllCultures, getSectionHref, getSectionNumber } from "@/lib/cultures";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 import type { Metadata } from "next";
@@ -13,7 +13,7 @@ interface Props {
 
 export async function generateStaticParams() {
   const cultures = getAllCultures();
-  const locales = ["uk", "en"];
+  const locales = ["uk"];
   return locales.flatMap((locale) =>
     cultures.map((c) => ({ locale, culture: c.slug }))
   );
@@ -27,6 +27,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${data.name} — Повний довідник`,
     description: data.description,
+    alternates: { canonical: `/${locale}/${cultureSlug}` },
   };
 }
 
@@ -41,7 +42,7 @@ export default async function CulturePage({ params }: Props) {
   return (
     <>
       <Header />
-      <main>
+      <main id="main-content" tabIndex={-1}>
         {/* PREMIUM Culture Hero */}
         <section
           style={{
@@ -119,13 +120,13 @@ export default async function CulturePage({ params }: Props) {
                 return (
                   <Link
                     key={section.slug}
-                    href={`${prefix}/${cultureSlug}/${section.slug}`}
+                    href={getSectionHref(locale, cultureSlug, section)}
                     className="syllabus-card animate-fade-in-up"
                     style={{ animationDelay: `${index * 50}ms` }}
-                    aria-label={`Розділ ${index + 1}: ${sData.title}`}
+                    aria-label={`Розділ ${getSectionNumber(section, index)}: ${sData.title}`}
                   >
                     <div className="syllabus-number" style={{ background: `linear-gradient(135deg, ${culture.color}, ${culture.colorLight})` }}>
-                      {index + 1}
+                      {getSectionNumber(section, index)}
                     </div>
                     <div className="syllabus-content">
                       <div className="syllabus-title">{sData.title}</div>
@@ -164,7 +165,7 @@ export default async function CulturePage({ params }: Props) {
                 </div>
               </div>
               <Link
-                href={`${prefix}/${cultureSlug}/${culture.sections[0]?.slug}`}
+                href={culture.sections[0] ? getSectionHref(locale, cultureSlug, culture.sections[0]) : prefix}
                 className="btn btn-primary"
                 style={{ padding: "0.75rem 2rem", fontSize: "1.1rem", background: culture.color, boxShadow: `0 4px 14px ${culture.color}66` }}
               >

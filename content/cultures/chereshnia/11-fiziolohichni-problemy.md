@@ -49,4 +49,4 @@
 - [2] Washington State University — Rain Cracking and Canopy Covers — [https://treefruit.wsu.edu/crop-divisions/sweet-cherry/](https://treefruit.wsu.edu/crop-divisions/sweet-cherry/)
 - [3] Oregon State University — Calcium and Cracking — [https://extension.oregonstate.edu/catalog](https://extension.oregonstate.edu/catalog)
 
-<NextChapter href="/uk/chereshnia/12-shkidnyky" title="ШКІДНИКИ ЧЕРЕШНІ" chapterNum="12" />
+<NextChapter href="/uk/chereshnia/shkidnyky" title="ШКІДНИКИ ЧЕРЕШНІ" chapterNum="12" />

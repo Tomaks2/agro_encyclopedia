@@ -1,4 +1,4 @@
-import { HeroCover, TableOfContents, Callout, InfoBlock, LightboxImage, PullQuote, ComparisonTable, NextChapter } from '@/components/mdx';
+import { HeroCover, TableOfContents, Callout, InfoBlock, LightboxImage, PullQuote, NextChapter } from '@/components/mdx';
 
 <HeroCover
   imageSrc="/photos/vynograd/rozdel_17_schema_34_momenty_obrobok_shkidnyky.png"
